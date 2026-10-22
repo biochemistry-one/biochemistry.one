@@ -1,0 +1,17 @@
+{
+  "title": "Plasma acetone metabolism in the fasting human",
+  "authors": "Reichard GA Jr, Haff AC, Skutches CL, Paul P, Holroyde CP, Owen OE",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1979,
+  "doi": "10.1172/JCI109344",
+  "pmid": "438326",
+  "design": "mechanistic",
+  "participants": 15,
+  "population": "Nonobese and obese volunteers of both sexes aged 22 to 52 years after 3 days of fasting, and obese volunteers after 21 days of fasting",
+  "funder": "This work was supported by National Institutes of Health Research grants AM-13527 and AM-16102; General Clinical Research Centers Branch grant 5 M01 RR 349; and Biomedical Research Support grant 5-S07-RR-05585-11.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Plasma acetone 0.19 to 1.68 mmol/L, turnover 20 to 77 µmol/m2 per min; breath and urine removed 2 to 30% of production. Radioactivity from [2-14C]acetone appeared in plasma glucose, lipids and proteins. If glucose synthesis from acetone occurs, it could account for 4.2%, 3.1% and 11.0% of glucose production in 3-day fasted nonobese, 3-day fasted obese and 21-day fasted obese subjects; the authors state that this calculation rests on the unproven assumption that net glucose synthesis from acetone can occur in humans. Conversion of acetoacetate to acetone could account for 37% of acetoacetate production in 21-day fasted subjects.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/109344/version/1/pdf/render.pdf"
+}

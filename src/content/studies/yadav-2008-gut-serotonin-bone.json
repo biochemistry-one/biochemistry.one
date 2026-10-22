@@ -1,0 +1,16 @@
+{
+  "title": "Lrp5 controls bone formation by inhibiting serotonin synthesis in the duodenum",
+  "authors": "Yadav VK, Ryu JH, Suda N, Tanaka KF, Gingrich JA, Schütz G, et al.",
+  "journal": "Cell",
+  "year": 2008,
+  "doi": "10.1016/j.cell.2008.09.059",
+  "pmid": "19041748",
+  "design": "animal",
+  "population": "Mice with global, gut-specific or osteoblast-specific Lrp5 and Tph1 mutations; samples from patients with LRP5 mutations",
+  "funder": "This work was supported by grants from the March of Dimes foundation and the National Institutes of Health (to G.K.).",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Lrp5 inhibited Tph1 expression in duodenal enterochromaffin cells; lowering blood serotonin normalised bone formation in Lrp5-deficient mice, and gut-specific Tph1 inactivation increased bone mass and prevented ovariectomy-induced bone loss; serotonin inhibited osteoblast proliferation through Htr1b and CREB. The authors state that gut-derived serotonin accounts for 95% of total serotonin, is taken up by platelets, and does not cross the blood-brain barrier. Animal data; later disputed by Cui and colleagues (2011).",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=2614332"
+}

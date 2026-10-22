@@ -1,0 +1,19 @@
+{
+  "title": "Efficacy and safety of oral semaglutide 14 mg (flexible dose) in early-stage symptomatic Alzheimer's disease (evoke and evoke+): two phase 3, randomised, placebo-controlled trials",
+  "authors": "Cummings JL, Atri A, Sano M, Zetterberg H, Scheltens P, Knop FK, et al.",
+  "journal": "Lancet",
+  "year": 2026,
+  "doi": "10.1016/S0140-6736(26)00459-9",
+  "pmid": "41865758",
+  "registry": "NCT04777396 and NCT04777409",
+  "design": "rct",
+  "participants": 3808,
+  "followUp": "primary end point at week 104; planned treatment up to 156 weeks; both trials discontinued for a negative clinical outcome",
+  "population": "Adults aged 55 to 85 with amyloid-confirmed mild cognitive impairment or mild dementia due to Alzheimer's disease at 566 sites in 40 countries; mean age 72.2 years",
+  "funder": "Funding: Novo Nordisk, as stated in the abstract; four authors are Novo Nordisk employees and minor shareholders.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Change in Clinical Dementia Rating-Sum of Boxes from baseline to week 104 was 2.3 on semaglutide against 2.3 on placebo in evoke (difference -0.08, 95% CI -0.35 to 0.20) and 2.2 against 2.1 in evoke+ (0.10, -0.17 to 0.38). Treatment-emergent adverse events in 1729 of 1896 (91.2%) against 1613 of 1902 (84.8%). The trials were motivated by animal, clinical and observational findings of lower dementia risk after GLP-1 receptor agonist exposure.",
+  "class": "industry",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/41865758/"
+}

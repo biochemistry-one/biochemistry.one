@@ -1,0 +1,17 @@
+{
+  "title": "Proton pump inhibitor use: systematic review of global trends and practices",
+  "authors": "Shanika LGT, Reynolds A, Pattison S, Braund R",
+  "journal": "European Journal of Clinical Pharmacology",
+  "year": 2023,
+  "doi": "10.1007/s00228-023-03534-z",
+  "pmid": "37420019",
+  "design": "systematic-review",
+  "population": "65 observational articles on oral PPI use in adults in 23 countries, covering 28 million users, searched to 31 March 2023; user numbers in each subcategory were summed",
+  "funder": "University of Otago; open access funding enabled and organized by CAUL and its member institutions.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare no competing interests.",
+  "dataAccess": "summary",
+  "result": "Nearly one-quarter of adults use a PPI. Of users, 63% were younger than 65 years and 56% female; about 98% of users with dose data took at least one defined daily dose, and in three studies with common definitions 63.7% (143,466 of 225,280) took a higher dose such as omeprazole 40 mg daily, the figure the abstract reports as two-thirds at or above one defined daily dose; 25% continued for more than 1 year and 28% of these for more than 3 years.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10427555/fullTextXML"
+}

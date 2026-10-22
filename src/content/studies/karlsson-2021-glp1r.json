@@ -1,0 +1,16 @@
+{
+  "title": "A single-cell type transcriptomics map of human tissues",
+  "authors": "Karlsson M, Zhang C, Méar L, Zhong W, Digre A, Katona B, et al.",
+  "journal": "Science Advances",
+  "year": 2021,
+  "doi": "10.1126/sciadv.abh2169",
+  "pmid": "34321199",
+  "design": "database",
+  "funder": "Main funding was provided by the Knut and Alice Wallenberg Foundation and the Erling Persson Foundation; computation was enabled by the Swedish National Infrastructure for Computing, partially funded by the Swedish Research Council.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare that they have no competing interests.",
+  "dataAccess": "individual",
+  "result": "Human Protein Atlas entry for GLP1R (ENSG00000112164), read through proteinatlas.org on 2026-10-22. Tissue RNA: tissue enhanced in pancreas (8.6 nTPM) and heart muscle (2.6 nTPM), detected in some tissues; enriched cell types listed for heart muscle cardiomyocytes, eccrine sweat gland cells and testicular spermatids. Single-cell RNA, cell type enhanced (nCPM): tuft cells 46.1, pancreatic islet cells 23.3, lacrimal acinar cells 19.0, pancreatic acinar cells 15.5, other brain neurons 10.8, neuroendocrine cells 8.0, proximal tubule cells 5.7, salivary acinar cells 4.8. Brain expression cluster: hypothalamus, neuropeptide signalling. Not detected in immune cells. Antibody-based protein tissue staining: not detected.",
+  "class": "reference",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8318366/"
+}

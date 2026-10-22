@@ -1,0 +1,17 @@
+{
+  "title": "Screening for Vitamin D Deficiency in Adults: US Preventive Services Task Force Recommendation Statement",
+  "authors": "US Preventive Services Task Force, Krist AH, Davidson KW, Mangione CM, Cabana M, Caughey AB, et al.",
+  "journal": "JAMA",
+  "year": 2021,
+  "doi": "10.1001/jama.2021.3069",
+  "pmid": "33847711",
+  "design": "guideline",
+  "population": "Asymptomatic, community-dwelling, nonpregnant adults",
+  "funder": "The USPSTF is an independent, voluntary body; the US Congress mandates that AHRQ support its operations. AHRQ staff had no role in the approval of the final recommendation statement or the decision to publish.",
+  "funderRole": "unknown",
+  "authorConflicts": "All authors completed the ICMJE disclosure form; members receive travel reimbursement and an honorarium for USPSTF meetings.",
+  "dataAccess": "summary",
+  "result": "The current evidence is insufficient to assess the balance of benefits and harms of screening for vitamin D deficiency (I statement, 13 April 2021). No one serum vitamin D cutpoint defines deficiency, no consensus exists on the serum level representing optimal health or sufficiency, and results vary by testing method and between laboratories using the same method. In trials of treatment in asymptomatic deficient adults, pooled data found no difference in all-cause mortality (8 trials), fractures (6 trials) or incidence of diabetes (5 trials) and no association with the number of fallers (high heterogeneity); two trials found no difference in cancer incidence in participants below 20 ng/mL. Harms of treatment were judged small to none.",
+  "class": "consensus",
+  "fundingChecked": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-deficiency-screening"
+}

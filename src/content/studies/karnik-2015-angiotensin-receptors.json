@@ -1,0 +1,16 @@
+{
+  "title": "International Union of Basic and Clinical Pharmacology. XCIX. Angiotensin Receptors: Interpreters of Pathophysiological Angiotensinergic Stimuli",
+  "authors": "Karnik SS, Unal H, Kemp JR, Tirupula KC, Eguchi S, Vanderheyden PML, Thomas WG",
+  "journal": "Pharmacological Reviews",
+  "year": 2015,
+  "doi": "10.1124/pr.114.010454",
+  "pmid": "26315714",
+  "design": "other",
+  "funder": "This work was supported by National Institutes of Health National Heart, Lung, and Blood [Grants R01 HL57470 and HL115964 to S.S.K.]. S.S.K., H.U., J.R.K. and K.C.T. are local members of the Subcommittee on Angiotensin Receptor Nomenclature and S.E., P.M.L.V. and W.G.T. are external members.",
+  "funderRole": "none",
+  "authorConflicts": "Not stated.",
+  "dataAccess": "summary",
+  "result": "Report of the Subcommittee on Angiotensin Receptor Nomenclature of the International Union of Basic and Clinical Pharmacology. The human genome contains the single genes AGTR1 and AGTR2, encoding the AT1 and AT2 receptors, both rhodopsin-subclass G protein-coupled receptors with seven transmembrane domains; an AGTR3 gene is not assigned and the existence of a genuine AT3 receptor is not confirmed. Multiple heterotrimeric G proteins interact with the AT1 receptor, including Gq/11, Gi, G12 and G13, activating phospholipase C, phospholipase A and phospholipase D. Eight receptor blockers were clinically available: losartan, candesartan, olmesartan, telmisartan, eprosartan, irbesartan, valsartan and azilsartan; candesartan cilexetil, losartan and olmesartan medoxomil are prodrugs of candesartan, EXP3174 and olmesartan. Losartan has an imidazole with a chlorine substituent, and its metabolite EXP3174 a carboxyl group. The AT1 receptor has small but functionally significant constitutive activity, and inverse agonism, detected with constitutively active mutants, has been shown for EXP3174, olmesartan, telmisartan, valsartan and azilsartan, whereas for losartan it remains controversial, reported once but not confirmed in further studies; the clinical relevance of inverse agonism is still debated. Most blockers show atypical competitive and reversible, insurmountable antagonism: concentration-response curves to angiotensin II shift to higher concentrations with a reduced maximal response that very high angiotensin II concentrations cannot fully overcome. Dissociation half-lives at the human AT1 receptor were 213 minutes for telmisartan, 166 for olmesartan, 133 for candesartan, 70 for valsartan and 67 for losartan. The pairing of angiotensin-(1-7) with the receptor MAS remains controversial, and more research is required before the committee can make a formal assignment.",
+  "class": "consensus",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4630565/"
+}

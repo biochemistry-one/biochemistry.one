@@ -1,0 +1,19 @@
+{
+  "title": "Associations of Dietary Cholesterol or Egg Consumption With Incident Cardiovascular Disease and Mortality",
+  "authors": "Zhong VW, Van Horn L, Cornelis MC, Wilkins JT, Ning H, Carnethon MR, et al.",
+  "journal": "JAMA",
+  "year": 2019,
+  "doi": "10.1001/jama.2019.1572",
+  "pmid": "30874756",
+  "design": "cohort",
+  "participants": 29615,
+  "followUp": "median 17.5 years (maximum 31.3)",
+  "population": "Six US cohorts of the Lifetime Risk Pooling Project (ARIC, CARDIA, FHS, FOS, JHS, MESA), free of cardiovascular disease at baseline",
+  "funder": "Postdoctoral fellowship to Dr Zhong from the American Heart Association Strategically Focused Research Networks (14SFRN20480260). The Lifetime Risk Pooling Project was supported by the National Institutes of Health/National Heart, Lung, and Blood Institute (R21 HL085375) and by the Northwestern University Feinberg School of Medicine; the Jackson Heart Study by contracts from the NHLBI and the National Institute for Minority Health and Health Disparities. The funders had no role in the design and conduct of the study, the analysis and interpretation of the data, the preparation of the manuscript or the decision to submit it.",
+  "funderRole": "none",
+  "authorConflicts": "Wilkins reported consulting fees from NGM Biopharmaceuticals; Mentz reported research support, honoraria and advisory-board roles with companies including Amgen, AstraZeneca, Bayer, Merck and Novartis; no other disclosures.",
+  "dataAccess": "individual",
+  "result": "5400 incident cardiovascular disease (CVD) events and 6132 deaths. Each additional 300 mg dietary cholesterol per day: incident CVD hazard ratio 1.17 (95% CI 1.09 to 1.26), adjusted absolute risk difference 3.24% (1.39% to 5.08%); all-cause mortality 1.18 (1.10 to 1.26), 4.43% (2.51% to 6.36%). Each additional half egg per day: incident CVD 1.06 (1.03 to 1.10), 1.11% (0.32% to 1.89%); all-cause mortality 1.08 (1.04 to 1.11), 1.93% (1.10% to 2.76%). Absolute risk differences refer to the maximum follow-up of 31.3 years. After adjustment for dietary cholesterol, the egg associations were no longer significant: incident CVD 0.99 (0.93 to 1.05), mortality 1.03 (0.97 to 1.09). Diet was measured once, at baseline; the authors state that the findings are observational and cannot establish causality.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6439941/"
+}

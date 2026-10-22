@@ -1,0 +1,16 @@
+{
+  "title": "The complete European guidelines on phenylketonuria: diagnosis and treatment",
+  "authors": "van Wegberg AMJ, MacDonald A, Ahring K, Bélanger-Quintana A, Blau N, Bosch AM, et al.",
+  "journal": "Orphanet Journal of Rare Diseases",
+  "year": 2017,
+  "doi": "10.1186/s13023-017-0685-2",
+  "pmid": "29025426",
+  "design": "guideline",
+  "funder": "A grant from the European Society for Phenylketonuria and Allied Disorders (ESPKU) funded a project assistant; the ESPKU had no opportunity to influence the writing process. One group meeting and one plenary meeting were supported by Excemed.",
+  "funderRole": "unknown",
+  "authorConflicts": "Most authors declared advisory-board membership, honoraria, grants or research funding from Merck Serono, BioMarin, Nutricia/Danone, Vitaflo International, Arla Foods, Recordati, Orphan Europe or Excemed; A. van Wegberg received a grant from the ESPKU.",
+  "dataAccess": "summary",
+  "result": "Treat untreated blood phenylalanine above 600 umol/L; treat 360 to 600 umol/L during the first 12 years of life; patients aged 12 years or more with untreated phenylalanine below 600 umol/L do not require treatment; upper target 360 umol/L before 12 years and 600 umol/L from 12 years, lower target 120 umol/L; treatment for life recommended. The precise pathogenesis of brain dysfunction is still unclear; existing treatments aim at decreasing blood phenylalanine because high concentrations are strongly related to neurocognitive outcome.",
+  "class": "consensus",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5639803/fullTextXML"
+}

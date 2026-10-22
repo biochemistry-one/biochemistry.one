@@ -1,0 +1,19 @@
+{
+  "title": "Effects of extended-release metoprolol succinate in patients undergoing non-cardiac surgery (POISE trial): a randomised controlled trial",
+  "authors": "POISE Study Group; Devereaux PJ, Yang H, Yusuf S, Guyatt G, Leslie K, Villar JC, et al.",
+  "journal": "Lancet",
+  "year": 2008,
+  "doi": "10.1016/S0140-6736(08)60601-7",
+  "pmid": "18479744",
+  "registry": "NCT00182039",
+  "design": "rct",
+  "participants": 8351,
+  "followUp": "30 days; 8331 (99.8%) completed",
+  "population": "Patients with, or at risk of, atherosclerotic disease undergoing non-cardiac surgery at 190 hospitals in 23 countries, not taking beta-blockers",
+  "funder": "The funding statement of the trial report could not be read: the publisher page and its archived copies refuse access. Registry NCT00182039 names Hamilton Health Sciences Corporation as lead sponsor and the Canadian Institutes of Health Research, the National Health and Medical Research Council of Australia, the British Heart Foundation and AstraZeneca as collaborators. Industry collaboration sets the class to industry.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Extended-release metoprolol succinate 100 mg started 2 to 4 hours before surgery and continued for 30 days (n = 4174) against placebo (n = 4177), with patients, carers, data collectors and adjudicators masked. Cardiovascular death, non-fatal myocardial infarction or non-fatal cardiac arrest: 244 (5.8%) against 290 (6.9%), hazard ratio 0.84 (95% CI 0.70 to 0.99). Myocardial infarction 176 (4.2%) against 239 (5.7%), hazard ratio 0.73 (0.60 to 0.89). Deaths 129 (3.1%) against 97 (2.3%), hazard ratio 1.33 (1.03 to 1.74). Stroke 41 (1.0%) against 19 (0.5%), hazard ratio 2.17 (1.26 to 3.74). The authors state that patients are unlikely to accept the risks associated with perioperative extended-release metoprolol.",
+  "class": "industry",
+  "fundingChecked": "https://clinicaltrials.gov/study/NCT00182039"
+}

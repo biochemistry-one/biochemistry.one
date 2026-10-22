@@ -1,0 +1,16 @@
+{
+  "title": "The microbiome and butyrate regulate energy metabolism and autophagy in the mammalian colon",
+  "authors": "Donohoe DR, Garge N, Zhang X, Sun W, O'Connell TM, Bunger MK, et al.",
+  "journal": "Cell Metabolism",
+  "year": 2011,
+  "doi": "10.1016/j.cmet.2011.02.018",
+  "pmid": "21531334",
+  "design": "animal",
+  "population": "Germ-free and conventionally raised male C57BL/6 mice aged 8 to 14 weeks",
+  "funder": "National Institutes of Health (CA125237 to S.J.B.), American Institute of Cancer Research and The Prevent Cancer Foundation; germ-free mice were maintained by the National Gnotobiotic Resource Center (P40RRO118603 and P30 DK 34987).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "In the colon of germ-free mice, NADH/NAD+ was 16-fold and ATP 56% lower than in conventionally raised mice, with no differences in liver, heart, kidney or testis. Germ-free colonocytes showed a 70% lower rate of oxidative phosphorylation, 31% less conversion of 13C-butyrate to CO2 and increased autophagy. Butyrate added ex vivo raised oxidative phosphorylation of germ-free colonocytes from 30% to 70% of conventional levels and suppressed autophagy; etomoxir, an inhibitor of fatty-acid oxidation, prevented both effects. Colonisation with complete microbiota or with Butyrivibrio fibrisolvens restored oxidative phosphorylation and ATP.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3099420/"
+}

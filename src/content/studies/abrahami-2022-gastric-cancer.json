@@ -1,0 +1,19 @@
+{
+  "title": "Proton pump inhibitors and risk of gastric cancer: population-based cohort study",
+  "authors": "Abrahami D, McDonald EG, Schnitzer ME, Barkun AN, Suissa S, Azoulay L",
+  "journal": "Gut",
+  "year": 2022,
+  "doi": "10.1136/gutjnl-2021-325097",
+  "pmid": "34226290",
+  "design": "cohort",
+  "participants": 1166587,
+  "followUp": "median 5.0 years",
+  "population": "UK Clinical Practice Research Datalink new users of PPIs (n = 973,281) or H2-receptor antagonists (n = 193,306), 1990 to April 2018; new-user active-comparator design",
+  "funder": "Not read: the publisher page refused access and the article is not in PubMed Central; PubMed lists Canadian Institutes of Health Research grant FDN-143328.",
+  "funderRole": "unknown",
+  "authorConflicts": "SS participated in advisory meetings or as guest speaker for Atara Biotherapeutics, Boehringer-Ingelheim, Bristol-Myers-Squibb, Merck and Pfizer; LA served as consultant for Janssen and Pfizer, all unrelated to the study (abstract record).",
+  "dataAccess": "individual",
+  "result": "Against H2-receptor antagonists, PPI use HR 1.45 (95% CI 1.06 to 1.98) for gastric cancer; number needed to harm 2121 at 5 years and 1191 at 10 years after treatment initiation. HRs increased with cumulative duration, cumulative omeprazole equivalents and time since initiation; results were consistent across sensitivity analyses.",
+  "class": "undetermined",
+  "fundingChecked": "https://doi.org/10.1136/gutjnl-2021-325097"
+}

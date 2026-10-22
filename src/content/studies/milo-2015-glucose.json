@@ -1,0 +1,15 @@
+{
+  "title": "Cell Biology by the Numbers",
+  "authors": "Milo R, Phillips R",
+  "journal": "Garland Science",
+  "year": 2015,
+  "doi": "10.1201/9780429258770",
+  "url": "https://book.bionumbers.org/what-is-the-free-energy-released-upon-combustion-of-sugar/",
+  "design": "textbook",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Textbook, online edition read 2026-10-21 at book.bionumbers.org, vignette 'What is the free energy released upon combustion of sugar?'. The free energy released in oxidising glucose by oxygen is about -3000 kJ/mol (about -700 kcal/mol). Glycolysis, the TCA cycle and the electron transfer chain couple the combustion of one glucose molecule to the production of roughly 30 ATP molecules (BNID 101778).",
+  "class": "reference",
+  "fundingChecked": "https://book.bionumbers.org/preface/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Determinants and changes associated with aldosterone breakthrough after angiotensin II receptor blockade in patients with type 2 diabetes with overt nephropathy",
+  "authors": "Moranne O, Bakris G, Fafin C, Favre G, Pradier C, Esnault VL",
+  "journal": "Clinical Journal of the American Society of Nephrology",
+  "year": 2013,
+  "doi": "10.2215/CJN.06960712",
+  "pmid": "23929924",
+  "design": "cohort",
+  "participants": 567,
+  "followUp": "1 year",
+  "population": "Post hoc analysis of 567 of 860 participants with type 2 diabetes and overt nephropathy in a randomised trial comparing two angiotensin receptor blockers (losartan and telmisartan)",
+  "funder": "not read: the available full-text record contains only the abstract, which carries no funding statement.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "28% developed aldosterone breakthrough, defined as serum aldosterone more than 10% above baseline after 1 year of angiotensin receptor blocker treatment. Breakthrough was associated with lower baseline aldosterone and potassium, larger falls in sodium intake, systolic pressure and eGFR, and losartan rather than telmisartan. Breakthrough at 6 months was not sustained at 1 year in 69% of cases and did not predict eGFR decline or proteinuria increase between 6 months and 1 year.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3789346/"
+}

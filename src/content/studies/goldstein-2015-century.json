@@ -1,0 +1,16 @@
+{
+  "title": "A century of cholesterol and coronaries: from plaques to genes to statins",
+  "authors": "Goldstein JL, Brown MS",
+  "journal": "Cell",
+  "year": 2015,
+  "doi": "10.1016/j.cell.2015.01.036",
+  "pmid": "25815993",
+  "design": "other",
+  "funder": "The authors' experimental work over 40 years was supported by grants from the NIH (HL-20948), the Perot Foundation, the Moss Heart Foundation and the O'Donnell Foundation.",
+  "funderRole": "none",
+  "authorConflicts": "Goldstein and Brown are members of the Board of Directors and shareholders of Regeneron Pharmaceuticals.",
+  "dataAccess": "summary",
+  "result": "Narrative review. Cholesterol is a 27-carbon, four-ring molecule synthesised from acetate, a two-carbon unit attached to CoA; HMG-CoA reductase catalyses the rate-controlling step. An LDL particle contains about 1500 cholesteryl ester molecules in its core and a coat of about 800 phospholipid molecules, about 500 unesterified cholesterol molecules and one 500-kDa apoB. LDL receptors cluster in coated pits; internalised LDL reaches lysosomes, where cholesteryl esters are hydrolysed. The LDLR gene on the short arm of chromosome 19 has 18 exons and encodes a mature protein of 839 amino acids with seven cysteine-rich LDL-binding repeats and a 50-amino-acid cytoplasmic tail that directs it to coated pits. FH heterozygotes have half the functional receptors and about twofold LDL. Nuclear SREBP-2 activates the LDL receptor gene and the cholesterol biosynthetic genes; statins lower ER cholesterol, activate SREBP-2, raise hepatic LDL receptors and lower plasma LDL. Most LDL is removed by hepatic LDL receptors. PCSK9 binds hepatic LDL receptors and disrupts their recycling. African-Americans heterozygous for PCSK9 nonsense mutations Y142X or C679X had 28% lower LDL and 88% fewer heart attacks. Conclusions on human liver are extrapolated from rats, mice, hamsters and dogs.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4525717/"
+}

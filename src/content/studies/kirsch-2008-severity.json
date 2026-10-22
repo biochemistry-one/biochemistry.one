@@ -1,0 +1,18 @@
+{
+  "title": "Initial severity and antidepressant benefits: a meta-analysis of data submitted to the Food and Drug Administration",
+  "authors": "Kirsch I, Deacon BJ, Huedo-Medina TB, Scoboria A, Moore TJ, Johnson BT",
+  "journal": "PLoS Medicine",
+  "year": 2008,
+  "doi": "10.1371/journal.pmed.0050045",
+  "pmid": "18303940",
+  "design": "meta-analysis",
+  "participants": 5133,
+  "population": "35 placebo-controlled trials of fluoxetine, venlafaxine, nefazodone and paroxetine from FDA medical and statistical reviews obtained under the Freedom of Information Act; sertraline and citalopram reviews were also obtained but lacked complete data",
+  "funder": "The authors received no specific funding for this study.",
+  "funderRole": "none",
+  "authorConflicts": "IK has received consulting fees from Squibb and Pfizer; the other authors declared no competing interests.",
+  "dataAccess": "summary",
+  "result": "Weighted mean improvement 9.60 points on the Hamilton scale with drug and 7.80 with placebo, a difference of 1.80, below the 3-point NICE criterion; the difference reached that criterion only at mean baseline scores of about 28. For sertraline, four trials with 486 participants, 38% of patients in sertraline trials, were reported by the FDA as not achieving a significant drug effect without mean scores. Three sertraline trials allowed replacement of patients not improving after 2 weeks, and trials excluded patients who improved by 20% or more during a 1- to 2-week placebo washout.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=2253608"
+}

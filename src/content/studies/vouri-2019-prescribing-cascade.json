@@ -1,0 +1,19 @@
+{
+  "title": "Magnitude of and characteristics associated with the treatment of calcium channel blocker-induced lower-extremity edema with loop diuretics",
+  "authors": "Vouri SM, Jiang X, Manini TM, Solberg LM, Pepine C, Malone DC, et al.",
+  "journal": "JAMA Network Open",
+  "year": 2019,
+  "doi": "10.1001/jamanetworkopen.2019.18425",
+  "pmid": "31880802",
+  "design": "cohort",
+  "participants": 1206093,
+  "followUp": "360 days before and after initiation, data 2005 to 2017",
+  "population": "Initiators of a dihydropyridine calcium channel blocker aged 20 or older without heart failure in a US private insurance claims database; prescription sequence symmetry analysis",
+  "funder": "not stated: the article carries no funding section. Manini reported grants from the National Institutes of Health during the conduct of the study.",
+  "funderRole": "unknown",
+  "authorConflicts": "Pepine reports grants from NHLBI, PCORI and several companies including Merck, Sanofi and AstraZeneca, and consulting or personal fees from several companies, outside the submitted work.",
+  "dataAccess": "unknown",
+  "result": "Of 1,206,093 initiators, 55,818 (4.6%) had a new loop diuretic within 360 days before or after initiation; secular-trend-adjusted sequence ratio 1.87 (95% CI 1.84 to 1.90), an estimated 1.44% of initiators experiencing the prescribing cascade. The ratio was higher with high doses (2.20, 2.13 to 2.27), with amlodipine (1.89, 1.86 to 1.93), in men (1.96) and with fewer antihypertensive classes (2.55); for ACE inhibitors and angiotensin receptor blockers as negative controls it was 1.27 (1.24 to 1.29).",
+  "class": "undetermined",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6991233"
+}

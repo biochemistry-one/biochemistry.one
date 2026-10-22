@@ -1,0 +1,15 @@
+{
+  "title": "The Seventh Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure",
+  "authors": "Chobanian AV, Bakris GL, Black HR, Cushman WC, Green LA, Izzo JL Jr, et al.; National High Blood Pressure Education Program",
+  "journal": "National Heart, Lung, and Blood Institute, NIH Publication No. 04-5230, August 2004 (full report; summary published in JAMA 2003;289:2560-72)",
+  "year": 2004,
+  "url": "https://www.nhlbi.nih.gov/files/docs/guidelines/jnc7full.pdf",
+  "design": "guideline",
+  "funder": "This work was supported entirely by the National Heart, Lung, and Blood Institute. The Executive Committee, writing teams, and reviewers served as volunteers without remuneration.",
+  "funderRole": "unknown",
+  "authorConflicts": "The report lists financial disclosures for most of the Executive Committee: the chair, Chobanian, received research funding from Bristol-Myers Squibb, Boehringer-Ingelheim, Merck, Pfizer and Pharmacia, consultancy fees from Abbott, AstraZeneca, Biovail, Bristol-Myers Squibb, GlaxoSmithKline, Merck, Pfizer and Pharmacia, and speaker honoraria from Monarch, Wyeth, AstraZeneca, Solvay and Bristol-Myers Squibb; Bakris, Black, Cushman, Izzo, Jones, Materson, Oparil and Wright report speaker, consultancy or research ties with manufacturers of antihypertensive drugs, including Pfizer and Novartis.",
+  "dataAccess": "summary",
+  "result": "Classification for adults: normal below 120/80 mm Hg; prehypertension 120 to 139 systolic or 80 to 89 diastolic; stage 1 hypertension 140 to 159 or 90 to 99; stage 2 160 or above or 100 or above. The JNC 6 categories it replaced were optimal below 120/80, normal 120 to 129/80 to 84, borderline 130 to 139/85 to 89 and hypertension 140/90 or above. Prehypertension is described not as a disease category but as a designation of people at high risk of developing hypertension, for whom lifestyle modification is advised; all people with stage 1 or 2 hypertension are to be treated, to a goal below 140/90 mm Hg, or below 130/80 mm Hg with diabetes or chronic kidney disease. The report states that cardiovascular risk begins at 115/75 mm Hg and doubles with each 20/10 mm Hg increment, and recommends thiazide-type diuretics for most patients with uncomplicated hypertension, with other classes, including calcium channel blockers, for compelling indications.",
+  "class": "consensus",
+  "fundingChecked": "https://www.nhlbi.nih.gov/files/docs/guidelines/jnc7full.pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Benefits and harms of antihypertensive treatment in low-risk patients with mild hypertension",
+  "authors": "Sheppard JP, Stevens S, Stevens R, Martin U, Mant J, Hobbs FDR, et al.",
+  "journal": "JAMA Internal Medicine",
+  "year": 2018,
+  "doi": "10.1001/jamainternmed.2018.4684",
+  "pmid": "30383082",
+  "design": "cohort",
+  "participants": 38286,
+  "followUp": "median 5.8 years (IQR 2.6 to 9.0)",
+  "population": "Patients aged 18 to 74 years in the UK Clinical Practice Research Datalink, 1998 to 2015, with untreated mild hypertension (140/90 to 159/99 mm Hg) and no cardiovascular disease or risk factors; 19,143 treated within 12 months of diagnosis matched by propensity score to 19,143 untreated",
+  "funder": "This work was funded by Medical Research Council (MRC) Strategic Skills Postdoctoral Fellowship MR/K022032/1 (Dr Sheppard), a National Institute for Health Research (NIHR) professorship (Dr Sheppard and Mr McManus), and grant NIHR-RP-R2-12-015 from the NIHR, with further NIHR support. The funding sources had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "R. Stevens is a member of the Clinical Practice Research Datalink Independent Scientific Advisory Committee but was not involved in approving the study; no other disclosures.",
+  "dataAccess": "individual",
+  "result": "Treatment was not associated with mortality (hazard ratio 1.02, 95% CI 0.88 to 1.17) or cardiovascular disease (1.09, 0.95 to 1.25). It was associated with hypotension (1.69, 1.30 to 2.20; number needed to harm over 10 years 41), syncope (1.28, 1.10 to 1.50; 35), electrolyte abnormalities (1.72, 1.12 to 2.65; 111) and acute kidney injury (1.37, 1.00 to 1.88; 91). The authors advise caution in generalising trial findings in high-risk individuals to people at lower risk.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6583613"
+}

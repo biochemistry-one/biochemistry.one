@@ -1,0 +1,17 @@
+{
+  "title": "Human intestinal microbiome determines individualized inflammatory response to dietary emulsifier carboxymethylcellulose consumption",
+  "authors": "Daniel N, Wu GD, Walters W, Compher C, Ni J, Delaroque C, et al.",
+  "journal": "Cellular and Molecular Gastroenterology and Hepatology",
+  "year": 2024,
+  "doi": "10.1016/j.jcmgh.2023.11.001",
+  "pmid": "37931789",
+  "design": "animal",
+  "population": "Germ-free Il10-deficient mice colonised with faecal microbiota of 2 carboxymethylcellulose-sensitive and 2 insensitive participants of the 2022 feeding trial; 3 to 4 mice per group",
+  "funder": "European Research Council Starting Grant ERC-2018-StG-804135; IdEx Université de Paris (ANR-18-IDEX-0001); Fondation de l'Avenir (AP-RM-21-032); Agence Nationale de la Recherche grants ANR-21-CE15-0042-01 and ANR-20-PAMR-0002; INSERM programme Microbiote; National Institutes of Health grants DK115180, 5UL1TR001878 and P30-DK050306; Penn Center for Nutritional Science and Medicine; Max Planck Society.",
+  "funderRole": "none",
+  "authorConflicts": "The authors disclose no conflicts.",
+  "dataAccess": "summary",
+  "result": "After 16 weeks of carboxymethylcellulose, mice colonised with microbiota from either sensitive donor showed shorter colons, larger spleens, higher histological inflammation scores and microbiota encroachment; mice colonised from insensitive donors did not. Sensitive participants carried no NOD2 mutations, and ATG16L1 variants were distributed regardless of sensitivity.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10829520/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Over- and under-treatment of hypothyroidism is associated with excess mortality: a register-based cohort study",
+  "authors": "Lillevang-Johansen M, Abrahamsen B, Jørgensen HL, Brix TH, Hegedüs L",
+  "journal": "Thyroid",
+  "year": 2018,
+  "doi": "10.1089/thy.2017.0517",
+  "pmid": "29631518",
+  "design": "cohort",
+  "participants": 235168,
+  "followUp": "median 7.2 years",
+  "population": "Danish individuals with at least one TSH measurement in 1995 to 2011; hypothyroidism defined by two TSH values above 4.0 mIU/l or one such value with two levothyroxine prescriptions",
+  "funder": "Funding statement not read: the publisher's full text returned HTTP 403 to automated access, and no open copy was found.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Mortality was increased in untreated hypothyroid individuals (n = 673; HR 1.46, 95% CI 1.26 to 1.69) against euthyroid controls. Each 6 months with raised TSH increased mortality in treated and untreated individuals (HR 1.05, 1.02 to 1.07, for each). In levothyroxine-treated patients each 6 months with decreased TSH increased mortality by a factor of 1.18 (1.15 to 1.21), essentially unchanged by severity of hypothyroidism and by age below or above 65 years. Results read from the PubMed abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.liebertpub.com/doi/full/10.1089/thy.2017.0517"
+}

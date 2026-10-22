@@ -1,0 +1,18 @@
+{
+  "title": "Peripheral edema associated with calcium channel blockers: incidence and withdrawal rate--a meta-analysis of randomized trials",
+  "authors": "Makani H, Bangalore S, Romero J, Htyte N, Berrios RS, Makwana H, et al.",
+  "journal": "Journal of Hypertension",
+  "year": 2011,
+  "doi": "10.1097/HJH.0b013e3283472643",
+  "pmid": "21558959",
+  "design": "meta-analysis",
+  "participants": 99469,
+  "followUp": "trials lasting at least 4 weeks",
+  "population": "106 randomised trials in hypertension, published 1980 to January 2011, with at least 100 patients in the calcium channel blocker arm; mean age 56 years",
+  "funder": "not read: the publisher page is not accessible, and PubMed and Europe PMC list no grants.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Weighted incidence of peripheral oedema 10.7% with calcium channel blockers against 3.2% with control or placebo (P<0.0001); withdrawal because of oedema 2.1% against 0.5%. Both rose with duration of therapy, reaching 24% and 5% after 6 months. Dihydropyridines 12.3% against non-dihydropyridines 3.1%; high doses (more than half the usual maximal dose) 16.1% against low doses 5.7%; lipophilic dihydropyridines relative risk 0.43 (95% CI 0.34 to 0.53) against traditional dihydropyridines. The authors state that oedema has been thought to arise from arteriolar dilatation causing intracapillary hypertension and fluid extravasation.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/21558959/"
+}

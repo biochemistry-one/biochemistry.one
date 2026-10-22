@@ -1,0 +1,21 @@
+{
+  "title": "Folic acid for the prevention of colorectal adenomas: a randomized clinical trial",
+  "authors": "Cole BF, Baron JA, Sandler RS, Haile RW, Ahnen DJ, Bresalier RS, et al.",
+  "journal": "JAMA",
+  "year": 2007,
+  "doi": "10.1001/jama.297.21.2351",
+  "pmid": "17551129",
+  "registry": "NCT00272324",
+  "design": "rct",
+  "participants": 1021,
+  "followUp": "First colonoscopy about 3 years after the qualifying examination; second a mean 41.8 months later, generally planned at 3 or 5 years",
+  "population": "Adults aged 21 to 80 years with recent colorectal adenomas at 9 clinical centres in the USA and Canada; vitamin B12 deficiency excluded",
+  "funder": "This work was supported in part by grants 5 R01 CA059005 and U54 CA100971 from the National Institutes of Health. The funding organizations played no role in the design and conduct of the study, in the collection, management, analysis, and interpretation of the data, or in the preparation, review, or approval of the manuscript.",
+  "funderRole": "none",
+  "inKindSupport": "Study tablets were provided by Wyeth Consumer Health Care, Madison, NJ.",
+  "authorConflicts": "Dr Cole reported consulting for Schering-Plough; Dr Baron consulting for Merck and Bayer, and with Dartmouth College a use patent for calcium supplementation licensed to Wyeth Consumer Health Care; Dr Sandler research support from Merck and consulting for Merck, Bayer, GlaxoSmithKline and Procter & Gamble; Ms Mott an equity interest in Wyeth.",
+  "dataAccess": "summary",
+  "result": "Folic acid 1 mg daily (n = 516) against placebo (n = 505), with a separate aspirin randomisation. First interval: at least 1 adenoma in 44.1% against 42.4% (RR 1.04, 95% CI 0.90 to 1.20); advanced lesions in 57 (11.4%) against 42 (8.6%) (RR 1.32, 0.90 to 1.92). Second interval, 607 participants: advanced lesions in 35 (11.6%) against 21 (6.9%) (RR 1.67, 1.00 to 2.80; P = 0.05); 3 or more adenomas in 30 (9.9%) against 13 (4.3%) (RR 2.32, 1.23 to 4.35). Noncolorectal cancers 54 (10.5%) against 32 (6.3%) (P = 0.02), owing to an excess of prostate cancer, 24 cases (7.3%) against 9 (2.8%) (P = 0.01).",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20101004000745/http://jama.ama-assn.org:80/cgi/content/full/297/21/2351"
+}

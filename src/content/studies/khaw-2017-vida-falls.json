@@ -1,0 +1,19 @@
+{
+  "title": "Effect of monthly high-dose vitamin D supplementation on falls and non-vertebral fractures: secondary and post-hoc outcomes from the randomised, double-blind, placebo-controlled ViDA trial",
+  "authors": "Khaw KT, Stewart AW, Waayer D, Lawes CMM, Toop L, Camargo CA Jr, et al.",
+  "journal": "The Lancet Diabetes & Endocrinology",
+  "year": 2017,
+  "doi": "10.1016/S2213-8587(17)30103-1",
+  "pmid": "28461159",
+  "registry": "ACTRN12611000402943",
+  "design": "rct",
+  "participants": 5108,
+  "followUp": "mean treatment duration 3.4 years (range 2.5 to 4.2)",
+  "population": "Healthy volunteers aged 50 to 84 years in Auckland, New Zealand; mean baseline 25-hydroxyvitamin D 63 nmol/L, 1534 (30%) below 50 nmol/L",
+  "funder": "Funding statement of the published structured abstract: Health Research Council of New Zealand and Accident Compensation Corporation of New Zealand. The full text was not accessible; the role of the funders in this report was not read. In the primary ViDA report the same funders had no role in design, conduct, analysis or publication. Registry ACTRN12611000402943: funding sources Health Research Council of New Zealand and Accident Compensation Commission (government bodies); primary sponsor University of Auckland; secondary sponsor Carlos A. Camargo Jr (individual); no other collaborators.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Colecalciferol 200,000 IU initially, then 100,000 IU monthly, against placebo: at least one fall in 1312 of 2539 (52%) against 1326 of 2517 (53%), adjusted HR 0.99 (95% CI 0.92 to 1.07); non-vertebral fractures in 156 of 2558 (6%) against 136 of 2550 (5%), adjusted HR 1.19 (0.94 to 1.50). Falls were a post-hoc outcome; fractures a secondary outcome.",
+  "class": "independent",
+  "fundingChecked": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12611000402943"
+}

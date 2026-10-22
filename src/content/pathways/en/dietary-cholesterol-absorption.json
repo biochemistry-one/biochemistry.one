@@ -1,0 +1,40 @@
+{
+  "title": "Absorption and hepatic uptake of dietary cholesterol",
+  "layout": "chain",
+  "compartment": "Intestinal lumen and enterocyte, then lymph, plasma and hepatocyte",
+  "steps": [
+    {
+      "from": "Cholesterol in mixed micelles",
+      "to": "Enterocyte cholesterol",
+      "enzyme": "NPC1-like intracellular cholesterol transporter 1 (NPC1L1)",
+      "inhibitors": [{"name": "Ezetimibe", "page": "medicines/ezetimibe"}],
+      "note": "Apical membrane; the ABCG5-ABCG8 pump returns part of it to the lumen"
+    },
+    {
+      "from": "Enterocyte cholesterol",
+      "to": "Cholesteryl ester",
+      "enzyme": "Sterol O-acyltransferase 2 (SOAT2)",
+      "cofactors": ["Long-chain fatty acyl-CoA"],
+      "note": "Endoplasmic reticulum; expressed in enterocytes and hepatocytes"
+    },
+    {
+      "from": "Cholesteryl ester",
+      "to": "Chylomicron",
+      "enzyme": "several steps",
+      "note": "Assembly with apoB-48 requires MTTP; chylomicrons are secreted into lymph"
+    },
+    {
+      "from": "Chylomicron",
+      "to": "Chylomicron remnant",
+      "enzyme": "Lipoprotein lipase (LPL)",
+      "cofactors": ["APOC2 (coactivator)"],
+      "note": "Bound to GPIHBP1 on capillary endothelium; hydrolyses triacylglycerol"
+    },
+    {
+      "from": "Chylomicron remnant",
+      "to": "Hepatocyte cholesterol",
+      "enzyme": "several steps",
+      "note": "APOE binds LDLR and LRP1; lysosomal acid lipase (LIPA) frees cholesterol"
+    }
+  ]
+}

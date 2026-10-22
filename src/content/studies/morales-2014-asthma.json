@@ -1,0 +1,16 @@
+{
+  "title": "Adverse respiratory effect of acute beta-blocker exposure in asthma: a systematic review and meta-analysis of randomized controlled trials",
+  "authors": "Morales DR, Jackson C, Lipworth BJ, Donnan PT, Guthrie B",
+  "journal": "Chest",
+  "year": 2014,
+  "doi": "10.1378/chest.13-1235",
+  "pmid": "24202435",
+  "design": "meta-analysis",
+  "population": "Randomised, blinded, placebo-controlled trials of acute beta-blocker exposure in people with asthma",
+  "funder": "not read: the full text requires a subscription and is absent from PubMed Central.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Acute selective beta-blockers changed FEV1 by a mean -6.9% (95% CI -8.5 to -5.2), lowered FEV1 by 20% or more in one in eight patients, caused symptoms in one in 33 and attenuated the response to a beta2-agonist by 10.2% (-14.0 to -6.4). For acute non-selective beta-blockers the corresponding values were -10.2% (-14.7 to -5.6), one in nine, one in 13 and -20.0% (-29.4 to -10.7). A dose-response relationship was shown for selective beta-blockers, and celiprolol and labetalol differed from the others.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/24202435/"
+}

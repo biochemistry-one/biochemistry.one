@@ -1,0 +1,16 @@
+{
+  "title": "Cardiovascular effects of beta-agonists in patients with asthma and COPD: a meta-analysis",
+  "authors": "Salpeter SR, Ormiston TM, Salpeter EE",
+  "journal": "Chest",
+  "year": 2004,
+  "doi": "10.1378/chest.125.6.2309",
+  "pmid": "15189956",
+  "design": "meta-analysis",
+  "population": "13 single-dose and 20 longer randomised placebo-controlled trials (3 days to 1 year) of beta2-agonists in asthma or COPD",
+  "funder": "not read: the full text requires a subscription; the archived journal page shows the abstract and affiliations (Santa Clara Valley Medical Center; Cornell University) without a funding statement.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "A single dose of beta2-agonist raised heart rate by 9.12 beats/min (95% CI 5.32 to 12.92) and lowered potassium by 0.36 mmol/l (0.18 to 0.54) against placebo. In trials of 3 days to 1 year, beta2-agonists increased the risk of a cardiovascular event (sinus or ventricular tachycardia, syncope, atrial fibrillation, heart failure, myocardial infarction, cardiac arrest or sudden death): RR 2.54 (1.59 to 4.05); sinus tachycardia alone RR 3.06 (1.70 to 5.50), all other events RR 1.66 (0.76 to 3.6). Longer trials were included only if they reported at least one adverse event.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20220405021331/https://journal.chestnet.org/article/S0012-3692(16)59010-2/fulltext"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Pantoprazole in patients at risk for gastrointestinal bleeding in the ICU",
+  "authors": "Krag M, Marker S, Perner A, Wetterslev J, Wise MP, Schefold JC, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2018,
+  "doi": "10.1056/NEJMoa1714919",
+  "pmid": "30354950",
+  "registry": "NCT02467621",
+  "design": "rct",
+  "participants": 3298,
+  "followUp": "90 days; 1 year for mortality in the registry results",
+  "population": "Adults with unplanned ICU admission at risk of gastrointestinal bleeding in six European countries; intravenous pantoprazole 40 mg daily or placebo during the ICU stay",
+  "funder": "Abstract: 'Funded by Innovation Fund Denmark and others.' Registry NCT02467621: lead sponsor Dr. Morten Hylander Møller (sponsor-investigator, Scandinavian Critical Care Trials Group); collaborators Copenhagen University Hospital, Rigshospitalet, and the Copenhagen Trial Unit. The full funding statement was not read because the publisher page refused access.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Death by 90 days: 510 of 1642 (31.1%) with pantoprazole against 499 of 1640 (30.4%) with placebo (RR 1.02, 95% CI 0.91 to 1.13). Composite of clinically important bleeding, pneumonia, C. difficile infection or myocardial ischaemia: 21.9% against 22.6% (RR 0.96, 0.83 to 1.11). Clinically important gastrointestinal bleeding 41 of 1644 (2.5%) against 69 of 1647 (4.2%). Infectious adverse events 276 against 279; 1-year mortality 610 of 1635 against 601 of 1626 (registry results).",
+  "class": "independent",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT02467621"
+}

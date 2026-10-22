@@ -1,0 +1,20 @@
+{
+  "title": "Incidence and Nature of Antidepressant Discontinuation Symptoms: A Systematic Review and Meta-Analysis",
+  "authors": "Kalfas M, Tsapekos D, Butler M, McCutcheon RA, Pillinger T, Strawbridge R, et al.",
+  "journal": "JAMA Psychiatry",
+  "year": 2025,
+  "doi": "10.1001/jamapsychiatry.2025.1362",
+  "pmid": "40632531",
+  "registry": "PROSPERO CRD42023409477",
+  "design": "meta-analysis",
+  "participants": 17828,
+  "followUp": "1 day to 52 weeks; main analyses at 1 and 2 weeks after stopping",
+  "population": "50 randomised trials in adults stopping an antidepressant, against placebo discontinuation or antidepressant continuation; most prior treatment courses were short-term",
+  "funder": "not stated: the article information read in PubMed Central and in the archived journal page carries no funding statement. Data from 9 of the 49 analysed trials were provided by Lundbeck, Takeda, Lilly and Pfizer through Vivli.",
+  "funderRole": "unknown",
+  "authorConflicts": "Several authors reported fees from manufacturers of antidepressants or other psychiatric drugs (Boehringer Ingelheim, Janssen, Lundbeck, Viatris, Eli Lilly, Otsuka, Servier, Takeda and others); one author reported honoraria for articles on discontinuation symptoms in journal supplements sponsored by Eli Lilly in 1997, 2000 and 2006.",
+  "dataAccess": "summary",
+  "result": "At 1 week after stopping, DESS scores were higher than with placebo or continuation (SMD 0.31, 95% CI 0.23 to 0.39; 11 trials, 3915 participants), about 1.08 more symptoms; at 2 weeks SMD 0.13 (0.05 to 0.21). In placebo-controlled trials (4357 stopping an antidepressant, 2801 stopping placebo), dizziness occurred in 7.5% against 1.8% (OR 5.52, 3.81 to 8.01; risk difference 6.24%), nausea OR 3.16, vertigo OR 6.40, nervousness OR 3.15. The authors concluded that the mean number of symptoms was below the threshold for a clinically significant discontinuation syndrome and that mood worsening was not associated with discontinuation (5 trials). A published reader comment by Horowitz noted that the DESS trials followed 8 to 12 weeks of exposure.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20261003160016/https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2836262"
+}

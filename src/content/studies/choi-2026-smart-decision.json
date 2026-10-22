@@ -1,0 +1,19 @@
+{
+  "title": "Discontinuation of Beta-Blocker Therapy after Myocardial Infarction",
+  "authors": "Choi KH, Kang D, Kim W, Doh JH, Kim J, Park YH, et al.; SMART-DECISION Investigators",
+  "journal": "New England Journal of Medicine",
+  "year": 2026,
+  "doi": "10.1056/NEJMoa2601005",
+  "pmid": "41910427",
+  "registry": "NCT04769362",
+  "design": "rct",
+  "participants": 2540,
+  "followUp": "median 3.1 years (interquartile range 2.5 to 3.5)",
+  "population": "Patients at 25 centres in South Korea whose condition remained stable after myocardial infarction, with a left ventricular ejection fraction of at least 40%, no heart failure and at least 1 year of beta-blocker therapy; mean age 63.2 years, 12.8% women",
+  "funder": "Funded by the Patient-Centered Clinical Research Coordinating Center in the Ministry of Health and Welfare, South Korea, as stated in the published abstract. Registry NCT04769362 names Samsung Medical Center as lead sponsor and Korean university and general hospitals as collaborators; no company is named.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Open-label non-inferiority trial; 1246 patients assigned to discontinue and 1294 to continue beta-blocker therapy. Death from any cause, recurrent myocardial infarction or hospitalisation for heart failure occurred in 58 patients (4-year Kaplan-Meier estimate 7.2%) after discontinuation against 74 (9.0%) with continuation, hazard ratio 0.80 (95% CI 0.57 to 1.13), P = 0.001 for non-inferiority against a margin of 1.4. Serious adverse events were similar in the two groups.",
+  "class": "independent",
+  "fundingChecked": "https://clinicaltrials.gov/study/NCT04769362"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Long-term treatment with metformin in type 2 diabetes and methylmalonic acid: Post hoc analysis of a randomized controlled 4.3 year trial",
+  "authors": "Out M, Kooy A, Lehert P, Schalkwijk CA, Stehouwer CDA",
+  "journal": "Journal of Diabetes and its Complications",
+  "year": 2018,
+  "doi": "10.1016/j.jdiacomp.2017.11.001",
+  "pmid": "29174300",
+  "registry": "NCT00375388",
+  "design": "rct",
+  "participants": 390,
+  "followUp": "52 months",
+  "population": "Post hoc analysis of the HOME trial: 390 insulin-treated patients with type 2 diabetes randomised to metformin or placebo in three Dutch non-academic hospitals",
+  "funder": "Funders recorded by the publisher in the Crossref metadata for this article are Merck Sharp & Dohme and Novo Nordisk; the parent HOME trial was supported by grants from Altana, Lifescan, Merck Sante, Merck Sharp & Dohme and Novo Nordisk. The article's own text is behind a subscription and absent from PubMed Central, so the role of the funders in this analysis could not be read.",
+  "funderRole": "unknown",
+  "dataAccess": "unavailable",
+  "result": "Results read from the published abstract. Methylmalonic acid, a biomarker of tissue vitamin B12 deficiency, was higher with metformin than placebo at the end of the study (95% CI of the difference 0.019 to 0.055, p = 0.001), and the rise was progressive. In a mediation analysis the effect of metformin on a validated Neuropathy Score comprised a beneficial component through lower HbA1c (-0.020 per gram year) and an adverse component through higher methylmalonic acid (0.042 per gram year), giving a non-significant net effect (0.032 per gram year, 95% CI -0.121 to 0.182, p = 0.34); the rise in methylmalonic acid in metformin users was associated with significant worsening of the Neuropathy Score. The authors conclude that metformin lowers serum B12 and progressively raises serum methylmalonic acid, that this supports the clinical relevance of metformin-related B12 deficiency, and that monitoring of B12 in metformin users should be considered.",
+  "class": "industry",
+  "fundingChecked": "https://api.crossref.org/works/10.1016/j.jdiacomp.2017.11.001"
+}

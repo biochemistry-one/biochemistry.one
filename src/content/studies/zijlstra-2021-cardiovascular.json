@@ -1,0 +1,19 @@
+{
+  "title": "Levothyroxine treatment and cardiovascular outcomes in older people with subclinical hypothyroidism: pooled individual results of two randomised controlled trials",
+  "authors": "Zijlstra LE, Jukema JW, Westendorp RGJ, Du Puy RS, Poortvliet RKE, Kearney PM, et al.",
+  "journal": "Frontiers in Endocrinology",
+  "year": 2021,
+  "doi": "10.3389/fendo.2021.674841",
+  "pmid": "34093444",
+  "design": "rct",
+  "participants": 842,
+  "population": "Pooled individual data of TRUST (aged 65 or more, n = 737) and IEMO 80-plus (aged 80 or more, n = 105); median age 75.0 years, 53.2% women; TSH-guided levothyroxine against placebo",
+  "funder": "The TRUST trial was supported by a research grant (278148) from the European Union FP7-HEALTH-2011 program and by grants from the Swiss National Science Foundation, the Swiss Heart Foundation and Velux Stiftung. Study medication was supplied free of charge by Merck KGaA. The IEMO trial was supported by research grant (627001001) from ZonMw and by grants from the Swiss National Science Foundation. The funders had no role in the design and conduct of the study, collection, management, analysis, and interpretation of the data, preparation, review, or approval of the manuscript, and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "inKindSupport": "Levothyroxine and matching placebo donated by Merck KGaA, which did not receive or provide financial contributions.",
+  "authorConflicts": "Several authors reported nonfinancial support from Merck (study medication).",
+  "dataAccess": "individual",
+  "result": "Mean TSH fell from 6.38 mIU/l to 3.66 at 1 year on levothyroxine (median dose 50 µg) against 5.66 on placebo. Over a median 17 months, levothyroxine did not significantly change cardiovascular events (44 events in total; HR 0.74, 95% CI 0.41 to 1.35 in the results text and 0.41 to 1.25 in the abstract), atrial fibrillation (HR 0.69, 0.32 to 1.52), heart failure (HR 0.41, 0.13 to 1.35) or all-cause mortality (HR 1.28, 0.54 to 3.03), irrespective of history of cardiovascular disease and age.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8173189/"
+}

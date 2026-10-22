@@ -1,0 +1,20 @@
+{
+  "title": "Physiotherapy breathing retraining for asthma: a randomised controlled trial",
+  "authors": "Bruton A, Lee A, Yardley L, Raftery J, Arden-Close E, Kirby S, et al.",
+  "journal": "Lancet Respiratory Medicine",
+  "year": 2018,
+  "doi": "10.1016/S2213-2600(17)30474-5",
+  "pmid": "29248433",
+  "registry": "ISRCTN88318003",
+  "design": "rct",
+  "participants": 655,
+  "followUp": "12 months",
+  "population": "Adults aged 16 to 70 years with physician-diagnosed asthma and impaired asthma-related quality of life (AQLQ below 5.5) from 34 UK general practices; DVD and booklet self-guided breathing retraining, three face-to-face physiotherapy sessions, or usual care (2:1:2)",
+  "funder": "Funding was provided by the UK National Institute of Health Research, Health Technology Assessment funding stream. The funder was not involved in the study design, data collection, data analysis, data interpretation, or in the writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "Three authors report personal fees, grants or board membership involving AstraZeneca, Boehringer Ingelheim, GlaxoSmithKline, Novartis, Teva and other companies outside the submitted work; others report NIHR grants or none.",
+  "dataAccess": "summary",
+  "result": "At 12 months AQLQ was higher with the DVD and booklet than usual care (adjusted mean difference 0.28, 95% CI 0.11 to 0.44) and with face-to-face retraining (0.24, 0.04 to 0.44), the two interventions being equivalent; the largest gains were in the emotion domain. FEV1 and exhaled nitric oxide did not differ. Asthma attacks occurred in 24 of 261 (9%) with the DVD, 15 of 132 (11%) face-to-face and 39 of 262 (15%) with usual care (incidence rate ratio for DVD 0.68, 0.39 to 1.20); bronchodilator prescriptions were non-significantly lower (0.83, 0.68 to 1.03). Serious adverse events: 11 (4%), 4 (3%) and 20 (8%).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5757422/"
+}

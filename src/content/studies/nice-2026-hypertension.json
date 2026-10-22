@@ -1,0 +1,14 @@
+{
+  "title": "Hypertension in adults: diagnosis and management. NICE guideline NG136",
+  "authors": "National Institute for Health and Care Excellence",
+  "journal": "National Institute for Health and Care Excellence, published 28 August 2019, last updated 26 February 2026",
+  "year": 2026,
+  "url": "https://www.nice.org.uk/guidance/ng136/chapter/recommendations",
+  "design": "guideline",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Step 1 treatment, recommendations marked 2019: offer a calcium channel blocker to adults starting step 1 antihypertensive treatment who are aged 55 or over and do not have type 2 diabetes, or who are of Black African or African-Caribbean family origin and do not have type 2 diabetes, of any age (1.4.35); if a calcium channel blocker is not tolerated, for example because of oedema, offer a thiazide-like diuretic (1.4.36); if there is evidence of heart failure, offer a thiazide-like diuretic (1.4.37). Step 2: if hypertension is not controlled on a calcium channel blocker, offer the choice of an ACE inhibitor, an angiotensin receptor blocker or a thiazide-like diuretic in addition (1.4.42); if it is not controlled on an ACE inhibitor or angiotensin receptor blocker, offer the choice of a calcium channel blocker or a thiazide-like diuretic in addition (1.4.41). Step 3: offer an ACE inhibitor or angiotensin receptor blocker with a calcium channel blocker and a thiazide-like diuretic (1.4.45). Step 4: patients whose hypertension is not controlled on optimal tolerated doses of those three drugs are regarded as having resistant hypertension (1.4.46).",
+  "class": "consensus",
+  "fundingChecked": "https://www.nice.org.uk/guidance/ng136/chapter/Finding-more-information-and-committee-details"
+}

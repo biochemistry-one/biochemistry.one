@@ -1,0 +1,17 @@
+{
+  "title": "Serum TSH, T4, and thyroid antibodies in the United States population (1988 to 1994): National Health and Nutrition Examination Survey (NHANES III)",
+  "authors": "Hollowell JG, Staehling NW, Flanders WD, Hannon WH, Gunter EW, Spencer CA, et al.",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2002,
+  "doi": "10.1210/jcem.87.2.8182",
+  "pmid": "11836274",
+  "design": "cross-sectional",
+  "participants": 17353,
+  "population": "Nationally representative US sample aged 12 years or older; a disease-free population of 16,533 and a reference population of 13,344 without thyroid disease, goitre, thyroid medication, pregnancy, oestrogen, androgen or lithium use, thyroid antibodies or biochemical thyroid dysfunction",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Hypothyroidism was found in 4.6% of the US population (0.3% clinical, 4.3% subclinical) and hyperthyroidism in 1.3%. In the reference population the median TSH was 1.39 mIU/l with 95% reference limits of 0.45 and 4.12 mIU/l, and the median rose with age after 20 years even after excluding antibodies and other risk factors. The higher prevalence of low TSH in the total population was attributed to people reporting thyroid disease, goitre or thyroid medication, perhaps reflecting inappropriate treatment.",
+  "class": "undetermined",
+  "fundingChecked": "https://web.archive.org/web/2024/http://jcem.endojournals.org/content/87/2/489.full"
+}

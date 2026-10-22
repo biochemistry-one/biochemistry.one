@@ -1,0 +1,37 @@
+{
+  "title": "Bacterial degradation of xanthan gum",
+  "layout": "chain",
+  "compartment": "colonic lumen, then the cytosol of Ruminococcaceae R.UCG13",
+  "steps": [
+    {
+      "from": "Xanthan gum",
+      "to": "Xanthan pentasaccharides",
+      "enzyme": "Xanthanase RuGH5a (GH5)",
+      "note": "Secreted; cuts the glucose backbone; penta- and decasaccharides"
+    },
+    {
+      "from": "Xanthan pentasaccharides",
+      "to": "Xanthan tetrasaccharide",
+      "enzyme": "Xanthan lyase (PL8)",
+      "note": "Removes the terminal pyruvylated mannose; inactive on the polymer"
+    },
+    {
+      "from": "Xanthan tetrasaccharide",
+      "to": "Xanthan trisaccharide",
+      "enzyme": "Unsaturated glucuronyl hydrolase (GH88)",
+      "note": "Removes the 4,5-unsaturated glucuronic acid"
+    },
+    {
+      "from": "Xanthan trisaccharide",
+      "to": "Cellobiose",
+      "enzyme": "Mannosidase (GH38)",
+      "note": "Releases the side-chain mannose, acetylated unless an esterase acts first"
+    },
+    {
+      "from": "Cellobiose",
+      "to": "Glucose 1-phosphate and glucose",
+      "enzyme": "Cellobiose phosphorylase (GH94)",
+      "cofactors": ["Phosphate"]
+    }
+  ]
+}

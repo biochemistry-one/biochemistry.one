@@ -1,0 +1,20 @@
+{
+  "title": "The effect of polyphenols in olive oil on heart disease risk factors: a randomized trial",
+  "authors": "Covas MI, Nyyssönen K, Poulsen HE, Kaikkonen J, Zunft HJ, Kiesewetter H, et al.",
+  "journal": "Annals of Internal Medicine",
+  "year": 2006,
+  "doi": "10.7326/0003-4819-145-5-200609050-00006",
+  "pmid": "16954359",
+  "registry": "ISRCTN09220811",
+  "design": "rct",
+  "participants": 200,
+  "followUp": "three 3-week intervention periods, each preceded by a 2-week washout",
+  "population": "Healthy men at 6 research centres in Spain, Finland, Denmark, Germany and Italy; the registry entry specifies non-smokers aged 20 to 60 years",
+  "funder": "By grant QLK1-CT-2001-00287 from the Commission of the European Communities Quality of Life and Management of Living Resources program. The registry lists the European Commission as non-commercial sponsor.",
+  "funderRole": "unknown",
+  "authorConflicts": "Disclosures: none disclosed. J Kaikkonen and JT Salonen are listed at Oy Jurilab, Kuopio, a Finnish company; Salonen contributed to conception and design and Kaikkonen to analysis and interpretation of the data, and the acknowledgements credit T Vilppo of Oy Jurilab with performing the oxidative and antioxidative biomarker measurements.",
+  "dataAccess": "individual",
+  "result": "Randomised crossover trial; 25 mL a day of olive oils with low (2.7 mg/kg), medium (164 mg/kg) or high (366 mg/kg) phenolic content, otherwise similar. HDL cholesterol rose linearly: 0.025 mmol/L (95% CI 0.003 to 0.05), 0.032 mmol/L (0.005 to 0.05) and 0.045 mmol/L (0.02 to 0.06); the total to HDL cholesterol ratio fell linearly with phenolic content; triglycerides fell by an average 0.05 mmol/L with all oils. Oxidised LDL changed by 1.21 U/L (-0.8 to 3.6), -1.48 U/L (-3.6 to 0.6) and -3.21 U/L (-5.1 to -0.8); oxidative stress markers fell linearly with phenolic content. Results read from the abstract; the full text was not accessible.",
+  "class": "industry",
+  "fundingChecked": "https://web.archive.org/web/20250711173939/https://www.acpjournals.org/doi/10.7326/0003-4819-145-5-200609050-00006"
+}

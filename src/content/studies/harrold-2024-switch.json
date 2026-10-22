@@ -1,0 +1,20 @@
+{
+  "title": "Non-nutritive sweetened beverages versus water after a 52-week weight management programme: a randomised controlled trial",
+  "authors": "Harrold JA, Hill S, Radu C, Thomas P, Thorp P, Hardman CA, et al.",
+  "journal": "International Journal of Obesity",
+  "year": 2024,
+  "doi": "10.1038/s41366-023-01393-3",
+  "pmid": "37794246",
+  "registry": "NCT02591134",
+  "design": "rct",
+  "participants": 493,
+  "followUp": "52 weeks: 12-week weight-loss phase and 40-week weight-maintenance phase",
+  "population": "Adults aged 18 to 65 years with a BMI of 27 to 35 kg/m2 who regularly drank cold beverages, Liverpool, England; 70.0% women; open-label",
+  "funder": "This trial was funded by the American Beverage Association. The American Beverage Association was not involved in the design, conduct or interpretation of this trial; a representative from the American Beverage Association was provided with the opportunity to review the manuscript. Final decisions regarding the content were retained by the authors. The manuscript was developed with the assistance of a medical writer, funded by the American Beverage Association, under the direction of the authors.",
+  "funderRole": "publication",
+  "authorConflicts": "All authors reported funding from the American Beverage Association paid to the University of Liverpool for the trial; C.A.H. reported honoraria from the International Sweeteners Association and the International Food Information Council.",
+  "dataAccess": "summary",
+  "result": "SWITCH trial: two 330 ml servings per day of non-nutritive sweetened beverages or water within a behavioural weight-management programme. In the 262 completers (53.1%), weight changed by -6.1 kg with water and -7.5 kg with sweetened beverages, a difference of 1.4 kg (90% CI 0.2 to 2.6), non-equivalent and below the 1.5 kg prespecified as clinically significant. With multiple imputation for all 493, the changes were -6.3 and -7.1 kg (difference 0.8 kg, 90% CI -0.1 to 1.7).",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10746539"
+}

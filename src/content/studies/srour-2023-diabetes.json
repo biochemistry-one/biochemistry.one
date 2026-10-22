@@ -1,0 +1,20 @@
+{
+  "title": "Dietary exposure to nitrites and nitrates in association with type 2 diabetes risk: Results from the NutriNet-Santé population-based cohort study",
+  "authors": "Srour B, Chazelas E, Druesne-Pecollo N, Esseddik Y, de Edelenyi FS, Agaësse C, et al.",
+  "journal": "PLoS Medicine",
+  "year": 2023,
+  "doi": "10.1371/journal.pmed.1004149",
+  "pmid": "36649248",
+  "registry": "NCT03335644",
+  "design": "cohort",
+  "participants": 104168,
+  "followUp": "median 7.3 years (interquartile range 3.2 to 10.1)",
+  "population": "French adults of the web-based NutriNet-Santé cohort, 2009 to 2021, without prevalent type 2 diabetes, with at least two valid 24-h dietary records in the first two years of follow-up; 79.1% women; mean age 42.7 years",
+  "funder": "The NutriNet-Santé study was supported by Ministère de la Santé, Santé publique France, INSERM, INRAE, CNAM and University Sorbonne Paris Nord. EC was supported by a Doctoral Funding from University Sorbonne Paris Nord; CD by a grant from the French National Cancer Institute (INCa). The project received funding from the European Research Council (Horizon 2020, grant agreement No 864219), the French National Cancer Institute (INCa_14059), the French Ministry of Health (arrêté 29.11.19), the IdEx Université de Paris (ANR-18-IDEX-0001) and a Bettencourt-Schueller Foundation Research Prize 2021. Researchers were independent from funders. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "FP received funding from the IFIP (French Pork Institute) for another experimental project on processed meats and colorectal cancer, stated to be unrelated to this study and to type 2 diabetes; IFIP had no role in designing or funding this study. All other authors declared no conflict of interest.",
+  "dataAccess": "individual",
+  "result": "969 incident type 2 diabetes cases over 710,122 person-years to 1 October 2021. 73.9% were exposed to sodium nitrite (E 250); mean intake 0.28 mg/day. Higher exposure was above the sex-specific median among exposed participants, 0.19 mg/day in women and 0.25 mg/day in men. Fully adjusted, Fig 3: sodium nitrite non-exposed 154 cases in 153,593 person-years (reference), lower exposure 365 in 287,578 (HR 1.26, 95% CI 1.02 to 1.55), higher exposure 450 in 268,950 (HR 1.54, 1.26 to 1.90), P-trend < 0.001; all additive nitrites, higher against non-exposed, 1.53 (1.24 to 1.88); total nitrites, tertile 3 against 1, 1.27 (1.04 to 1.54). Nitrates were not associated (all P-trend 0.7). The authors state that no causal link can be established and that exposure was not validated against nitrite or nitrate biomarkers.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9844911/fullTextXML"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Lysinuric Protein Intolerance",
+  "authors": "Nunes V, Niinikoski H",
+  "journal": "GeneReviews, University of Washington, Seattle",
+  "year": 2018,
+  "pmid": "20301535",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK1361/",
+  "design": "database",
+  "funder": "not stated in the chapter",
+  "funderRole": "unknown",
+  "authorConflicts": "not stated in the chapter",
+  "dataAccess": "summary",
+  "result": "Expert-authored, peer-reviewed chapter, first posted 2006, comprehensive update 12 April 2018. SLC7A7 encodes the light chain of system y+L, which transports cationic amino acids across the basolateral membrane of enterocytes and renal tubular cells. Plasma lysine, arginine and ornithine are usually below normal. Hyperammonaemia is caused by functional impairment of the urea cycle, probably from an intracellular deficiency of ornithine in the liver. Incidence about 1 in 60,000 newborns in Finland and 1 in 57,000 in Japan.",
+  "class": "reference",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/ca/84/gene_NBK1116.tar.gz"
+}

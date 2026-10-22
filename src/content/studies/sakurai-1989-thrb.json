@@ -1,0 +1,16 @@
+{
+  "title": "Generalized resistance to thyroid hormone associated with a mutation in the ligand-binding domain of the human thyroid hormone receptor beta",
+  "authors": "Sakurai A, Takeda K, Ain K, Ceccarelli P, Nakai A, Seino S, et al.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 1989,
+  "doi": "10.1073/pnas.86.22.8977",
+  "pmid": "2510172",
+  "design": "genetic",
+  "population": "A boy aged 6.5 years and his 39-year-old father with generalised resistance to thyroid hormone; the mother and paternal grandmother as unaffected relatives",
+  "funder": "This research was supported by U.S. Public Health Service Grants DK13377, DK27384, DK00055, DK15070, RR305, and HD04583 and the David Wiener Research Fund.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Both affected subjects carried, on one of two THRB alleles, a guanine-to-cytosine change that replaces glycine 340 with arginine in the hormone-binding domain; the in vitro translated mutant receptor did not bind triiodothyronine. Serum T4 was 24.7 µg/dl in the son and 17.9 µg/dl in the father (normal 5.0-12.0), serum T3 369 and 240 ng/dl (normal 85-180), and TSH 2.3 and 1.2 µU/ml (normal 0.5-4.0). Triiodothyronine raising serum T3 to 600-1100 ng/dl completely suppressed the TSH response to TRH in a normal subject but only partially in the proband.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC298414/pdf/pnas00289-0392.pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Response to acute monotherapy for major depressive disorder in randomized, placebo controlled trials submitted to the US Food and Drug Administration: individual participant data analysis",
+  "authors": "Stone MB, Yaseen ZS, Miller BJ, Richardville K, Kalaria SN, Kirsch I",
+  "journal": "BMJ",
+  "year": 2022,
+  "doi": "10.1136/bmj-2021-067606",
+  "pmid": "35918097",
+  "design": "meta-analysis",
+  "participants": 73388,
+  "followUp": "acute treatment, 3 weeks or longer",
+  "population": "Individual participant data from 232 randomised, double-blind, placebo-controlled trials of antidepressant monotherapy for major depressive disorder submitted by drug developers to the FDA from 1979 to 2016, including 24 sertraline trials with 3206 participants",
+  "funder": "Funding: None. The authors declared no support from any organisation for the submitted work. Three authors are FDA staff.",
+  "funderRole": "none",
+  "authorConflicts": "BJM reported fees outside the work from the Federal Trade Commission, the Health Resources and Services Administration, the Heritage Foundation and Oxidien Pharmaceuticals, and was an FDA medical officer in 2016 to 2017.",
+  "dataAccess": "individual",
+  "result": "Mean improvement 9.8 points on the HAMD17 with drug and 8.0 with placebo, difference 1.75 (95% CI 1.63 to 1.86; SMD 0.23 to 0.25). The difference rose by 0.09 points per point of baseline severity, from 1.1 points at a baseline of 16 to 2.5 at 29.6. Response distributions fitted three groups: a large response (mean 16 points) in 24.5% on drug against 9.6% on placebo, number needed to treat 6.7 (5.7 to 7.7); a minimal response in 12.2% against 21.5%; a non-specific response in 63.3% against 68.9%. The authors estimated that about 15% of participants have a substantial drug effect beyond placebo.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9344377"
+}

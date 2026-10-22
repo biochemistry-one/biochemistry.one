@@ -1,0 +1,15 @@
+{
+  "title": "Scientific Opinion on Dietary Reference Values for fats, including saturated fatty acids, polyunsaturated fatty acids, monounsaturated fatty acids, trans fatty acids, and cholesterol",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition, and Allergies (NDA)",
+  "journal": "EFSA Journal",
+  "year": 2010,
+  "doi": "10.2903/j.efsa.2010.1461",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (Question No EFSA-Q-2008-466).",
+  "funderRole": "none",
+  "authorConflicts": "Not stated in the opinion.",
+  "dataAccess": "summary",
+  "result": "Humans lack delta-12 and delta-15 desaturases, so linoleic acid and alpha-linolenic acid are essential; n-6 and n-3 fatty acids are desaturated and elongated by the same enzymes. Adequate intake 4% of energy for linoleic acid and 0.5% for alpha-linolenic acid. Less than 1% of deuterated linoleic acid was converted to arachidonic acid; alpha-linolenic acid conversion about 8 to 12% to EPA and less than 1% to DHA; conversion of ALA decreases as dietary linoleic acid increases; amounts of n-3 LCPUFA formed depend on ALA intake, not on the n-3/n-6 ratio. Linoleic acid has a negative, dose-dependent relationship with LDL cholesterol. No specific values set for the n-3/n-6 ratio because data on clinical and biochemical endpoints in humans are insufficient to recommend a ratio independent of absolute intakes. No consistent evidence that n-6 PUFA intake has detrimental effects; no upper level set.",
+  "class": "regulatory",
+  "fundingChecked": "https://web.archive.org/web/20250711175420/https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2010.1461"
+}

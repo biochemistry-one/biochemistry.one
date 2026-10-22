@@ -1,0 +1,19 @@
+{
+  "title": "Consumption of one egg per day increases serum lutein and zeaxanthin concentrations in older adults without altering serum lipid and lipoprotein cholesterol concentrations",
+  "authors": "Goodrow EF, Wilson TA, Houde SC, Vishwanathan R, Scollin PA, Handelman G, et al.",
+  "journal": "Journal of Nutrition",
+  "year": 2006,
+  "doi": "10.1093/jn/136.10.2519",
+  "pmid": "16988120",
+  "design": "rct",
+  "participants": 33,
+  "followUp": "18 weeks: 4-week run-in, two 5-week interventions separated by a 4-week washout",
+  "population": "Adults aged 60 to 96 years (mean 79), 22 from nursing homes and 11 from senior centres and a university, taking neither lutein supplements nor lipid-lowering drugs",
+  "funder": "Supported by the American Egg Board, Egg Nutrition Center, Washington, DC (R.J.N.) and the Massachusetts Lions Eye Research Fund, New Bedford, MA (R.J.N.).",
+  "funderRole": "unknown",
+  "inKindSupport": "Eggs for cholesterol analysis were provided by the nursing homes or donated by the Aramark Corporation; lutein and zeaxanthin standards were provided by Hoffman-La Roche.",
+  "dataAccess": "individual",
+  "result": "Randomised crossover of 1 egg per day against no egg or egg substitute, 5 weeks each. Serum lutein rose by 26% and zeaxanthin by 38% after 5 weeks of 1 egg per day compared with the phase before eggs (P < 0.001). Serum total, LDL and HDL cholesterol and triglycerides did not differ between egg and no-egg phases; the mean increases in total and LDL cholesterol were 0.6% and 3.2%. Sampled yolks contained 210 ± 9 mg cholesterol, 143 ± 28 µg lutein and 94 ± 18 µg zeaxanthin.",
+  "class": "industry",
+  "fundingChecked": "https://web.archive.org/web/20180123204818/http://jn.nutrition.org:80/content/136/10/2519.full"
+}

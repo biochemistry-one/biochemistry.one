@@ -1,0 +1,19 @@
+{
+  "title": "Thyroid hormone therapy in a population cohort over two decades indicates persistent overtreatment",
+  "authors": "Zwanziger D, Kowall B, Klose JM, Schmidt B, Stang A, Führer D",
+  "journal": "European Thyroid Journal",
+  "year": 2026,
+  "doi": "10.1530/ETJ-25-0259",
+  "pmid": "41961727",
+  "design": "cohort",
+  "participants": 7711,
+  "followUp": "2000 to 2023",
+  "population": "Participants of the German population-based Heinz Nixdorf Recall (HNR) cohort, examined in 2000 to 2003 (n = 3561, mean age 59.4 years), 2006 to 2008 (n = 3933) and 2011 to 2015 (n = 3048, mean age 68.7 years), and of its multigenerational study of children and partners, examined in 2013 to 2016 (n = 2741, mean age 53.8 years) and 2020 to 2023 (n = 1610); each visit analysed cross-sectionally",
+  "funder": "DF and DZ report funding by DFG (SFB/TR 296 LOCOTACT, Project-ID 424957847) for data analysis. All other authors declare that no funds were received for the manuscript.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare no financial interests.",
+  "dataAccess": "individual",
+  "result": "In the HNR cohort, thyroid hormone use was 9.3% (329 of 3561; 9.2% in the abstract) in 2000 to 2003, 12.5% (491) in 2006 to 2008 and 15.3% (465 of 3048) in 2011 to 2015, while self-reported thyroid disease was 22.8%, 25.2% and 28.8%; the abstract describes thyroid disease as stable. Median TSH was lower in treated participants, most of all in older individuals. Among thyroid hormone users, TSH was below 0.45 mIU/l in 35% (114 of 329), 25% (124 of 491) and 24% (112 of 465) at the three HNR visits, and in 24% (81 of 339) and 12% (24 of 197) at the two multigenerational visits (Table 4, Table 5 and results text). The abstract instead describes the 35% and 25% as the proportion of participants with TSH below 0.45 mIU/l who took thyroid hormone, which the tables contradict.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13178427/"
+}

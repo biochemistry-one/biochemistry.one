@@ -1,0 +1,16 @@
+{
+  "title": "Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline",
+  "authors": "Holick MF, Binkley NC, Bischoff-Ferrari HA, Gordon CM, Hanley DA, Heaney RP, et al.",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2011,
+  "doi": "10.1210/jc.2011-0385",
+  "pmid": "21646368",
+  "design": "guideline",
+  "funder": "Developed under The Endocrine Society's Clinical Guidelines Subcommittee; the abstract states that the Task Force received no corporate funding or remuneration.",
+  "funderRole": "several",
+  "authorConflicts": "Financial or business interests declared in the guideline: Holick (chair): Merck, Novartis, Nichols-Quest Diagnostics, Bayer, Aventis, Warner Chilcott, Amgen, UV Foundation, Mushroom Council and Dairy Management, Inc.; Heaney: Merck, Procter & Gamble; Weaver: Pharmavite; Hanley: advisory boards of Amgen Canada, Merck Frosst Canada, Eli Lilly Canada, Novartis Canada and Warner Chilcott Canada; Gordon: co-director of a clinical investigator training programme with Pfizer/Merck; Bischoff-Ferrari: none declared.",
+  "dataAccess": "summary",
+  "result": "Vitamin D deficiency defined as 25-hydroxyvitamin D below 20 ng/ml (50 nmol/liter) and insufficiency as 21 to 29 ng/ml (the nmol/liter range is printed as '525-725'). Screening recommended for individuals at risk, not for the population. Adults aged 50 to 70 and over 70 years require at least 600 and 800 IU/day; to raise the blood level of 25-hydroxyvitamin D above 30 ng/ml may require at least 1500 to 2000 IU/day of supplemental vitamin D.",
+  "class": "consensus",
+  "fundingChecked": "https://academic.oup.com/jcem/article/96/7/1911/2833671"
+}

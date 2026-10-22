@@ -1,0 +1,18 @@
+{
+  "title": "Randomised trial of cholesterol lowering in 4444 patients with coronary heart disease: the Scandinavian Simvastatin Survival Study (4S)",
+  "authors": "Scandinavian Simvastatin Survival Study Group",
+  "journal": "Lancet",
+  "year": 1994,
+  "doi": "10.1016/S0140-6736(94)90566-5",
+  "pmid": "7968073",
+  "design": "rct",
+  "participants": 4444,
+  "followUp": "median 5.4 years",
+  "population": "Patients with angina pectoris or previous myocardial infarction and serum cholesterol 5.5 to 8.0 mmol/L on a lipid-lowering diet, in Scandinavia",
+  "funder": "The funding statement of the 1994 report could not be read: the archived publisher page shows only the abstract. A later report of the trial by the 4S group (Pedersen TR et al., Circulation 1998;97:1453-60) states: 4S was supported by a grant from Merck Research Laboratories.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Results read from the abstract. Double-blind simvastatin against placebo. Simvastatin changed total, LDL and HDL cholesterol by -25%, -35% and +8%. Deaths: 256 (12%) with placebo against 182 (8%) with simvastatin, relative risk 0.70 (95% CI 0.58 to 0.85; p = 0.0003); 6-year probability of survival 87.6% against 91.3%. Coronary deaths 189 against 111 (relative risk 0.58, 0.46 to 0.73); non-cardiovascular deaths 49 against 46. One or more major coronary events in 622 (28%) against 431 (19%), relative risk 0.66 (0.59 to 0.75). Risk of myocardial revascularisation 37% lower.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20170904043715/http://circ.ahajournals.org/content/97/15/1453"
+}

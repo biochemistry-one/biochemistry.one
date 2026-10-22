@@ -1,0 +1,19 @@
+{
+  "title": "Association of Blood Pressure Lowering With Mortality and Cardiovascular Disease Across Blood Pressure Levels: A Systematic Review and Meta-analysis",
+  "authors": "Brunström M, Carlberg B",
+  "journal": "JAMA Internal Medicine",
+  "year": 2018,
+  "doi": "10.1001/jamainternmed.2017.6015",
+  "pmid": "29131895",
+  "design": "meta-analysis",
+  "participants": 306273,
+  "followUp": "1.2 million person-years; trials with at least 1000 patient-years",
+  "population": "74 randomised trials of blood-pressure-lowering drugs against placebo or of different blood-pressure goals; 39.9% women, mean age 63.6 years",
+  "funder": "This study was supported by the Avtal om Läkarutbildning och medicinsk Forskning (ALF) agreement from Västerbotten County Council; by Visare Norr, an industry-independent fund supporting regional collaboration between County Councils in Northern Sweden; and by Norrländska Hjärtfonden. The sponsors had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data.",
+  "funderRole": "none",
+  "authorConflicts": "None reported.",
+  "dataAccess": "summary",
+  "result": "Primary prevention: with baseline systolic pressure of 160 mm Hg or above, treatment was associated with lower mortality (RR 0.93, 95% CI 0.87 to 1.00) and major cardiovascular events (0.78, 0.70 to 0.87); at 140 to 159 mm Hg, mortality 0.87 (0.75 to 1.00) and major cardiovascular events 0.88 (0.80 to 0.96); below 140 mm Hg, mortality 0.98 (0.90 to 1.06) and major cardiovascular events 0.97 (0.90 to 1.04). In trials of people with coronary heart disease and mean baseline systolic pressure of 138 mm Hg, major cardiovascular events 0.90 (0.84 to 0.97) and mortality 0.98 (0.89 to 1.07). The authors conclude that below 140 mm Hg treatment is not associated with benefit in primary prevention.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5833509/"
+}

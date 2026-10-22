@@ -1,0 +1,15 @@
+{
+  "title": "p21ras is modified by a farnesyl isoprenoid",
+  "authors": "Casey PJ, Solski PA, Der CJ, Buss JE",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 1989,
+  "doi": "10.1073/pnas.86.21.8323",
+  "pmid": "2682646",
+  "design": "in-vitro",
+  "funder": "National Institutes of Health grants CA42348 (to J.E.B.), CA42978 (to C.J.D.) and GM34497 (to A.G. Gilman); American Cancer Society Grant BC555K (to A.G. Gilman); the Schoenith Foundation (J.E.B.); National Research Service Award GM11982 (to P.J.C.).",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "Processing of ras proteins involves addition of a farnesyl moiety, apparently at the cysteine of the conserved COOH-terminal Cys-Ali-Ali-Xaa sequence, as in yeast a-factor mating hormone; the authors proposed that farnesylation is important for membrane association and transforming activity of ras proteins.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC298273/"
+}

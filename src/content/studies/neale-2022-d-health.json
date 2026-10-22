@@ -1,0 +1,20 @@
+{
+  "title": "The D-Health Trial: a randomised controlled trial of the effect of vitamin D on mortality",
+  "authors": "Neale RE, Baxter C, Romero BD, McLeod DSA, English DR, Armstrong BK, et al.",
+  "journal": "The Lancet Diabetes & Endocrinology",
+  "year": 2022,
+  "doi": "10.1016/S2213-8587(21)00345-4",
+  "pmid": "35026158",
+  "registry": "ACTRN12613000743763",
+  "design": "rct",
+  "participants": 21315,
+  "followUp": "median 5.7 years; 5 years of intervention",
+  "population": "Australians aged 60 years or older recruited through the electoral roll, not screened for vitamin D status",
+  "funder": "Summary of the publication: 'The D-Health Trial is funded by National Health and Medical Research Council.' Registry: National Health and Medical Research Council Project Grant 1046681; primary sponsor QIMR Berghofer Medical Research Institute (government body); secondary sponsor none. The full-text statement on the role of the funder was not read (publisher page inaccessible).",
+  "funderRole": "unknown",
+  "authorConflicts": "PMW has funding from AstraZeneca for an unrelated study of ovarian cancer. PRE reports grants and honoraria from Amgen, honoraria from Sanofi and grants from Novartis, Eli Lilly and Alexion. All other authors declare no competing interests.",
+  "dataAccess": "unknown",
+  "result": "Vitamin D3 60,000 IU per month versus placebo: 562 deaths (5.3%) versus 538 (5.1%), HR 1.04 (95% CI 0.93 to 1.18); cancer mortality HR 1.15 (0.96 to 1.39), and 1.24 (1.01 to 1.54) in an exploratory analysis excluding the first 2 years; mean serum 25-hydroxyvitamin D during follow-up 115 versus 77 nmol/l; median follow-up 5.7 years.",
+  "class": "independent",
+  "fundingChecked": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12613000743763"
+}

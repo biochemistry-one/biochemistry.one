@@ -1,0 +1,18 @@
+{
+  "title": "Genome-wide association study of plasma polyunsaturated fatty acids in the InCHIANTI Study",
+  "authors": "Tanaka T, Shen J, Abecasis GR, Kisialiou A, Ordovas JM, Guralnik JM, et al.",
+  "journal": "PLoS Genetics",
+  "year": 2009,
+  "doi": "10.1371/journal.pgen.1000338",
+  "pmid": "19148276",
+  "design": "genetic",
+  "participants": 1075,
+  "population": "Adults in the Chianti region of Tuscany, Italy (InCHIANTI); replication in 1,076 participants of the GOLDN study",
+  "funder": "Supported in part by the R&D contract with MedStar Research Institute, the Intramural Research Program of the NIH, National Institute on Aging, National Heart, Lung, and Blood Institute Grant U01 HL72524, Grants HL-54776 and DK075030, and contracts 53-K06-5-10 and 58-1950-9-001 from the US Department of Agriculture Research Service.",
+  "funderRole": "none",
+  "authorConflicts": "The authors have declared that no competing interests exist.",
+  "dataAccess": "individual",
+  "result": "rs174537 near FADS1 was associated with plasma arachidonic acid (P = 5.95 x 10^-46) and explained 18.6% of its additive variance. Arachidonic acid, % of plasma fatty acids: GG 8.72, TG 7.39, TT 6.35; linoleic acid 24.27, 25.24, 25.88. TT homozygotes had 9 mg/dL lower LDL cholesterol than GG (P = 0.011). Replicated in GOLDN.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2613033/"
+}

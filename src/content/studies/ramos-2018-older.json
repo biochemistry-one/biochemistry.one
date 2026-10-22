@@ -1,0 +1,19 @@
+{
+  "title": "Statins for primary prevention of cardiovascular events and mortality in old and very old adults with and without type 2 diabetes: retrospective cohort study",
+  "authors": "Ramos R, Comas-Cufí M, Martí-Lluch R, Balló E, Ponjoan A, Alves-Cabratosa L, et al.",
+  "journal": "BMJ",
+  "year": 2018,
+  "doi": "10.1136/bmj.k3359",
+  "pmid": "30185425",
+  "design": "cohort",
+  "participants": 46864,
+  "followUp": "median 5.6 years",
+  "population": "People aged 75 or older without clinically recognised atherosclerotic cardiovascular disease in the Catalan primary care database (SIDIAP), 2006 to 2015; mean age 77, 63% women; statin non-users and new users",
+  "funder": "Ministerio de Salud (EC11-267); Carlos III Health Institute, co-financed with European Union ERDF funds (RedIAPP RD16/0007/0004; Red de Investigación Cardiovascular RD12/0042/0061, RD12/0042/0013; Miguel Servet Contract CP12/03287); Departament de Salut, Generalitat de Catalunya (2014 SGR 240; 2017 SGR 1146). The sponsors had no role in the design and conduct of the study; the collection, management, analysis, or interpretation of the data; or the preparation, review, or approval of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "No financial relationships with any organisations that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "individual",
+  "result": "Propensity-adjusted hazard ratios for new statin use. Without diabetes, aged 75 to 84: atherosclerotic cardiovascular disease 0.94 (95% CI 0.86 to 1.04), all-cause mortality 0.98 (0.91 to 1.05); aged 85 or older: 0.93 (0.82 to 1.06) and 0.97 (0.90 to 1.05). With diabetes, aged 75 to 84: 0.76 (0.65 to 0.89) and 0.84 (0.75 to 0.94); aged 85 or older: 0.82 (0.53 to 1.26) and 1.05 (0.86 to 1.28). In people without diabetes older than 74, statins were not associated with lower cardiovascular disease or mortality even when incidence exceeded proposed treatment thresholds.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6123838"
+}

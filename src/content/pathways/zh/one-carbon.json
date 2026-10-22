@@ -1,0 +1,45 @@
+{
+  "title": "合成叶酸的还原与叶酸一碳单位循环",
+  "layout": "chain",
+  "compartment": "肝细胞和分裂中细胞的胞质溶胶",
+  "steps": [
+    {
+      "from": "合成叶酸",
+      "to": "7,8-二氢叶酸",
+      "enzyme": "二氢叶酸还原酶（DHFR）",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "甲氨蝶呤"}],
+      "note": "在人肝脏中缓慢且速率不一；食物中的还原型叶酸不经此步"
+    },
+    {
+      "from": "7,8-二氢叶酸",
+      "to": "四氢叶酸",
+      "enzyme": "二氢叶酸还原酶（DHFR）",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "甲氨蝶呤"}],
+      "note": "亦还原胸苷酸合酶（TYMS）释放的二氢叶酸"
+    },
+    {
+      "from": "四氢叶酸",
+      "to": "5,10-亚甲基四氢叶酸",
+      "enzyme": "丝氨酸羟甲基转移酶（胞质SHMT1、线粒体SHMT2）",
+      "cofactors": ["丝氨酸转变为甘氨酸", "5′-磷酸吡哆醛"],
+      "reversible": true,
+      "note": "分支：TYMS将此碳原子转移至dUMP，生成供DNA合成的dTMP"
+    },
+    {
+      "from": "5,10-亚甲基四氢叶酸",
+      "to": "5-甲基四氢叶酸",
+      "enzyme": "亚甲基四氢叶酸还原酶（MTHFR）",
+      "cofactors": ["NADPH", "FAD"],
+      "note": "体内不可逆；受SAM抑制；677C>T变异使酶活性降低"
+    },
+    {
+      "from": "5-甲基四氢叶酸",
+      "to": "四氢叶酸",
+      "enzyme": "甲硫氨酸合酶（MTR）",
+      "cofactors": ["甲基钴胺素", "同型半胱氨酸转变为甲硫氨酸"],
+      "note": "维生素B12缺乏时此步减慢，叶酸以5-甲基-THF形式滞留"
+    }
+  ]
+}

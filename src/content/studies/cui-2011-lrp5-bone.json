@@ -1,0 +1,16 @@
+{
+  "title": "Lrp5 functions in bone to regulate bone mass",
+  "authors": "Cui Y, Niziolek PJ, MacDonald BT, Zylstra CR, Alenina N, Robinson DR, et al.",
+  "journal": "Nature Medicine",
+  "year": 2011,
+  "doi": "10.1038/nm.2388",
+  "pmid": "21602802",
+  "design": "animal",
+  "population": "Mice with inducible bone-cell or intestinal Lrp5 mutations, Tph1-null mice, and intact or ovariectomised mice and rats treated with the Tph1 inhibitor LP-923941",
+  "funder": "NIH grants AR53237, GM74241 and AR053293, a PHS Career Development Award, a Leukemia and Lymphoma Society Scholarship, the Van Andel Research Institute and the Howard Hughes Medical Institute. Eight authors were employees of Lexicon Pharmaceuticals and Merck Sharp & Dohme Research Laboratories with salary and stock options.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Lrp5 acted locally in osteocytes; Lrp5 genotype was not associated with blood serotonin; bone mass of Tph1-null mice did not differ significantly from wild type after correction for multiple testing; a Tph1 inhibitor that lowered whole-blood serotonin by 42% to 44% for 6 weeks without changing brain serotonin did not reproduce the bone gain reported earlier. Animal data contradicting the gut serotonin model of Yadav and colleagues.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3113461"
+}

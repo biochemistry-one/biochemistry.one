@@ -1,0 +1,19 @@
+{
+  "title": "Red blood cell folate concentrations increase more after supplementation with [6S]-5-methyltetrahydrofolate than with folic acid in women of childbearing age",
+  "authors": "Lamers Y, Prinz-Langenohl R, Brämswig S, Pietrzik K",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2006,
+  "doi": "10.1093/ajcn/84.1.156",
+  "pmid": "16825690",
+  "design": "rct",
+  "participants": 144,
+  "followUp": "24 weeks",
+  "population": "Healthy women aged 19 to 33 years in Germany",
+  "funder": "Supported by Merck KGaA (Darmstadt, Germany).",
+  "funderRole": "unknown",
+  "inKindSupport": "The synthetic form of [6S]-5-methyltetrahydrofolate, Metafolin, was provided by Merck Eprova AG (Schaffhausen, Switzerland).",
+  "dataAccess": "summary",
+  "result": "Results read from the published abstract. Folic acid 400 µg, an equimolar 416 µg [6S]-5-methyl-THF, 208 µg [6S]-5-methyl-THF or placebo daily. Red cell folate rose more with 416 µg 5-methyl-THF than with 400 µg folic acid or 208 µg 5-methyl-THF (P < 0.001); red cell folate had not plateaued in any group by 24 weeks, whereas plasma folate plateaued after 12 weeks. Neural tube defects were not an outcome.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20240415172532/https://www.sciencedirect.com/science/article/pii/S0002916523277850"
+}

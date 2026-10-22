@@ -1,0 +1,16 @@
+{
+  "title": "Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid Association Task Force on Thyroid Hormone Replacement",
+  "authors": "Jonklaas J, Bianco AC, Bauer AJ, Burman KD, Cappola AR, Celi FS, et al.",
+  "journal": "Thyroid",
+  "year": 2014,
+  "doi": "10.1089/thy.2014.0028",
+  "pmid": "25266247",
+  "design": "guideline",
+  "funder": "The task force members volunteered their time and expertise and did not receive funds from the ATA. No funds were received from commercial sources for the development of this document. J.J. is partially supported by federal funds (UL1TR000101) from the National Center for Advancing Translational Science, NIH; A.S. holds a Health Services Research Chair funded by Cancer Care Ontario.",
+  "funderRole": "none",
+  "authorConflicts": "J.J. and K.D.B. have conducted research on a triiodothyronine product (BCT303) funded by ITL Pharma and planned a project using levothyroxine gel capsules funded by Institut Biochimique S.A.; they have no financial interests in either product. All other authors have no conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "Levothyroxine is recommended as the preparation of choice (strong recommendation, moderate-quality evidence). Levothyroxine should be taken consistently 60 minutes before breakfast or at bedtime, 3 or more hours after the evening meal (weak, moderate). It should be separated from interfering medicines and supplements such as calcium carbonate and ferrous sulfate; a 4-hour separation is traditional but untested (weak). Absorption studies support a role of coffee in reducing absorption. Routine combination of levothyroxine with liothyronine is recommended against, given conflicting trial results and a paucity of long-term outcome data (weak, moderate); across 13 trials benefits were heterogeneous, yet combination was preferred in four of five blinded crossover preference trials, whose four positive trials had 128 completers. Genetic testing of deiodinase polymorphisms to guide therapy is not recommended (strong, moderate); a secondary analysis of 552 patients found an interaction between DIO2 Thr92Ala and combination therapy, with 16% homozygous, while a secondary analysis of 92 patients from another trial found no association with well-being, neurocognitive functioning or preference.",
+  "class": "consensus",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4267409/"
+}

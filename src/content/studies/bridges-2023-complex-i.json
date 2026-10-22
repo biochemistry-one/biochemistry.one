@@ -1,0 +1,18 @@
+{
+  "title": "Structural basis of mammalian respiratory complex I inhibition by medicinal biguanides",
+  "authors": "Bridges HR, Blaza JN, Yin Z, Chung I, Pollak MN, Hirst J",
+  "journal": "Science",
+  "year": 2023,
+  "doi": "10.1126/science.ade3332",
+  "pmid": "36701435",
+  "design": "in-vitro",
+  "population": "Bovine heart mitochondrial membranes and purified bovine complex I studied by cryo-electron microscopy and enzyme kinetics, with cellular oxygen consumption assays",
+  "funder": "This work was supported by The Medical Research Council (MC_U105663141 and MC_UU_00015/2) and by ImmunoMet Therapeutics Inc. ImmunoMet Therapeutics supplied the biguanide IM1761092 under a material transfer agreement.",
+  "funderRole": "several",
+  "inKindSupport": "The model biguanide IM1761092 was supplied by ImmunoMet Therapeutics Inc. under a material transfer agreement.",
+  "authorConflicts": "ImmunoMet Therapeutics Inc. are the inventors on patent US2017/007331 for the biguanide compound used; one author sits on the company's scientific advisory board and holds shares in it; the authors declare no further competing interests.",
+  "dataAccess": "summary",
+  "result": "Metformin and phenformin are described as relatively weak inhibitors of complex I: the membrane IC50 of the synthetic model biguanide IM1761092 was more than 10 times lower than that of phenformin and more than 2000 times lower than that of metformin, depending on conditions, consistent with the reported correlation between inhibitory potency and hydrophobicity. The primary inhibitory site lies in an amphipathic region of the quinone-binding channel, with a second binding site in a pocket on the intermembrane space side, and a separate local chaotropic interaction displaces part of the ND5 lateral helix in about 65% of imaged particles; the three interaction sites are independent and inhibition was fully reversible, 98% of control activity returning on dilution. Biguanides bind preferentially to the deactive state of the enzyme and inhibit more strongly at higher pH, so the authors conclude that they act mainly by preventing reactivation of the resting deactive state rather than by classical competition with ubiquinone. Substantial inhibition of complex I in vivo requires the biguanide positive charge to drive accumulation in the mitochondrial matrix by up to 1000-fold relative to the cytosol in response to the proton-motive force; this concentrating effect makes targets of weak affinity such as complex I potentially as relevant as higher-affinity targets outside the matrix such as rat mitochondrial glycerophosphate dehydrogenase. The authors note that recent work has questioned that enzyme as a therapeutic target because metformin was found not to inhibit the human enzyme, and propose that biguanides may exert similar local chaotropic actions on other membrane proteins.",
+  "class": "industry",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7614227/fullTextXML"
+}

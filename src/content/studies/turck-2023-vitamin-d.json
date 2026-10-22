@@ -1,0 +1,16 @@
+{
+  "title": "Scientific opinion on the tolerable upper intake level for vitamin D, including the derivation of a conversion factor for calcidiol monohydrate",
+  "authors": "EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA), Turck D, Bohn T, Castenmiller J, de Henauw S, Hirsch-Ernst KI, et al.",
+  "journal": "EFSA Journal",
+  "year": 2023,
+  "doi": "10.2903/j.efsa.2023.8145",
+  "pmid": "37560437",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on requests from the European Commission. Preparatory systematic reviews were contracted by EFSA (OC/EFSA/NUTRI/2021/01) to the University of Helsinki with the University of Oslo.",
+  "funderRole": "none",
+  "authorConflicts": "Declarations of interest of contributing experts are available on request from EFSA; not read.",
+  "dataAccess": "summary",
+  "result": "Tolerable upper intake level 100 µg vitamin D per day for adults, including pregnant and lactating women, and for adolescents aged 11 to 17 years; 50 µg per day for children aged 1 to 10 years. Critical endpoint persistent hypercalciuria; LOAEL 250 µg per day from two randomised trials, uncertainty factor 2.5. 1 µg equals 40 IU; VITAL used 50 µg per day. Evidence tables record each included study's funding as public, private, mixed or unclear.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10407748/"
+}

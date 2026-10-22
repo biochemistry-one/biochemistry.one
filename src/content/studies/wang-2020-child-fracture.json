@@ -1,0 +1,19 @@
+{
+  "title": "Association between proton pump inhibitor use and risk of fracture in children",
+  "authors": "Wang YH, Wintzell V, Ludvigsson JF, Svanström H, Pasternak B",
+  "journal": "JAMA Pediatrics",
+  "year": 2020,
+  "doi": "10.1001/jamapediatrics.2020.0007",
+  "pmid": "32176276",
+  "design": "cohort",
+  "participants": 231866,
+  "followUp": "mean 2.2 years (SD 1.6), up to 5 years",
+  "population": "Swedish children younger than 18 years starting a PPI, July 2006 to December 2016, matched 1:1 on propensity score and age with non-initiators (115,933 pairs)",
+  "funder": "Swedish Research Council and Frimurare Barnhuset Foundation supported this study, and Dr Pasternak was supported by an investigator grant from the Strategic Research Area Epidemiology program at Karolinska Institutet. The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Svanström received consulting fees from Celgene and is employed by IQVIA; Ludvigsson coordinates a register study funded by Janssen; others none.",
+  "dataAccess": "individual",
+  "result": "Any fracture: 5354 among initiators against 4568 among non-initiators, 20.2 against 18.3 per 1000 person-years (HR 1.11, 95% CI 1.06 to 1.15). HR by cumulative duration: 1.08 (1.03 to 1.13) for 30 days or less, 1.14 (1.09 to 1.20) for 31 to 364 days, 1.34 (1.13 to 1.58) for 365 days or more. Against H2-receptor antagonists HR 1.06 (0.97 to 1.15).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7076540/fullTextXML"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Public health failure in the prevention of neural tube defects: time to abandon the tolerable upper intake level of folate",
+  "authors": "Wald NJ, Morris JK, Blakemore C",
+  "journal": "Public Health Reviews",
+  "year": 2018,
+  "doi": "10.1186/s40985-018-0079-6",
+  "pmid": "29450103",
+  "design": "other",
+  "funder": "None",
+  "funderRole": "none",
+  "authorConflicts": "All authors declare that they have no competing interests.",
+  "dataAccess": "summary",
+  "result": "Argument paper. The IOM derived its LOAEL from 23 studies of patients with pernicious anaemia, mainly from the 1950s, 11 of them single-patient case reports, at a time when folate and B12 deficiency could not be distinguished by assay. The authors attribute the neuropathy to continued B12 deficiency rather than to folic acid; their meta-analysis of the IOM case data by dose showed a non-significant decline, not an increase, in the proportion developing neuropathy with increasing folic acid dose. They conclude that there is no scientific basis for any upper level, that the 1 mg/day limit has obstructed mandatory flour fortification, and that it should be removed. Mandatory fortification was in place in 81 countries in October 2017.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5809909/"
+}

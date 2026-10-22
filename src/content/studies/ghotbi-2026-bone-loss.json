@@ -1,0 +1,17 @@
+{
+  "title": "Levothyroxine use and bone loss: longitudinal analysis among euthyroid men and women from the Baltimore Longitudinal Study of Aging",
+  "authors": "Ghotbi E, McGready J, Hadidchi R, Ibad HA, Simonsick EM, Xue QL, et al.",
+  "journal": "Bone",
+  "year": 2026,
+  "doi": "10.1016/j.bone.2026.118100",
+  "pmid": "42777903",
+  "design": "cohort",
+  "participants": 310,
+  "population": "Baltimore Longitudinal Study of Aging participants euthyroid at all visits who either consistently used or never used levothyroxine; propensity-matched 1:3 within sex (31 male and 53 female users); bone mineral density by dual-energy X-ray absorptiometry",
+  "funder": "Statement in the PubMed record: This research was supported [in part] by the Intramural Research Program of the National Institutes of Health (NIH); 01 AR079620/AR/NIAMS NIH HHS/United States (grant PI Dr Shadpour Demehri). No additional COI to report. The publisher's full text returned a captcha to automated access, so the complete funding statement was not read.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "In men annual bone mineral density change did not differ between levothyroxine users and non-users in any age stratum. In women, users lost bone mineral density faster than non-users below age 60 (difference -0.010 g/cm2 per year, 95% CI -0.015 to -0.006) and at age 70 to 79 (-0.003, -0.005 to -0.001), despite thyroid function within the reference range at all visits. Results read from the PubMed record; the publisher's full text was not accessible.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.sciencedirect.com/science/article/pii/S8756328226003261"
+}

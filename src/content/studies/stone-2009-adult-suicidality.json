@@ -1,0 +1,19 @@
+{
+  "title": "Risk of suicidality in clinical trials of antidepressants in adults: analysis of proprietary data submitted to US Food and Drug Administration",
+  "authors": "Stone M, Laughren T, Jones ML, Levenson M, Holland PC, Hughes A, et al.",
+  "journal": "BMJ",
+  "year": 2009,
+  "doi": "10.1136/bmj.b2880",
+  "pmid": "19671933",
+  "design": "meta-analysis",
+  "participants": 99231,
+  "followUp": "double-blind treatment periods of the trials",
+  "population": "Adults in 372 double-blind placebo-controlled trials of 11 antidepressants for any indication, with individual data submitted by sponsors to the FDA in 2005 and 2006; analysis by FDA staff",
+  "funder": "This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors. All authors were FDA employees.",
+  "funderRole": "none",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "In psychiatric indications, suicidal behaviour or ideation OR 1.62 (95% CI 0.97 to 2.71) and suicidal behaviour OR 2.30 (1.04 to 5.09) under age 25; 0.79 (0.64 to 0.98) and 0.87 (0.58 to 1.29) at 25 to 64; 0.37 (0.18 to 0.76) and 0.06 (0.01 to 0.58) at 65 or older; the OR declined by 2.6% per year of age. Sertraline in adults with psychiatric disorders: ideation or worse in 18 of 6363 against 28 of 5081 on placebo, OR 0.51 (0.29 to 0.91), risk difference -2.50 per 1000.",
+  "class": "regulatory",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=2725270"
+}

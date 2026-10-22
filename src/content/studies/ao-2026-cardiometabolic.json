@@ -1,0 +1,20 @@
+{
+  "title": "Levothyroxine treatment response of cardiometabolic biomarkers in older adults with subclinical hypothyroidism",
+  "authors": "Ao L, Noordam R, Trompet S, van Vliet NA, Sattar N, Rodondi N, et al.",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2026,
+  "doi": "10.1210/clinem/dgag155",
+  "pmid": "41965091",
+  "design": "rct",
+  "participants": 286,
+  "followUp": "12 months",
+  "population": "Post hoc analysis of TRUST and IEMO 80-plus participants aged 65 or older with subclinical hypothyroidism and stored samples; median age 75 years, 48% women, median TSH 6.44 mIU/l; 142 randomised to levothyroxine",
+  "funder": "L.A. is supported by the China Scholarship Council. This work was supported by a research grant (666869, THYRAGE) from the European Union Horizon 2020 program. The IEMO trial was supported by ZonMw and the Swiss National Science Foundation; the TRUST trial by the European Union FP7-HEALTH-2011 program and the Swiss National Science Foundation.",
+  "funderRole": "unknown",
+  "inKindSupport": "Levothyroxine and matching placebo supplied free of charge by the healthcare business of Merck KGaA, acknowledged as nonfinancial support.",
+  "authorConflicts": "One author reported consulting or speaker fees and grant support from many pharmaceutical companies, including AbbVie, outside the submitted work.",
+  "dataAccess": "unknown",
+  "result": "Levothyroxine against placebo at 12 months: apolipoprotein B -0.03 g/l (95% CI -0.07 to 0.00), total cholesterol -0.17 mmol/l (-0.34 to 0.00), non-HDL cholesterol -0.15 (-0.31 to 0.00), remnant cholesterol -0.09 (-0.16 to -0.01), LDL cholesterol -0.07 (-0.15 to 0.02), triglycerides -0.07 (-0.15 to 0.01); the authors concluded there were no effects overall. In 27 participants with TSH of 10 mIU/l or more, lipid changes were nominally favourable but not significant after correction for multiple testing.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13466939/"
+}

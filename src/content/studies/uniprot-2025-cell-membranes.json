@@ -1,0 +1,17 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "url": "https://rest.uniprot.org/",
+  "design": "database",
+  "funder": "National Human Genome Research Institute (NHGRI) [HG002273]; Office of the Director, NIH OD [U24HG007822]; NIAID; NIA; NIGMS [R35GM141873]; NIDDK; NEI; NCI; NHLBI; Biotechnology and Biological Sciences Research Council (BBSRC) [BB/T015608/1]; National Science Foundation's Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 [825575]; State Secretariat for Education, Research and Innovation (SERI); EMBL Australia. Funding for open access charge: National Institutes of Health.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed human UniProtKB entries, release 2026_03, read through rest.uniprot.org on 2026-10-21. SLC5A1 (P13866, SGLT1): electrogenic Na+-coupled symporter of D-glucose or D-galactose with a Na+ to sugar coupling ratio of 2:1, driven by the transmembrane Na+ electrochemical gradient set by the Na+/K+ pump; absorbs the sugars across the apical brush-border membrane of enterocytes, with basolateral exit through GLUT2. ATP1A1 (P05023): catalytic subunit of the Na+/K+-ATPase, which hydrolyses ATP to export 3 Na+ and import 2 K+ per cycle against their electrochemical gradients; the pump comprises a catalytic alpha, an auxiliary beta and a regulatory FXYD subunit, with four, three and seven isoforms respectively; active site Asp376 forms the 4-aspartylphosphate intermediate; the inward-facing E1 state binds three Na+ from the cytoplasm and is phosphorylated at the active-site Asp, and in the outward-facing E2 state Na+ is released outside, two K+ bind, and dephosphorylation restores the inward-facing state, releasing K+ into the cytoplasm. ATP6V1A (P38606): catalytic subunit of the V1 complex of the vacuolar H+-ATPase, which acidifies and maintains the pH of intracellular compartments; located in the lysosome membrane among other sites. FOXO1 (Q12778): transcription factor that is the main target of insulin signalling; modified-residue features Thr-24 phosphorylated by PKB/AKT1 or PKB/AKT2 and SGK1, Ser-256 by PKB/AKT1 and SGK1, Ser-319 by PKB/AKT1; AKT1 phosphorylation promotes nuclear export and inactivation; in hepatocytes, by similarity, it acts with PPARGC1A and CEBPA to activate expression of genes such as IGFBP1, G6PC1 and PCK1.",
+  "class": "reference",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11701636/fullTextXML"
+}

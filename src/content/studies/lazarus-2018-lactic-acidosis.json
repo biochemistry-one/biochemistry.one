@@ -1,0 +1,19 @@
+{
+  "title": "Association of Metformin Use With Risk of Lactic Acidosis Across the Range of Kidney Function: A Community-Based Cohort Study",
+  "authors": "Lazarus B, Wu A, Shin JI, Sang Y, Alexander GC, Secora A, et al.",
+  "journal": "JAMA Internal Medicine",
+  "year": 2018,
+  "doi": "10.1001/jamainternmed.2018.0292",
+  "pmid": "29868840",
+  "design": "cohort",
+  "participants": 75413,
+  "followUp": "median 5.7 years (interquartile range 2.5 to 9.9)",
+  "population": "Community-based cohort of 75,413 patients with diabetes in the Geisinger Health System from January 2004 to January 2017, with time-dependent assessment of eGFR stage; replication in 67,578 new metformin users and 14,439 new sulfonylurea users from 350 private US health systems, 2010 to 2015",
+  "funder": "Ms Sang and Dr Coresh receive funding from the National Institutes of Health via grant R01DK100446; Dr Grams via R01DK100446 and K08DK092287. The National Institutes of Health had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "One author chairs an FDA advisory committee, serves on the advisory board of MesaRx Innovations, holds equity in a health care consultancy whose clients include the life sciences industry and plaintiffs in opioid litigation, and serves on a pharmacy benefit manager's pharmacy and therapeutics committee; no other disclosures were reported.",
+  "dataAccess": "individual",
+  "result": "Mean age 60.4 years (SD 15.5), 51% women. There were 2335 hospitalisations with acidosis over a median 5.7 years. Against alternative diabetes management, time-dependent metformin use was not associated with incident acidosis overall (adjusted hazard ratio 0.98, 95% CI 0.89 to 1.08), at eGFR 45 to 59 mL/min/1.73 m2 (1.16, 0.95 to 1.41) or at eGFR 30 to 44 (1.09, 0.83 to 1.44), but was associated with an increased risk at eGFR below 30 (2.07, 1.33 to 3.22). Results were consistent against new sulfonylurea users (hazard ratio at eGFR 30 to 44, 0.77, 0.29 to 2.05), in a propensity-matched cohort (0.71, 0.45 to 1.12), after excluding baseline insulin users (1.16, 0.87 to 1.57) and in the replication cohort (0.86, 0.37 to 2.01). The authors state that about 1 million patients in the United States with type 2 diabetes and mild-to-moderate kidney disease do not receive metformin, and conclude that their results support cautious use at an eGFR of at least 30 mL/min/1.73 m2.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6145716"
+}

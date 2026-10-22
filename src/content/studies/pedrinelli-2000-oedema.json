@@ -1,0 +1,19 @@
+{
+  "title": "Amlodipine, enalapril, and dependent leg edema in essential hypertension",
+  "authors": "Pedrinelli R, Dell'Omo G, Melillo E, Mariani M",
+  "journal": "Hypertension",
+  "year": 2000,
+  "doi": "10.1161/01.hyp.35.2.621",
+  "pmid": "10679507",
+  "design": "mechanistic",
+  "participants": 28,
+  "followUp": "2 weeks per dose step and after withdrawal",
+  "population": "Hypertensive men: 10 given amlodipine 5 then 10 mg daily, 10 given amlodipine 10 mg with enalapril 20 mg, 8 given enalapril 10 then 20 mg",
+  "funder": "not stated: the article carries no funding statement; the acknowledgements thank the area managers of Merck, Sharp & Dohme and Pfizer for gifts of drugs.",
+  "funderRole": "unknown",
+  "inKindSupport": "Drugs donated by Merck, Sharp & Dohme and Pfizer.",
+  "dataAccess": "unknown",
+  "result": "Skin blood flow at the dorsum of the foot (laser Doppler) supine and with the limb 50 cm below heart level, and leg weight (Archimedes principle), were measured. Amlodipine 5 mg increased leg weight without changing postural skin vasoconstriction; 10 mg blunted postural vasoconstriction and increased leg weight further; both normalised after withdrawal. Enalapril alone changed neither, but reduced the dependent fluid extravasation caused by amlodipine without restoring postural vasoconstriction. The authors describe postural vasoconstriction as an autoregulatory mechanism that limits gravitational rises in capillary pressure.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20180611171524/http://hyper.ahajournals.org/content/35/2/621"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Proton pump inhibitors and dementia: a nationwide population-based study",
+  "authors": "Pourhadi N, Janbek J, Jensen-Dahm C, Gasse C, Laursen TM, Waldemar G",
+  "journal": "Alzheimer's & Dementia",
+  "year": 2024,
+  "doi": "10.1002/alz.13477",
+  "pmid": "37795826",
+  "design": "cohort",
+  "participants": 1983785,
+  "followUp": "median 10 years, 2000 to 2018",
+  "population": "Danish residents aged 60 to 75 years at entry, nationwide registers",
+  "funder": "The Danish Dementia Research Centre is supported by the Danish Ministry of Health (grant number 1604063), which was not involved in the design of the study, data management/analysis, interpretation of data, or writing/reviewing the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no conflicts of interest.",
+  "dataAccess": "individual",
+  "result": "99,384 developed dementia; PPIs had been used by 21.2% of cases and 18.9% of controls. Incidence rate ratio for PPI ever-use against never-use: 1.36 (95% CI 1.29 to 1.43) for diagnosis at 60 to 69 years, 1.12 (1.09 to 1.15) at 70 to 79, 1.06 (1.03 to 1.09) at 80 to 89 and 1.03 (0.91 to 1.17) at 90 or older; longer treatment yielded higher ratios, and the increase below age 90 was present regardless of treatment start up to more than 15 years before diagnosis.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10917029/fullTextXML"
+}

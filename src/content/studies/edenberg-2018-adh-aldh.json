@@ -1,0 +1,16 @@
+{
+  "title": "Alcohol dehydrogenases, aldehyde dehydrogenases, and alcohol use disorders: a critical review",
+  "authors": "Edenberg HJ, McClintick JN",
+  "journal": "Alcoholism: Clinical and Experimental Research",
+  "year": 2018,
+  "doi": "10.1111/acer.13904",
+  "pmid": "30320893",
+  "design": "other",
+  "funder": "Related work in the authors' laboratory is supported by NIH Grants U10AA008401 from the National Institute on Alcohol Abuse and Alcoholism (NIAAA), and U01MH109532 from the National Institute on Mental Health (NIMH) and the National Institute on Drug Abuse (NIDA).",
+  "funderRole": "none",
+  "authorConflicts": "No conflict-of-interest statement in the PMC author manuscript.",
+  "dataAccess": "summary",
+  "result": "Class I ADH1A, ADH1B and ADH1C catalyse most hepatic ethanol oxidation; cytochrome P450s and catalase make only minor contributions. In vitro at pH 7.5, ADH1B*1 Km 0.013 mM and Vmax 5.2 per min; ADH1B*2 (rs1229984, His48) Km 1.8 mM and Vmax 190 per min; ADH1B*3 (rs2066702, Cys370) found almost exclusively in people of African origin. European carriers of ADH1B*2 eliminate ethanol about 14% faster. ALDH2 is a mitochondrial homotetramer with Km for acetaldehyde 0.2 µM; blood acetaldehyde is about 3 µM or less with active ALDH2 and 30 to 75 µM or higher in ALDH2*2 carriers. ALDH2*2 (rs671) has lysine at position 504 of the precursor (487 of the mature protein); a single ALDH2*2 subunit renders the tetramer nearly inactive; disulfiram inhibits ALDH2. rs671 allele frequency 0.160 in Han Chinese in Beijing, 0.271 in Southern Han Chinese, 0.240 in Japanese in Tokyo, 0.008 or less in the African, American, European and South Asian 1000 Genomes populations. Odds ratio for alcohol dependence 0.22 in ALDH2*2 heterozygotes (meta-analysis of 22 datasets).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6286250/"
+}

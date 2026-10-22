@@ -1,0 +1,19 @@
+{
+  "title": "Dietary intake and biomarkers of linoleic acid and mortality: systematic review and meta-analysis of prospective cohort studies",
+  "authors": "Li J, Guasch-Ferré M, Li Y, Hu FB",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2020,
+  "doi": "10.1093/ajcn/nqz349",
+  "pmid": "32020162",
+  "design": "meta-analysis",
+  "participants": 811069,
+  "followUp": "median 4.9 to 30.2 years in the cohorts with dietary assessment",
+  "population": "38 studies reporting 44 prospective cohorts; 811,069 participants with dietary assessment and 65,411 with linoleic acid measured in adipose tissue or blood",
+  "funder": "Supported by NIH grants R01 HL60712 and P30 DK46200. JL and MG-F are supported by American Diabetes Association Fellowship Awards. The funding sources played no role in the design, collection, analysis, or interpretation of the data, or in the decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "FBH and YL have received research support from the California Walnut Commission.",
+  "dataAccess": "summary",
+  "result": "Highest versus lowest dietary linoleic acid: total mortality RR 0.87 (95% CI 0.81 to 0.94; 11 studies, 170,076 deaths), cardiovascular mortality 0.87 (0.82 to 0.92), cancer mortality 0.89 (0.85 to 0.93). Per SD of linoleic acid in adipose tissue or blood: total mortality 0.91 (0.87 to 0.95), cardiovascular mortality 0.89 (0.85 to 0.94), cancer mortality 0.91 (0.84 to 0.98).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7326588/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Eradication therapy for peptic ulcer disease in Helicobacter pylori-positive people",
+  "authors": "Ford AC, Gurusamy KS, Delaney B, Forman D, Moayyedi P",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2016,
+  "doi": "10.1002/14651858.CD003840.pub5",
+  "pmid": "27092708",
+  "design": "systematic-review",
+  "population": "55 randomised trials in H. pylori-positive adults with peptic ulcer comparing at least one week of eradication therapy with ulcer-healing drugs, placebo or no treatment",
+  "funder": "Internal sources: no sources of support supplied. External sources: National Institute for Health Research, UK, via Cochrane Infrastructure, Cochrane Programme Grant or Cochrane Incentive funding to the Upper Gastrointestinal and Pancreatic Diseases and Cochrane Hepato-Biliary groups.",
+  "funderRole": "none",
+  "authorConflicts": "Delaney received speaker's fees from AstraZeneca and AxCan Pharma; Forman received speaker or consulting fees from AstraZeneca, Wyeth and Takeda; Moayyedi's chair at McMaster University is partly funded by an unrestricted donation from AstraZeneca, and he received consultant and speaker fees from AstraZeneca, AxCan Pharma, Nycomed and Johnson & Johnson.",
+  "dataAccess": "summary",
+  "result": "95% of duodenal and 70% of gastric ulcers are associated with H. pylori. Duodenal ulcer recurrence, eradication against no treatment: 215 of 1501 (adjusted proportion 12.9%) against 649 of 1008 (64.4%), RR 0.20 (95% CI 0.15 to 0.26); 27 trials, 2509 participants, very low-quality evidence. Gastric ulcer recurrence: 116 of 697 (adjusted proportion 16.3%) against 356 of 679 (52.4%), RR 0.31 (0.22 to 0.45); 12 trials.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7163278/"
+}

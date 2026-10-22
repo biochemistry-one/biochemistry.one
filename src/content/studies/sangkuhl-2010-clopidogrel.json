@@ -1,0 +1,15 @@
+{
+  "title": "Clopidogrel pathway",
+  "authors": "Sangkuhl K, Klein TE, Altman RB",
+  "journal": "Pharmacogenetics and Genomics",
+  "year": 2010,
+  "doi": "10.1097/FPC.0b013e3283385420",
+  "pmid": "20440227",
+  "design": "database",
+  "funder": "PharmGKB is supported by the NIH/NIGMS Pharmacogenetics Research Network (PGRN; UO1GM61374).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Clopidogrel is a prodrug absorbed in the intestine and activated in the liver by two sequential oxidative steps, the first forming 2-oxo-clopidogrel and the second the active metabolite. CYP1A2, CYP2B6 and CYP2C19 form 2-oxo-clopidogrel from clopidogrel in liver microsomes; with 2-oxo-clopidogrel as substrate, CYP3A4, CYP2C9, CYP2C19 and CYP2B6 produce the active metabolite. Kazui and colleagues concluded that CYP2C19 contributes substantially to both steps and CYP3A4 to the second. In a competing reaction about 85% of the drug is hydrolysed by esterases to an inactive carboxylic acid. The thiol group of the active metabolite binds a free cysteine of the P2Y12 receptor (P2RY12) and irreversibly blocks ADP binding, so the platelet is affected for its whole lifespan of about 7 to 10 days. Clopidogrel is not detected in human plasma. Between 20% and 40% of patients show low inhibition of ADP-induced platelet aggregation. ABCB1 takes part in intestinal absorption. Interactions have been reported with atorvastatin, verapamil and omeprazole.",
+  "class": "reference",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086847/"
+}

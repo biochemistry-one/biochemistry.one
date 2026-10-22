@@ -1,0 +1,17 @@
+{
+  "title": "Unexpected effect of proton pump inhibitors: elevation of the cardiovascular risk factor asymmetric dimethylarginine",
+  "authors": "Ghebremariam YT, LePendu P, Lee JC, Erlanson DA, Slaviero A, Shah NH, et al.",
+  "journal": "Circulation",
+  "year": 2013,
+  "doi": "10.1161/CIRCULATIONAHA.113.003602",
+  "pmid": "23825361",
+  "design": "mechanistic",
+  "population": "Enzyme assays, cultured endothelial cells, mice and ex vivo human vascular tissue",
+  "funder": "Supported in part by grants to JPC from the NIH (RC2HL103400, 1U01HL100397, and K12HL087746), American Heart Association (11IRG5180026), Stanford SPARK Translational Research Program, Stanford Translational Research and Applied Medicine (TRAM) Program and the Tobacco-Related Disease Research Program of the University of California (18XT-0098); YTG by a Stanford Dean's fellowship and the TRDRP (20FT-0090); NHS and PL by NIH grant U54HG004028, Stanford seed funding and the Stanford Center for Biomedical Informatics Research; NHS also acknowledges support from U54LM008748 and Research Gift Support from Apixio, Inc.",
+  "funderRole": "unknown",
+  "authorConflicts": "JPC and YTG are inventors on patents owned by Stanford University that protect the use of agents that modulate the NOS/DDAH pathway therapeutically.",
+  "dataAccess": "unknown",
+  "result": "PPIs bound to and inhibited dimethylarginine dimethylaminohydrolase (DDAH), the enzyme that degrades asymmetric dimethylarginine (ADMA), an endogenous nitric oxide synthase inhibitor; PPIs raised plasma ADMA and reduced nitric oxide and endothelium-dependent vasodilation in mice and in ex vivo human tissue. Outcomes in people were not measured.",
+  "class": "industry",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3838201/fullTextXML"
+}

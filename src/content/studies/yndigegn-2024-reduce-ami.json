@@ -1,0 +1,20 @@
+{
+  "title": "Beta-blockers after myocardial infarction and preserved ejection fraction",
+  "authors": "Yndigegn T, Lindahl B, Mars K, Alfredsson J, Benatar J, Brandin L, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2024,
+  "doi": "10.1056/NEJMoa2401479",
+  "pmid": "38587241",
+  "registry": "NCT03278509",
+  "design": "rct",
+  "participants": 5020,
+  "followUp": "median 3.5 years",
+  "population": "Acute myocardial infarction with coronary angiography and left ventricular ejection fraction of at least 50%, at 45 centres in Sweden, Estonia and New Zealand",
+  "funder": "Supported by grants from the Swedish Research Council (2016-00493), the Swedish Heart Lung Foundation (20210423, 20210216, 20180187, 20210273), the Stockholm County Council (ALF project), the Green Lane Research and Educational Fund, the Estonian Research Council (PRG435, PRG2078) and Region Stockholm (2018-0490, FoUI-974540). Registry NCT03278509: lead sponsor Karolinska Institutet; collaborators Uppsala University and the Swedish Research Council.",
+  "funderRole": "none",
+  "authorConflicts": "Disclosure forms are published with the full text at NEJM.org; not read.",
+  "dataAccess": "unknown",
+  "result": "Open-label. Death from any cause or new myocardial infarction in 199 of 2508 patients (7.9%) assigned to a beta-blocker (metoprolol or bisoprolol) versus 208 of 2512 (8.3%) assigned to none (HR 0.96, 95% CI 0.79 to 1.16); median follow-up 3.5 years.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250627022332/https://www.nejm.org/doi/full/10.1056/NEJMoa2401479"
+}

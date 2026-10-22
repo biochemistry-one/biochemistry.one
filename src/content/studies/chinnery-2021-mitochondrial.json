@@ -1,0 +1,16 @@
+{
+  "title": "Primary Mitochondrial Disorders Overview",
+  "authors": "Chinnery PF",
+  "journal": "GeneReviews, University of Washington, Seattle",
+  "year": 2021,
+  "pmid": "20301403",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK1224/",
+  "design": "database",
+  "funder": "not stated in the chapter",
+  "funderRole": "unknown",
+  "authorConflicts": "not stated in the chapter",
+  "dataAccess": "summary",
+  "result": "Expert-authored, peer-reviewed overview, posted 8 June 2000, comprehensive update 29 July 2021. More than 70 polypeptides form the respiratory chain on the inner mitochondrial membrane. Mitochondrial DNA encodes 13 essential respiratory-chain subunits (seven of complex I, one of complex III, three of complex IV and two of complex V), two ribosomal RNAs (12S and 16S) and 22 transfer RNAs for intra-mitochondrial protein synthesis; the remaining respiratory-chain polypeptides and the proteins for respiratory-chain assembly, mitochondrial structure and mtDNA maintenance and expression are encoded by the nuclear genome. Each human cell contains thousands of copies of mtDNA; in heteroplasmy, mutated and wild-type mtDNA coexist, and the proportion of mutated mtDNA must exceed a critical threshold before a cell expresses a biochemical defect of the respiratory chain. mtDNA pathogenic variants are transmitted by maternal inheritance; offspring of males with an mtDNA pathogenic variant do not inherit it.",
+  "class": "reference",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/ca/84/gene_NBK1116.tar.gz"
+}

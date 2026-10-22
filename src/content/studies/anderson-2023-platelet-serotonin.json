@@ -1,0 +1,17 @@
+{
+  "title": "Systematic review of studies using platelet serotonin content to assess bioeffect of serotonin reuptake inhibitors at the serotonin transporter",
+  "authors": "Anderson GM, Bruno-Pacella I",
+  "journal": "Psychopharmacology",
+  "year": 2023,
+  "doi": "10.1007/s00213-022-06276-5",
+  "pmid": "36399187",
+  "design": "systematic-review",
+  "population": "Published studies measuring platelet serotonin content before and after starting SSRIs or SNRIs in patients and healthy volunteers",
+  "funder": "not stated: the archived publisher page shows ethics declarations without a funding statement.",
+  "funderRole": "unknown",
+  "authorConflicts": "Anderson reported personal fees from the University of Pennsylvania, Columbia University, King's College, Novartis, Neurogen and Eli Lilly.",
+  "dataAccess": "summary",
+  "result": "Clinical doses of serotonin reuptake inhibitors typically reduced platelet serotonin content by 70% to 90%, similarly across SSRIs and SNRIs, consistent with brain SERT occupancy from neuroimaging and with in vitro platelet uptake inhibition. Results read from the abstract.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20240409021233/https://link.springer.com/article/10.1007/s00213-022-06276-5"
+}

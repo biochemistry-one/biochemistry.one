@@ -1,0 +1,15 @@
+{
+  "title": "Dietary Reference Values for riboflavin",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA), Turck D, Bresson JL, Burlingame B, Dean T, Fairweather-Tait S, et al.",
+  "journal": "EFSA Journal",
+  "year": 2017,
+  "doi": "10.2903/j.efsa.2017.4919",
+  "pmid": "32625611",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (question EFSA-Q-2011-01222).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Riboflavin is the integral part of the coenzymes FAD and FMN, cofactors of flavoprotein enzymes; flavokinase phosphorylates free riboflavin to FMN, which FAD synthetase converts to FAD. Glutathione reductase uses FAD, methylenetetrahydrofolate reductase (MTHFR) requires FAD, and pyridoxamine phosphate oxidase is FMN-dependent. Signs of riboflavin deficiency (ariboflavinosis) are unspecific: sore throat, hyperaemia and oedema of the pharyngeal and oral mucous membranes, cheilosis, glossitis, seborrhoeic dermatitis, angular stomatitis and normochromic normocytic anaemia.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7010026/fullTextXML"
+}

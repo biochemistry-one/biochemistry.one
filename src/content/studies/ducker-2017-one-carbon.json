@@ -1,0 +1,16 @@
+{
+  "title": "One-Carbon Metabolism in Health and Disease",
+  "authors": "Ducker GS, Rabinowitz JD",
+  "journal": "Cell Metabolism",
+  "year": 2017,
+  "doi": "10.1016/j.cmet.2016.08.009",
+  "pmid": "27641100",
+  "design": "other",
+  "funder": "G.S.D. is supported by a postdoctoral fellowship from the American Cancer Society (PF-15-190-01-TBE). J.D.R. is supported by NIH grants R01CA163591 and P30DK019525 and Stand Up to Cancer.",
+  "funderRole": "none",
+  "authorConflicts": "J.D.R. is a founder and scientific advisory board member of Raze Therapeutics, which targets one-carbon metabolism.",
+  "dataAccess": "summary",
+  "result": "Review. Animals require dietary folate. Tetrahydrofolate (THF) binds one-carbon units at N5 and N10 at three oxidation states: 5-methyl-THF, the most reduced, 5,10-methylene-THF and 10-formyl-THF, the most oxidised; folic acid is reduced to dihydrofolate (DHF) and then THF. SHMT1 (cytosol) and SHMT2 (mitochondria) interconvert serine and glycine with THF and 5,10-methylene-THF, reversibly; in rapidly proliferating cultured cells the main direct source of cytosolic one-carbon units is formate released from mitochondria, reassimilated by the trifunctional MTHFD1. TYMS methylates dUMP to dTMP with 5,10-methylene-THF and is the only folate enzyme that alters THF itself, taking two electrons from it and producing DHF; DHFR regenerates THF with NADPH and is the target of trimethoprim and methotrexate, which trap folate as DHF. Purine synthesis incorporates two 10-formyl-THF units; in proliferating cells each new DNA or RNA base needs on average one 10-formyl-THF, and 5,10-methylene-THF is needed for one in four DNA bases. 5-Fluorouracil is a suicide inhibitor of TYMS; methotrexate most potently blocks DHFR, whereas pemetrexed more potently inhibits TYMS and AICAR transformylase; 5-formyl-THF (folinic acid, leucovorin) is given as rescue. 5-Methyl-THF, made by cytosolic NADPH-dependent MTHFR, is consumed only by cobalamin-dependent methionine synthase; BHMT is limited to liver and kidney. SAM inhibits MTHFR and activates CBS; 5-methyl-THF inhibits GNMT. Transsulfuration is the only route that degrades homocysteine. Folate and cobalamin supplementation lower homocysteine without reducing cardiovascular events in the general population. Dietary folate deficiency in adults manifests as macrocytic anaemia.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5353360/"
+}

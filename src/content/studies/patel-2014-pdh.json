@@ -1,0 +1,16 @@
+{
+  "title": "The Pyruvate Dehydrogenase Complexes: Structure-based Function and Regulation",
+  "authors": "Patel MS, Nemeria NS, Furey W, Jordan F",
+  "journal": "Journal of Biological Chemistry",
+  "year": 2014,
+  "doi": "10.1074/jbc.R114.563148",
+  "pmid": "24798336",
+  "design": "other",
+  "funder": "Supported, in whole or in part, by National Institutes of Health grants DK 20478 (to M.S.P.), GM050380 (to F.J.) and GM061791 (to W.F.) and by the Veterans Affairs Merit Review (W.F.).",
+  "funderRole": "none",
+  "authorConflicts": "Not stated in the article.",
+  "dataAccess": "summary",
+  "result": "Review. The pyruvate dehydrogenase complex links glycolysis to the tricarboxylic acid cycle and comprises pyruvate dehydrogenase (E1), dihydrolipoamide acetyltransferase (E2) and dihydrolipoamide dehydrogenase (E3), which work sequentially. E1, a thiamin diphosphate-dependent enzyme, decarboxylates pyruvate and reductively acetylates the lipoyl groups covalently attached to E2; E2 transfers the acetyl group to CoA, forming acetyl-CoA; E3 transfers electrons from the dihydrolipoyl groups of E2 to FAD and then to NAD+.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20240501151000/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4059105/"
+}

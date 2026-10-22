@@ -1,0 +1,18 @@
+{
+  "title": "Vitamin D Deficiency Increases Mortality Risk in the UK Biobank: A Nonlinear Mendelian Randomization Study",
+  "authors": "Sutherland JP, Zhou A, Hyppönen E",
+  "journal": "Annals of Internal Medicine",
+  "year": 2022,
+  "doi": "10.7326/M21-3324",
+  "pmid": "36279545",
+  "design": "mendelian-randomisation",
+  "participants": 307601,
+  "followUp": "14 years; mortality recorded to June 2020",
+  "population": "Unrelated UK Biobank participants of White European ancestry aged 37 to 73 years at recruitment (2006 to 2010) with 25-hydroxyvitamin D and genetic data",
+  "funder": "Primary funding source of the published structured abstract: National Health and Medical Research Council. MEDLINE lists Medical Research Council (UK) grants MC_PC_17228 and MC_QA137853. The full text was not accessible (HTTP 403 at the publisher); the role of the funder was not read.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Nonlinear Mendelian randomisation with 35 variants: 18,700 deaths. The association of genetically predicted 25-hydroxyvitamin D with all-cause mortality was L-shaped, with risk falling steeply up to 50 nmol/L; the odds of death were estimated 25% higher at a measured 25-hydroxyvitamin D of 25 nmol/L than at 50 nmol/L (OR 1.25, 95% CI 1.16 to 1.35). The authors state that a genetic approach gives proof of principle and that the strength of the association is approximate.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/36279545/"
+}

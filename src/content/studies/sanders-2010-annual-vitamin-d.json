@@ -1,0 +1,21 @@
+{
+  "title": "Annual high-dose oral vitamin D and falls and fractures in older women: a randomized controlled trial",
+  "authors": "Sanders KM, Stuart AL, Williamson EJ, Simpson JA, Kotowicz MA, Young D, et al.",
+  "journal": "JAMA",
+  "year": 2010,
+  "doi": "10.1001/jama.2010.594",
+  "pmid": "20460620",
+  "registry": "ACTRN12605000658617; ISRCTN83409867",
+  "design": "rct",
+  "participants": 2256,
+  "followUp": "3 to 5 years",
+  "population": "Community-dwelling women aged 70 years or older at high risk of fracture",
+  "funder": "The study was supported by project grant No. 251682 from the National Health and Medical Research Council and by the Australian Government Department of Health and Ageing. The funding organizations were independent of the design and conduct of the study; collection, management, analysis, and interpretation of the data; and preparation, review, or approval of the manuscript.",
+  "funderRole": "none",
+  "inKindSupport": "Study medication was supplied by PSM Healthcare, Auckland, New Zealand.",
+  "authorConflicts": "Financial disclosures: none reported.",
+  "dataAccess": "individual",
+  "result": "Cholecalciferol 500,000 IU once a year in autumn or winter versus placebo for 3 to 5 years: falls 83.4 versus 72.7 per 100 person-years (incidence rate ratio 1.15, 95% CI 1.02 to 1.30); fractures 171 versus 135, 4.9 versus 3.9 per 100 person-years (rate ratio 1.26, 1.00 to 1.59). In a substudy, serum 25-hydroxyvitamin D rose to about 120 nmol/l at 1 month after dosing, was about 90 nmol/l at 3 months and remained higher than placebo at 12 months.",
+  "class": "independent",
+  "fundingChecked": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2010.594"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Exposure to food additive mixtures in 106,000 French adults from the NutriNet-Santé cohort",
+  "authors": "Chazelas E, Druesne-Pecollo N, Esseddik Y, de Edelenyi FS, Agaesse C, De Sa A, et al.",
+  "journal": "Scientific Reports",
+  "year": 2021,
+  "doi": "10.1038/s41598-021-98496-6",
+  "pmid": "34608173",
+  "registry": "NCT03335644",
+  "design": "cross-sectional",
+  "participants": 106489,
+  "population": "French adults of the web-based NutriNet-Santé cohort, 2009 to 2020, with at least two 24-h dietary records in the first two years of follow-up, energy under-reporters excluded; 69% women; mean age 42.9 years; mean 5.6 dietary records",
+  "funder": "NutriNet-Santé: Ministère de la Santé, Santé Publique France, INSERM, INRAE, CNAM and University Sorbonne Paris Nord. E. Chazelas: doctoral funding from University Sorbonne Paris Nord; C. Debras: French National Cancer Institute. Project: European Research Council (Horizon 2020, grant agreement No 864219), French National Cancer Institute (INCa_14059), French Ministry of Health (arrêté 29.11.19) and IdEx Université de Paris (ANR-18-IDEX-0001). Researchers were independent from funders; funders had no role in the study design, the collection, analysis and interpretation of data, the writing of the report, and the decision to submit the article for publication.",
+  "funderRole": "none",
+  "inKindSupport": "Some of the 2677 ad hoc laboratory assays of additive doses were ordered by the consumers' association UFC Que Choisir.",
+  "authorConflicts": "None of the authors reported a conflict of interest related to the study.",
+  "dataAccess": "individual",
+  "result": "Intakes of 90 additives were estimated from repeated 24-h records matched to brand-level composition data (OQALI, Open Food Facts, Mintel GNPD), with doses from 2677 laboratory assays, EFSA dose data by food category or Codex GSFA levels; descriptive analyses were weighted to the 2016 French census. Table 1, % consumers; median, 95th percentile and mean (SD) in mg/day; mean (SD) in mg/kg bw/day: modified starches E 14xx 91.48%; 1304.66, 4270.38, 1596.45 (1394.44); 24.33 (21.84). Citric acid E 330 91.15%; 1380.84, 6193.84, 1956.51 (2231.41); 29.84 (34.31). Lecithins E 322 86.57%; 35.36, 168.33, 53.94 (71.99); 0.83 (1.1). Xanthan gum E 415 79.74%; 303.60, 1401.31, 439.26 (508.65); 6.62 (7.62). Mono- and diglycerides of fatty acids E 471 78.07%; 101.90, 547.24, 160.8 (197.42); 2.44 (2.98). Sodium carbonates E 500 67.10%; 560.00, 4950.00, 1267.46 (1913.51); 19.62 (29.73), with median 8.51 and 95th percentile 76.73 mg/kg bw/day. The ADI column reads NA for all six. Diphosphates E 450 64.36%; 62.86, 715.67, 178.33 (308.05); 2.74 (4.67); ADI 40 mg/kg bw/day, exceeded by 0.02% of all participants and 0.03% of consumers. Additives without a specified ADI can be used quantum satis, that is with no limitations other than current good manufacturing practice. The authors state that information on the health impact of regular and cumulative intake of food additives in humans, and on effects of their mixtures, is still missing.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8490357/fullTextXML"
+}

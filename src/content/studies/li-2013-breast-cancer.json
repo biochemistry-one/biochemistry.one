@@ -1,0 +1,18 @@
+{
+  "title": "Use of antihypertensive medications and breast cancer risk among women aged 55 to 74 years",
+  "authors": "Li CI, Daling JR, Tang MT, Haugen KL, Porter PL, Malone KE",
+  "journal": "JAMA Internal Medicine",
+  "year": 2013,
+  "doi": "10.1001/jamainternmed.2013.9071",
+  "pmid": "23921840",
+  "design": "case-control",
+  "participants": 2763,
+  "population": "Women aged 55 to 74 years in the Seattle-Puget Sound area: 880 with invasive ductal breast cancer, 1027 with invasive lobular breast cancer and 856 controls",
+  "funder": "This study was funded by the National Cancer Institute (R01-CA105041) and the Department of Defense (W81XWH-05-1-0482). Neither funding organization was involved with the design and conduct of the study; collection, management, analysis, and interpretation of the data; or preparation, review, or approval of this manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "Financial disclosures: none.",
+  "dataAccess": "unknown",
+  "result": "Current use of calcium channel blockers for 10 years or more was associated with ductal breast cancer (odds ratio 2.4, 95% CI 1.2 to 4.9; P for trend 0.04) and lobular breast cancer (2.6, 1.3 to 5.3; P for trend 0.01), without appreciable difference between short-acting and long-acting or dihydropyridine and non-dihydropyridine agents. Diuretics, beta blockers and angiotensin II antagonists were not associated with risk. The authors call for confirmation and for study of possible mechanisms.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4112594/"
+}

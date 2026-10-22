@@ -1,0 +1,35 @@
+{
+  "title": "Ciclo de la urea",
+  "layout": "cycle",
+  "compartment": "Hígado; OTC en la matriz mitocondrial; ASS1, ASL y ARG1 en el citosol",
+  "steps": [
+    {
+      "from": "Ornitina",
+      "to": "Citrulina",
+      "enzyme": "Ornitina transcarbamilasa (OTC)",
+      "cofactors": ["Carbamoil fosfato"],
+      "note": "Matriz; la CPS1, activada por N-acetilglutamato, forma el carbamoil fosfato"
+    },
+    {
+      "from": "Citrulina",
+      "to": "Argininosuccinato",
+      "enzyme": "Argininosuccinato sintasa 1 (ASS1)",
+      "cofactors": ["Aspartato", "ATP"],
+      "note": "Citosol; la citrulina sale de la matriz por ORNT1; el ATP da AMP y difosfato"
+    },
+    {
+      "from": "Argininosuccinato",
+      "to": "Arginina",
+      "enzyme": "Argininosuccinato liasa (ASL)",
+      "reversible": true,
+      "note": "Libera fumarato, que enlaza este ciclo con el ciclo del ácido cítrico"
+    },
+    {
+      "from": "Arginina",
+      "to": "Ornitina",
+      "enzyme": "Arginasa 1 (ARG1)",
+      "cofactors": ["H2O", "Mn2+ (2 por subunidad)"],
+      "note": "Libera urea; la ornitina vuelve a entrar en la matriz por ORNT1 (SLC25A15)"
+    }
+  ]
+}

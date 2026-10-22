@@ -1,0 +1,17 @@
+{
+  "title": "Familial hypercholesterolemia: defective binding of lipoproteins to cultured fibroblasts associated with impaired regulation of 3-hydroxy-3-methylglutaryl coenzyme A reductase activity",
+  "authors": "Brown MS, Goldstein JL",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 1974,
+  "doi": "10.1073/pnas.71.3.788",
+  "pmid": "4362634",
+  "design": "in-vitro",
+  "population": "Cultured skin fibroblasts from normal subjects and from five unrelated subjects with homozygous familial hypercholesterolaemia",
+  "funder": "Grants from the American Heart Association (72629), the Dallas Diabetes Association and the National Institutes of Health (HL 16024 and GM 19258); J.L.G. held a USPHS Research Career Development Award (GM 70,227).",
+  "funderRole": "none",
+  "inKindSupport": "D. W. Bilheimer gave [125I]LDL.",
+  "dataAccess": "individual",
+  "result": "Normal fibroblasts bound 125I-LDL with high affinity and specificity; at 37 degrees C binding sites were saturated at an LDL concentration of 20 micrograms per ml, with a maximum of about 250,000 molecules bound per cell. High-affinity binding of similar magnitude was absent in cells from five unrelated homozygotes for familial hypercholesterolaemia. The binding appeared to be a required step by which LDL suppresses HMG-CoA reductase, the rate-controlling enzyme of cholesterol synthesis.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC388099/"
+}

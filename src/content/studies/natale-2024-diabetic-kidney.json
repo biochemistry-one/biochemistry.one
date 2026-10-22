@@ -1,0 +1,17 @@
+{
+  "title": "Angiotensin-converting-enzyme inhibitors and angiotensin receptor blockers for preventing the progression of diabetic kidney disease",
+  "authors": "Natale P, Palmer SC, Navaneethan SD, Craig JC, Strippoli GF",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2024,
+  "doi": "10.1002/14651858.CD006257.pub2",
+  "pmid": "38682786",
+  "design": "meta-analysis",
+  "participants": 28341,
+  "population": "109 randomised studies of ACE inhibitors or angiotensin receptor blockers, alone or combined, against each other, placebo or no treatment in adults with diabetes and kidney disease; search to 17 March 2024",
+  "funder": "not read: the full-text records available in PubMed Central and Europe PMC contain only the abstract, and the Cochrane Library page is not accessible.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Overall risk of bias was high. Against placebo or no treatment, ACE inhibitors may make little or no difference to all-cause death (24 studies, 7413 participants: RR 0.91, 95% CI 0.73 to 1.15) and may prevent kidney failure (8 studies, 6643 participants: RR 0.61, 0.39 to 0.94); angiotensin receptor blockers may make little or no difference to death (11 studies, 4260 participants: RR 0.99, 0.85 to 1.16), have uncertain effects on cardiovascular death (6 studies, 878 participants: RR 3.36, 0.93 to 12.07) and may prevent kidney failure (3 studies, 3227 participants: RR 0.82, 0.72 to 0.94) and doubling of serum creatinine (RR 0.84, 0.72 to 0.97); all low certainty. Adverse events of ACE inhibitors and angiotensin receptor blockers were rarely reported. Monotherapy against dual therapy has not been adequately assessed, and further studies might provide different results.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11057222/"
+}

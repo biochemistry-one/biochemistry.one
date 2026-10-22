@@ -1,0 +1,18 @@
+{
+  "title": "Prevalence of financial conflicts of interest among panel members producing clinical practice guidelines in Canada and United States: cross sectional study",
+  "authors": "Neuman J, Korenstein D, Ross JS, Keyhani S",
+  "journal": "BMJ",
+  "year": 2011,
+  "doi": "10.1136/bmj.d5621",
+  "pmid": "21990257",
+  "design": "cross-sectional",
+  "participants": 288,
+  "population": "Members of panels of 14 US and Canadian national guidelines on hyperlipidaemia (7) or diabetes (7) published 2000 to 2010",
+  "funder": "This project was not directly supported by any research funds. One author is funded by a Veterans' Administration HSR&D career development award; one is supported by the National Institute on Aging (K08 AG032886) and by the American Federation of Aging Research through the Paul B Beeson Career Development Award Program.",
+  "funderRole": "none",
+  "authorConflicts": "No financial relationships with any organisations that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "summary",
+  "result": "Five of the 14 guidelines had no accompanying declaration of conflicts of interest. Of 288 panel members, 138 (48%) declared conflicts at publication; among 73 who declared none, 8 (11%) were found to have one or more; overall 150 (52%) had conflicts, 12 undeclared. Of members declaring conflicts, 93% reported honoraria, speakers' fees, consultancy or stock ownership from manufacturers of relevant drugs. Six of 12 identified chairs had conflicts. Government-sponsored panels had fewer conflicts than others (15 of 92, 16%, against 135 of 196, 69%). Among hyperlipidaemia panels, 44 of 99 members (44%) had conflicts, and 40 of 61 (66%) in the hyperlipidaemia guidelines with declarations.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3191201"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Clinical Pharmacogenetics Implementation Consortium Guideline for CYP2C19 Genotype and Clopidogrel Therapy: 2022 Update",
+  "authors": "Lee CR, Luzum JA, Sangkuhl K, Gammal RS, Sabatine MS, Stein CM, et al.",
+  "journal": "Clinical Pharmacology and Therapeutics",
+  "year": 2022,
+  "doi": "10.1002/cpt.2526",
+  "pmid": "35034351",
+  "design": "guideline",
+  "funder": "This work was funded by the National Institutes of Health (NIH) for CPIC (R24GM115264 and U24HG010135), PharmGKB (U24HG010615) and PharmVar (R24 GM123930), with additional NIH grants to individual authors (R01HL149752, K08HL146990, UL1TR003098, R35GM131770, R01HL092173, K24HL133373).",
+  "funderRole": "none",
+  "authorConflicts": "One author is an employee of Regeneron Pharmaceuticals with stock options and restricted stock units, one is a paid consultant of Sema4, one has received speaker, advisory board or consultancy fees from Amgen, AstraZeneca, Bayer, Bioserenity, Bristol-Myers Squibb, MSD, Novartis and Vifor, and one reports grants and personal fees from Amgen, Anthos Therapeutics, AstraZeneca, Intarcia, Medicines Company, MedImmune and Merck and further grants and fees from other companies. All other authors declared no competing interests.",
+  "dataAccess": "summary",
+  "result": "Clopidogrel is a thienopyridine prodrug. Only 15% of the dose is available for transformation to the active agent, the remaining 85% being hydrolysed by carboxylesterase-1 to inactive forms. Conversion requires two sequential oxidative steps involving CYP1A2, CYP2B6, CYP2C9, CYP2C19 and CYP3A4/5, with the greatest contribution from CYP2C19 in both steps; the active metabolite selectively and irreversibly inhibits the P2Y12 receptor for the platelet lifespan of about 10 days. For acute coronary syndrome or percutaneous coronary intervention, CYP2C19 intermediate and poor metabolisers should avoid standard-dose clopidogrel and receive prasugrel or ticagrelor where not contraindicated (strong for both phenotypes); normal, rapid and ultrarapid metabolisers should receive the standard 75 mg daily dose (strong). In a meta-analysis of seven randomised trials of genotype-guided antiplatelet therapy with 15,949 patients (77% percutaneous coronary intervention, 98% acute coronary syndrome), prasugrel or ticagrelor reduced major ischaemic events against clopidogrel in intermediate and poor metabolisers (risk ratio 0.70, 95% CI 0.59 to 0.83) but not in non-carriers of no-function alleles (risk ratio 1.0, 95% CI 0.80 to 1.25), with a genotype-treatment interaction at P = 0.013.",
+  "class": "consensus",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287492/"
+}

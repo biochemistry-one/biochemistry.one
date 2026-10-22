@@ -1,0 +1,19 @@
+{
+  "title": "Effect of intensive blood-glucose control with metformin on complications in overweight patients with type 2 diabetes (UKPDS 34)",
+  "authors": "UK Prospective Diabetes Study (UKPDS) Group",
+  "journal": "The Lancet",
+  "year": 1998,
+  "doi": "10.1016/S0140-6736(98)07037-8",
+  "pmid": "9742977",
+  "registry": "ISRCTN75451837",
+  "design": "rct",
+  "participants": 753,
+  "followUp": "median 10.7 years",
+  "population": "Overweight adults (more than 120% of ideal bodyweight) with newly diagnosed type 2 diabetes, mean age 53 years, fasting plasma glucose 6.1 to 15.0 mmol/L without hyperglycaemic symptoms after 3 months of diet; 1704 such patients of the 4075 recruited at 15 centres",
+  "funder": "Funding read from the UKPDS study website and the ISRCTN entry, not from the paper, whose study organisation and funding are printed at the end of the full text. Primary funders: UK Medical Research Council, British Diabetic Association, UK Department of Health, British Heart Foundation, US National Institutes of Health (NEI, NIDDK), Wellcome Trust; also Novo-Nordisk, Bayer, Bristol-Myers Squibb, Hoechst, Lilly, Lipha, Glaxo Wellcome, SmithKline Beecham, Pfizer, Zeneca, Pharmacia & Upjohn, Roche, Farmitalia Carlo Erba; Charles Wolfson Charitable Trust, Clothworkers' Foundation, Health Promotion Research Trust, Alan and Babette Sainsbury Trust, Oxford University Medical Research Fund Committee. The ISRCTN entry names the MRC as funder and the University of Oxford Diabetes Trials Unit as sponsor, with 'several pharmaceutical companies' as a further funder.",
+  "funderRole": "unknown",
+  "dataAccess": "unavailable",
+  "result": "Results read from the published abstract; the publisher's full text returned HTTP 403 to automated access and is absent from PubMed Central, so absolute event rates and the paper's own funding statement were not read. In the main randomised comparison, 342 patients were allocated metformin (target fasting plasma glucose below 6 mmol/L) and 411 conventional policy, primarily diet alone. Median glycated haemoglobin was 7.4% with metformin against 8.0% with conventional policy. Risk reductions with metformin against conventional policy: 32% for any diabetes-related endpoint (95% CI 13 to 47, p = 0.002), 42% for diabetes-related death (9 to 63, p = 0.017), 36% for all-cause mortality (9 to 55, p = 0.011). Against 951 overweight patients allocated intensive control with chlorpropamide, glibenclamide or insulin, metformin showed a greater effect for any diabetes-related endpoint (p = 0.0034), all-cause mortality (p = 0.021) and stroke (p = 0.032). In a supplementary trial, 537 patients already on maximum sulphonylurea were allocated continued sulphonylurea (n = 269) or added metformin (n = 268); added metformin was associated with a 96% increased risk of diabetes-related death (95% CI 2 to 275, p = 0.039). A combined analysis of the main and supplementary trials gave a 19% reduction in diabetes-related endpoints (2 to 33, p = 0.033). Epidemiological assessment in 4416 patients showed no increased diabetes-related death with combined sulphonylurea and metformin (risk reduction 5%, -33 to 32, p = 0.78).",
+  "class": "industry",
+  "fundingChecked": "https://web.archive.org/web/20010127014900/http://www.dtu.ox.ac.uk/ukpds/funding.html"
+}

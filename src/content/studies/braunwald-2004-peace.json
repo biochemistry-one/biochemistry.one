@@ -1,0 +1,18 @@
+{
+  "title": "Angiotensin-converting-enzyme inhibition in stable coronary artery disease",
+  "authors": "PEACE Trial Investigators; writing committee Braunwald E, Domanski MJ, Fowler SE, Geller NL, Gersh BJ, Hsia J, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2004,
+  "doi": "10.1056/NEJMoa042739",
+  "pmid": "15531767",
+  "design": "rct",
+  "participants": 8290,
+  "followUp": "median 4.8 years",
+  "population": "Patients with stable coronary artery disease and normal or slightly reduced left ventricular function (mean ejection fraction 58%), mean age 64 years, mean blood pressure 133/78 mm Hg; 72% previously revascularised and 70% on lipid-lowering drugs",
+  "funder": "not read: the author manuscript in PubMed Central lacks the funding section and the publisher page is not accessible. Three writing-committee members are National Heart, Lung, and Blood Institute staff; PubMed indexes US Public Health Service and non-US-government support.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Double-blind trandolapril, target 4 mg/day (n=4158), against placebo (n=4132). Cardiovascular death, myocardial infarction or coronary revascularisation in 21.9% against 22.5% (hazard ratio 0.96, 95% CI 0.88 to 1.06). The authors conclude that in patients with stable coronary disease and preserved left ventricular function on current therapy, in whom event rates are lower than in earlier ACE inhibitor trials, there is no evidence that adding an ACE inhibitor provides further benefit.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2556374/"
+}

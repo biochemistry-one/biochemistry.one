@@ -1,0 +1,14 @@
+{
+  "title": "Codeine sulfate tablets, USP, for oral use: full prescribing information",
+  "authors": "US Food and Drug Administration (labelling submitted by Lannett Company, Inc.)",
+  "journal": "US Food and Drug Administration approved prescribing information, via DailyMed; version 29, effective 16 January 2026",
+  "year": 2026,
+  "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293",
+  "design": "regulatory",
+  "funder": "not stated; FDA-approved labelling carries no funding statement",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Metabolism: about 70% to 80% of a codeine dose is conjugated with glucuronic acid to codeine-6-glucuronide, about 5% to 10% is O-demethylated to morphine and about 10% is N-demethylated to norcodeine. UGT2B7 and UGT2B4 are the major enzymes of the glucuronidation, CYP2D6 of the conversion to morphine and CYP3A4 of the conversion to norcodeine. Morphine and norcodeine are further conjugated with glucuronic acid; morphine-6-glucuronide has analgesic activity in humans and morphine-3-glucuronide is not considered to have it. About 90% of the dose is excreted renally, about 10% of it as unchanged codeine, and the plasma half-lives of codeine and its metabolites are about 3 hours. Peak plasma concentration occurs 60 minutes after an oral dose; plasma protein binding is 7% to 25%. Ultrarapid metabolisers carry CYP2D6 gene duplications such as *1/*1xN or *1/*2xN; the estimated prevalence of this phenotype is 1% to 10% for Whites (European, North American), 3% to 4% for Blacks (African Americans), 1% to 2% for East Asians (Chinese, Japanese, Korean) and above 10% in certain groups (Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican). Life-threatening respiratory depression and death have occurred in children given codeine, most cases after tonsillectomy or adenoidectomy and many in ultrarapid metabolisers; the drug is contraindicated in children younger than 12 years and, for post-operative use, in those younger than 18 years after tonsillectomy or adenoidectomy, and breastfeeding is not recommended during treatment.",
+  "class": "regulatory",
+  "fundingChecked": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293"
+}

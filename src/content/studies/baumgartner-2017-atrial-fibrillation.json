@@ -1,0 +1,18 @@
+{
+  "title": "Thyroid function within the normal range, subclinical hypothyroidism, and the risk of atrial fibrillation",
+  "authors": "Baumgartner C, da Costa BR, Collet TH, Feller M, Floriani C, Bauer DC, et al.",
+  "journal": "Circulation",
+  "year": 2017,
+  "doi": "10.1161/CIRCULATIONAHA.117.028753",
+  "pmid": "29061566",
+  "design": "meta-analysis",
+  "participants": 30085,
+  "followUp": "278,955 person-years",
+  "population": "Individual participant data from 11 prospective cohorts with baseline thyroid function and incident atrial fibrillation",
+  "funder": "This study was supported by grants from the Swiss National Science Foundation and partially by the Swiss Heart Foundation. Contributing cohorts were funded by public agencies; the original PROSPER study was supported by an unrestricted, investigator-initiated grant obtained from Bristol-Myers Squibb. The NIA funded the Health, Aging, and Body Composition Study, reviewed the manuscript, and approved its publication.",
+  "funderRole": "publication",
+  "dataAccess": "individual",
+  "result": "2574 participants (8.6%) developed atrial fibrillation. TSH was not associated with atrial fibrillation in euthyroid participants or in subclinical hypothyroidism. Among euthyroid participants, the highest against the lowest quartile of free T4 carried an age- and sex-adjusted hazard ratio of 1.45 (95% CI 1.26 to 1.66), with a trend across quartiles.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5705446/"
+}

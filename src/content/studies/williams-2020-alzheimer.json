@@ -1,0 +1,17 @@
+{
+  "title": "Lipid lowering and Alzheimer disease risk: A mendelian randomization study",
+  "authors": "Williams DM, Finan C, Schmidt AF, Burgess S, Hingorani AD",
+  "journal": "Annals of Neurology",
+  "year": 2020,
+  "doi": "10.1002/ana.25642",
+  "pmid": "31714636",
+  "design": "mendelian-randomisation",
+  "population": "Variants weighted by LDL cholesterol in up to 295,826 people from lipid genetics consortia; Alzheimer disease in 24,718 cases and 56,685 controls from two samples",
+  "funder": "D.M.W. received support from the Foundation for Geriatric Diseases at Karolinska Institutet (2018-01252); A.F.S. is supported by British Heart Foundation grant PG/18/5033837.",
+  "funderRole": "unknown",
+  "authorConflicts": "Nothing to report.",
+  "dataAccess": "summary",
+  "result": "Gene-region models for HMGCR (statin target), APOB and NPC1L1 did not suggest that the corresponding drug classes would affect Alzheimer disease risk; all point estimates for HMGCR were on the side of neuroprotection, with confidence intervals that included the null. Genetically instrumented PCSK9 inhibition was associated with higher Alzheimer disease risk (odds ratio 1.45, 95% CI 1.23 to 1.69, per standard deviation lower LDL cholesterol).",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6944510"
+}

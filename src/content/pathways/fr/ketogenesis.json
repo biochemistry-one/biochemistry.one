@@ -1,0 +1,43 @@
+{
+  "title": "Cétogenèse",
+  "layout": "chain",
+  "compartment": "Matrice mitochondriale des hépatocytes",
+  "steps": [
+    {
+      "from": "Acyl-CoA à longue chaîne",
+      "to": "Acétyl-CoA",
+      "enzyme": "plusieurs étapes",
+      "inhibitors": [{"name": "Malonyl-CoA"}],
+      "note": "Entrée par la navette de la carnitine (CPT1A), puis β-oxydation"
+    },
+    {
+      "from": "Acétyl-CoA",
+      "to": "Acétoacétyl-CoA",
+      "enzyme": "Acétyl-CoA acétyltransférase 1 (ACAT1)",
+      "cofactors": ["Acétyl-CoA"],
+      "reversible": true,
+      "note": "Thiolase mitochondriale ; condense deux acétyl-CoA et libère du CoA"
+    },
+    {
+      "from": "Acétoacétyl-CoA",
+      "to": "HMG-CoA",
+      "enzyme": "HMG-CoA synthase 2 (HMGCS2), mitochondriale",
+      "cofactors": ["Acétyl-CoA", "H2O"],
+      "note": "Étape d'engagement ; libère du CoA ; son déficit altère la cétogenèse à jeun"
+    },
+    {
+      "from": "HMG-CoA",
+      "to": "Acétoacétate",
+      "enzyme": "HMG-CoA lyase (HMGCL)",
+      "note": "Libère de l'acétyl-CoA ; l'acétoacétate se décarboxyle spontanément en acétone"
+    },
+    {
+      "from": "Acétoacétate",
+      "to": "D-3-Hydroxybutyrate",
+      "enzyme": "3-Hydroxybutyrate déshydrogénase 1 (BDH1)",
+      "cofactors": ["NADH en NAD+"],
+      "reversible": true,
+      "note": "Proche de l'équilibre ; le rapport des produits suit le NADH/NAD+ mitochondrial"
+    }
+  ]
+}

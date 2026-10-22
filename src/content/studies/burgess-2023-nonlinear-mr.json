@@ -1,0 +1,18 @@
+{
+  "title": "Violation of the Constant Genetic Effect Assumption Can Result in Biased Estimates for Non-Linear Mendelian Randomization",
+  "authors": "Burgess S",
+  "journal": "Human Heredity",
+  "year": 2023,
+  "doi": "10.1159/000531659",
+  "pmid": "37651993",
+  "design": "mendelian-randomisation",
+  "participants": 333002,
+  "population": "UK Biobank participants previously analysed for 25-hydroxyvitamin D and all-cause mortality (Sofianopoulou et al., Lancet Diabetes Endocrinol 2021) and other exposures",
+  "funder": "Stephen Burgess is supported by the Wellcome Trust (225790/Z/22/Z), the UK Research and Innovation Medical Research Council (MC_UU_00002/7) and the National Institute for Health Research Cambridge Biomedical Research Centre (BRC-1215-20014). No statement on the role of the funders was found.",
+  "funderRole": "unknown",
+  "authorConflicts": "The author has no conflicts of interest to declare.",
+  "dataAccess": "individual",
+  "result": "The effect of the 25-hydroxyvitamin D genetic score on 25-hydroxyvitamin D varied five-fold between the lowest and highest decile groups, violating the constant genetic effect assumption of the residual method. A protective effect of vitamin D on all-cause mortality in people with low vitamin D appeared with the residual method but not with the doubly ranked method, and was substantially attenuated with the residual method after log-transforming the exposure. The author regrets that a primary conclusion of the earlier analysis is likely to be misleading and states that this does not prove a null effect.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10614256/fullTextXML"
+}

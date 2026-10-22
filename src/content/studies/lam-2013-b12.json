@@ -1,0 +1,19 @@
+{
+  "title": "Proton pump inhibitor and histamine 2 receptor antagonist use and vitamin B12 deficiency",
+  "authors": "Lam JR, Schneider JL, Zhao W, Corley DA",
+  "journal": "JAMA",
+  "year": 2013,
+  "doi": "10.1001/jama.2013.280490",
+  "pmid": "24327038",
+  "design": "case-control",
+  "participants": 210155,
+  "followUp": "January 1997 to June 2011",
+  "population": "Kaiser Permanente Northern California members: 25,956 with incident vitamin B12 deficiency and 184,199 controls",
+  "funder": "This project was supported by a Kaiser Permanente Community Benefit grant. Kaiser Permanente had no role in the design and conduct of the study; the collection, management, analysis, and interpretation of the data; the preparation, review, or approval of the manuscript; or the decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Dr Corley reported receiving a grant or grant pending from Wyeth/Pfizer. No other authors reported disclosures.",
+  "dataAccess": "individual",
+  "result": "A 2-year or longer supply of PPIs was dispensed to 3120 of 25,956 cases (12.0%) and 13,210 of 184,199 controls (7.2%): OR 1.65 (95% CI 1.58 to 1.73); for H2-receptor antagonists without PPI OR 1.25 (1.17 to 1.34). More than 1.5 PPI pills a day OR 1.95 (1.77 to 2.15) against less than 0.75 pills a day OR 1.63 (1.48 to 1.78).",
+  "class": "independent",
+  "fundingChecked": "https://jamanetwork.com/journals/jama/fullarticle/1788456"
+}

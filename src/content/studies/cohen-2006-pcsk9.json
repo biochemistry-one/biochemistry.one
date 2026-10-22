@@ -1,0 +1,19 @@
+{
+  "title": "Sequence variations in PCSK9, low LDL, and protection against coronary heart disease",
+  "authors": "Cohen JC, Boerwinkle E, Mosley TH, Hobbs HH",
+  "journal": "New England Journal of Medicine",
+  "year": 2006,
+  "doi": "10.1056/NEJMoa054013",
+  "pmid": "16554528",
+  "design": "genetic",
+  "participants": 12887,
+  "followUp": "15 years",
+  "population": "Participants of the Atherosclerosis Risk in Communities (ARIC) study, aged 45 to 64 years at entry: 3363 Black and 9524 White subjects",
+  "funder": "Supported by the Donald W. Reynolds Foundation, the W.M. Keck Foundation, and the Le Ducq Foundation; by a grant (HL 20948) from the National Institutes of Health; and as a collaborative study by contracts (N01-HC-55015, N01-HC-55016, N01-HC-55018, N01-HC-55019, N01-HC-55020, N01-HC-55021, and N01-HC-55022) with the National Heart, Lung, and Blood Institute.",
+  "funderRole": "none",
+  "authorConflicts": "No potential conflict of interest relevant to this article was reported.",
+  "dataAccess": "individual",
+  "result": "Of 3363 Black participants, 2.6% carried the PCSK9 nonsense mutation Y142X or C679X (allele frequencies 0.8% and 1.8%), and their mean LDL cholesterol was 28% lower than in non-carriers. Over the 15-year follow-up, coronary heart disease (myocardial infarction, fatal coronary heart disease or coronary revascularisation) occurred in 1 of 85 carriers (1.2%) against 9.7% of non-carriers (P = 0.008); the age- and sex-adjusted hazard ratio was 0.11 (95% CI 0.02 to 0.81; P = 0.03). Of 9524 White participants, 3.2% carried PCSK9 R46L, which was associated with 15% lower LDL cholesterol and coronary events in 6.3% against 11.8% (hazard ratio 0.50, 95% CI 0.32 to 0.79; P = 0.003).",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20150112030631/http://www.nejm.org:80/doi/full/10.1056/NEJMoa054013"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The incidence of anti-HMGCR immune-mediated necrotizing myopathy: an Australian and UK retrospective multi-site cohort study",
+  "authors": "Khoo T, Tan E, Limaye V, Gunawardena H, Sadler R, Lamb JA, et al.",
+  "journal": "Rheumatology (Oxford)",
+  "year": 2025,
+  "doi": "10.1093/rheumatology/keaf238",
+  "pmid": "40347460",
+  "design": "cohort",
+  "participants": 109,
+  "followUp": "median 2.3 years (IQR 1.5 to 4.2)",
+  "population": "Adults with anti-HMGCR immune-mediated necrotising myopathy (ENMC criteria, 2018 to 2023) in Manchester and Bristol (UK), Western Australia and South Australia",
+  "funder": "H.C., M.H.B. and M.T. are supported by the NIHR Manchester Biomedical Research Centre (NIHR203308). T.K. was supported by the Ken Muirden ARA Fellowship (Arthritis Australia National Research Program 2023), an Australian Government Postgraduate Research Training Program Scholarship, The Hospital Research Foundation-Arthritis/SA ARA Postgraduate Research Award and a 2024 Royal Australasian College of Physicians Research Entry Scholarship.",
+  "funderRole": "unknown",
+  "authorConflicts": "One author reported speaker, consulting, advisory board or monitoring board fees from GSK, UCB, PTC Therapeutics, AstraZeneca, Pfizer and Horizon Therapeutics and grant funding from Pfizer; another reported grant funding from Pfizer and Eli Lilly; the remaining authors declared none.",
+  "dataAccess": "individual",
+  "result": "109 cases (51% female, median age 66). Mean annual incidence 2.9 cases per million person-years; among statin users 20.4 (UK) and 24.1 (Western and South Australia) cases per million statin users per year. 101 were statin-exposed, mostly to atorvastatin (77 of 101); median statin duration before diagnosis 3 years (1 month to 23 years). Median peak creatine kinase 7020 IU/L (964 to 39,076); 48 of 105 received intravenous immunoglobulin. At follow-up, 50 of 105 (47.6%) had normal creatine kinase and 48 of 104 (46.2%) normal muscle power. Eight (7.5%) were statin-naive.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12407235"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "The complete sequence of a human genome",
+  "authors": "Nurk S, Koren S, Rhie A, Rautiainen M, Bzikadze AV, Mikheenko A, et al.",
+  "journal": "Science",
+  "year": 2022,
+  "doi": "10.1126/science.abj6987",
+  "pmid": "35357919",
+  "design": "genetic",
+  "population": "CHM13hTERT cell line from a complete hydatidiform mole, 46,XX and nearly uniformly homozygous",
+  "funder": "Intramural Research Programs of the National Human Genome Research Institute and the National Library of Medicine, NIH; numerous NIH and NSF grants; Intramural funding at the National Institute of Standards and Technology; Wellcome (WT206194, WT207492); HHMI; Mark Foundation for Cancer Research; Chan Zuckerberg Biohub Investigator Award; Max Planck Society; St. Petersburg State University; Ministry of Science and Higher Education of the Russian Federation; Swiss National Science Foundation; ERC; German Federal Ministry for Research and Education; Connecticut Innovations; and personal fellowships, as listed in the paper.",
+  "funderRole": "none",
+  "inKindSupport": "Computational support from AnVIL, Amazon Web Services, DNAnexus, the UW Genome Sciences IT Group and the UConn Computational Biology Core.",
+  "authorConflicts": "Five authors (IS, JK, MWH, PP, AW) are employees of Pacific Biosciences, two (AF, CSC) of DNAnexus, and one (SA) is an employee and stockholder of Oxford Nanopore Technologies; other authors report scientific advisory board membership, company income, travel funds from Pacific Biosciences or Oxford Nanopore Technologies, or patents licensed to Oxford Nanopore Technologies.",
+  "dataAccess": "individual",
+  "result": "T2T-CHM13 includes gapless telomere-to-telomere assemblies of all 22 autosomes and chromosome X, comprising 3,054,815,472 bp of nuclear DNA, plus a 16,569 bp mitochondrial genome; it covers the 8% of the genome missing from the earlier reference. Gene annotation: 19,969 protein-coding genes in T2T-CHM13 against 19,890 in GENCODE for GRCh38.",
+  "class": "industry",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9186530/fullTextXML"
+}

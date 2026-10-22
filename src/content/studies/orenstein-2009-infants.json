@@ -1,0 +1,19 @@
+{
+  "title": "Multicenter, double-blind, randomized, placebo-controlled trial assessing the efficacy and safety of proton pump inhibitor lansoprazole in infants with symptoms of gastroesophageal reflux disease",
+  "authors": "Orenstein SR, Hassall E, Furmaga-Jablonska W, Atkinson S, Raanan M",
+  "journal": "Journal of Pediatrics",
+  "year": 2009,
+  "doi": "10.1016/j.jpeds.2008.09.054",
+  "pmid": "19054529",
+  "registry": "NCT00324974",
+  "design": "rct",
+  "participants": 162,
+  "followUp": "4 weeks of double-blind treatment",
+  "population": "Infants aged 1 to 12 months with symptoms attributed to gastro-oesophageal reflux persisting after at least 1 week of non-drug management",
+  "funder": "The article's funding statement was not read because the publisher page could not be accessed. Registry NCT00324974: lead sponsor Takeda (industry); responsible party Sr. VP Clinical Sciences, Takeda Global Research & Development Center; study director a Takeda medical director.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Responders (at least 50% reduction in feeding-related crying): 44 of 81 (54%) with lansoprazole and 44 of 81 (54%) with placebo; no difference in any secondary efficacy measure. Treatment-emergent adverse events 62% against 46% (P = .058). Serious adverse events, particularly lower respiratory tract infections, in 10 infants on lansoprazole against 2 on placebo (P = .032).",
+  "class": "industry",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT00324974"
+}

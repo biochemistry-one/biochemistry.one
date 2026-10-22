@@ -1,0 +1,42 @@
+{
+  "title": "Lactose digestion and the Leloir pathway",
+  "layout": "chain",
+  "compartment": "Enterocyte brush border, then cytosol, mainly of hepatocytes",
+  "steps": [
+    {
+      "from": "Lactose",
+      "to": "β-D-Galactose",
+      "enzyme": "Lactase-phlorizin hydrolase (LCT)",
+      "cofactors": ["H2O"],
+      "note": "Apical membrane of small-intestinal enterocytes; also releases D-glucose"
+    },
+    {
+      "from": "β-D-Galactose",
+      "to": "α-D-Galactose",
+      "enzyme": "Galactose mutarotase (GALM)",
+      "reversible": true,
+      "note": "After uptake by SGLT1 (SLC5A1) and exit by GLUT2 (SLC2A2)"
+    },
+    {
+      "from": "α-D-Galactose",
+      "to": "α-D-Galactose 1-phosphate",
+      "enzyme": "Galactokinase (GALK1)",
+      "cofactors": ["ATP"],
+      "note": "First committed step of galactose catabolism"
+    },
+    {
+      "from": "α-D-Galactose 1-phosphate",
+      "to": "α-D-Glucose 1-phosphate",
+      "enzyme": "Galactose-1-phosphate uridylyltransferase (GALT)",
+      "cofactors": ["UDP-glucose"],
+      "note": "Releases UDP-galactose; UDP-glucose 4-epimerase (GALE) regenerates UDP-glucose"
+    },
+    {
+      "from": "α-D-Glucose 1-phosphate",
+      "to": "α-D-Glucose 6-phosphate",
+      "enzyme": "Phosphoglucomutase 1 (PGM1)",
+      "reversible": true,
+      "note": "Via glucose 1,6-bisphosphate; product is a glycolytic intermediate"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "title": "A leaky umbrella has little value: evidence clearly indicates the serotonin system is implicated in depression",
+  "authors": "Jauhar S, Arnone D, Baldwin DS, Bloomfield M, Browning M, Cleare AJ, et al.",
+  "journal": "Molecular Psychiatry",
+  "year": 2023,
+  "doi": "10.1038/s41380-023-02095-y",
+  "pmid": "37322065",
+  "design": "other",
+  "population": "Commentary by 35 psychiatrists and neuroscientists on the umbrella review of Moncrieff and colleagues (2023)",
+  "funder": "Several authors acknowledge part funding by the NIHR Maudsley and Oxford Health Biomedical Research Centres, the Medical Research Council, the Wellcome Trust, the Maudsley Charity, the Rosetrees Trust, NIMH, NICHD and SAMHSA.",
+  "funderRole": "unknown",
+  "authorConflicts": "Several authors declared honoraria, consultancy or travel support from pharmaceutical companies, including Janssen, Lundbeck, Sunovion, Boehringer Ingelheim, J&J, Novartis and COMPASS Pathways, and share ownership in P1vital Products.",
+  "dataAccess": "summary",
+  "result": "The authors argue that the umbrella review overstated its conclusion through methodological weaknesses, selective reporting and misinterpretation; for example, in the tryptophan depletion meta-analysis it cited, the mood effect in depressed people not taking antidepressants was large (Hedges g -1.9, 95% CI -3.02 to -0.78; -1.06 after removing a potential outlier; 8 samples, several from one group), and they interpret tryptophan depletion as implicating serotonin in people vulnerable to depression and in those remitted on SSRIs.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10618084"
+}

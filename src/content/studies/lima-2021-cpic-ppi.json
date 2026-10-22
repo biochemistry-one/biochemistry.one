@@ -1,0 +1,16 @@
+{
+  "title": "Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for CYP2C19 and proton pump inhibitor dosing",
+  "authors": "Lima JJ, Thomas CD, Barbarino J, Desta Z, Van Driest SL, El Rouby N, et al.",
+  "journal": "Clinical Pharmacology and Therapeutics",
+  "year": 2021,
+  "doi": "10.1002/cpt.2015",
+  "pmid": "32770672",
+  "design": "guideline",
+  "funder": "National Institutes of Health funding for CPIC (R24GM115264 and U24HG010135), PharmGKB (U24HG010615) and PharmVar (R24GM123930); additional grants to individual authors from the NIH, the CANSEARCH foundation, the Robert Bosch Stiftung, the Burroughs Wellcome Fund, the North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition Foundation and the EU H2020 UPGx grant 668353.",
+  "funderRole": "none",
+  "authorConflicts": "J. A. Johnson consults for United Health Group; S. A. Scott is an employee of Sema4 and D. L. Thacker of Translational Software, for-profit genetic testing companies that offer pharmacogenetic testing; the other authors declared no competing interests.",
+  "dataAccess": "summary",
+  "result": "CYP2C19*2 (rs4244285) and *3 (rs4986893) are no-function and *17 (rs12248560) increased-function alleles; *2 has an allele frequency of about 15% in Europeans and Africans and 25% to 30% in Asians; *17 about 20% in African, European and Near Eastern populations. CYP2C19 accounts for about 80% of clearance of omeprazole, lansoprazole and pantoprazole, CYP3A4 for less. Intermediate and poor metabolisers have 3- to 14-fold higher AUC. For omeprazole, lansoprazole, pantoprazole and dexlansoprazole: ultrarapid metabolisers, increase the starting daily dose by 100%; normal and rapid metabolisers, standard dose, consider 50% to 100% increase for H. pylori infection and erosive oesophagitis; intermediate and poor metabolisers, standard dose, consider a 50% reduction for chronic therapy beyond 12 weeks once efficacy is achieved. No recommendation for esomeprazole and rabeprazole. Strong CYP3A inhibitors may raise risk in intermediate and poor metabolisers; strong CYP2C19 inhibitors such as fluvoxamine raise exposure except in poor metabolisers; inducers such as rifampin reduce exposure. Current data are insufficient for strong recommendations on adverse events; most studies were in Asian populations with few rapid and ultrarapid metabolisers.",
+  "class": "consensus",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7868475/"
+}

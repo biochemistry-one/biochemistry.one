@@ -1,0 +1,19 @@
+{
+  "title": "Meta-analysis of secure randomised controlled trials of beta-blockade to prevent perioperative death in non-cardiac surgery",
+  "authors": "Bouri S, Shun-Shin MJ, Cole GD, Mayet J, Francis DP",
+  "journal": "Heart",
+  "year": 2014,
+  "doi": "10.1136/heartjnl-2013-304262",
+  "pmid": "23904357",
+  "design": "meta-analysis",
+  "participants": 10529,
+  "followUp": "30 days or to hospital discharge",
+  "population": "Nine randomised trials of beta-blocker initiation before non-cardiac surgery judged secure, analysed separately from DECREASE I and DECREASE IV; Erasmus Medical Centre investigations found every investigated DECREASE study, DECREASE IV included, insecure, while DECREASE I (1999) lay outside the investigation and was not examined",
+  "funder": "One author is supported by the British Heart Foundation (FS/10/038).",
+  "funderRole": "unknown",
+  "authorConflicts": "None.",
+  "dataAccess": "summary",
+  "result": "In the nine secure trials, 162 of 5264 patients randomised to beta-blockers and 129 of 5265 randomised to placebo died: relative risk 1.27 (95% CI 1.01 to 1.60), p = 0.04, without heterogeneity (I2 0%). Beta-blockade reduced non-fatal myocardial infarction (relative risk 0.73, p = 0.001) and increased stroke (1.73, p = 0.05) and hypotension (1.51, p < 0.00001); one large trial dominated these results. The two DECREASE trials gave a mortality relative risk of 0.42 (0.15 to 1.23), diverging from the secure trials (p = 0.05). The authors ask guideline bodies to retract recommendations based on these data and estimate that refraining from the European Society of Cardiology recommendation could prevent up to 10,000 deaths a year in the United Kingdom.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3932762/"
+}

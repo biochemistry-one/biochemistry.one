@@ -1,0 +1,35 @@
+{
+  "title": "Bicarbonate reclamation in the proximal tubule",
+  "layout": "chain",
+  "compartment": "Proximal tubule lumen, epithelial cell and peritubular interstitium",
+  "steps": [
+    {
+      "from": "Filtered HCO3− + secreted H+",
+      "to": "Luminal CO2 + H2O",
+      "enzyme": "Carbonic anhydrase IV (CA4), GPI-anchored on the apical membrane",
+      "cofactors": ["Zn2+"],
+      "reversible": true,
+      "note": "H+ enters the lumen mainly via NHE3 (SLC9A3), 1:1 for Na+, and the V-ATPase"
+    },
+    {
+      "from": "Luminal CO2 + H2O",
+      "to": "Cytosolic CO2 + H2O",
+      "enzyme": "Non-enzymatic diffusion across the apical membrane",
+      "note": "Aquaporin 1 may conduct part of the CO2 (preliminary data)"
+    },
+    {
+      "from": "Cytosolic CO2 + H2O",
+      "to": "Cytosolic HCO3−",
+      "enzyme": "Carbonic anhydrase II (CA2)",
+      "cofactors": ["Zn2+"],
+      "reversible": true,
+      "note": "The H+ formed is secreted into the lumen again"
+    },
+    {
+      "from": "Cytosolic HCO3−",
+      "to": "Interstitial HCO3−",
+      "enzyme": "Electrogenic Na+/HCO3− cotransporter NBCe1-A (SLC4A4), basolateral",
+      "note": "Exports 1 Na+ with 3 HCO3− equivalents"
+    }
+  ]
+}

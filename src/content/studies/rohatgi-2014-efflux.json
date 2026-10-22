@@ -1,0 +1,19 @@
+{
+  "title": "HDL cholesterol efflux capacity and incident cardiovascular events",
+  "authors": "Rohatgi A, Khera A, Berry JD, Givens EG, Ayers CR, Wedin KE, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2014,
+  "doi": "10.1056/NEJMoa1409065",
+  "pmid": "25404125",
+  "design": "cohort",
+  "participants": 2924,
+  "followUp": "median 9.4 years",
+  "population": "Adults free from cardiovascular disease in the Dallas Heart Study, a probability-based population sample; 2416 with complete follow-up",
+  "funder": "Grants from the Donald W. Reynolds Foundation, the National Center for Advancing Translational Sciences of the NIH (UL1TR001105), the NHLBI (K08HL1813) and the American Heart Association (12SDG11900066), and a research grant from the Investigator Studies Program of Merck Sharp and Dohme. Merck Sharp and Dohme had no role in the design of the study, in the collection or analysis of the data, in the writing of the manuscript or in the decision to submit it.",
+  "funderRole": "none",
+  "authorConflicts": "Disclosure forms are available with the full text at NEJM.org; not read.",
+  "dataAccess": "individual",
+  "result": "Baseline HDL cholesterol was not associated with atherosclerotic cardiovascular events after adjustment (hazard ratio 1.08, 95% CI 0.59 to 1.99). The primary end point occurred in 132 of 2416 participants: 49 of 602 (8.1%) in the lowest and 22 of 602 (3.7%) in the highest quartile of cholesterol efflux capacity; the fully adjusted hazard ratio for the highest versus lowest quartile was 0.33 (0.19 to 0.55), a 67% lower risk.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4308988/"
+}

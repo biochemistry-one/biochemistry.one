@@ -1,0 +1,19 @@
+{
+  "title": "Association of Organic Cation Transporter 1 With Intolerance to Metformin in Type 2 Diabetes: A GoDARTS Study",
+  "authors": "Dujic T, Zhou K, Donnelly LA, Tavendale R, Palmer CNA, Pearson ER",
+  "journal": "Diabetes",
+  "year": 2015,
+  "doi": "10.2337/db14-1388",
+  "pmid": "25510240",
+  "design": "genetic",
+  "participants": 2166,
+  "followUp": "prescribing records of incident metformin users from 1 January 1994 to 1 June 2011",
+  "population": "Patients with type 2 diabetes in Tayside, Scotland, from the Genetics of Diabetes Audit and Research Tayside Study: 251 classified as intolerant, defined as stopping immediate-release metformin within 6 months and switching to another oral agent, and 1915 as tolerant, defined as taking 2000 mg or more daily for more than 6 months; patients with serum creatinine above 120 micromol/L were excluded",
+  "funder": "The Wellcome Trust United Kingdom Type 2 Diabetes Case Control Collection (GoDARTS) cohort collection was funded by the Wellcome Trust and informatics support is provided by the Chief Scientist Office, Scotland. This work was specifically supported by a European Foundation for the Study of Diabetes Albert Renold Travel Fellowship; the senior author holds a Wellcome Trust New Investigator Award (102820/Z/13/Z).",
+  "funderRole": "none",
+  "authorConflicts": "We declare no conflict of interest.",
+  "dataAccess": "individual",
+  "result": "Women and older people were more likely to be intolerant of metformin. Concomitant use of medicines known to inhibit OCT1 transport was associated with intolerance (odds ratio 1.63, 95% CI 1.22 to 2.17, p = 0.001), as was carriage of two reduced-function OCT1 alleles against one or none (2.41, 1.48 to 3.93, p < 0.001); individuals with two reduced-function alleles who also took OCT1 inhibitors were over four times more likely to be intolerant (4.13, 2.09 to 8.16, p < 0.001). Five reduced-function variants were studied: R61C, C88R, G401S, M420del and G465R. Drugs shown in vitro to inhibit OCT1 include tricyclic antidepressants, proton pump inhibitors, alpha-adrenoceptor antagonists and the calcium-channel blockers verapamil and diltiazem. The paper states as background, citing earlier literature, that gastrointestinal side effects occur in 20% to 30% of patients taking metformin and that about 5% develop severe symptoms and discontinue the drug, and that the intolerance phenotype used here is a proxy derived from prescribing patterns.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4452716"
+}

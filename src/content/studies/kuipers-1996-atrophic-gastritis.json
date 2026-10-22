@@ -1,0 +1,18 @@
+{
+  "title": "Atrophic gastritis and Helicobacter pylori infection in patients with reflux esophagitis treated with omeprazole or fundoplication",
+  "authors": "Kuipers EJ, Lundell L, Klinkenberg-Knol EC, Havu N, Festen HP, Liedman B, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 1996,
+  "doi": "10.1056/NEJM199604183341603",
+  "pmid": "8598839",
+  "design": "cohort",
+  "participants": 177,
+  "followUp": "mean 5 years (range 3 to 8)",
+  "population": "Two cohorts with reflux oesophagitis: 72 treated with fundoplication in Sweden and 105 treated with omeprazole 20 to 40 mg daily in the Netherlands; Helicobacter pylori not treated",
+  "funder": "Not read: the publisher page refused access; PubMed indexes the article as Research Support, Non-U.S. Gov't.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Atrophic gastritis developed in 18 of 59 H. pylori-infected omeprazole-treated patients (P < 0.001) and 2 of 46 uninfected omeprazole-treated patients, and in none of 31 infected and 41 uninfected fundoplication patients. The two cohorts were not randomised and came from different countries.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.nejm.org/doi/full/10.1056/NEJM199604183341603"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Diet and colorectal cancer in UK Biobank: a prospective study",
+  "authors": "Bradbury KE, Murphy N, Key TJ",
+  "journal": "International Journal of Epidemiology",
+  "year": 2020,
+  "doi": "10.1093/ije/dyz064",
+  "pmid": "30993317",
+  "design": "cohort",
+  "participants": 475581,
+  "followUp": "mean 5.7 years (maximum 8.6)",
+  "population": "UK Biobank participants aged 40 to 69 years at recruitment in 2006 to 2010, without prevalent cancer; 219,329 men and 256,252 women",
+  "funder": "This work was supported by Girdlers' New Zealand Health Research Council Fellowship (K.E.B.), Cancer Research UK (T.J.K.; C8221/A19170 and 570/A16491), the UK Medical Research Council (T.J.K.; MR/M012190/1) and the Wellcome Trust [T.J.K.; Our Planet Our Health, project: Livestock, Environment and People (LEAP) (205212/Z/16/Z)]. The funders did not influence the design of the study, analysis or interpretation of the data, the writing of this report or the decision to publish.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "2609 incident colorectal cancers. Red and processed meat (Figure 1): less than twice a week, mean 21 g/day, 274 cases among 68,359 participants; 4 or more times a week, mean 76 g/day, 1209 cases among 192,600; adjusted HR 1.20 (95% CI 1.04 to 1.37); per 50 g/day 1.17 (1.04 to 1.32). Red meat per 50 g/day 1.18 (1.00 to 1.39); processed meat per 25 g/day 1.19 (1.03 to 1.38). Heterogeneity by sex (P = 0.008): positive association in men, none in women. Poultry and fish were not associated. Fibre from bread and breakfast cereals, highest against lowest fifth, HR 0.86 (0.76 to 0.98).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7124508/fullTextXML"
+}

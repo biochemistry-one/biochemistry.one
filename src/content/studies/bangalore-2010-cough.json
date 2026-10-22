@@ -1,0 +1,18 @@
+{
+  "title": "Angiotensin-converting enzyme inhibitor associated cough: deceptive information from the Physicians' Desk Reference",
+  "authors": "Bangalore S, Kumar S, Messerli FH",
+  "journal": "American Journal of Medicine",
+  "year": 2010,
+  "doi": "10.1016/j.amjmed.2010.06.014",
+  "pmid": "21035591",
+  "design": "meta-analysis",
+  "participants": 198130,
+  "followUp": "at least 3 months in each included trial",
+  "population": "125 randomised trials published from 1990 with at least 100 patients in the ACE inhibitor arm reporting cough incidence or withdrawal for cough",
+  "funder": "not read: the publisher page is not accessible and the PubMed abstract carries no funding statement.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Pooled weighted incidence of cough with enalapril 11.48% (95% CI 9.54% to 13.41%), nine times the 1.3% in the Physicians' Desk Reference and drug label; pooled withdrawal for cough with enalapril 2.57% (2.40% to 2.74%), 31 times the 0.1% in the label. Reported incidence rose over two decades but stayed several-fold below the trial data in the label; results were similar for most other ACE inhibitors. The authors expect real-world rates to exceed trial rates.",
+  "class": "undetermined",
+  "fundingChecked": "https://doi.org/10.1016/j.amjmed.2010.06.014"
+}

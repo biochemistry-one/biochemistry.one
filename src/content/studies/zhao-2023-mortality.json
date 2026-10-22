@@ -1,0 +1,18 @@
+{
+  "title": "Association between daily alcohol intake and risk of all-cause mortality: a systematic review and meta-analyses",
+  "authors": "Zhao J, Stockwell T, Naimi T, Churchill S, Clay J, Sherk A",
+  "journal": "JAMA Network Open",
+  "year": 2023,
+  "doi": "10.1001/jamanetworkopen.2023.6185",
+  "pmid": "37000449",
+  "design": "meta-analysis",
+  "participants": 4838825,
+  "population": "107 cohort studies published 1980 to July 2021, 425,564 deaths",
+  "funder": "This study was partly funded by the CCSA as a subcontract for a Health Canada grant to develop guidance for Canadians on alcohol and health. Health Canada had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication. CCSA staff conducted a preliminary search to identify potentially relevant articles but did not participate in decisions about inclusion/exclusion of studies, coding, analysis, interpretation of results or approving the final manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "Stockwell reported personal fees from the Ontario Public Servants Employees Union for expert witness testimony and personal fees from Alko outside the submitted work; Sherk reported grants from the Canadian Centre on Substance Use and Addiction (CCSA) during the study.",
+  "dataAccess": "summary",
+  "result": "21 of 107 studies were free of abstainer bias. Low-volume drinkers (1.3 to 24.0 g per day) had RR 0.85 (95% CI 0.81 to 0.88) unadjusted, against abstainers as defined in the included studies, and 0.93 (0.85 to 1.01) against lifetime non-drinkers after full adjustment for abstainer biases and study characteristics; fully adjusted, occasional drinkers 0.96 (0.86 to 1.06); 25 to 44 g per day 1.05 (0.96 to 1.14); 45 to 64 g per day 1.19 (1.07 to 1.32); 65 g per day or more 1.35 (1.23 to 1.47). Women drinking 25 to 44 g per day had RR 1.21 (1.08 to 1.36).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10066463/"
+}

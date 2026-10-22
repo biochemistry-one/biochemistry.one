@@ -1,0 +1,17 @@
+{
+  "title": "USDA's FoodData Central: what is it and why is it needed today?",
+  "authors": "Fukagawa NK, McKillop K, Pehrsson PR, Moshfegh A, Harnly J, Finley J",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2022,
+  "doi": "10.1093/ajcn/nqab397",
+  "pmid": "34893796",
+  "url": "https://fdc.nal.usda.gov/portal-data/external/748608",
+  "design": "database",
+  "funder": "All authors are employed by the USDA Agricultural Research Service and have not received external support in the preparation of this manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "The authors report no conflicts of interest.",
+  "dataAccess": "individual",
+  "result": "FoodData Central entries read on 2026-10-21. Oil, olive, extra virgin (Foundation Foods, FDC 748608; 36 samples bought in Virginia, Maryland, California and New York from June to August 2019), per 100 g: total fat (NLEA) 93.7 g; saturated fatty acids 15.4 g (16:0 12.1 g, 18:0 2.59 g); monounsaturated 69.2 g, of which cis-18:1 67.8 g (range 56.9 to 73.2); polyunsaturated 9.07 g, of which 18:2 n-6 cis,cis 8.4 g (5.14 to 14.8) and 18:3 n-3 cis,cis,cis 0.651 g; beta-sitosterol 126 mg. Oil, olive, salad or cooking (SR Legacy, FDC 171413), per 100 g: energy 884 kcal; total lipid 100 g; saturated 13.8 g; monounsaturated 73.0 g (18:1 71.3 g); polyunsaturated 10.5 g (18:2 9.76 g, 18:3 0.761 g); alpha-tocopherol 14.4 mg.",
+  "class": "reference",
+  "fundingChecked": "http://web.archive.org/web/20250804114112/https://ajcn.nutrition.org/article/S0002-9165(22)00179-4/fulltext"
+}

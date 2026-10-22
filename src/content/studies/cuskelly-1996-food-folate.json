@@ -1,0 +1,18 @@
+{
+  "title": "Effect of increasing dietary folate on red-cell folate: implications for prevention of neural tube defects",
+  "authors": "Cuskelly GJ, McNulty H, Scott JM",
+  "journal": "Lancet",
+  "year": 1996,
+  "doi": "10.1016/s0140-6736(96)91205-2",
+  "pmid": "8596381",
+  "design": "rct",
+  "participants": 62,
+  "followUp": "3 months",
+  "population": "Women among university staff and students in Northern Ireland, randomised to 400 µg/day folic acid supplement, an extra 400 µg/day from folic acid-fortified foods, an extra 400 µg/day of food folate, dietary advice, or control; 41 completed",
+  "funder": "not stated in the abstract; full text not accessible",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Results read from the published abstract. Red cell folate rose significantly over 3 months only with the folic acid supplement or fortified foods (P < 0.01 for both). Extra food folate and dietary advice raised food folate intake (P < 0.001 and P < 0.05) without a significant change in red cell folate. The authors judged advice to rely on folate-rich foods to optimise folate status misleading.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/8596381/"
+}

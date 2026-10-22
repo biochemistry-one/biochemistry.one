@@ -1,0 +1,21 @@
+{
+  "title": "Activation of codeine by CYP2D6",
+  "layout": "chain",
+  "compartment": "Hepatocyte endoplasmic reticulum membrane",
+  "steps": [
+    {
+      "from": "Codeine",
+      "to": "Morphine",
+      "enzyme": "CYP2D6 (O-demethylation)",
+      "cofactors": ["O2", "NADPH through cytochrome P450 oxidoreductase (POR)"],
+      "note": "5% to 10% of the dose; 70% to 80% forms codeine-6-glucuronide"
+    },
+    {
+      "from": "Morphine",
+      "to": "Morphine-6-glucuronide",
+      "enzyme": "UDP-glucuronosyltransferase",
+      "cofactors": ["UDP-glucuronic acid"],
+      "note": "Analgesic in humans, unlike morphine-3-glucuronide"
+    }
+  ]
+}

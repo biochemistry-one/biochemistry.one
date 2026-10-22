@@ -1,0 +1,62 @@
+{
+  "title": "α-Linolenic acid to docosahexaenoic acid",
+  "layout": "chain",
+  "compartment": "Endoplasmic reticulum membrane, then peroxisome",
+  "steps": [
+    {
+      "from": "α-Linolenic acid (18:3 n-3)",
+      "to": "α-Linolenoyl-CoA",
+      "enzyme": "Long-chain-fatty-acid–CoA ligases (ACSL1, ACSL3 to ACSL6)",
+      "cofactors": ["ATP", "CoA"],
+      "note": "Releases AMP and diphosphate"
+    },
+    {
+      "from": "α-Linolenoyl-CoA",
+      "to": "Stearidonoyl-CoA (18:4 n-3)",
+      "enzyme": "Acyl-CoA 6-desaturase (FADS2)",
+      "cofactors": ["O2", "2 reduced cytochrome b5"],
+      "note": "First, rate-limiting desaturation; shared with linoleoyl-CoA (n-6)"
+    },
+    {
+      "from": "Stearidonoyl-CoA (18:4 n-3)",
+      "to": "Eicosatetraenoyl-CoA (20:4 n-3)",
+      "enzyme": "several steps",
+      "cofactors": ["Malonyl-CoA", "2 NADPH"],
+      "note": "Elongation cycle: ELOVL5, HSD17B12, HACD1–4, TECR; releases CO2"
+    },
+    {
+      "from": "Eicosatetraenoyl-CoA (20:4 n-3)",
+      "to": "Eicosapentaenoyl-CoA (EPA, 20:5 n-3)",
+      "enzyme": "Acyl-CoA (8-3)-desaturase, Δ5-desaturase (FADS1)",
+      "cofactors": ["O2", "2 reduced cytochrome b5"]
+    },
+    {
+      "from": "Eicosapentaenoyl-CoA (EPA, 20:5 n-3)",
+      "to": "Docosapentaenoyl-CoA (DPA, 22:5 n-3)",
+      "enzyme": "several steps",
+      "cofactors": ["Malonyl-CoA", "2 NADPH"],
+      "note": "Elongation cycle; ELOVL2 or ELOVL5 catalyses the condensation"
+    },
+    {
+      "from": "Docosapentaenoyl-CoA (DPA, 22:5 n-3)",
+      "to": "Tetracosapentaenoyl-CoA (24:5 n-3)",
+      "enzyme": "several steps",
+      "cofactors": ["Malonyl-CoA", "2 NADPH"],
+      "note": "Elongation cycle; ELOVL2 catalyses the condensation"
+    },
+    {
+      "from": "Tetracosapentaenoyl-CoA (24:5 n-3)",
+      "to": "Tetracosahexaenoyl-CoA (24:6 n-3)",
+      "enzyme": "Acyl-CoA 6-desaturase (FADS2)",
+      "cofactors": ["O2", "2 reduced cytochrome b5"],
+      "note": "Second Δ6-desaturation; human activity inferred by similarity"
+    },
+    {
+      "from": "Tetracosahexaenoyl-CoA (24:6 n-3)",
+      "to": "Docosahexaenoyl-CoA (DHA, 22:6 n-3)",
+      "enzyme": "several steps",
+      "cofactors": ["FAD", "O2", "H2O", "NAD+", "CoA"],
+      "note": "One peroxisomal β-oxidation cycle: ACOX1, HSD17B4, ACAA1; releases acetyl-CoA"
+    }
+  ]
+}

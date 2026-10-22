@@ -1,0 +1,17 @@
+{
+  "title": "Common variation in the DIO2 gene predicts baseline psychological well-being and response to combination thyroxine plus triiodothyronine therapy in hypothyroid patients",
+  "authors": "Panicker V, Saravanan P, Vaidya B, Evans J, Hattersley AT, Frayling TM, et al.",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2009,
+  "doi": "10.1210/jc.2008-1301",
+  "pmid": "19190113",
+  "design": "genetic",
+  "participants": 552,
+  "population": "Patients taking T4 in the Weston Area T4 T3 Study (WATTS), a randomised trial of T4 plus T3 against T4 alone",
+  "funder": "Funding statement not read: the publisher's full text returned HTTP 403 to automated access, the article is absent from PubMed Central, the University of Birmingham repository holds the abstract only, and Crossref metadata list no funder.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Secondary analysis of common variants in DIO1, DIO2 and DIO3. The rarer CC genotype of DIO2 rs225014, present in 16%, was associated with worse baseline GHQ-12 scores on T4 (14.1 against 12.8 for TT, P = 0.03) and with greater improvement on T4/T3 than on T4 alone, by 2.3 GHQ points at 3 months and 1.4 at 12 months (P = 0.03, repeated-measures ANOVA), without an effect on circulating thyroid hormones. The authors state that the results require replication. Results read from the PubMed abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://api.crossref.org/works/10.1210/jc.2008-1301"
+}

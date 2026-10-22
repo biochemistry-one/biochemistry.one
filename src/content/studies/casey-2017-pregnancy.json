@@ -1,0 +1,20 @@
+{
+  "title": "Treatment of subclinical hypothyroidism or hypothyroxinemia in pregnancy",
+  "authors": "Casey BM, Thom EA, Peaceman AM, Varner MW, Sorokin Y, Hirtz DG, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2017,
+  "doi": "10.1056/NEJMoa1606205",
+  "pmid": "28249134",
+  "registry": "NCT00388297",
+  "design": "rct",
+  "participants": 1203,
+  "followUp": "children tested annually for 5 years",
+  "population": "Women with a singleton pregnancy screened before 20 weeks at 15 US centres: 677 with subclinical hypothyroidism (TSH 4.00 mU/l or more, normal free T4) and 526 with hypothyroxinaemia, randomised in two parallel trials",
+  "funder": "Funded by the Eunice Kennedy Shriver National Institute of Child Health and Human Development and the National Institute of Neurological Disorders and Stroke (grants HD34116, HD40512, HD27917, HD34208, HD40485, HD40560, HD53097, HD27869, HD40500, HD40545, HD27915, HD40544, HD53118, HD21410, HD36801).",
+  "funderRole": "unknown",
+  "authorConflicts": "Disclosure forms are available with the full text at NEJM.org; not read.",
+  "dataAccess": "unknown",
+  "result": "Levothyroxine or placebo started at a mean of 16.7 and 17.8 weeks of gestation. Median child IQ at 5 years was 97 (95% CI 94 to 99) with levothyroxine and 94 (92 to 96) with placebo in the subclinical hypothyroidism trial (P = 0.71), and 94 against 91 in the hypothyroxinaemia trial (P = 0.30). No other neurocognitive or pregnancy outcome differed, and adverse events were low in both groups.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5605129/"
+}

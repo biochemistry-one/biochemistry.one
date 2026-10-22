@@ -1,0 +1,15 @@
+{
+  "title": "Scientific Opinion on Dietary Reference Values for cobalamin (vitamin B12)",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition, and Allergies (NDA)",
+  "journal": "EFSA Journal",
+  "year": 2015,
+  "doi": "10.2903/j.efsa.2015.4150",
+  "pmid": "42109795",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (question EFSA-Q-2011-01227); preparatory work by the EFSA Working Group on Dietary Reference Values for vitamins and EFSA staff.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "A combination of biomarkers of cobalamin status, namely serum cobalamin, holotranscobalamin, methylmalonic acid and plasma total homocysteine, was judged the most suitable basis for Dietary Reference Values; an Average Requirement could not be determined. Adequate Intake for adults 4 ug/day, based on biomarker data and observed mean intakes of 4.2 to 8.6 ug/day in adults in several EU countries; 4.5 ug/day in pregnancy and 5 ug/day in lactation; 1.5 ug/day at 7 to 11 months rising to 4 ug/day at 15 to 17 years.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13151598/"
+}

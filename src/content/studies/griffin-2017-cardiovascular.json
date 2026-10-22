@@ -1,0 +1,19 @@
+{
+  "title": "Impact of metformin on cardiovascular disease: a meta-analysis of randomised trials among people with type 2 diabetes",
+  "authors": "Griffin SJ, Leaver JK, Irving GJ",
+  "journal": "Diabetologia",
+  "year": 2017,
+  "doi": "10.1007/s00125-017-4337-9",
+  "pmid": "28770324",
+  "design": "meta-analysis",
+  "participants": 4158,
+  "followUp": "6 to 212 months; three studies followed patients for more than 4 years",
+  "population": "Ten articles reporting 13 randomised trials in adults with type 2 diabetes comparing any oral metformin with no intervention, placebo or a lifestyle intervention and reporting mortality or a cardiovascular outcome; 2079 participants allocated metformin and a similar number to comparison groups; mainly white, mostly aged 65 years or less, overweight or obese, with poor glycaemic control",
+  "funder": "One author is funded by a National Institute for Health Research (NIHR) Clinical Lectureship; the other is supported by MRC Epidemiology Unit programme funding (MC_UU_12015/4) and is an NIHR senior investigator. All researchers were independent of funding bodies, which had no role in study design, data collection, analysis and interpretation of data, in the writing of the report, or the decision to submit the article for publication. This research received no specific grant from any funding agency in the public, commercial or not-for-profit sectors.",
+  "funderRole": "none",
+  "authorConflicts": "Two authors are investigators on a completed feasibility study for a randomised cardiovascular endpoint trial of extended-release metformin funded by the NIHR HTA programme; one reports an honorarium and travel expenses from Eli Lilly for membership of an independent data monitoring committee and honoraria from Janssen and AstraZeneca for speaking at educational meetings.",
+  "dataAccess": "summary",
+  "result": "Only four trials, including 417 patients allocated metformin, simply compared metformin with placebo and collected cardiovascular outcome data. Summary estimates rested on small numbers of events: 347 cardiovascular deaths in five studies, 416 myocardial infarctions or ischaemic heart disease events in seven studies and 111 strokes in four studies. Mantel-Haenszel risk ratios: all-cause mortality 0.96 (95% CI 0.84 to 1.09), cardiovascular death 0.97 (0.80 to 1.16), myocardial infarction 0.89 (0.75 to 1.06), stroke 1.04 (0.73 to 1.48) and peripheral vascular disease 0.81 (0.50 to 1.31); all outcomes except stroke favoured metformin, none significantly. The UK Prospective Diabetes Study contributed the majority of the data, with weights from 52.3% for myocardial infarction to 70.5% for stroke. No included trial was assessed as having a low risk of bias. The authors state that metformin may reduce all-cause mortality by up to 16% but could increase the risk of stroke by up to 48%; that trial evidence does not support its use for cardiovascular prevention in older people, in those with HbA1c below 8%, in non-white ethnic groups or outside North America and northern Europe; that limitations of UKPDS include only 342 patients allocated metformin, absence of placebo and blinding, the subgroup nature of the analysis with updated significance thresholds, possible between-group differences in other risk factor management and attrition over nearly 18 years; that concern remains about increased mortality when metformin is added to a sulfonylurea; and that a definitive placebo-controlled cardiovascular endpoint trial in diabetes is unlikely to be conducted.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5552849/fullTextXML"
+}

@@ -1,0 +1,15 @@
+---
+import Base from "../layouts/Base.astro";
+import { LANGUAGES, localePath } from "../i18n/languages";
+import { stringsFor } from "../i18n/strings";
+
+const strings = stringsFor("en");
+---
+<Base lang="en" title={strings.notFound} description={strings.notFound} path="404" alternates={[]}>
+  <section class="not-found">
+    <h1>{strings.notFound}</h1>
+    <ul class="not-found-languages">
+      {LANGUAGES.map((language) => <li><a href={localePath(language.code)} lang={language.hreflang}>{stringsFor(language.code).home}</a></li>)}
+    </ul>
+  </section>
+</Base>

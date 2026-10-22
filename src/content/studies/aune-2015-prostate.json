@@ -1,0 +1,17 @@
+{
+  "title": "Dairy products, calcium, and prostate cancer risk: a systematic review and meta-analysis of cohort studies",
+  "authors": "Aune D, Navarro Rosenblatt DA, Chan DS, Vieira AR, Vieira R, Greenwood DC, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2015,
+  "doi": "10.3945/ajcn.113.067157",
+  "pmid": "25527754",
+  "design": "meta-analysis",
+  "population": "32 prospective studies; searches to April 2013; World Cancer Research Fund/American Institute for Cancer Research Continuous Update Project",
+  "funder": "Supported by the World Cancer Research Fund (grant 2007/SP01) as part of the Continuous Update Project.",
+  "funderRole": "none",
+  "authorConflicts": "Not read.",
+  "dataAccess": "summary",
+  "result": "Total prostate cancer, summary RR: total dairy products 1.07 (95% CI 1.02 to 1.12; 15 studies) per 400 g/day; total milk 1.03 (1.00 to 1.07; 14 studies) per 200 g/day; cheese 1.09 (1.02 to 1.18; 11 studies) per 50 g/day; dietary calcium 1.05 (1.02 to 1.09; 15 studies) per 400 mg/day. Dairy calcium, but not nondairy or supplemental calcium, was positively associated with total prostate cancer.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240502145743/https://www.sciencedirect.com/science/article/pii/S0002916523272524"
+}

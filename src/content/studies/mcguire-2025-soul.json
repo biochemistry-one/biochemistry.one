@@ -1,0 +1,19 @@
+{
+  "title": "Oral semaglutide and cardiovascular outcomes in high-risk type 2 diabetes",
+  "authors": "McGuire DK, Marx N, Mulvagh SL, Deanfield JE, Inzucchi SE, Pop-Busui R, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2025,
+  "doi": "10.1056/NEJMoa2501006",
+  "pmid": "40162642",
+  "registry": "NCT03914326",
+  "design": "rct",
+  "participants": 9650,
+  "followUp": "mean 47.5 months (SD 10.9), median 49.5 months",
+  "population": "Adults aged 50 or over with type 2 diabetes, HbA1c 6.5 to 10.0% and atherosclerotic cardiovascular disease, chronic kidney disease or both",
+  "funder": "Funded by Novo Nordisk, as stated in the abstract; the sponsor's role was not read.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Major adverse cardiovascular events occurred in 579 of 4825 (12.0%; 3.1 per 100 person-years) on oral semaglutide up to 14 mg daily against 668 of 4825 (13.8%; 3.7 per 100 person-years) on placebo (hazard ratio 0.86, 95% CI 0.77 to 0.96). Confirmatory secondary outcomes, including major kidney disease events, did not differ significantly. Serious adverse events 47.9% against 50.3%; gastrointestinal disorders 5.0% against 4.4%.",
+  "class": "industry",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/40162642/"
+}

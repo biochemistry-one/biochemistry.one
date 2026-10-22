@@ -1,0 +1,20 @@
+{
+  "title": "N-of-1 Trial of a Statin, Placebo, or No Treatment to Assess Side Effects",
+  "authors": "Wood FA, Howard JP, Finegold JA, Nowbar AN, Thompson DM, Arnold AD, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2020,
+  "doi": "10.1056/NEJMc2031173",
+  "pmid": "33196154",
+  "registry": "NCT02668016",
+  "design": "rct",
+  "participants": 60,
+  "followUp": "12 months",
+  "population": "Patients who had discontinued statins because of side effects that began within 2 weeks of starting treatment",
+  "funder": "Supported by a grant (PG/15/7/31235) from the British Heart Foundation; a grant (212183/Z/18/Z, to Dr. Howard) from the Wellcome Trust; a grant (MR/S021108/1, to Dr. Rajkumar) from the Medical Research Council; the National Institute for Health Research Imperial Biomedical Research Centre; and the Imperial Clinical Trials Unit. Registry NCT02668016 names Imperial College London as sponsor.",
+  "funderRole": "none",
+  "authorConflicts": "Disclosure forms are available with the full text at NEJM.org; not read.",
+  "dataAccess": "individual",
+  "result": "Double-blind, three-group n-of-1 trial (SAMSON): each patient received four 1-month bottles of atorvastatin 20 mg, four of placebo and four empty bottles in random sequence and scored symptoms daily from 0 (none) to 100 (worst imaginable). 60 patients were randomised between June 2016 and March 2019 and 49 completed all 12 months. Mean symptom intensity among all 60 was 8.0 (95% CI 4.7 to 11.3) in no-tablet months, 15.4 (12.1 to 18.7) in placebo months and 16.3 (13.0 to 19.6) in statin months (P = 0.39, statin against placebo). In an analysis recommended by an independent statistician after the original one, 90% of the symptom burden elicited by the statin was also elicited by placebo (nocebo ratio 0.90); the original primary analysis gave 2.2 (95% CI -62.3 to 66.7). Six months after the trial, 30 patients (50%) had restarted statins.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20211119173146/https://www.nejm.org/doi/full/10.1056/NEJMc2031173"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "The Clinical Pharmacogenetics Implementation Consortium Guideline for SLCO1B1, ABCG2, and CYP2C9 genotypes and Statin-Associated Musculoskeletal Symptoms",
+  "authors": "Cooper-DeHoff RM, Niemi M, Ramsey LB, Luzum JA, Tarkiainen EK, Straka RJ, et al.",
+  "journal": "Clinical Pharmacology and Therapeutics",
+  "year": 2022,
+  "doi": "10.1002/cpt.2557",
+  "pmid": "35152405",
+  "design": "guideline",
+  "funder": "This work was funded by the National Institutes of Health (NIH) for CPIC (R24GM115264 and U24HG010135) and PharmGKB (U24 HG010615), with additional author support (P50GM115318, HL143161, U01HG007269, R01GM117163, K08HL146990); one author is funded by a European Research Council Consolidator Grant (725249).",
+  "funderRole": "none",
+  "authorConflicts": "The authors declared no competing interests for this work.",
+  "dataAccess": "summary",
+  "result": "SLCO1B1 encodes the transporter OATP1B1, which facilitates the hepatic uptake of all statins; ABCG2 encodes the efflux transporter BCRP, which modulates the absorption and disposition of rosuvastatin; CYP2C9 encodes a phase I enzyme that oxidises some statins. The most studied SLCO1B1 variant is c.521T>C (rs4149056); two no-function alleles give a poor-function and one a decreased-function phenotype. For ABCG2 there is no star-allele nomenclature, and rs2231142 (c.421C>A) defines decreased function in one copy and poor function in two. Recommendations for simvastatin: with SLCO1B1 decreased function prescribe an alternative statin or, if simvastatin is warranted, limit the dose to below 20 mg daily; with SLCO1B1 poor function prescribe an alternative statin (both strong). For rosuvastatin with SLCO1B1 poor function, or with ABCG2 poor function, prescribe 20 mg or less as the starting dose. Statin therapy should neither be discontinued nor avoided on the basis of SLCO1B1, ABCG2 or CYP2C9 genotype in patients with an indication for it, and the recommendations rest on the effect of genetic variation on the risk of statin-associated musculoskeletal symptoms.",
+  "class": "consensus",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9035072/"
+}

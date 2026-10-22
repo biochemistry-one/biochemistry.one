@@ -1,0 +1,30 @@
+{
+  "title": "Folatzyklus, Methylzweig",
+  "layout": "cycle",
+  "compartment": "Zytosol",
+  "steps": [
+    {
+      "from": "Tetrahydrofolat (THF)",
+      "to": "5,10-Methylen-THF",
+      "enzyme": "Serin-Hydroxymethyltransferase 1 (SHMT1)",
+      "cofactors": ["L-Serin → Glycin", "Pyridoxal-5′-Phosphat"],
+      "reversible": true,
+      "note": "SHMT2 katalysiert dieselbe Reaktion in den Mitochondrien"
+    },
+    {
+      "from": "5,10-Methylen-THF",
+      "to": "5-Methyl-THF",
+      "enzyme": "Methylentetrahydrofolatreduktase (MTHFR)",
+      "cofactors": ["NADPH", "FAD"],
+      "note": "In vivo irreversibel; von SAM gehemmt; Ala222Val (677C>T) verliert FAD schneller"
+    },
+    {
+      "from": "5-Methyl-THF",
+      "to": "Tetrahydrofolat (THF)",
+      "enzyme": "Methioninsynthase (MTR)",
+      "cofactors": ["Homocystein → Methionin", "Methylcobalamin"],
+      "inhibitors": [{"name": "Distickstoffmonoxid (Lachgas)", "page": "medicines/nitrous-oxide"}],
+      "note": "Nur hier wird 5-Methyl-THF umgesetzt; bei B12-Mangel gebremst (Methylfolatfalle)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Low LDL cholesterol, PCSK9 and HMGCR genetic variation, and risk of Alzheimer's disease and Parkinson's disease: Mendelian randomisation study",
+  "authors": "Benn M, Nordestgaard BG, Frikke-Schmidt R, Tybjærg-Hansen A",
+  "journal": "BMJ",
+  "year": 2017,
+  "doi": "10.1136/bmj.j1648",
+  "pmid": "28438747",
+  "design": "mendelian-randomisation",
+  "participants": 111194,
+  "population": "Danish general population: Copenhagen General Population Study and Copenhagen City Heart Study; summary data from the International Genomics of Alzheimer's Project",
+  "funder": "This study was supported by the Danish Council for Independent Research, Medical Sciences; Gentofte and Herlev Hospital, Copenhagen University Hospital; and Chief Physician Johan Boserup and Lise Boserup's Fund.",
+  "funderRole": "unknown",
+  "authorConflicts": "No financial relationships with any organisation that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "individual",
+  "result": "PCSK9 and HMGCR variants combined were associated with 9.3% lower LDL cholesterol. Risk ratios for a lifelong 1 mmol/L lower LDL cholesterol: Alzheimer's disease 0.57 (95% CI 0.27 to 1.17), vascular dementia 0.81 (0.34 to 1.89), any dementia 0.66 (0.34 to 1.26), Parkinson's disease 1.02 (0.26 to 4.00). Observationally, LDL cholesterol below 1.8 mmol/L against 4.0 mmol/L or more was associated with Parkinson's disease (HR 1.70, 1.03 to 2.79) but not with dementia. The authors conclude that low LDL cholesterol due to PCSK9 and HMGCR variants had no causal effect on high risk of Alzheimer's disease, vascular dementia, any dementia or Parkinson's disease.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5421439"
+}

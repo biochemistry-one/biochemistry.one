@@ -1,0 +1,14 @@
+{
+  "title": "List of Designated Food Additives",
+  "authors": "The Japan Food Chemical Research Foundation",
+  "journal": "The Japan Food Chemical Research Foundation; English list of the designated food additives in Appended Table 1 of the Enforcement Regulations under the Food Sanitation Act, as of 1 March 2024",
+  "year": 2024,
+  "url": "https://www.ffcr.or.jp/en/tenka/lists-of-additives/list-of-designated-additives.html",
+  "design": "regulatory",
+  "funder": "Published by the Japan Food Chemical Research Foundation, which translated the substance names from the original Japanese table; the English page of the Consumer Affairs Agency on food additives links to this list as its List of Designated Additives.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Designated additives are those designated by the Prime Minister (by the Minister of Health, Labour and Welfare until March 2024) under Article 12 of the Food Sanitation Act as unlikely to harm human health; 476 in total as of 1 March 2024. The list includes No. 251 Sodium Bicarbonate (Sodium Hydrogen Carbonate or Bicarbonate Soda) and No. 252 Sodium Carbonate (Crystal: Carbonate Soda, Anhydrous: Soda Ash). It also includes No. 341 Potassium Pyrophosphate (Tetrapotassium Pyrophosphate), No. 342 Calcium Dihydrogen Pyrophosphate (Acid Calcium Pyrophosphate), No. 343 Disodium Dihydrogen Pyrophosphate (Acid Disodium Pyrophosphate) and No. 345 Sodium Pyrophosphate (Tetrasodium Pyrophosphate), besides No. 344 Ferric Pyrophosphate.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ffcr.or.jp/en/upload/3fe0bb85fa364286cbfd349e5ef07d04acc4248b.pdf"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Palm Oil Consumption Increases LDL Cholesterol Compared with Vegetable Oils Low in Saturated Fat in a Meta-Analysis of Clinical Trials",
+  "authors": "Sun Y, Neelakantan N, Wu Y, Lote-Oke R, Pan A, van Dam RM",
+  "journal": "Journal of Nutrition",
+  "year": 2015,
+  "doi": "10.3945/jn.115.210575",
+  "pmid": "25995283",
+  "registry": "PROSPERO CRD42012002601",
+  "design": "meta-analysis",
+  "participants": 807,
+  "population": "32 trials in 30 articles to 30 May 2014, each feeding palm oil or palm olein for at least 2 weeks: 27 against vegetable oils low in saturated fat (807 participants started, 764 completed; 2 to 16 weeks; 12% to 43% of energy from test oil), 9 against partially hydrogenated oils and 2 against animal fat. Red palm oil and palm stearin were excluded.",
+  "funder": "Supported by the National Medical Research Council (NMRC 1270/2010), Singapore.",
+  "funderRole": "none",
+  "authorConflicts": "Y Sun, N Neelakantan, Y Wu, R Lote-Oke, A Pan, and RM van Dam, no conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "Against vegetable oils low in saturated fat, palm oil raised LDL cholesterol by 0.24 mmol/L (95% CI 0.13 to 0.35; I2 83.2%), by 0.31 mmol/L (0.20 to 0.42) in randomised and 0.03 mmol/L (-0.15 to 0.20) in non-randomised trials, and HDL cholesterol by 0.02 mmol/L (0.01 to 0.04). Against partially hydrogenated oils, LDL cholesterol did not differ significantly and HDL cholesterol rose by 0.09 mmol/L (0.06 to 0.11). Against animal fat, in two industry-funded trials, LDL cholesterol differed by -0.01 mmol/L (-0.08 to 0.07). 15 of the 27 trials against low-saturated-fat oils were funded partially or completely by industry; their weaker effects were largely explained by smaller amounts of test oil. In randomised trials the LDL effect was 38% lower than predicted by the Katan calculator from fatty acid composition and dose; the reason is not clear. Zock et al. found minimal and non-significant lipid differences between natural palm oil (18% of palmitic acid at sn-2) and enzymatically modified palm oil (65% at sn-2). Palm oil is obtained from the mesocarp of the fruit of Elaeis guineensis; 40-50% of its fat is saturated, mostly palmitic acid. Data on palm oil and cardiovascular disease risk are sparse.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20171101144113/http://jn.nutrition.org/content/145/7/1549.full"
+}

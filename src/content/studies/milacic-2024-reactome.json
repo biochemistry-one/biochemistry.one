@@ -1,0 +1,17 @@
+{
+  "title": "The Reactome Pathway Knowledgebase 2024",
+  "authors": "Milacic M, Beavers D, Conley P, Gong C, Gillespie M, Griss J, et al.",
+  "journal": "Nucleic Acids Research",
+  "year": 2024,
+  "doi": "10.1093/nar/gkad1025",
+  "pmid": "37941124",
+  "url": "https://reactome.org/content/detail/R-HSA-209968",
+  "design": "database",
+  "funder": "The development of Reactome is supported by grants from the National Institutes of Health [U41HG003751, U24HG012198, U24HG011851, U54GM114833, U01CA239069]; European Bioinformatics Institute (EMBL-EBI), Open Targets (The Target Validation Platform) and Medicine by Design (University of Toronto). Funding for open access charge: National Institutes of Health [U24HG012198].",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Pathway R-HSA-209968, Thyroxine biosynthesis (review status five stars, externally reviewed), and its reactions, read through the Reactome Content Service on 2026-10-21. SLC5A5 (NIS) transports iodide from blood serum into thyroid cells using the inward movement of Na+, which the Na+/K+-ATPase drives; TSH stimulates the uptake; SLC5A5 mutations cause thyroid dyshormonogenesis 1. DUOX1 and DUOX2 form the H2O2 that thyroid peroxidase requires. TPO, with cofactors Ca2+ and haem b, in a complex on the extracellular side of the apical plasma membrane, iodinates tyrosine residues of thyroglobulin with iodide and H2O2 and transfers the iodophenyl group of a donor DIT to an acceptor DIT (T4) or MIT (T3), leaving dehydroalanine on the donor; TPO mutations cause thyroid dyshormonogenesis 2A. Iodinated thyroglobulin is taken into follicular cells and cleaved in lysosomes, releasing T4, T3 and iodotyrosines; released iodide is recycled, and T4 and T3 are exported to the blood. DIO3 converts T4 to reverse T3 and T3 to 3,3'-diiodothyronine (T2), both inactive.",
+  "class": "reference",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10767911/fullTextXML"
+}

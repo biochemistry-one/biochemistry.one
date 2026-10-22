@@ -1,0 +1,18 @@
+{
+  "title": "Lack of an association or an inverse association between low-density-lipoprotein cholesterol and mortality in the elderly: a systematic review",
+  "authors": "Ravnskov U, Diamond DM, Hama R, Hamazaki T, Hammarskjöld B, Hynes N, et al.",
+  "journal": "BMJ Open",
+  "year": 2016,
+  "doi": "10.1136/bmjopen-2015-010401",
+  "pmid": "27292972",
+  "design": "systematic-review",
+  "participants": 68094,
+  "population": "19 cohort studies (30 cohorts) of people aged 60 or older from the general population with LDL cholesterol as a risk factor for all-cause or cardiovascular mortality",
+  "funder": "The study has been supported by a grant from Western Vascular Institute. The nature and funding of the institute are not stated.",
+  "funderRole": "unknown",
+  "authorConflicts": "One author received speaker fees from Nissui Pharmaceutical and Nippon Suisan Kaisha; one holds a US patent for a homocysteine-lowering protocol; four authors have written books criticising the cholesterol hypothesis.",
+  "dataAccess": "summary",
+  "result": "An inverse association between LDL cholesterol and all-cause mortality was seen in 16 of 28 cohorts (significant in 14), representing 92% of participants in cohorts recording this association; no association in the rest. Cardiovascular mortality was highest in the lowest LDL cholesterol quartile in two of nine cohorts and showed no association in seven. The authors interpret the findings as inconsistent with the cholesterol hypothesis.",
+  "class": "undetermined",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4908872"
+}

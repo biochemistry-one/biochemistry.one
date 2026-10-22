@@ -1,0 +1,18 @@
+{
+  "title": "Low vitamin B-12 concentrations in patients without anemia: the effect of folic acid fortification of grain",
+  "authors": "Mills JL, Von Kohorn I, Conley MR, Zeller JA, Cox C, Williamson RE, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2003,
+  "doi": "10.1093/ajcn/77.6.1474",
+  "pmid": "12791626",
+  "design": "cross-sectional",
+  "participants": 1573,
+  "followUp": "Laboratory records 1992 to 2000, before, during optional and after mandatory fortification",
+  "population": "Every patient with a serum vitamin B12 below 258 pmol/L at the Veterans Affairs Medical Center, Washington DC",
+  "funder": "Supported by the intramural research program at the National Institute of Child Health and Human Development, NIH, DHHS.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Of 1573 patients with low B12, the proportion without anaemia was 39.2% before fortification, 45.5% during optional fortification and 37.6% after mandatory fortification, without a significant increase; unchanged when restricted to patients over 60 years or to B12 below 150 pmol/L. Neurological outcomes were not assessed. The authors state that, if confirmed, fortification has not caused a major increase in masking of B12 deficiency.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240508133057/https://www.sciencedirect.com/science/article/pii/S0002916523058112"
+}

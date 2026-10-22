@@ -1,0 +1,18 @@
+{
+  "title": "Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease",
+  "authors": "Wang Z, Klipfell E, Bennett BJ, Koeth R, Levison BS, DuGar B, et al.",
+  "journal": "Nature",
+  "year": 2011,
+  "doi": "10.1038/nature09922",
+  "pmid": "21475195",
+  "design": "animal",
+  "population": "Atherosclerosis-prone C57BL/6J.Apoe-/- mice, germ-free Swiss Webster mice and an F2 intercross of C57BL/6J.Apoe-/- with C3H/HeJ.Apoe-/- mice; plus clinical cohorts of stable patients undergoing elective cardiac evaluation (learning cohort 50 cases and 50 controls, validation cohort 25 and 25, independent cohort n = 1876)",
+  "funder": "This research was supported by National Institutes of Health grants R01 HL103866, P01 HL098055, P01HL087018-020001, P01 HL28481 and P01 HL30568; B.J.B. was supported by NIH training grant T32-DK07789. The clinical study GeneBank was supported in part by P01 HL076491-055328, R01 HL103931 and the Cleveland Clinic Foundation General Clinical Research Center of the Cleveland Clinic/Case Western Reserve University CTSA (1UL1RR024989).",
+  "funderRole": "none",
+  "inKindSupport": "Abbott Diagnostics provided supplies for some of the fasting lipid profile, glucose, creatinine, troponin I and hsCRP measurements in GeneBank; the haemoglobin A1c and fasting glucose assays were supported by R01 DK080732.",
+  "authorConflicts": "The authors declare no competing financial interests.",
+  "dataAccess": "individual",
+  "result": "Untargeted metabolomics identified choline, trimethylamine N-oxide (TMAO) and betaine, three metabolites of phosphatidylcholine, as predictors of cardiovascular disease. Oral but not intraperitoneal labelled phosphatidylcholine or choline yielded d9-TMAO, and three weeks of broad-spectrum antibiotics, or germ-free status, abolished it; conventionalisation restored it, establishing the route phosphatidylcholine to choline to trimethylamine to TMAO. In C57BL/6J.Apoe-/- mice weaned onto chow with 1.0% choline, aortic root lesions were augmented nearly threefold in both sexes, and antibiotics completely inhibited the increase; plasma TMAO rose from 2.5 ± 0.1 to 28.3 ± 2.4 µM in males and from 4.0 ± 0.5 to 158.6 ± 32.9 µM in females, and fell below 100 nM on antibiotics. Dietary choline, TMAO or betaine raised macrophage scavenger receptors CD36 and SR-A1 and foam-cell formation, which antibiotics prevented; the choline analogue 3,3-dimethyl-1-butanol raised neither TMAO nor macrophage cholesterol. Hepatic expression of several flavin monooxygenases, FMO3 among them, correlated with lesion area, plasma TMAO and inversely with HDL cholesterol in mice, and a locus containing the FMO cluster on mouse chromosome 1 affected lesion size. The authors state that the participation of FMOs in human atherosclerosis and HDL cholesterol levels remains to be established.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3086762"
+}

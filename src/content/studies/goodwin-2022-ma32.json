@@ -1,0 +1,21 @@
+{
+  "title": "Effect of Metformin vs Placebo on Invasive Disease-Free Survival in Patients With Breast Cancer: The MA.32 Randomized Clinical Trial",
+  "authors": "Goodwin PJ, Chen BE, Gelmon KA, Whelan TJ, Ennis M, Lemieux J, et al.",
+  "journal": "JAMA",
+  "year": 2022,
+  "doi": "10.1001/jama.2022.6147",
+  "pmid": "35608580",
+  "registry": "NCT01101438",
+  "design": "rct",
+  "participants": 3649,
+  "followUp": "median 96.2 months in the hormone receptor-positive group and 94.1 months in the receptor-negative group",
+  "population": "3649 patients with high-risk non-metastatic breast cancer without diabetes receiving standard therapy, enrolled in Canada, Switzerland, the United States and the United Kingdom between August 2010 and March 2013; mean age 52.4 years, 3643 women (99.8%)",
+  "funder": "Supported by grant 021039 from the Canadian Cancer Society Research Institute; CA077202, CA180868 and CA180822 from the US National Cancer Institute; the Breast Cancer Research Foundation; Canadian Breast Cancer Foundation-Ontario Region; 10NOV-467 from the Ontario Institute for Cancer Research; 02689-08-2010 from the Stiftung Krebsforschung Schweiz; Cancer Research UK; Apotex Canada (in-kind donation of placebo and metformin); and the Hold'em for Life Charity. The Canadian Cancer Trials Group was responsible for protocol development and trial conduct but had no role in analysis, interpretation and approval of the manuscript or the decision to submit it.",
+  "funderRole": "none",
+  "inKindSupport": "In-kind donation of placebo and metformin from Apotex Canada.",
+  "authorConflicts": "Many authors report grants or personal fees from pharmaceutical companies outside the submitted work, and one became an employee of AstraZeneca in December 2021.",
+  "dataAccess": "summary",
+  "result": "Patients were randomised to metformin or placebo in a phase 3 double-blind trial. Futility was declared at a second interim analysis for hormone receptor-negative patients, so the primary analysis covered the 2533 oestrogen or progesterone receptor-positive patients, among whom 465 invasive disease-free survival events occurred. Event rates were 2.78 per 100 patient-years with metformin against 2.74 with placebo (hazard ratio 1.01, 95% CI 0.84 to 1.21, p = 0.93) and death rates 1.46 against 1.32 per 100 patient-years (1.10, 0.86 to 1.41, p = 0.47). Among receptor-negative patients the rates were 3.58 against 3.60 per 100 patient-years (1.01, 0.79 to 1.30, p = 0.92). None of the three secondary outcomes in the receptor-positive group differed significantly. Grade 3 non-haematological adverse events were more frequent with metformin than placebo (21.5% against 17.5%, p = 0.003), the most common being hypertension (2.4% against 1.9%) and irregular menses (1.5% against 1.4%).",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9131745"
+}

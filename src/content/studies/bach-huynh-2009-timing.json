@@ -1,0 +1,19 @@
+{
+  "title": "Timing of levothyroxine administration affects serum thyrotropin concentration",
+  "authors": "Bach-Huynh TG, Nayak B, Loh J, Soldin S, Jonklaas J",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2009,
+  "doi": "10.1210/jc.2009-0860",
+  "pmid": "19584184",
+  "design": "rct",
+  "participants": 65,
+  "followUp": "three 8-week regimens, crossover",
+  "population": "Patients at Georgetown University taking levothyroxine for hypothyroidism or thyroid cancer, randomised to six sequences of fasting, bedtime and with-breakfast dosing",
+  "funder": "This project was conducted through the General Clinical Research Center at Georgetown University and supported by Grant M01-RR-020359 from the National Center for Research Resources (NCRR), NIH. J.J. is supported by NCRR Grant K23 RR16524. S.S. is partially supported by NIH GCRC Grant MO1-RR-020359 and by Applied Biosystems/Sciex.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have nothing to disclose.",
+  "dataAccess": "unknown",
+  "result": "Mean TSH was 1.06 (SD 1.23) mIU/l with fasting intake, 2.93 (3.29) with breakfast and 2.19 (2.66) at bedtime; both non-fasting regimens gave significantly higher and more variable TSH. Classified as industry because one author was partially supported by Applied Biosystems/Sciex.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2758731/"
+}

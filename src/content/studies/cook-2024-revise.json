@@ -1,0 +1,19 @@
+{
+  "title": "Stress ulcer prophylaxis during invasive mechanical ventilation",
+  "authors": "Cook D, Deane A, Lauzier F, Zytaruk N, Guyatt G, Saunders L, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2024,
+  "doi": "10.1056/NEJMoa2404245",
+  "pmid": "38875111",
+  "registry": "NCT03374800",
+  "design": "rct",
+  "participants": 4821,
+  "followUp": "90 days",
+  "population": "Critically ill adults undergoing invasive ventilation in 68 ICUs in eight countries; intravenous pantoprazole 40 mg daily or matching placebo",
+  "funder": "Abstract: 'Funded by the Canadian Institutes of Health Research and others.' Registry NCT03374800: lead sponsor McMaster University; collaborators Canadian Institutes of Health Research, Canadian Critical Care Trials Group, Australian and New Zealand Intensive Care Society Clinical Trials Group, National Health and Medical Research Council of Australia. PubMed also lists Hamilton Health Sciences, the National Institute for Health Research and the Physicians' Services Incorporated Foundation. The full funding statement was not read because the publisher page refused access.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Clinically important upper gastrointestinal bleeding in the ICU at 90 days: 25 of 2385 (1.0%) with pantoprazole against 84 of 2377 (3.5%) with placebo (HR 0.30, 95% CI 0.19 to 0.47). Death at 90 days: 696 of 2390 (29.1%) against 734 of 2379 (30.9%) (HR 0.94, 0.85 to 1.04). Patient-important bleeding was reduced; ventilator-associated pneumonia, C. difficile infection and other secondary outcomes were similar.",
+  "class": "independent",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT03374800"
+}

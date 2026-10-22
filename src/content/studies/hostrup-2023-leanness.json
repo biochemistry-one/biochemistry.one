@@ -1,0 +1,19 @@
+{
+  "title": "Inhaled salbutamol induces leanness in well-trained healthy females but not males during a period of endurance training: a randomised controlled trial",
+  "authors": "Hostrup M, Weinreich C, Bjerre M, Kohlbrenner D, Bangsbo J, Jessen S",
+  "journal": "ERJ Open Research",
+  "year": 2023,
+  "doi": "10.1183/23120541.00657-2023",
+  "pmid": "38152086",
+  "design": "rct",
+  "participants": 40,
+  "followUp": "6 weeks",
+  "population": "19 women and 21 men, well-trained and healthy, inhaling salbutamol 800 to 1600 µg or placebo on training days during combined endurance and high-intensity interval training, double-blind",
+  "funder": "The study was supported by Anti Doping Denmark; one author was supported by a Postdoc Mobility Fellowship of the Swiss National Science Foundation.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have no conflicting interests.",
+  "dataAccess": "summary",
+  "result": "Salbutamol reduced fat mass in women only (-0.8 kg at 6 weeks against placebo, 95% CI -0.5 to -1.6; sex-by-treatment p = 0.048), with lean mass gain in women. Salbutamol lowered the overall rise in maximal oxygen uptake in both sexes (treatment effect p = 0.014), mainly through a blunted increase over the first 4 weeks, increases being of similar size between treatments by week 6, and lowered quadriceps strength in women by 39 N·m (17 to 61) at 6 weeks; muscle electron transport chain complex I to V abundance rose, while beta2-adrenoceptor protein content was unchanged.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10752270/"
+}

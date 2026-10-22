@@ -1,0 +1,17 @@
+{
+  "title": "Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents",
+  "authors": "Kearns CE, Schmidt LA, Glantz SA",
+  "journal": "JAMA Internal Medicine",
+  "year": 2016,
+  "doi": "10.1001/jamainternmed.2016.5394",
+  "pmid": "27617709",
+  "design": "other",
+  "population": "Internal documents of the Sugar Research Foundation: 319 documents (1551 pages) in the Roger Adams papers and 27 documents (31 pages) of D. Mark Hegsted's correspondence",
+  "funder": "This work was supported by the UCSF Philip R. Lee Institute for Health Policy Studies, a donation by the Hellmann Family Fund to the UCSF Center for Tobacco Control Research and Education, the UCSF School of Dentistry Department of Orofacial Sciences and Global Oral Health Program, National Institute of Dental and Craniofacial Research grant DE-007306 and National Cancer Institute Grant CA-087472. The funders had no role in design and conduct of the study; collection, management, analysis, and interpretation of the data; and preparation, review, or approval of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "None reported.",
+  "dataAccess": "summary",
+  "result": "In 1965 the Sugar Research Foundation approved Project 226, a literature review by Hegsted and McGandy overseen by Stare, and paid $6500 ($48,900 in 2016 dollars). The foundation set the review's objective, contributed articles for inclusion and received drafts. The two-part review, published in the New England Journal of Medicine in 1967, discounted studies linking sucrose to coronary heart disease and concluded that reducing dietary cholesterol and substituting polyunsaturated for saturated fat was the only dietary intervention needed; the foundation's funding and role were not disclosed. The authors state that evidence of industry influence on the review's conclusions is circumstantial. In 1971 the industry influenced the National Caries Program of the National Institute of Dental Research to shift its emphasis to interventions other than restricting sucrose.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5099084"
+}

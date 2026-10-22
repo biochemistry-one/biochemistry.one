@@ -1,0 +1,20 @@
+{
+  "title": "Primary care-led weight management for remission of type 2 diabetes (DiRECT): an open-label, cluster-randomised trial",
+  "authors": "Lean ME, Leslie WS, Barnes AC, Brosnahan N, Thom G, McCombie L, et al.",
+  "journal": "Lancet",
+  "year": 2018,
+  "doi": "10.1016/S0140-6736(17)33102-1",
+  "pmid": "29221645",
+  "registry": "ISRCTN03267836",
+  "design": "rct",
+  "participants": 306,
+  "followUp": "12 months",
+  "population": "Adults aged 20 to 65 years diagnosed with type 2 diabetes within the past 6 years, body-mass index 27 to 45 kg/m2 and not receiving insulin, recruited from 49 primary care practices in Scotland and the Tyneside region of England; 149 per group in the intention-to-treat population",
+  "funder": "Diabetes UK. The ISRCTN registry entry for ISRCTN03267836 names Diabetes UK as funder and Cambridge Weight Plan (UK) as a provider of product and training support, with NHS Greater Glasgow and Clyde as sponsor.",
+  "funderRole": "none",
+  "inKindSupport": "Product and training support from Cambridge Weight Plan (UK), as recorded in the ISRCTN registry entry.",
+  "dataAccess": "unknown",
+  "result": "Practices were randomised to a weight management programme comprising withdrawal of antidiabetic and antihypertensive drugs, total diet replacement at 825 to 853 kcal/day for 3 to 5 months, stepped food reintroduction over 2 to 8 weeks and structured support for weight loss maintenance, or to best-practice care by guidelines. At 12 months, weight loss of 15 kg or more was recorded in 36 of 149 intervention participants (24%) and none of the control participants (p < 0.0001). Remission of diabetes, defined as HbA1c below 6.5% after at least 2 months off all antidiabetic medication, was achieved by 68 of 149 (46%) against 6 of 149 (4%), odds ratio 19.7 (95% CI 7.8 to 49.8, p < 0.0001). Remission varied with weight loss across the whole study population: none of 76 who gained weight, 6 of 89 (7%) who stayed within 5 kg of baseline, 19 of 56 (34%) losing 5 to 10 kg, 16 of 28 (57%) losing 10 to 15 kg and 31 of 36 (86%) losing 15 kg or more. Mean weight fell by 10.0 kg (SD 8.0) against 1.0 kg (3.7), an adjusted difference of -8.8 kg (-10.3 to -7.3, p < 0.0001). Quality of life on the EuroQol 5 Dimensions visual analogue scale improved by 7.2 points (SD 21.3) in the intervention group and fell by 2.9 (15.5) in the control group (adjusted difference 6.4 points, 2.5 to 10.3, p = 0.0012). Nine serious adverse events were reported by 7 of 157 intervention participants (4%) and two by two control participants (1%); two events in one participant, biliary colic and abdominal pain, were deemed potentially related to the intervention, and no serious adverse event led to withdrawal.",
+  "class": "independent",
+  "fundingChecked": "https://www.isrctn.com/api/query/format/default?q=ISRCTN03267836"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Opinion on the re-evaluation of mono- and diglycerides of fatty acids (E 471) as food additive in foods for infants below 16 weeks of age and follow-up of their re-evaluation as food additives for uses in foods for all population groups",
+  "authors": "EFSA Panel on Food Additives and Flavourings (FAF), Younes M, Aquilina G, Castle L, Engel KH, Fowler P, et al.",
+  "journal": "EFSA Journal",
+  "year": 2021,
+  "doi": "10.2903/j.efsa.2021.6885",
+  "pmid": "34765031",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission; question number EFSA-Q-2018-00100. Technical data were submitted in response to a call for data by the European Food Emulsifiers Manufacturers Association (EFEMA) and Specialised Nutrition Europe.",
+  "funderRole": "none",
+  "authorConflicts": "The opinion refers to the declarations of interest of EFSA experts published at https://ess.efsa.europa.eu/doi/doiweb/doisearch.",
+  "dataAccess": "summary",
+  "result": "Data from one interested business operator (EFEMA, documentation 1 to 3): free and bound 3-MCPD, as free 3-MCPD, from below 0.1 to 4.45 mg/kg and glycidyl esters, as glycidol, from below 0.1 to 111.25 mg/kg in around 80 batches of E 471, the highest in E 471 from unsaturated rapeseed oil with about 40% monoglycerides; trans fatty acids 0.01% to below 1% in 15 samples from fully hardened, 0.34% to 1.59% in 12 from non-hardened and 15.88% to 59.92% in 7 from partially hardened raw materials; the operator stated that the manufacture uses no solvents. At the lowest technologically achievable levels proposed by the operator (glycidyl esters 10 mg/kg, 3-MCPD 2.5 mg/kg, erucic acid 20 g/kg), margins of exposure for glycidol were 785 to 4,130 against 25,000 of low concern, and reference values were exceeded for 3-MCPD in infants below 16 weeks and for glycidyl esters and erucic acid in all population groups. For infants below 16 weeks, exposure from infant formulae at the maximum permitted level of 4,000 mg/kg was 800 mg/kg bw per day at mean and 1,040 at high consumption (418 and 543 at the mean reported use level of 2,089 mg/kg); daily exposure to mono- and diacylglycerols from breast milk and from formula containing E 471 was of the same order of magnitude, and the Panel concluded that there is no reason for a safety concern for use in food categories 13.1.1 and 13.1.5.1. The Panel recommended lower limits for lead, cadmium, mercury and arsenic and new limits for 3-MCPD, glycidyl esters and erucic acid in the EU specifications.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8573540/fullTextXML"
+}

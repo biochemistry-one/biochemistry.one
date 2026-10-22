@@ -1,0 +1,18 @@
+{
+  "title": "A randomized trial of icatibant in ACE-inhibitor-induced angioedema",
+  "authors": "Baş M, Greve J, Stelter K, Havel M, Strassen U, Rotter N, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2015,
+  "doi": "10.1056/NEJMoa1312524",
+  "pmid": "25629740",
+  "registry": "NCT01154361",
+  "design": "rct",
+  "participants": 27,
+  "population": "Patients at German university hospitals with ACE-inhibitor-induced angio-oedema of the upper aerodigestive tract (per-protocol population)",
+  "funder": "Funded by Shire and the Federal Ministry of Education and Research of Germany (statement in the published abstract). The registry names the Technical University of Munich as lead sponsor.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Phase 2, double-blind, double-dummy trial of icatibant 30 mg subcutaneously, a bradykinin B2 receptor antagonist, against intravenous prednisolone 500 mg plus clemastine 2 mg. Median time to complete resolution of oedema 8.0 hours against 27.1 hours (P=0.002); complete resolution within 4 hours in 5 of 13 against 0 of 14. Three patients on standard therapy required rescue treatment and one required tracheotomy.",
+  "class": "industry",
+  "fundingChecked": "https://clinicaltrials.gov/study/NCT01154361"
+}

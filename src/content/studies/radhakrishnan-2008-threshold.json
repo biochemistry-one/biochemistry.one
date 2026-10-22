@@ -1,0 +1,16 @@
+{
+  "title": "Switch-like control of SREBP-2 transport triggered by small changes in ER cholesterol: a delicate balance",
+  "authors": "Radhakrishnan A, Goldstein JL, McDonald JG, Brown MS",
+  "journal": "Cell Metabolism",
+  "year": 2008,
+  "doi": "10.1016/j.cmet.2008.10.008",
+  "pmid": "19041766",
+  "design": "in-vitro",
+  "population": "Chinese hamster ovary cell lines CHO-K1, CHO-7 and CHO-7 cells overexpressing human Insig-1",
+  "funder": "Grants from the NIH (HL20948 and GM069338) and the Perot Family Foundation.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "In purified ER membranes of CHO cells, resting ER cholesterol was about 7 mol% of ER lipids and whole-cell cholesterol about 35 mol% of cell lipids. SREBP-2 processing fell abruptly when ER cholesterol exceeded about 5 mol%; 50% inhibition occurred at 4.5 mol% (Hill coefficient 3.7) with cholesterol-cyclodextrin and at 5.7 mol% (Hill coefficient 3.5) with beta-VLDL in CHO-K1 cells, and at 5.5 mol% (Hill coefficient 5.1) in CHO-7 cells; the authors summarise the switch as 4.5-5.7 mol% with Hill coefficients of 3.5-5.1. About 6-fold overexpression of Insig-1 lowered the 50% inhibition point from 5.5 to 3.1 mol% and raised the Hill coefficient from 5.1 to 6.9.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2652870/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Effect of Antihypertensive Medication Reduction vs Usual Care on Short-term Blood Pressure Control in Patients With Hypertension Aged 80 Years and Older: The OPTIMISE Randomized Clinical Trial",
+  "authors": "Sheppard JP, Burt J, Lown M, Temple E, Lowe R, Fraser R, et al.; OPTIMISE Investigators",
+  "journal": "JAMA",
+  "year": 2020,
+  "doi": "10.1001/jama.2020.4871",
+  "pmid": "32453368",
+  "registry": "EudraCT 2016-004236-38; ISRCTN97503221",
+  "design": "rct",
+  "participants": 569,
+  "followUp": "12 weeks",
+  "population": "Patients aged 80 years or older at 69 primary care sites in England, with systolic pressure below 150 mm Hg on at least 2 antihypertensive drugs, judged by their physician appropriate for medication reduction; mean age 84.8 years, 48.5% women",
+  "funder": "This work received joint funding from NIHR CLAHRC at Oxford Health NHS Foundation Trust (P2-501) and the NIHR School for Primary Care Research (335). Drs Sheppard and McManus were funded by an NIHR professorship (NIHR-RP-R2-12-015); further fellowships from the Wellcome Trust/Royal Society and NIHR. The University of Oxford had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Mant reported personal fees from BMS-Pfizer; McManus reported non-financial support from Omron (blood-pressure monitors); other disclosures are NIHR grants.",
+  "dataAccess": "individual",
+  "result": "Unblinded non-inferiority trial: removal of one antihypertensive drug (n=282) against usual care (n=287). Systolic pressure below 150 mm Hg at 12 weeks in 229 (86.4%) against 236 (87.7%), adjusted relative risk 0.98 (97.5% one-sided CI 0.92 to infinity), meeting the non-inferiority margin of 0.90. Medication reduction was sustained in 187 (66.3%). Mean systolic pressure rose 3.4 mm Hg (95% CI 1.1 to 5.8) more than with usual care. At least one serious adverse event in 12 (4.3%) against 7 (2.4%), adjusted relative risk 1.72 (0.7 to 4.3). The authors call for research on long-term clinical outcomes.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7251449/"
+}

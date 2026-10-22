@@ -1,0 +1,15 @@
+{
+  "title": "Acid-base transport by the renal proximal tubule",
+  "authors": "Skelton LA, Boron WF, Zhou Y",
+  "journal": "Journal of Nephrology",
+  "year": 2010,
+  "pmid": "21170887",
+  "design": "other",
+  "funder": "US National Kidney Foundation Fellowship (FLB795) to L.A.S.; US National Institutes of Health grants P01-DK17433 and R01-DK081567 to W.F.B.; American Heart Association Scientist Development Grant 0735432N to Y.Z.",
+  "funderRole": "none",
+  "authorConflicts": "None declared.",
+  "dataAccess": "summary",
+  "result": "Narrative review. The kidneys filter some 4,300 mmol of HCO3- a day; the proximal tubule reclaims about 80% and distal segments nearly all of the remainder. Proximal-tubule cells secrete H+ mainly through the Na-H exchanger NHE3, which exchanges 1 H+ for 1 Na+, and through the vacuolar H+-ATPase. Carbonic anhydrase IV, GPI-anchored to the outer leaflet of the apical membrane, converts secreted H+ and luminal HCO3- to CO2 and H2O, which re-enter the cell, in part through aquaporin 1 according to preliminary data. Cytosolic carbonic anhydrase II, about 95% of renal carbonic anhydrase activity, converts CO2 and H2O back to HCO3- and H+; HCO3- exits with Na+ across the basolateral membrane through the electrogenic cotransporter NBCe1-A at a stoichiometry of 3:1. Increases in basolateral HCO3- lower HCO3- reabsorption in isolated perfused proximal tubules, and HCO3- infusion in rats lowers it on free-flow micropuncture.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4699187"
+}

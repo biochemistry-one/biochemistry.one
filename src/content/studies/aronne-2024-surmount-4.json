@@ -1,0 +1,19 @@
+{
+  "title": "Continued treatment with tirzepatide for maintenance of weight reduction in adults with obesity: the SURMOUNT-4 randomized clinical trial",
+  "authors": "Aronne LJ, Sattar N, Horn DB, Bays HE, Wharton S, Lin WY, et al.",
+  "journal": "JAMA",
+  "year": 2024,
+  "doi": "10.1001/jama.2023.24945",
+  "pmid": "38078870",
+  "registry": "NCT04660643",
+  "design": "rct",
+  "participants": 670,
+  "followUp": "36-week open-label lead-in, then 52 weeks randomised to week 88",
+  "population": "Adults without diabetes with BMI of 30 or more, or 27 or more with a weight-related complication, at 70 sites in Argentina, Brazil, Taiwan and the US; 783 entered the lead-in and 670 who reached 10 or 15 mg were randomised 1:1; 71% women, mean age 48 years",
+  "funder": "This study was sponsored by Eli Lilly and Company. The sponsor was involved in study design and conduct; data collection, management, analyses and interpretation; preparation, review or approval of the manuscript; and the decision to submit. Final decisions resided with the authors, who included employees of the sponsor.",
+  "funderRole": "several",
+  "dataAccess": "summary",
+  "result": "Of 783 enrolled, 113 stopped the drug during the lead-in, most often for an adverse event or withdrawal; adverse events caused discontinuation in 7.0% of enrolled participants, mainly gastrointestinal, and 81.0% reported at least one adverse event in the lead-in. Randomised participants had lost 20.9% by week 36. From week 36 to 88 weight changed by -5.5% with continued tirzepatide against +14.0% after switching to placebo (difference -19.4 percentage points, 95% CI -21.2 to -17.7). At week 88, 300 (89.5%) on tirzepatide against 16.6% on placebo kept at least 80% of the lead-in loss; overall loss from week 0 was 25.3% against 9.9%.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10714284"
+}

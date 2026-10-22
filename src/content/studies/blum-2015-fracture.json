@@ -1,0 +1,19 @@
+{
+  "title": "Subclinical thyroid dysfunction and fracture risk: a meta-analysis",
+  "authors": "Blum MR, Bauer DC, Collet TH, Fink HA, Cappola AR, da Costa BR, et al.",
+  "journal": "JAMA",
+  "year": 2015,
+  "doi": "10.1001/jama.2015.5161",
+  "pmid": "26010634",
+  "design": "meta-analysis",
+  "participants": 70298,
+  "followUp": "median 12.1 years; 762,401 person-years",
+  "population": "Individual participant data from 13 prospective cohorts of the Thyroid Studies Collaboration; median age 64 years, 61.3% women",
+  "funder": "This project was supported by grants from the Swiss National Science Foundation and partially by the Swiss Heart Foundation. Contributing cohorts were funded by public agencies; thyroid testing in the HUNT Study was financially supported by Wallac Oy, the original PROSPER study by an unrestricted grant from Bristol-Myers Squibb, and the original OPUS study by sanofi-aventis, Eli Lilly, Novartis, Pfizer, Procter & Gamble Pharmaceuticals and Roche. None of the sponsors had any role in design, conduct, analysis or approval, except that the NIA, the Cardiovascular Health Study and the Radiation Effects Research Foundation reviewed the manuscript.",
+  "funderRole": "publication",
+  "authorConflicts": "One author reported grants and personal fees from many pharmaceutical companies outside the submitted work; another reported personal fees from Genzyme.",
+  "dataAccess": "individual",
+  "result": "Against euthyroidism, subclinical hyperthyroidism carried age- and sex-adjusted hazard ratios of 1.36 (95% CI 1.13 to 1.64) for hip fracture (6.0 against 4.9 per 1000 person-years) and 1.28 (1.06 to 1.53) for any fracture (14.4 against 11.2 per 1000 person-years). With TSH below 0.10 mIU/l: hip fracture 1.61 (1.21 to 2.15), any fracture 1.98 (1.41 to 2.78), spine fracture 3.57 (1.88 to 6.78). Endogenous subclinical hyperthyroidism, excluding thyroid medication users: hip 1.52 (1.19 to 1.93), any fracture 1.42 (1.16 to 1.74). Subclinical hypothyroidism was not associated with fracture, and thyroxine treatment at baseline, regardless of thyroid function, was not associated with any fracture outcome.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4729304/"
+}

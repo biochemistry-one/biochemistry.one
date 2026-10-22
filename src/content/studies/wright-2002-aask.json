@@ -1,0 +1,20 @@
+{
+  "title": "Effect of blood pressure lowering and antihypertensive drug class on progression of hypertensive kidney disease: results from the AASK trial",
+  "authors": "Wright JT Jr, Bakris G, Greene T, Agodoa LY, Appel LJ, Charleston J, et al.; African American Study of Kidney Disease and Hypertension Study Group",
+  "journal": "JAMA",
+  "year": 2002,
+  "doi": "10.1001/jama.288.19.2421",
+  "pmid": "12435255",
+  "design": "rct",
+  "participants": 1094,
+  "followUp": "3 to 6.4 years",
+  "population": "African Americans aged 18 to 70 years with hypertensive renal disease (GFR 20 to 65 ml/min/1.73 m2) at 21 US clinical centres",
+  "funder": "In addition to funding under a cooperative agreement from National Institute of Diabetes and Digestive and Kidney Diseases, this work was supported in part by the following institutional General Clinical Research Center and other National Institutes of Health grants: M01 RR-00080, 5M01 RR-00071, M01 00032, P20-RR11145, M01 RR00827, M01 RR00052, 2P20 RR11104, and DK 2818-02. We gratefully acknowledge support from the Office of Research in Minority Health and the donation of drug and some financial support to NIDDK by Pfizer Inc, AstraZeneca Pharmaceuticals, and King Pharmaceuticals Inc.",
+  "funderRole": "unknown",
+  "inKindSupport": "Drugs donated by Pfizer, AstraZeneca and King Pharmaceuticals.",
+  "authorConflicts": "Several authors report research grants, honoraria or consultancy from manufacturers of antihypertensive drugs, Pfizer and AstraZeneca among them.",
+  "dataAccess": "individual",
+  "result": "3 by 2 factorial trial of two blood-pressure goals and initial ramipril (n=436), metoprolol (n=441) or amlodipine (n=217). The lower goal (achieved 128/78 against 141/85 mm Hg) did not slow GFR decline (-2.21 against -1.95 ml/min/1.73 m2 per year) or reduce the composite of 50% GFR decline, end-stage renal disease or death (risk reduction 2%, 95% CI -22% to 21%). GFR slope did not differ consistently between drugs, but ramipril reduced the composite outcome by 22% (1% to 38%) against metoprolol and 38% (14% to 56%) against amlodipine.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20100721040657/http://jama.ama-assn.org:80/cgi/content/full/288/19/2421"
+}

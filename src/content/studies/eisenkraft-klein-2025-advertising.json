@@ -1,0 +1,18 @@
+{
+  "title": "Glucagon-like peptide-1 receptor agonists and pay-per-click direct-to-consumer advertising",
+  "authors": "Eisenkraft Klein D, Zenone M, Kesselheim AS",
+  "journal": "JAMA Network Open",
+  "year": 2025,
+  "doi": "10.1001/jamanetworkopen.2025.38718",
+  "pmid": "41171279",
+  "design": "cross-sectional",
+  "followUp": "April 2022 to March 2024",
+  "population": "Paid search keyword advertisements in the US linked to the Ozempic.com website, estimated with the Semrush tool",
+  "funder": "Dr Kesselheim's research was supported by Arnold Ventures. The funder had no role in design, conduct, collection, analysis, interpretation, preparation, review or approval of the manuscript, or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "One author served as an expert witness for the Federal Trade Commission and in cases against Gilead and J&J.",
+  "dataAccess": "summary",
+  "result": "An estimated $7.5 million was spent on more than 15,000 paid keywords over 2 years, generating 2.4 million paid visits to the Ozempic website. 1729 keywords (11%) contained the term weight and produced more than 358,000 visits, 14% of paid visits, at a time when Ozempic was not FDA approved for weight loss; Ozempic for weight loss cost $302,757 and Ozempic weight loss $188,626. More than 3500 keywords (23%) did not name the drug, including competitors' names such as Trulicity ($203,578) and Mounjaro ($113,668) and phrases such as Trulicity side effects. FDA guidance on social media does not cover search engines.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12579337/"
+}

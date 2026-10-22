@@ -1,0 +1,19 @@
+{
+  "title": "Levothyroxine treatment is associated with an increased relative risk of overall and organ specific incident cancers - a cohort study of the Swedish population",
+  "authors": "Wändell P, Carlsson AC, Li X, Sundquist J, Sundquist K",
+  "journal": "Cancer Epidemiology",
+  "year": 2020,
+  "doi": "10.1016/j.canep.2020.101707",
+  "pmid": "32222650",
+  "design": "cohort",
+  "participants": 8573313,
+  "followUp": "2009 to 2015",
+  "population": "All adults in Sweden on 1 January 2009; 253,193 (3.0%) with two or more levothyroxine prescriptions in 2005 to 2006; people with cancer before 2005 excluded",
+  "funder": "Funding statement not read: the publisher's full text returned a captcha to automated access. The PubMed record gives the competing interest statement only.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have no conflict of interest to disclose.",
+  "dataAccess": "individual",
+  "result": "399,751 incident cancers. Levothyroxine treatment was associated with a slightly higher overall cancer risk, adjusted HR 1.06 (95% CI 1.03 to 1.10) in men and 1.08 (1.07 to 1.10) in women, with higher risks in women for cancers of breast, endometrium, stomach, colon, liver, pancreas, bladder and skin and for leukaemia. Indication, TSH and dose were not reported in the abstract. Results read from the PubMed abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.sciencedirect.com/science/article/pii/S1877782120300412"
+}

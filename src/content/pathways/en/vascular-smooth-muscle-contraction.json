@@ -1,0 +1,46 @@
+{
+  "title": "Vascular smooth muscle contraction",
+  "layout": "chain",
+  "compartment": "Plasma membrane and cytosol of arterial smooth muscle",
+  "steps": [
+    {
+      "from": "Membrane depolarisation",
+      "to": "Cytosolic Ca2+",
+      "enzyme": "L-type channel Cav1.2 (CACNA1C, with CACNB2 and CACNA2D1)",
+      "inhibitors": [{"name": "Amlodipine", "page": "medicines/amlodipine"}],
+      "note": "Ca2+ enters through the EEEE selectivity filter"
+    },
+    {
+      "from": "Cytosolic Ca2+",
+      "to": "Ca2+-calmodulin",
+      "enzyme": "Calmodulin (CALM1)",
+      "reversible": true,
+      "note": "Binding protein, not a catalyst"
+    },
+    {
+      "from": "Ca2+-calmodulin",
+      "to": "Active myosin light-chain kinase",
+      "enzyme": "Myosin light-chain kinase (MYLK)",
+      "note": "Autoinhibitory segment leaves the catalytic core"
+    },
+    {
+      "from": "Active myosin light-chain kinase",
+      "to": "Myosin regulatory light chain phosphorylated at Ser19",
+      "enzyme": "Myosin light-chain kinase (MYLK)",
+      "cofactors": ["ATP", "Mg2+"],
+      "note": "Ser19 of both regulatory light chains of myosin II"
+    },
+    {
+      "from": "Myosin regulatory light chain phosphorylated at Ser19",
+      "to": "Actin-activated myosin ATPase activity",
+      "enzyme": "Smooth muscle myosin II",
+      "note": "Reversed by myosin light-chain phosphatase (PPP1R12A)"
+    },
+    {
+      "from": "Actin-activated myosin ATPase activity",
+      "to": "Arterial smooth muscle contraction",
+      "enzyme": "Actin-myosin cross-bridge cycling",
+      "cofactors": ["ATP"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "FDA reminder to avoid concomitant use of Plavix (clopidogrel) and omeprazole",
+  "authors": "US Food and Drug Administration",
+  "journal": "US Food and Drug Administration, posted 27 October 2010",
+  "year": 2010,
+  "url": "http://web.archive.org/web/20171104220627/https://www.fda.gov/Drugs/DrugSafety/ucm231161.htm",
+  "design": "regulatory",
+  "funder": "US Food and Drug Administration",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "FDA continues to warn against concomitant use of clopidogrel and omeprazole because co-administration can significantly reduce levels of the active metabolite of clopidogrel and its antiplatelet activity; the warning was added to the Plavix label in November 2009. The recommendation applies only to omeprazole, not to all PPIs, because PPIs differ in inhibition of CYP2C19; pantoprazole, a weak CYP2C19 inhibitor, may be an alternative.",
+  "class": "regulatory",
+  "fundingChecked": "http://web.archive.org/web/20171104220627/https://www.fda.gov/Drugs/DrugSafety/ucm231161.htm"
+}

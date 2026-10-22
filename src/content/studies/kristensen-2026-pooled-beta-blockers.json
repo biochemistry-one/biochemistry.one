@@ -1,0 +1,20 @@
+{
+  "title": "Beta-blockers after myocardial infarction with normal ejection fraction",
+  "authors": "Kristensen AMD, Rossello X, Atar D, Yndigegn T, Kimura T, Latini R, et al.; Beta-Blocker Trialists' Collaboration Study Group",
+  "journal": "New England Journal of Medicine",
+  "year": 2026,
+  "doi": "10.1056/NEJMoa2512686",
+  "pmid": "41211954",
+  "registry": "PROSPERO CRD420251119176",
+  "design": "meta-analysis",
+  "participants": 17801,
+  "followUp": "median 3.6 years (interquartile range 2.3 to 4.6)",
+  "population": "Individual participant data from five open-label randomised trials of long-term beta-blocker therapy against no beta-blocker therapy in patients with recent myocardial infarction, a left ventricular ejection fraction of at least 50% and no other indication for a beta-blocker: REBOOT (7459 patients), REDUCE-AMI (4967), BETAMI (2441), DANBLOCK (2277) and CAPITAL-RCT (657)",
+  "funder": "Supported by the Centro Nacional de Investigaciones Cardiovasculares Carlos III (the REBOOT trial); the Swedish Research Council, the Swedish Heart and Lung Association and the Region of Stockholm (the REDUCE-AMI trial); the South-Eastern Norway Regional Health Authority and the Research Council of Norway (the BETAMI trial); the Danish Heart Foundation and the Novo Nordisk Foundation (the DANBLOCK trial); and the Research Institute for Production Development, Kyoto, Japan (the CAPITAL-RCT trial). No company is named among the funders.",
+  "funderRole": "none",
+  "authorConflicts": "Disclosure forms are published with the full text at NEJM.org; not read.",
+  "dataAccess": "individual",
+  "result": "One-stage fixed-effects Cox proportional-hazards analysis of individual-patient data. Of 17,801 patients, 8831 (49.6%) were assigned a beta-blocker and 8970 (50.4%) none. Death from any cause, myocardial infarction or heart failure occurred in 717 patients (8.1%) against 748 (8.3%), hazard ratio 0.97 (95% CI 0.87 to 1.07), P = 0.54, over a median 3.6 years. Death from any cause occurred in 335 against 326 patients (hazard ratio 1.04, 0.89 to 1.21), myocardial infarction in 360 against 407 (0.89, 0.77 to 1.03) and heart failure in 75 against 87 (0.87, 0.64 to 1.19).",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20251123155116/https://www.nejm.org/doi/full/10.1056/NEJMoa2512686"
+}

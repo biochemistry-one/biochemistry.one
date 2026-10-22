@@ -1,0 +1,43 @@
+{
+  "title": "Ketogenese",
+  "layout": "chain",
+  "compartment": "Mitochondriale Matrix der Hepatozyten",
+  "steps": [
+    {
+      "from": "Langkettiges Acyl-CoA",
+      "to": "Acetyl-CoA",
+      "enzyme": "mehrere Schritte",
+      "inhibitors": [{"name": "Malonyl-CoA"}],
+      "note": "Eintritt über den Carnitin-Shuttle (CPT1A), dann β-Oxidation"
+    },
+    {
+      "from": "Acetyl-CoA",
+      "to": "Acetoacetyl-CoA",
+      "enzyme": "Acetyl-CoA-Acetyltransferase 1 (ACAT1)",
+      "cofactors": ["Acetyl-CoA"],
+      "reversible": true,
+      "note": "Mitochondriale Thiolase; kondensiert zwei Acetyl-CoA und setzt CoA frei"
+    },
+    {
+      "from": "Acetoacetyl-CoA",
+      "to": "HMG-CoA",
+      "enzyme": "HMG-CoA-Synthase 2 (HMGCS2), mitochondrial",
+      "cofactors": ["Acetyl-CoA", "H2O"],
+      "note": "Schlüsselschritt; setzt CoA frei; ein Mangel stört die Ketogenese beim Fasten"
+    },
+    {
+      "from": "HMG-CoA",
+      "to": "Acetoacetat",
+      "enzyme": "HMG-CoA-Lyase (HMGCL)",
+      "note": "Setzt Acetyl-CoA frei; Acetoacetat decarboxyliert spontan zu Aceton"
+    },
+    {
+      "from": "Acetoacetat",
+      "to": "D-3-Hydroxybutyrat",
+      "enzyme": "3-Hydroxybutyrat-Dehydrogenase 1 (BDH1)",
+      "cofactors": ["NADH zu NAD+"],
+      "reversible": true,
+      "note": "Gleichgewichtsnah; das Produktverhältnis folgt dem mitochondrialen NADH/NAD+"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Is overreliance on short-acting β2-agonists associated with health risks in the older asthma population?",
+  "authors": "To T, Zhu J, Terebessy E, Zhang K, Gershon AS, Licskai C",
+  "journal": "ERJ Open Research",
+  "year": 2022,
+  "doi": "10.1183/23120541.00032-2022",
+  "pmid": "35350274",
+  "design": "cohort",
+  "participants": 59533,
+  "followUp": "up to 5 years after a 1-year baseline, to 31 March 2021",
+  "population": "Ontario residents aged 65 to 99 years with prevalent asthma between April 2006 and March 2015, eligible for provincial drug coverage, in linked health administrative data",
+  "funder": "Supported by the SickKids Research Institute, Toronto; T. To is funded by a Canadian Institutes of Health Research Tier 1 Canada Research Chair in Asthma; supported by ICES, which is funded by an annual grant from the Ontario Ministry of Health and the Ministry of Long-Term Care. The supporters and funders had no role in study design, data collection, analysis, interpretation, writing or the decision to submit.",
+  "funderRole": "none",
+  "inKindSupport": "IQVIA Solutions Canada Inc. provided use of its Drug Information File.",
+  "authorConflicts": "One author reports grants from Novartis, AstraZeneca and Pfizer and fees from GlaxoSmithKline, AstraZeneca, Boehringer Ingelheim, Novartis, Sanofi Genzyme and Teva outside the submitted work; the others report public support or nothing to disclose.",
+  "dataAccess": "unknown",
+  "result": "8465 people (14.2%) filled 3 or more SABA canisters in the baseline year. Over 5 years 7684 (12.9%) died: 14.8% of those with 3 or more canisters against 12.6% of those with fewer. Against 1 to 2 canisters a year, adjusted hazard ratios for all-cause death were 1.11 (95% CI 1.02 to 1.22) for 3 to 5 canisters and 1.56 (1.41 to 1.71) for 6 or more, adjusted for age, sex, comorbidities, baseline exacerbations, marginalisation, rurality and baseline asthma medication. Severe exacerbations (emergency visit or admission) occurred in 7.5% against 2.1%, adjusted hazard ratios 1.59 (1.40 to 1.82) and 2.26 (1.96 to 2.60). Inhaled corticosteroid at baseline appeared to mitigate but not eliminate the association.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8958218/"
+}

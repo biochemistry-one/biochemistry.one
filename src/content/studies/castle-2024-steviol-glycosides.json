@@ -1,0 +1,15 @@
+{
+  "title": "Scientific opinion on the extension of the authorisation of use of the food additive steviol glycosides (E 960a–d) and the modification of the acceptable daily intake (ADI) for steviol",
+  "authors": "EFSA Panel on Food Additives and Flavourings (FAF), Castle L, Andreassen M, Aquilina G, Bastos ML, Boon P, et al.",
+  "journal": "EFSA Journal",
+  "year": 2024,
+  "doi": "10.2903/j.efsa.2024.9045",
+  "pmid": "39502654",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission (question number EFSA-Q-2023-00594), following an application to extend uses and modify the ADI. Adopted 25 September 2024.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Steviol glycosides from stevia (E 960a) are obtained by water extraction of the leaves of Stevia rebaudiana Bertoni and contain not less than 95% steviolbioside, rubusoside, dulcoside A, stevioside and rebaudiosides A, B, C, D, E, F and M. Steviol glycosides are not hydrolysed by digestive enzymes of the upper gastrointestinal tract; colonic microbiota release the aglycone steviol, which is absorbed and glucuronidated, and steviol glucuronide is excreted in urine and partly via bile into faeces. In eight men given rebaudioside A or stevioside, steviol glucuronide in urine accounted for 59% and 62% of the doses. The Panel found insufficient justification to raise the ADI of 4 mg/kg bw per day, expressed as steviol equivalents, to 6 or 16 mg/kg bw per day.",
+  "class": "regulatory",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11533382"
+}

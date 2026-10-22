@@ -1,0 +1,19 @@
+{
+  "title": "Thyroid hormone therapy and incident stroke",
+  "authors": "Papaleontiou M, Levine DA, Reyes-Gastelum D, Hawley ST, Banerjee M, Haymart MR",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2021,
+  "doi": "10.1210/clinem/dgab444",
+  "pmid": "34137866",
+  "design": "cohort",
+  "participants": 733208,
+  "followUp": "median 59 months",
+  "population": "Thyroid hormone users aged 18 years or older in the Veterans Health Administration, 2004 to 2017, with at least 2 TSH measurements after initiation",
+  "funder": "This work was supported by the National Institute on Aging of the NIH under Award Number K08 AG049684 and by a pilot grant co-funded by the Claude D. Pepper Older Americans Independence Center, the Michigan Institute for Clinical and Health Research and the Michigan Biology of Cardiovascular Aging to Dr. Papaleontiou. Dr. Haymart is supported by AHRQ R01 HS024512 and R01 CA201198 from the National Cancer Institute. The funders/sponsors had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit this manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Authors have nothing to disclose.",
+  "dataAccess": "individual",
+  "result": "Incident atrial fibrillation occurred in 71,333 of 643,687 (11.08%) and stroke in 41,931 of 663,809 (6.32%). Against euthyroidism, stroke was associated with TSH below 0.1 mIU/l (OR 1.33, 95% CI 1.24 to 1.43) and free T4 above 1.9 ng/dl (OR 1.17, 1.06 to 1.30), and with TSH above 5.5 mIU/l (OR 1.29, 1.26 to 1.33) and free T4 below 0.7 ng/dl (OR 1.29, 1.22 to 1.35), adjusted for age, sex and prior atrial fibrillation. Risk of atrial fibrillation and stroke was cumulative over time for exogenous hyper- and hypothyroidism.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475197/"
+}

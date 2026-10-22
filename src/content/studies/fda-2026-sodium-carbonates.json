@@ -1,0 +1,14 @@
+{
+  "title": "Sodium bicarbonate, sodium carbonate and sodium sesquicarbonate, 21 CFR 184.1736, 184.1742 and 184.1792: direct food substances affirmed as generally recognized as safe",
+  "authors": "US Food and Drug Administration",
+  "journal": "Code of Federal Regulations, title 21, part 184, read in the electronic Code of Federal Regulations, edition of 1 October 2026",
+  "year": 2026,
+  "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-184",
+  "design": "regulatory",
+  "funder": "US Food and Drug Administration; the text is federal regulation codified by the Office of the Federal Register.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Part 184 lists direct food substances affirmed as generally recognized as safe (GRAS), in these sections affirmed at 48 FR 52442 to 52443, 18 November 1983. Sodium bicarbonate (NaHCO3, CAS 144-55-8, section 184.1736) and sodium carbonate (Na2CO3, CAS 497-19-8, section 184.1742) are used in food with no limitation other than current good manufacturing practice; sodium carbonate as antioxidant, curing and pickling agent, flavoring agent and adjuvant, pH control agent and processing aid. Sodium sesquicarbonate (Na2CO3·NaHCO3·2H2O, CAS 533-96-0, section 184.1792) is used as a pH control agent in cream, at a level sufficient to control lactic acid before pasteurization and churning of cream into butter. Each ingredient meets the specifications of the Food Chemicals Codex, 3rd edition (1981).",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-21.xml?part=184&section=184.1742"
+}

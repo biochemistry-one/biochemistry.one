@@ -1,0 +1,18 @@
+{
+  "title": "Levothyroxine monotherapy cannot guarantee euthyroidism in all athyreotic patients",
+  "authors": "Gullo D, Latina A, Frasca F, Le Moli R, Pellegriti G, Vigneri R",
+  "journal": "PLoS One",
+  "year": 2011,
+  "doi": "10.1371/journal.pone.0022552",
+  "pmid": "21829633",
+  "design": "cross-sectional",
+  "participants": 5686,
+  "population": "1811 athyreotic patients after thyroidectomy with normal TSH on levothyroxine monotherapy and 3875 euthyroid controls with small benign nodules, Catania, Italy",
+  "funder": "This study has been sponsored by the University of Catania and was supported also by a grant from AIRC (Associazione Italiana Ricerca Cancro) to RV. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "The authors have declared that no competing interests exist.",
+  "dataAccess": "summary",
+  "result": "Despite TSH in the normal range, levothyroxine-treated athyreotic patients had higher free T4 and lower free T3 than matched controls (P < 0.001); 15.2% had free T3 below and 7.2% free T4 above the control range. Free T3 to free T4 ratios varied widely between individuals, and the relation between thyroid hormones and TSH indicated an altered pituitary feedback with reduced sensitivity.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3148220/"
+}

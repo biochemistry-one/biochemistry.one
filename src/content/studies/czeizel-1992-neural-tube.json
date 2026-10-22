@@ -1,0 +1,19 @@
+{
+  "title": "Prevention of the first occurrence of neural-tube defects by periconceptional vitamin supplementation",
+  "authors": "Czeizel AE, Dudás I",
+  "journal": "New England Journal of Medicine",
+  "year": 1992,
+  "doi": "10.1056/NEJM199212243272602",
+  "pmid": "1307234",
+  "design": "rct",
+  "participants": 7540,
+  "followUp": "One tablet daily from at least 1 month before conception until at least the second missed menstrual period, with ascertainment of the pregnancy outcome; trial begun in 1984, randomisation code broken at the end of 1991",
+  "population": "Women planning a pregnancy, in most cases their first, in the Hungarian Family Planning Program; 4753 confirmed pregnancies, with outcome known for 2104 in the vitamin group and 2052 in the trace-element group",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "inKindSupport": "Staff of Hoffmann-La Roche are thanked for supplying the supplements; the vitamin supplement was Elevit Pronatal (Hoffmann-La Roche).",
+  "dataAccess": "summary",
+  "result": "Vitamin supplement with 12 vitamins including 0.8 mg folic acid, 4 minerals and 3 trace elements, against a trace-element supplement of copper, manganese, zinc and 7.5 mg vitamin C. Neural tube defects occurred in 0 of 2104 informative pregnancies in the vitamin group and 6 of 2052 in the trace-element group (P = 0.029); calculated from the counts, an absolute difference of 0.29 percentage points. Congenital malformations 13.3 against 22.9 per 1000 (P = 0.02). The authors could not exclude a synergistic effect of folic acid with the other vitamins.",
+  "class": "undetermined",
+  "fundingChecked": "https://web.archive.org/web/20250715073632/https://www.nejm.org/doi/full/10.1056/nejm199212243272602"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "A randomized trial of coenzyme Q10 in patients with confirmed statin myopathy",
+  "authors": "Taylor BA, Lorson L, White CM, Thompson PD",
+  "journal": "Atherosclerosis",
+  "year": 2015,
+  "doi": "10.1016/j.atherosclerosis.2014.12.016",
+  "pmid": "25545331",
+  "registry": "NCT01140308",
+  "design": "rct",
+  "participants": 120,
+  "followUp": "8-week crossover confirmation phase, then 8 weeks of CoQ10 or placebo",
+  "population": "Adults with prior symptoms of statin myalgia; 41 with myalgia confirmed on blinded simvastatin 20 mg but not placebo entered the CoQ10 phase",
+  "funder": "Coenzyme Q10 in Statin Myopathy study is funded by NCCAM grant 1RC1AT005836 (P. Thompson).",
+  "funderRole": "unknown",
+  "authorConflicts": "P.D. Thompson reported research support, consultancy and speaker honoraria from manufacturers including Merck, Pfizer, Amgen, Regeneron, Sanofi, AstraZeneca, Kowa, Esperion and Amarin, stock holdings, and expert legal testimony on statin myopathy; B.A. Taylor served on a pharmacovigilance monitoring board for Amgen; the other authors reported none.",
+  "dataAccess": "summary",
+  "result": "In the double-blind crossover of simvastatin 20 mg against placebo in 120 people with prior statin myalgia, 35.8% had pain on simvastatin but not placebo (n=43), 29.2% on placebo but not simvastatin, 17.5% on both and 17.5% on neither. Serum CoQ10 fell from 1.3 to 0.8 µg/mL over 8 weeks on simvastatin with placebo and rose from 1.3 to 5.2 µg/mL with CoQ10 600 mg/day (ubiquinol). Pain severity and interference rose on simvastatin irrespective of CoQ10 (p = 0.53 and 0.56); muscle strength and VO2max did not change; pain was reported by 14 of 20 on CoQ10 against 7 of 18 on placebo (p = 0.05); time to pain onset 3.0 against 2.4 weeks (p = 0.55). Intramuscular CoQ10 was not measured.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4298455"
+}

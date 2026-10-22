@@ -1,0 +1,17 @@
+{
+  "title": "Age-specific distribution of serum thyrotropin and antithyroid antibodies in the US population: implications for the prevalence of subclinical hypothyroidism",
+  "authors": "Surks MI, Hollowell JG",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2007,
+  "doi": "10.1210/jc.2007-1499",
+  "pmid": "17911171",
+  "design": "cross-sectional",
+  "population": "NHANES III (1988 to 1994) participants without thyroid disease, analysed by age decile with and without antithyroid antibodies",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have nothing to disclose.",
+  "dataAccess": "summary",
+  "result": "Without thyroid disease, 10.6% of people aged 20 to 29 had TSH above 2.5 mIU/l, rising to 40% at age 80 or more, of whom 14.5% had TSH above 4.5 mIU/l. The 97.5th centile was 3.56 mIU/l at age 20 to 29 and 7.49 at 80 or more; the whole distribution, including the peak, shifted to higher TSH with age whether or not antibodies were present. Seventy percent of older people with TSH above 4.5 mIU/l were within their age-specific reference range. The authors state that lowering the upper limit to 2.5 mIU/l could designate as many as 35% of older people as hypothyroid.",
+  "class": "undetermined",
+  "fundingChecked": "https://web.archive.org/web/20130712090204/http://jcem.endojournals.org/content/92/12/4575.full"
+}

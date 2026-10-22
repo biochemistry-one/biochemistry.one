@@ -1,0 +1,19 @@
+{
+  "title": "Biomarkers of dietary omega-6 fatty acids and incident cardiovascular disease and mortality",
+  "authors": "Marklund M, Wu JHY, Imamura F, Del Gobbo LC, Fretts A, de Goede J, et al.",
+  "journal": "Circulation",
+  "year": 2019,
+  "doi": "10.1161/CIRCULATIONAHA.118.038908",
+  "pmid": "30971107",
+  "design": "meta-analysis",
+  "participants": 68659,
+  "followUp": "study medians 2.5 to 31.9 years",
+  "population": "30 prospective studies from 13 countries in the Fatty Acids and Outcomes Research Consortium (FORCE), with linoleic and arachidonic acid measured in plasma phospholipids, erythrocyte phospholipids, total plasma, cholesteryl esters or adipose tissue",
+  "funder": "Cohort-specific funding is outlined in Supplemental Table 2. Unilever provided Tufts University with a restricted grant ('Epidemiological research on circulating polyunsaturated fatty acids in relation to cardiometabolic health within the CHARGE-consortium') to partly support this analysis. Unilever had no role in study design, study conduct, data analysis, manuscript preparation, or decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "Drs Wu and Micha report research support from Unilever for this work; Dr Mozaffarian reports personal fees from GOED, DSM, Bunge, Amarin and others, outside the submitted work.",
+  "dataAccess": "summary",
+  "result": "Harmonised de novo analyses in each study, pooled by inverse-variance meta-analysis; 15,198 incident cardiovascular events among 68,659 participants. Hazard ratios per interquintile range of linoleic acid: total cardiovascular disease 0.93 (95% CI 0.88 to 0.99), cardiovascular mortality 0.78 (0.70 to 0.85), ischaemic stroke 0.88 (0.79 to 0.98), coronary heart disease 0.94 (0.88 to 1.00). Arachidonic acid was not associated with higher cardiovascular risk; highest against lowest quintile, total cardiovascular disease 0.92 (0.86 to 0.99).",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6582360/"
+}

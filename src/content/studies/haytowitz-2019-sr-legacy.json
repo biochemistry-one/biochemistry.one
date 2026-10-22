@@ -1,0 +1,15 @@
+{
+  "title": "USDA National Nutrient Database for Standard Reference, Legacy Release",
+  "authors": "Haytowitz D, Ahuja J, Wu X, Somanchi M, Nickle M, Nguyen Q, et al.",
+  "journal": "Nutrient Data Laboratory, Beltsville Human Nutrition Research Center, ARS, USDA",
+  "year": 2019,
+  "doi": "10.15482/USDA.ADC/1529216",
+  "url": "https://fdc.nal.usda.gov/",
+  "design": "database",
+  "funder": "not stated; the documentation states that the database was prepared by staff of the US Department of Agriculture, Agricultural Research Service, Beltsville Human Nutrition Research Center, Nutrient Data Laboratory",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "SR Legacy records in FoodData Central (CSV release 2018-04), per 100 g. Wheat flour, whole-grain (FDC 168893): energy 340 kcal, carbohydrate by difference 71.97 g, starch 57.77 g, total dietary fibre 10.7 g, protein 13.21 g, magnesium 137 mg, iron 3.6 mg, thiamin 0.502 mg. Wheat flour, white, all-purpose, unenriched (169761): 364 kcal, 76.31 g, starch not reported, fibre 2.7 g, protein 10.33 g, magnesium 22 mg, iron 1.17 mg, thiamin 0.12 mg. Wheat flour, white, all-purpose, enriched, bleached (168894): fibre 2.7 g, magnesium 22 mg, iron 4.64 mg, thiamin 0.785 mg. Rice, brown, long-grain, raw (169703): 367 kcal, 76.25 g, starch 72.51 g, fibre 3.6 g, protein 7.54 g, magnesium 116 mg, iron 1.29 mg, thiamin 0.541 mg. Rice, white, long-grain, regular, raw, unenriched (169756): 365 kcal, 79.95 g, starch not reported, fibre 1.3 g, protein 7.13 g, magnesium 25 mg, iron 0.8 mg, thiamin 0.07 mg. Cereals, oats, regular and quick, not fortified, dry (173904): 379 kcal, 67.7 g, starch 57.92 g, fibre 10.1 g, protein 13.15 g, magnesium 138 mg, iron 4.25 mg, thiamin 0.46 mg.",
+  "class": "reference",
+  "fundingChecked": "https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/sr-legacy/SR-Legacy_Doc.pdf"
+}

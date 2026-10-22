@@ -1,0 +1,30 @@
+{
+  "title": "Ketone body oxidation",
+  "layout": "chain",
+  "compartment": "Mitochondrial matrix of extrahepatic tissues",
+  "steps": [
+    {
+      "from": "D-3-Hydroxybutyrate",
+      "to": "Acetoacetate",
+      "enzyme": "3-Hydroxybutyrate dehydrogenase 1 (BDH1)",
+      "cofactors": ["NAD+ to NADH"],
+      "reversible": true
+    },
+    {
+      "from": "Acetoacetate",
+      "to": "Acetoacetyl-CoA",
+      "enzyme": "Succinyl-CoA:3-oxoacid CoA transferase (OXCT1)",
+      "cofactors": ["Succinyl-CoA to succinate"],
+      "reversible": true,
+      "note": "Uses no ATP; absent from hepatocytes"
+    },
+    {
+      "from": "Acetoacetyl-CoA",
+      "to": "Acetyl-CoA",
+      "enzyme": "Acetyl-CoA acetyltransferase 1 (ACAT1), mitochondrial",
+      "cofactors": ["CoA"],
+      "reversible": true,
+      "note": "Yields two acetyl-CoA for the citric acid cycle"
+    }
+  ]
+}

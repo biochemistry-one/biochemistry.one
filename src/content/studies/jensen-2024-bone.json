@@ -1,0 +1,21 @@
+{
+  "title": "Bone health after exercise alone, GLP-1 receptor agonist treatment, or combination treatment: a secondary analysis of a randomized clinical trial",
+  "authors": "Jensen SBK, Sørensen V, Sandsdal RM, Lehmann EW, Lundgren JR, Juhl CR, et al.",
+  "journal": "JAMA Network Open",
+  "year": 2024,
+  "doi": "10.1001/jamanetworkopen.2024.16775",
+  "pmid": "38916894",
+  "registry": "EudraCT 2015-005585-32",
+  "design": "rct",
+  "participants": 195,
+  "followUp": "8-week low-calorie diet, then 52 weeks",
+  "population": "Adults aged 18 to 65 with obesity (BMI 32 to 43) and without diabetes in Copenhagen (S-LiTE trial), randomised after an 800 kcal/day diet to supervised exercise, liraglutide 3.0 mg daily, both, or placebo; 64% women, mean age 42.8 years",
+  "funder": "Supported by the Novo Nordisk Foundation Center for Basic Metabolic Research and the Novo Nordisk Foundation Tripartite Immunometabolism grant, Helsefonden, the University of Copenhagen and the Danish Diabetes Academy. The sponsors had no role in design, conduct, collection, analysis, interpretation, preparation, review or approval of the manuscript, or the decision to submit.",
+  "funderRole": "none",
+  "inKindSupport": "Novo Nordisk A/S supplied Saxenda (liraglutide) and placebo pens; Cambridge Weight Plan supplied meal replacement products.",
+  "authorConflicts": "One author received a salary from Novo Nordisk A/S; several report grants, fees or advisory roles with Novo Nordisk outside the submitted work.",
+  "dataAccess": "summary",
+  "result": "Total weight loss was 7.03 kg on placebo, 11.19 kg with exercise, 13.74 kg with liraglutide and 16.88 kg with the combination. Against exercise alone, liraglutide alone lowered bone mineral density at the hip (-0.013 g/cm2, 95% CI -0.024 to -0.001) and lumbar spine (-0.016 g/cm2, -0.032 to -0.001) despite similar weight loss; the combination left hip and spine density unchanged against placebo. The drug was liraglutide, not semaglutide.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11200146/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "A population-based study of the drug interaction between proton pump inhibitors and clopidogrel",
+  "authors": "Juurlink DN, Gomes T, Ko DT, Szmitko PE, Austin PC, Tu JV, et al.",
+  "journal": "CMAJ (Canadian Medical Association Journal)",
+  "year": 2009,
+  "doi": "10.1503/cmaj.082001",
+  "pmid": "19176635",
+  "design": "case-control",
+  "participants": 13636,
+  "followUp": "90 days after discharge; secondary analysis 1 year",
+  "population": "Ontario residents aged 66 years or older who started clopidogrel after discharge for acute myocardial infarction, 2002 to 2007; 734 cases readmitted with myocardial infarction within 90 days and 2057 matched controls",
+  "funder": "This study was supported by the Ontario Ministry of Health and Long-Term Care, the Canadian Institutes of Health Research (CIHR) and a CIHR Team Grant in Cardiovascular Outcomes Research; authors held awards from CIHR, the Heart and Stroke Foundation of Ontario and a Canada Research Chair.",
+  "funderRole": "none",
+  "authorConflicts": "Muhammad Mamdani was employed at Pfizer Global Pharmaceuticals from January 2006 to March 2007; no competing interests were declared by the other authors.",
+  "dataAccess": "individual",
+  "result": "Clopidogrel is a prodrug converted in the liver, chiefly by CYP2C19, to a thiol metabolite that irreversibly inhibits the platelet P2Y12 receptor. Current PPI use was associated with reinfarction within 90 days (adjusted OR 1.27, 95% CI 1.03 to 1.57); pantoprazole was not (1.02, 0.70 to 1.47), whereas omeprazole, lansoprazole and rabeprazole together were (1.40, 1.10 to 1.77). H2-receptor antagonists and PPI use in patients not taking clopidogrel were not associated with reinfarction.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2659819/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Does increased sunlight exposure work as a strategy to improve vitamin D status in the elderly: a cluster randomised controlled trial",
+  "authors": "Sambrook PN, Cameron ID, Chen JS, Cumming RG, Durvasula S, Herrmann M, et al.",
+  "journal": "Osteoporosis International",
+  "year": 2012,
+  "doi": "10.1007/s00198-011-1590-5",
+  "pmid": "21369788",
+  "registry": "NCT00322166",
+  "design": "rct",
+  "participants": 602,
+  "followUp": "12 months",
+  "population": "Residents aged 70 years or older (mean 86.4 years, 71% women) of 51 aged care facilities in Northern Sydney, Australia; median baseline 25-hydroxyvitamin D 32.9 nmol/L",
+  "funder": "The full text was not accessible. Registry: lead sponsor University of Sydney; no collaborators listed. The publication's funding statement was not read.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Cluster randomisation by facility to additional sunlight exposure of 30 to 40 minutes a day in the early morning, with or without calcium 600 mg/day, or neither, for a year. Median adherence to sunlight sessions was 26% (IQR 7% to 45%); 25-hydroxyvitamin D increased only slightly with the number of sessions attended. Falls: 327 in 111 (54%) control participants, 326 in 111 (58%) with UV only and 335 in 108 (52%) with UV plus calcium; intention-to-treat IRR for increased UV exposure 1.06 (95% CI 0.76 to 1.48). In 66 participants attending 130 or more sessions a year, falls were lower (IRR 0.52, 0.31 to 0.88), a non-randomised comparison.",
+  "class": "undetermined",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT00322166"
+}

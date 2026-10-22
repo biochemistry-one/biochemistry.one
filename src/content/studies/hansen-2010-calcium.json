@@ -1,0 +1,19 @@
+{
+  "title": "Do proton pump inhibitors decrease calcium absorption?",
+  "authors": "Hansen KE, Jones AN, Lindstrom MJ, Davis LA, Ziegler TE, Penniston KL, et al.",
+  "journal": "Journal of Bone and Mineral Research",
+  "year": 2010,
+  "doi": "10.1002/jbmr.166",
+  "pmid": "20578215",
+  "design": "other",
+  "participants": 21,
+  "followUp": "30 days of omeprazole",
+  "population": "Women at least 5 years past menopause not taking acid suppressants; fractional calcium absorption measured by the dual stable isotope method with meals replicating each participant's usual diet from 7-day diaries and identical at each of her three visits, twice at baseline and after omeprazole 40 mg daily",
+  "funder": "K. E. Hansen received salary support from the NIH (K23 AR050995). The project was supported by grants from the GCRC (NCRR M01 RR03186), the American College of Rheumatology Research and Education Foundation, the American Society for Specialty Physicians through the Hartford Foundation and Atlantic Philanthropies, and the University of Wisconsin Institute for Clinical and Translational Research (NIH Clinical and Translational Science Award 1UL1RR025011). Sponsors had no role in any portion of the study.",
+  "funderRole": "none",
+  "authorConflicts": "All the authors state that they have no conflicts of interest.",
+  "dataAccess": "individual",
+  "result": "Fractional calcium absorption (mean ± SD) 20% ± 10% and 18% ± 10% at the two baseline visits and 23% ± 10% after 30 ± 3 days of omeprazole 40 mg daily (p = 0.07).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3179281/"
+}

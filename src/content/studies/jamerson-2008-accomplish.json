@@ -1,0 +1,20 @@
+{
+  "title": "Benazepril plus amlodipine or hydrochlorothiazide for hypertension in high-risk patients",
+  "authors": "Jamerson K, Weber MA, Bakris GL, Dahlöf B, Pitt B, Shi V, et al.; ACCOMPLISH Trial Investigators",
+  "journal": "New England Journal of Medicine",
+  "year": 2008,
+  "doi": "10.1056/NEJMoa0806182",
+  "pmid": "19052124",
+  "registry": "NCT00170950",
+  "design": "rct",
+  "participants": 11506,
+  "followUp": "mean 36 months; stopped early when the prespecified stopping boundary was exceeded",
+  "population": "Patients with hypertension at high cardiovascular risk at 548 centres in the United States, Sweden, Norway, Denmark and Finland",
+  "funder": "Supported by Novartis. Representative members of the executive committee and the sponsor met regularly and oversaw coordination and data gathering; investigators entered data into an electronic database maintained by Novartis, and data analysis was carried out by the Clinical Information Sciences statistical group at Novartis according to a plan devised by the executive committee.",
+  "funderRole": "several",
+  "authorConflicts": "Jamerson reports consulting and lecture fees and research support from Novartis and other companies; other authors report consulting or lecture fees from Novartis and further companies.",
+  "dataAccess": "unknown",
+  "result": "Double-blind benazepril with amlodipine against benazepril with hydrochlorothiazide in single capsules. Mean pressures after titration 131.6/73.3 against 132.5/74.4 mm Hg. The primary composite (cardiovascular death, non-fatal myocardial infarction or stroke, hospitalisation for angina, resuscitated cardiac arrest, coronary revascularisation) occurred in 552 (9.6%) against 679 (11.8%): absolute risk reduction 2.2 percentage points, hazard ratio 0.80 (95% CI 0.72 to 0.90); 32.3 against 39.7 events per 1000 patient-years. Cardiovascular death, non-fatal myocardial infarction or stroke 288 (5.0%) against 364 (6.3%), hazard ratio 0.79. Hospitalisation for heart failure 1.7% in both groups. Discontinuation for adverse events 13.4% against 14.3%.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20130415122324/http://www.nejm.org/doi/full/10.1056/NEJMoa0806182"
+}

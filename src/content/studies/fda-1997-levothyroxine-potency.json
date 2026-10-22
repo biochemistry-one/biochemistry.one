@@ -1,0 +1,14 @@
+{
+  "title": "Prescription Drug Products; Levothyroxine Sodium",
+  "authors": "US Food and Drug Administration",
+  "journal": "Federal Register, volume 62, number 157, pages 43535-43538, 14 August 1997, Docket No. 97N-0314",
+  "year": 1997,
+  "url": "https://www.govinfo.gov/content/pkg/FR-1997-08-14/html/97-21575.htm",
+  "design": "regulatory",
+  "funder": "US Food and Drug Administration",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "FDA declared orally administered levothyroxine products new drugs requiring approved applications, because no marketed product had been shown to have consistent potency and stability. Between 1987 and 1994 FDA received 58 adverse drug experience reports associated with potency, 47 suggesting subpotency and 9 superpotency, with 4 hospitalisations; hyperthyroid symptoms included atrial fibrillation. A 1982 reformulation raised one product's content from about 78% to 100% of the label, after which physicians reported previously controlled patients becoming toxic on the same dose, one with atrial fibrillation. Since 1991 at least 10 recalls involved 150 lots and more than 100 million tablets, all but one for subpotency. The notice states that in patients with coronary heart disease even a small increase in dose may be hazardous, that gradual dose increases prevent precipitation of angina, myocardial infarction or stroke, and that manufacturers were required to report only unexpected and serious adverse experiences, so reports may not reflect the total number of events.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.govinfo.gov/content/pkg/FR-1997-08-14/html/97-21575.htm"
+}

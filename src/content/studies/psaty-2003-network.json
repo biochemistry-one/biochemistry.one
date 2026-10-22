@@ -1,0 +1,18 @@
+{
+  "title": "Health outcomes associated with various antihypertensive therapies used as first-line agents: a network meta-analysis",
+  "authors": "Psaty BM, Lumley T, Furberg CD, Schellenbaum G, Pahor M, Alderman MH, et al.",
+  "journal": "JAMA",
+  "year": 2003,
+  "doi": "10.1001/jama.289.19.2534",
+  "pmid": "12759325",
+  "design": "meta-analysis",
+  "participants": 192478,
+  "population": "42 long-term randomised trials of 7 first-line strategies (placebo, low-dose diuretics, beta blockers, ACE inhibitors, calcium channel blockers, alpha blockers, angiotensin receptor blockers) assessing major cardiovascular end points; searches January 1995 to December 2002",
+  "funder": "The research reported in this article was supported by grants HL40628, HL43201, and HL68639 from the National Heart, Lung, and Blood Institute; AG09556 from the National Institute on Aging; 9970178N from the Patient Care and Outcomes Research Program of the American Heart Association (AHA); and 0270054N from the AHA Pharmaceutical Roundtable Outcomes Research Program. Dr Psaty was a Merck/SER Clinical Epidemiology Fellow (sponsored by the Merck Co Foundation and the Society for Epidemiologic Research).",
+  "funderRole": "unknown",
+  "authorConflicts": "Furberg is a lecturer for Merck-Frosst (Canada) and Merck; Pahor has received research grants from Pfizer and Bristol-Myers Squibb and honoraria from Bristol-Myers Squibb; Alderman has received research support from Merck and Pfizer and speaking honoraria from Merck, Novartis and Bristol-Myers Squibb.",
+  "dataAccess": "summary",
+  "result": "Against placebo, low-dose diuretics reduced coronary heart disease (RR 0.79, 95% CI 0.69 to 0.92), heart failure (0.51, 0.42 to 0.62), stroke (0.71, 0.63 to 0.81), cardiovascular events (0.76, 0.69 to 0.83), cardiovascular mortality (0.81, 0.73 to 0.92) and total mortality (0.90, 0.84 to 0.96). No first-line class was significantly better than low-dose diuretics for any outcome. Against calcium channel blockers, low-dose diuretics were associated with fewer cardiovascular events (0.94, 0.89 to 1.00) and less heart failure (0.74, 0.67 to 0.81). Blood-pressure changes were similar between compared treatments. The authors concluded that low-dose diuretics are the most effective first-line treatment and should be the standard for comparison in future trials.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20101201204933/http://jama.ama-assn.org/cgi/content/full/289/19/2534"
+}

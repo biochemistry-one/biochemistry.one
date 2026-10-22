@@ -1,0 +1,16 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "design": "database",
+  "funder": "National Human Genome Research Institute (NHGRI) [HG002273]; Office of the Director, NIH OD [U24HG007822]; NIAID; NIA; NIGMS [R35GM141873]; NIDDK; NEI; NCI; NHLBI; BBSRC [BB/T015608/1]; National Science Foundation's Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 [825575]; State Secretariat for Education, Research and Innovation (SERI); EMBL Australia. Funding for open access charge: National Institutes of Health.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed human UniProtKB entries, release 2026_03, read through rest.uniprot.org. TPH1 (P17752): oxidises L-tryptophan to 5-hydroxy-L-tryptophan in the rate-determining step of serotonin biosynthesis. SLC6A4 (P31645): modulates mucosal serotonin in the gastrointestinal tract through uptake and clearance in enterocytes, is required for enteric neurogenesis and gastrointestinal reflexes (by similarity), and regulates blood serotonin through rapid high-affinity uptake from plasma into platelets for storage in dense granules. HTR3A (P46098): serotonin-gated cation channel; detected in cortex, amygdala, hippocampus, small and large intestine, spleen and tonsil monocytes, uterus, prostate, ovary and placenta. HTR4 (Q13639): Gs-coupled receptor activating adenylate cyclase; expressed in ileum, brain and cardiac atria. HTR2B (P41595): Gq-coupled, detected in liver, kidney, heart, pulmonary artery and intestine; required for cardiac development, osteoblast function and bone density, and proliferation of intestinal interstitial cells of Cajal (by similarity). HTR2A (P28223): Gq-coupled; detected in brain cortex and blood platelets; role in intestinal smooth muscle contraction and possibly arterial vasoconstriction (by similarity). HTR1A (P08908): Gi/Go-coupled; detected in lymph nodes, thymus, spleen and activated T cells. AANAT (Q16613): N-acetylates serotonin to N-acetylserotonin, controlling the night-day rhythm of melatonin production in the pineal gland; ASMT (P46597): methylates N-acetylserotonin to melatonin.",
+  "class": "reference",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11701636/fullTextXML"
+}

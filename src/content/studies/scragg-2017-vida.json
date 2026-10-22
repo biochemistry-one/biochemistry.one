@@ -1,0 +1,21 @@
+{
+  "title": "Effect of Monthly High-Dose Vitamin D Supplementation on Cardiovascular Disease in the Vitamin D Assessment Study: A Randomized Clinical Trial",
+  "authors": "Scragg R, Stewart AW, Waayer D, Lawes CMM, Toop L, Sluyter J, et al.",
+  "journal": "JAMA Cardiology",
+  "year": 2017,
+  "doi": "10.1001/jamacardio.2017.0175",
+  "pmid": "28384800",
+  "registry": "ACTRN12611000402943",
+  "design": "rct",
+  "participants": 5108,
+  "followUp": "median 3.3 years",
+  "population": "Adults aged 50 to 84 years in Auckland, New Zealand; mean deseasonalised baseline 25-hydroxyvitamin D 26.5 ng/mL, 1270 (24.9%) below 20 ng/mL",
+  "funder": "Supported by grant 10/400 from the Health Research Council of New Zealand and by the Accident Compensation Corporation of New Zealand. The funders had no role in the design and conduct of the study, data handling, manuscript preparation or the decision to submit.",
+  "funderRole": "none",
+  "inKindSupport": "Vitamin D3 and placebo soft-gel capsules from Tishcon Corporation; whether purchased or donated was not read.",
+  "authorConflicts": "ICMJE disclosure forms submitted; none were reported.",
+  "dataAccess": "individual",
+  "result": "Vitamin D3 200,000 IU initially, then 100,000 IU monthly (n=2558), against placebo (n=2550): cardiovascular disease in 303 (11.8%) against 293 (11.5%), HR 1.02 (95% CI 0.87 to 1.20). In participants with baseline 25-hydroxyvitamin D below 20 ng/mL: 80 (13.1%) against 88 (13.4%), HR 1.00 (0.74 to 1.35). Deaths 65 against 58. One person developed hypercalcaemia, from primary hyperparathyroidism.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5815022/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Maternal caffeine intake during pregnancy and risk of fetal growth restriction: a large prospective observational study",
+  "authors": "CARE Study Group",
+  "journal": "BMJ",
+  "year": 2008,
+  "doi": "10.1136/bmj.a2332",
+  "pmid": "18981029",
+  "design": "cohort",
+  "participants": 2635,
+  "followUp": "From 8 to 12 weeks of pregnancy to delivery; recruitment September 2003 to June 2006",
+  "population": "Low-risk pregnant women aged 18 to 45 years at two UK maternity units, Leeds and Leicester; 20% of 13,071 invited",
+  "funder": "Food Standards Agency, United Kingdom, Grant contract No T01032/33. The steering group included Food Standards Agency staff.",
+  "funderRole": "none",
+  "authorConflicts": "Competing interests: None declared.",
+  "dataAccess": "individual",
+  "result": "Mean caffeine intake in pregnancy was 159 mg a day; tea supplied 62%, coffee 14%, cola 12% and chocolate 8%. Fetal growth restriction (birth weight below the 10th customised centile) occurred in 122 of 1122 women below 100 mg a day, 90 of 691 at 100-199 mg, 63 of 376 at 200-299 mg and 63 of 347 at 300 mg or more. Odds ratios adjusted for salivary cotinine and alcohol were 1.2 (95% CI 0.9 to 1.6), 1.5 (1.1 to 2.1) and 1.4 (1.0 to 2.0) against below 100 mg (trend P = 0.02). More than 200 mg a day was associated with about 60-70 g lower birth weight. Risk rose with intake with no threshold. The association appeared stronger with faster caffeine clearance (interaction P = 0.06).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577203/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Blood cholesterol and vascular mortality by age, sex, and blood pressure: a meta-analysis of individual data from 61 prospective studies with 55,000 vascular deaths",
+  "authors": "Prospective Studies Collaboration, Lewington S, Whitlock G, Clarke R, Sherliker P, Emberson J, et al.",
+  "journal": "Lancet",
+  "year": 2007,
+  "doi": "10.1016/S0140-6736(07)61778-4",
+  "pmid": "18061058",
+  "design": "meta-analysis",
+  "participants": 900000,
+  "followUp": "nearly 12 million person-years at ages 40 to 89",
+  "population": "Almost 900,000 adults without previous disease in 61 prospective observational studies, mostly in western Europe and North America",
+  "funder": "The funding statement could not be read: the archived publisher page shows only the summary. The PubMed record lists grants from the UK Medical Research Council (MC_U137686851, MC_U137686853, MC_U137686857) and the US National Institute on Aging (P01 AG17625-01).",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "More than 55,000 vascular deaths (34,000 ischaemic heart disease). 1 mmol/L lower usual total cholesterol was associated with about a half (HR 0.44, 95% CI 0.42 to 0.48), a third (0.66, 0.65 to 0.68) and a sixth (0.83, 0.81 to 0.85) lower ischaemic heart disease mortality at ages 40 to 49, 50 to 69 and 70 to 89. Total cholesterol was weakly positively related to ischaemic and total stroke mortality only in middle age and only with below-average blood pressure; at ages 70 to 89, and particularly with systolic pressure above about 145 mm Hg, total cholesterol was negatively related to haemorrhagic and total stroke mortality, which the authors call unexplained.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20231014011007/https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61778-4/fulltext"
+}

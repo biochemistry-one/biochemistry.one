@@ -1,0 +1,18 @@
+{
+  "title": "Reliability and validity of assigning ultraprocessed food categories to 24-h dietary recall data",
+  "authors": "Sneed NM, Ukwuani S, Sommer EC, Samuels LR, Truesdale KP, Matheson D, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2023,
+  "doi": "10.1016/j.ajcnut.2022.10.016",
+  "pmid": "36789937",
+  "design": "cross-sectional",
+  "participants": 610,
+  "population": "Children aged 3 to 5 years at baseline in a randomised trial; 5546 valid 24-hour recall days",
+  "funder": "Supported by the National Heart, Lung, and Blood Institute (1R03HL154243 and 1U01HL103620); NMS by an Agency for Healthcare Research and Quality T32 training grant (1T32HS026122) and the Vanderbilt University School of Nursing; REDCap by grant UL1 TR000445 from the National Center for Advancing Translational Sciences. The content is solely the responsibility of the authors.",
+  "funderRole": "none",
+  "authorConflicts": "The authors report no conflicts of interest.",
+  "dataAccess": "unknown",
+  "result": "Trained and certified coder pairs assigned 3099 unique foods to NOVA groups: minimally processed 18%, processed culinary ingredients 0.4%, processed 15%, ultra-processed 67%. Concordance between coders 88.3%; Cohen's κ 0.75. Ultra-processed foods supplied 62% (SD 19) of daily energy, 94% (SD 16) of added sugar and 47% (SD 24) of protein.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10196599/"
+}

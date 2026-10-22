@@ -1,0 +1,21 @@
+{
+  "title": "Vitamin D and Marine n-3 Fatty Acids for Autoimmune Disease Prevention: Outcomes Two Years After Completion of a Double-Blind, Placebo-Controlled Trial",
+  "authors": "Costenbader KH, Cook NR, Lee IM, Hahn J, Walter J, Bubes V, et al.",
+  "journal": "Arthritis & Rheumatology",
+  "year": 2024,
+  "doi": "10.1002/art.42811",
+  "pmid": "38272846",
+  "registry": "NCT01351805; NCT01169259",
+  "design": "rct",
+  "participants": 25871,
+  "followUp": "5.3-year randomised period plus 2 years of observational follow-up in 21,592 participants (83.5%)",
+  "population": "VITAL participants: US men aged 50 years or older and women aged 55 years or older; history of renal failure or dialysis, cirrhosis, hypercalcaemia, cancer, cardiovascular disease or other serious illness excluded",
+  "funder": "Supported by the NIH (grants R01-AR-059086, K24-AR-066109, U01-CA-138962, R01-CA-138962 and R01-AT-011729). No statement on the role of the funder was found.",
+  "funderRole": "unknown",
+  "inKindSupport": "The vitamin D pill and its matching placebo were prepared by Pharmavite LLC; the n-3 fatty acid pill and its placebo by Pronova BioPharma.",
+  "authorConflicts": "Author disclosures are available at the publisher's site; not read.",
+  "dataAccess": "individual",
+  "result": "With two more years of observation after the trial, confirmed autoimmune disease occurred in 255 participants originally randomised to vitamin D3 2000 IU/day against 259 randomised to its placebo, HR 0.98 (95% CI 0.83 to 1.17) at 7 years. Of newly confirmed cases, 65 had onset during the randomised period; including them changed the randomised-period result for vitamin D to HR 0.85 (0.70 to 1.04). The authors conclude that the protective effects of vitamin D dissipated two years after trial termination; psoriasis was the only disease with a sustained, significant reduction (HR 0.61, 0.38 to 0.98).",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11565399"
+}

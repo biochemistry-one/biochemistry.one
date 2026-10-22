@@ -1,0 +1,15 @@
+{
+  "title": "Dietary Reference Values for vitamin B6",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA)",
+  "journal": "EFSA Journal",
+  "year": 2016,
+  "doi": "10.2903/j.efsa.2016.4485",
+  "pmid": "40007837",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (question EFSA-Q-2011-01228).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "All six vitamin B6 derivatives can be converted in the body to pyridoxal 5'-phosphate (PLP) and pyridoxamine 5'-phosphate, cofactors of more than 100 enzymes. PLP serves enzymes of amino acid decarboxylation, transamination and racemisation and is a cofactor of glycogen phosphorylase, delta-aminolevulinate synthase, serine hydroxymethyltransferase, cystathionine beta-synthase and cystathionine gamma-lyase. Vitamin B6 deficiency is rare; its most typical features are hypochromic microcytic anaemia and neurological abnormalities, including convulsive seizures.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11847984/fullTextXML"
+}

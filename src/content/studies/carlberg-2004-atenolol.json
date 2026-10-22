@@ -1,0 +1,17 @@
+{
+  "title": "Atenolol in hypertension: is it a wise choice?",
+  "authors": "Carlberg B, Samuelsson O, Lindholm LH",
+  "journal": "Lancet",
+  "year": 2004,
+  "doi": "10.1016/S0140-6736(04)17355-8",
+  "pmid": "15530629",
+  "design": "meta-analysis",
+  "followUp": "mean 4.6 years",
+  "population": "Randomised controlled trials of atenolol in primary hypertension: four against placebo or no treatment (6825 patients) and five against other antihypertensive drugs (17,671 patients)",
+  "funder": "not read: the archived publisher page shows only the summary and references, and the full text requires a subscription.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Against placebo or no treatment, despite major differences in blood pressure lowering, atenolol did not change all-cause mortality (relative risk 1.01, 95% CI 0.89 to 1.15), cardiovascular mortality (0.99, 0.83 to 1.18) or myocardial infarction (0.99, 0.83 to 1.19); stroke tended to be lower (0.85, 0.72 to 1.01). Against other antihypertensive drugs, with no major difference in blood pressure lowering, mortality was higher with atenolol (1.13, 1.02 to 1.25), cardiovascular mortality tended to be higher and stroke was more frequent. The authors question atenolol as a treatment for hypertension and as a reference drug in outcome trials.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20231013154425/https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(04)17355-8/fulltext"
+}

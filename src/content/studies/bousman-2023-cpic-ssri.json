@@ -1,0 +1,16 @@
+{
+  "title": "Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for CYP2D6, CYP2C19, CYP2B6, SLC6A4, and HTR2A genotypes and serotonin reuptake inhibitor antidepressants",
+  "authors": "Bousman CA, Stevenson JM, Ramsey LB, Sangkuhl K, Hicks JK, Strawn JR, et al.",
+  "journal": "Clinical Pharmacology and Therapeutics",
+  "year": 2023,
+  "doi": "10.1002/cpt.2903",
+  "pmid": "37032427",
+  "design": "guideline",
+  "funder": "National Institutes of Health funding for CPIC (R24GM115264 and U24HG010135), PharmGKB (U24HG010615) and PharmVar (R24GM123930); individual authors received funding from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (R01HD099775, R01HD098757), the Yung Family Foundation, the National Center for Advancing Translational Sciences (UL1TR001425) and the Patient-Centered Outcomes Research Institute.",
+  "funderRole": "unknown",
+  "authorConflicts": "CAB has equity in Sequence2Script Inc.; ABS has equity in Incite Health Pty Ltd; JRB has served as consultant to OptumRx; all other authors declared no competing interests.",
+  "dataAccess": "summary",
+  "result": "Sertraline is metabolised by CYP2D6, CYP2C19, CYP2B6 and other CYP enzymes, with CYP2C19 the major pathway. CYP2C19 poor or likely poor metabolisers: consider a lower starting dose, slower titration and 50% reduction of the standard maintenance dose, or an alternative antidepressant not predominantly metabolised by CYP2C19 (moderate). CYP2C19 intermediate metabolisers: standard starting dose, consider slower titration and lower maintenance dose (moderate). CYP2B6 poor metabolisers: consider a lower starting dose, slower titration and 25% reduction of the standard maintenance dose, or an alternative not predominantly metabolised by CYP2B6 (optional). Combined CYP2C19 and CYP2B6 poor metabolisers: select an alternative antidepressant not primarily metabolised by CYP2C19 or CYP2B6 (optional). No recommendations from SLC6A4 or HTR2A genotype, because the evidence is mixed or insufficient to support clinical validity and utility.",
+  "class": "consensus",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10564324/"
+}

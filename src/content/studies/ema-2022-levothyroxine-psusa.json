@@ -1,0 +1,14 @@
+{
+  "title": "Levothyroxine: CMDh scientific conclusions and grounds for variation, amendments to the product information and timetable for the implementation (PSUSA/00001860/202201)",
+  "authors": "European Medicines Agency, Pharmacovigilance Risk Assessment Committee and Coordination Group for Mutual Recognition and Decentralised Procedures (human)",
+  "journal": "European Medicines Agency, periodic safety update single assessment PSUSA/00001860/202201; CMDh position adopted October 2022",
+  "year": 2022,
+  "url": "https://www.ema.europa.eu/en/documents/psusa/levothyroxine-cmdh-scientific-conclusions-and-grounds-variation-amendments-product-information-and-timetable-implementation-psusa00001860202201_en.pdf",
+  "design": "regulatory",
+  "funder": "European Medicines Agency",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Biotin interference with thyroid function tests was judged causal from spontaneous reports and literature, with results normalising after biotin withdrawal or a different assay; the PRAC saw significant potential for clinical mismanagement of patients whose dose is titrated by periodic tests, particularly pregnant women, children, the elderly and patients monitored for thyroid cancer. St John's Wort, a potent CYP3A inducer, was added as an interaction that may increase hepatic clearance of levothyroxine, based on spontaneous reports and literature including cases with a positive dechallenge. Proton pump inhibitors may decrease absorption of levothyroxine, particularly as tablets, by raising intragastric pH; marketing authorisation holders identified cases with increased TSH or hypothyroidism; regular monitoring is recommended during concomitant treatment and care is taken when the PPI is stopped. The CMDh judged the benefit-risk balance unchanged subject to these product information changes, with variations to be submitted by marketing authorisation holders by 26 January 2023.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ema.europa.eu/en/documents/psusa/levothyroxine-cmdh-scientific-conclusions-and-grounds-variation-amendments-product-information-and-timetable-implementation-psusa00001860202201_en.pdf"
+}

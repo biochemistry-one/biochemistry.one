@@ -1,0 +1,17 @@
+{
+  "title": "Semaglutide-associated risk of nonarteritic anterior ischemic optic neuropathy in patients with type 2 diabetes: a systematic review and meta-analysis of observational studies",
+  "authors": "Chrzanowski J, Walicka M, Burzyński J, Zaraś M, Michalak A, Fendler W",
+  "journal": "PLoS Medicine",
+  "year": 2026,
+  "doi": "10.1371/journal.pmed.1005064",
+  "pmid": "42166479",
+  "design": "meta-analysis",
+  "population": "Five eligible observational studies of semaglutide against other glucose-lowering therapy in type 2 diabetes, with seven more in sensitivity analyses; search January 2023 to November 2025",
+  "funder": "Authors were supported by the Foundation for Polish Science, the Medical University of Lodz, the National Science Centre of Poland, the Kościuszko Foundation, Diabetes Poland and other public programmes; the funding was not associated with article preparation and the funders had no role in design, collection, analysis, the decision to publish or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "Two authors received lecture honoraria from Novo Nordisk and Boehringer Ingelheim, one also a consulting fee from Novo Nordisk; one received lecture honoraria from AstraZeneca, Eli Lilly, Sanofi and Teva.",
+  "dataAccess": "summary",
+  "result": "Semaglutide was associated with a higher hazard of NAION against non-semaglutide regimens (hazard ratio 2.17, 95% CI 1.73 to 2.74), regimens excluding other GLP-1 receptor agonists (2.13, 1.60 to 2.83) and SGLT2 inhibitors (1.96, 1.28 to 2.99). Absolute risk increase 0.014% (0.005% to 0.023%), about one additional case per 7000 semaglutide-treated patients per year. Certainty of evidence low, with possible outcome misclassification and confounding.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13221145/"
+}

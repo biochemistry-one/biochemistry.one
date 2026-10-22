@@ -1,0 +1,19 @@
+{
+  "title": "Proton-pump inhibitor therapy induces acid-related symptoms in healthy volunteers after withdrawal of therapy",
+  "authors": "Reimer C, Søndergaard B, Hilsted L, Bytzer P",
+  "journal": "Gastroenterology",
+  "year": 2009,
+  "doi": "10.1053/j.gastro.2009.03.058",
+  "pmid": "19362552",
+  "registry": "NCT00526006",
+  "design": "rct",
+  "participants": 120,
+  "followUp": "12 weeks",
+  "population": "Healthy volunteers aged 18 years or older without dyspepsia, heartburn or acid regurgitation in the preceding 4 weeks and without previous PPI or H2-receptor antagonist treatment",
+  "funder": "The funding statement of the article was not read because the publisher page could not be accessed. Registry NCT00526006 names Zealand University Hospital as lead sponsor and lists no collaborator; PubMed indexes the article as Research Support, Non-U.S. Gov't.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Esomeprazole 40 mg daily for 8 weeks followed by placebo for 4 weeks, against placebo for 12 weeks: at least one clinically relevant acid-related symptom in weeks 9 to 12 in 26 of 59 (44%) against 9 of 59 (15%), p < 0.001; dyspepsia, heartburn or acid regurgitation at week 12 in 12 of 58 (21%) against 2%.",
+  "class": "undetermined",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT00526006"
+}

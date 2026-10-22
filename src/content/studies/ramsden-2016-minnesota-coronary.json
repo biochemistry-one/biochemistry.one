@@ -1,0 +1,19 @@
+{
+  "title": "Re-evaluation of the traditional diet-heart hypothesis: analysis of recovered data from Minnesota Coronary Experiment (1968-73)",
+  "authors": "Ramsden CE, Zamora D, Majchrzak-Hong S, Faurot KR, Broste SK, Frantz RP, et al.",
+  "journal": "BMJ",
+  "year": 2016,
+  "doi": "10.1136/bmj.i1246",
+  "pmid": "27071971",
+  "design": "rct",
+  "participants": 9423,
+  "followUp": "diet phase 41 to 56 months by hospital; mean 2.9 years in the 2355 participants on the diets for one year or more",
+  "population": "Women and men aged 20 to 97 years in six state mental hospitals and one nursing home in Minnesota, USA",
+  "funder": "The MCE was funded by the US Public Health Service and the National Heart Institute through the R01 mechanism (grant HE09686). The intramural program of the National Institute on Alcohol Abuse and Alcoholism, National Institutes of Health, and the University of North Carolina Program on Integrative Medicine (National Institutes of Health grant T-32 AT003378) supported data recovery and evaluation.",
+  "funderRole": "none",
+  "authorConflicts": "No financial relationships with any organisations that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "individual",
+  "result": "Double-blind trial; corn oil and corn oil margarine replaced saturated fat, raising linoleic acid from about 3.4% to 13.2% of energy. Serum cholesterol changed by -13.8% versus -1.0%. Kaplan-Meier curves from the recovered 1981 thesis showed no mortality benefit in the full cohort or prespecified subgroups. In 2355 participants on the diets for one year or more, each 30 mg/dL (0.78 mmol/L) fall in serum cholesterol was associated with HR 1.22 (95% CI 1.14 to 1.32) for death. Provisional autopsy data (149 of 295 files): at least one myocardial infarct in 31 of 76 (41%) versus 16 of 73 (22%), incidence rate ratio 1.90 (1.01 to 3.72). Meta-analysis of five trials (10,808 participants): coronary death HR 1.13 (0.83 to 1.54), all-cause death 1.07 (0.90 to 1.27); serum cholesterol 7.8% to 13.8% lower in intervention groups.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4836695/"
+}

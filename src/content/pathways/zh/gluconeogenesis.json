@@ -1,0 +1,94 @@
+{
+  "title": "由丙酮酸起始的糖异生",
+  "layout": "chain",
+  "compartment": "肝脏和肾皮质的线粒体基质、胞质溶胶和内质网",
+  "steps": [
+    {
+      "from": "丙酮酸",
+      "to": "草酰乙酸",
+      "enzyme": "线粒体丙酮酸羧化酶（PC）",
+      "cofactors": ["ATP→ADP", "HCO3−", "生物素"],
+      "note": "乙酰辅酶A为其别构激活剂；每生成1分子葡萄糖需2分子丙酮酸"
+    },
+    {
+      "from": "草酰乙酸",
+      "to": "苹果酸",
+      "enzyme": "线粒体苹果酸脱氢酶2（MDH2）",
+      "cofactors": ["NADH→NAD+"],
+      "reversible": true,
+      "note": "苹果酸随后穿过线粒体内膜"
+    },
+    {
+      "from": "苹果酸",
+      "to": "草酰乙酸",
+      "enzyme": "胞质苹果酸脱氢酶1（MDH1）",
+      "cofactors": ["NAD+→NADH"],
+      "reversible": true,
+      "note": "提供GAPDH所需的胞质NADH"
+    },
+    {
+      "from": "草酰乙酸",
+      "to": "磷酸烯醇丙酮酸",
+      "enzyme": "胞质磷酸烯醇丙酮酸羧激酶1（PCK1）",
+      "cofactors": ["GTP→GDP"],
+      "note": "释放CO2；PCK2在线粒体中催化同一反应"
+    },
+    {
+      "from": "磷酸烯醇丙酮酸",
+      "to": "2-磷酸甘油酸",
+      "enzyme": "烯醇化酶1（ENO1）",
+      "cofactors": ["H2O"],
+      "reversible": true
+    },
+    {
+      "from": "2-磷酸甘油酸",
+      "to": "3-磷酸甘油酸",
+      "enzyme": "磷酸甘油酸变位酶1（PGAM1）",
+      "reversible": true
+    },
+    {
+      "from": "3-磷酸甘油酸",
+      "to": "1,3-二磷酸甘油酸",
+      "enzyme": "磷酸甘油酸激酶1（PGK1）",
+      "cofactors": ["ATP→ADP"],
+      "reversible": true
+    },
+    {
+      "from": "1,3-二磷酸甘油酸",
+      "to": "甘油醛-3-磷酸",
+      "enzyme": "甘油醛-3-磷酸脱氢酶（GAPDH）",
+      "cofactors": ["NADH→NAD+"],
+      "reversible": true,
+      "note": "释放磷酸"
+    },
+    {
+      "from": "甘油醛-3-磷酸",
+      "to": "果糖-1,6-二磷酸",
+      "enzyme": "醛缩酶B（ALDOB）",
+      "cofactors": ["磷酸二羟丙酮"],
+      "reversible": true,
+      "note": "磷酸二羟丙酮由另一分子丙糖经丙糖磷酸异构酶（TPI1）生成"
+    },
+    {
+      "from": "果糖-1,6-二磷酸",
+      "to": "果糖-6-磷酸",
+      "enzyme": "果糖-1,6-二磷酸酶1（FBP1）",
+      "cofactors": ["H2O"],
+      "inhibitors": [{"name": "果糖-2,6-二磷酸"}, {"name": "AMP"}],
+      "note": "释放磷酸；胰高血糖素降低果糖-2,6-二磷酸水平"
+    },
+    {
+      "from": "果糖-6-磷酸",
+      "to": "葡糖-6-磷酸",
+      "enzyme": "葡糖-6-磷酸异构酶（GPI）",
+      "reversible": true
+    },
+    {
+      "from": "葡糖-6-磷酸",
+      "to": "葡萄糖",
+      "enzyme": "内质网葡糖-6-磷酸酶（G6PC1）",
+      "cofactors": ["H2O"],
+      "note": "SLC37A4将底物转运入内质网腔；释放磷酸"
+    }
+  ]
+}

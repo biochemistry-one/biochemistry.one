@@ -1,0 +1,19 @@
+{
+  "title": "Proton pump inhibitors and hospitalization with hypomagnesemia: a population-based case-control study",
+  "authors": "Zipursky J, Macdonald EM, Hollands S, Gomes T, Mamdani MM, Paterson JM, et al.",
+  "journal": "PLoS Medicine",
+  "year": 2014,
+  "doi": "10.1371/journal.pmed.1001736",
+  "pmid": "25268962",
+  "design": "case-control",
+  "participants": 1830,
+  "followUp": "exposure within 365 days before the index date; Ontario databases April 2002 to March 2012",
+  "population": "Ontario residents aged 66 years or older: 366 hospitalised with hypomagnesaemia and 1464 controls matched on age, sex, kidney disease and diuretic use",
+  "funder": "This project was supported by research funds from Canadian Drug Safety and Effectiveness Research Network (CDSERN) and by the Institute for Clinical Evaluative Sciences (ICES), which is funded by a grant from the Ontario Ministry of Health and Long-Term Care (MOHLTC). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "One author (MMM) has been on advisory boards or received honoraria from AstraZeneca, Bristol-Myers Squibb, Eli Lilly, GlaxoSmithKline, Hoffmann-La Roche, Novartis, Novo Nordisk and Pfizer; the others declared none.",
+  "dataAccess": "individual",
+  "result": "Current PPI use (within 90 days) was associated with hospitalisation with hypomagnesaemia (adjusted OR 1.43, 95% CI 1.06 to 1.93); among patients receiving diuretics adjusted OR 1.73 (1.11 to 2.70), among those not receiving diuretics 1.25 (0.81 to 1.91). H2-receptor antagonists were not associated (adjusted OR 1.06, 0.54 to 2.06). The authors estimate one excess hospitalisation with hypomagnesaemia among 76,591 outpatients treated with a PPI for 90 days. Serum magnesium values were unavailable.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4181956/fullTextXML"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Thyroid replacement therapy, thyroid stimulating hormone concentrations, and long term health outcomes in patients with hypothyroidism: longitudinal study",
+  "authors": "Thayakaran R, Adderley NJ, Sainsbury C, Torlinska B, Boelaert K, Šumilo D, et al.",
+  "journal": "BMJ",
+  "year": 2019,
+  "doi": "10.1136/bmj.l4892",
+  "pmid": "31481394",
+  "design": "cohort",
+  "participants": 160439,
+  "followUp": "median 6 years",
+  "population": "Adults with incident hypothyroidism in The Health Improvement Network UK primary care database, 1995 to 2017; 96.7% were prescribed levothyroxine during follow-up; 863,072 TSH measurements analysed as a time-varying covariate",
+  "funder": "Funding: None.",
+  "funderRole": "none",
+  "authorConflicts": "All authors declared no support from any organisation for the submitted work; KN has received funding from AstraZeneca and fees from Sanofi, MSD and Boehringer Ingelheim outside the submitted work.",
+  "dataAccess": "individual",
+  "result": "Against TSH 2 to 2.5 mIU/l, mortality hazard ratios were 1.18 (95% CI 1.08 to 1.28) for TSH below 0.1, 1.29 (1.22 to 1.36) for 4 to 10 and 2.21 (2.07 to 2.36) above 10 mIU/l. Neither the lowest nor the highest TSH category was associated with atrial fibrillation or with all fractures; fragility fractures HR 1.15 (1.01 to 1.31) above 10 mIU/l. Heart failure HR 1.42 (1.21 to 1.67) above 10 and 0.79 (0.64 to 0.99) below 0.1 mIU/l.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6719286/"
+}

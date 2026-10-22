@@ -1,0 +1,19 @@
+{
+  "title": "Antidepressant use late in pregnancy and risk of persistent pulmonary hypertension of the newborn",
+  "authors": "Huybrechts KF, Bateman BT, Palmsten K, Desai RJ, Patorno E, Gopalakrishnan C, et al.",
+  "journal": "JAMA",
+  "year": 2015,
+  "doi": "10.1001/jama.2015.5605",
+  "pmid": "26034955",
+  "design": "cohort",
+  "participants": 3789330,
+  "followUp": "first 30 days after delivery",
+  "population": "Pregnant women enrolled in US Medicaid, 2000 to 2010; 102,179 used an SSRI in the 90 days before delivery",
+  "funder": "This study was supported by grant R01 HS018533 from the Agency for Healthcare Research and Quality; individual career and training grants from NIMH and NICHD. The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "None reported.",
+  "dataAccess": "individual",
+  "result": "Persistent pulmonary hypertension of the newborn in 20.8 per 10,000 births without antidepressant exposure and 31.5 per 10,000 after late-pregnancy SSRI exposure (322 infants). Odds ratio 1.51 (95% CI 1.35 to 1.69) unadjusted and 1.10 (0.94 to 1.29) when restricted to women with depression with high-dimensional propensity score adjustment; for primary PPHN, adjusted OR 1.28 (1.01 to 1.64).",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4761452"
+}

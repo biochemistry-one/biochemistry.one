@@ -1,0 +1,15 @@
+{
+  "title": "Fifty years of advances in bile acid synthesis and metabolism",
+  "authors": "Russell DW",
+  "journal": "Journal of Lipid Research",
+  "year": 2009,
+  "doi": "10.1194/jlr.R800026-JLR200",
+  "pmid": "18815433",
+  "design": "other",
+  "funder": "National Institutes of Health Grants P01 HL-20948 and PL1 DK-81182, the Robert A. Welch Foundation (I-0971) and the Perot Family Fund.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Review. Conversion of cholesterol to bile acids in the liver accounts for about 90% of cholesterol breakdown; steroid hormones, oxysterols and vitamin D account for less than 10%. At least 16 enzymes catalyse up to 17 reactions from cholesterol to a conjugated bile salt; CYP7A1 catalyses the initiating and rate-limiting step; an alternate pathway begins with side-chain hydroxylation followed by oxysterol 7-alpha-hydroxylation. Solubility rises from about 4 micrograms per litre for cholesterol to about 670 g per litre for a conjugated bile salt. A conjugated bile salt may pass through the enterohepatic circulation 4 to 12 times a day. Bile acids repress CYP7A1 through FXR, which induces SHP, and through intestinal FGF15 acting on hepatic FGFR4 and beta-Klotho. Bile acid binding resins such as cholestyramine and colesevelam increase faecal bile acid excretion and lower plasma cholesterol. In skin, UV light cleaves 7-dehydrocholesterol to previtamin D, which rearranges to vitamin D3; the liver 25-hydroxylates it and the kidney 1-alpha-hydroxylates it through CYP27B1.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2674696/"
+}

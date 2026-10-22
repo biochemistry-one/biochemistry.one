@@ -1,0 +1,20 @@
+{
+  "title": "Taking folate in pregnancy and risk of maternal breast cancer",
+  "authors": "Charles D, Ness AR, Campbell D, Davey Smith G, Hall MH",
+  "journal": "BMJ",
+  "year": 2004,
+  "doi": "10.1136/bmj.329.7479.1375",
+  "pmid": "15591563",
+  "design": "rct",
+  "participants": 2928,
+  "followUp": "From pregnancy in 1966-1967 to September 2002, about 35 years",
+  "population": "Pregnant women in the Aberdeen Folate Supplementation Trial, randomised double-blind to placebo, folate 0.2 mg or 5 mg daily during pregnancy; mortality linked from NHS Central Registry",
+  "funder": "The original study had a project grant from the board of management for the Aberdeen Special Hospitals. A project grant from the British Heart Foundation supported the reanalysis and follow up.",
+  "funderRole": "unknown",
+  "inKindSupport": "Glaxo supplied the tablets.",
+  "authorConflicts": "None declared.",
+  "dataAccess": "summary",
+  "result": "210 women died, 112 of cancer and 31 of breast cancer. Against placebo (134 deaths, 6.8%), 5 mg folate gave 39 deaths (8.0%): adjusted HR 1.42 (95% CI 1.00 to 2.04); cancer deaths 24 (4.9%) against 69 (3.5%): adjusted HR 1.70 (1.06 to 2.72); breast cancer deaths 8 (1.6%) against 17 (0.9%): adjusted HR 2.02 (0.88 to 4.72). Both supplement groups combined: breast cancer HR 1.79 (0.88 to 3.64). The authors state that the finding could be due to chance, with small numbers and no prespecified hypothesis, and requires confirmation.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC535452/"
+}

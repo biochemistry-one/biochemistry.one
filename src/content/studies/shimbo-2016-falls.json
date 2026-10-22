@@ -1,0 +1,19 @@
+{
+  "title": "Short-term risk of serious fall injuries in older adults initiating and intensifying treatment with antihypertensive medication",
+  "authors": "Shimbo D, Barrett Bowling C, Levitan EB, Deng L, Sim JJ, Huang L, et al.",
+  "journal": "Circulation: Cardiovascular Quality and Outcomes",
+  "year": 2016,
+  "doi": "10.1161/CIRCOUTCOMES.115.002524",
+  "pmid": "27166208",
+  "design": "case-control",
+  "participants": 90127,
+  "followUp": "July 2007 to December 2012",
+  "population": "Medicare beneficiaries aged 65 or older with a serious fall injury identified from emergency department and inpatient claims; case-crossover design comparing the 15 days before the fall with six earlier 15-day control periods",
+  "funder": "This work was supported by the National Institutes of Health (K24-HL125704) from the National Heart, Lung, and Blood Institute, Bethesda, MD.",
+  "funderRole": "unknown",
+  "authorConflicts": "Muntner and Levitan have received institutional grants from Amgen Inc, stated as unrelated to the topic.",
+  "dataAccess": "individual",
+  "result": "272, 1508 and 3113 beneficiaries initiated, added a new class or titrated antihypertensive treatment within 15 days before a serious fall injury. Odds of a serious fall injury were raised in the 15 days after initiation (odds ratio 1.36, 95% CI 1.19 to 1.55), after adding a new class (1.16, 1.10 to 1.23) and after titration (1.13, 1.08 to 1.18); associations were attenuated beyond 15 days and did not vary by medication class.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4871744/"
+}

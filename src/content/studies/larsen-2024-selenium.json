@@ -1,0 +1,20 @@
+{
+  "title": "Selenium supplementation and placebo are equally effective in improving quality of life in patients with hypothyroidism",
+  "authors": "Larsen C, Winther KH, Cramon PK, Rasmussen ÅK, Feldt-Rasmusssen U, Knudsen NJ, et al.",
+  "journal": "European Thyroid Journal",
+  "year": 2024,
+  "doi": "10.1530/ETJ-23-0175",
+  "pmid": "38215286",
+  "design": "rct",
+  "participants": 412,
+  "followUp": "12 months of intervention, assessed to 18 months",
+  "population": "Adults with autoimmune hypothyroidism on levothyroxine and TPO antibodies of 100 IU/ml or more at six Danish sites (CATALYST trial); 332 completed, 82% women",
+  "funder": "The study received funding from The Danish Council for Strategic Research, the Region of Southern Denmark, University of Southern Denmark, The Nissenske Family Foundation, and the Danish Thyroid Patient Federation. UFR's research salary was sponsored by a grant from Kirsten and Freddy Johansen's Fund. Analytical work in the lab of LS was supported by the German Research Foundation.",
+  "funderRole": "unknown",
+  "inKindSupport": "Selenium-enriched yeast tablets and placebo provided by Pharma Nord ApS, Vejle, Denmark.",
+  "authorConflicts": "One author holds shares of selenOmed GmbH, a company involved in selenium status assessment.",
+  "dataAccess": "unknown",
+  "result": "Selenium 200 µg daily as selenium-enriched yeast or placebo, added to levothyroxine, for 12 months. Quality of life improved in both groups without difference in any ThyPRO-39 scale; composite score 28.8 (95% CI 24.5 to 33.6) against 28.0 (24.5 to 33.1), P = 0.602; at 12 months the hypothyroid symptoms scale favoured placebo (P = 0.016). TPO antibodies were lower with selenium (1995 against 2344 kIU/l) without effect on levothyroxine dose or the free T3 to free T4 ratio. The trial stopped before its target of 472 participants.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10895332/"
+}

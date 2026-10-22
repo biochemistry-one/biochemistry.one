@@ -1,0 +1,16 @@
+{
+  "title": "Maintaining energy provision in the heart: the creatine kinase system in ischaemia–reperfusion injury and chronic heart failure",
+  "authors": "Lygate CA",
+  "journal": "Clinical Science",
+  "year": 2024,
+  "doi": "10.1042/CS20230616",
+  "pmid": "38639724",
+  "design": "other",
+  "funder": "The work in the author's laboratory is funded by British Heart Foundation Programme [grant number RG/18/12/34040].",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare that there are no competing interests associated with the manuscript.",
+  "dataAccess": "summary",
+  "result": "Narrative review. The adult human heart contains about 0.6 g of ATP, sufficient for about 20 beats, yet requires 6 kg of ATP per day, a turnover of the entire ATP pool every 10 s. The difference between the free energy of ATP hydrolysis in the cell and the free energy required by a given ATPase is the energy reserve driving that reaction; the SERCA pump has the lowest reserve. Creatine kinase operates near equilibrium. 95% of cardiomyocyte energy production is by oxidative phosphorylation, and 85% of this is delivered via the creatine kinase shuttle (citing Guzun et al. 2014).",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11040329"
+}

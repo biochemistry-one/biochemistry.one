@@ -1,0 +1,17 @@
+{
+  "title": "Metformin reduces liver glucose production by inhibition of fructose-1-6-bisphosphatase",
+  "authors": "Hunter RW, Hughey CC, Lantier L, Sundelin EI, Peggie M, Zeqiraj E, et al.",
+  "journal": "Nature Medicine",
+  "year": 2018,
+  "doi": "10.1038/s41591-018-0159-7",
+  "pmid": "30150719",
+  "design": "animal",
+  "population": "Mice carrying a knock-in point mutation making fructose-1,6-bisphosphatase-1 insensitive to AMP, on normal and high-fat diets, with isolated hepatocytes and enzyme assays",
+  "funder": "This study was supported by Vanderbilt Mouse Metabolic Phenotyping Center Grant DK059637 and R37 DK050277, a Foundation Grant from the Canadian Institutes of Health Research, the Danish Council for Independent Research DFF-4183-00384, the Novo Nordisk Foundation NNF13OC0003882, a Sir Henry Wellcome postdoctoral fellowship and a Canadian Diabetes Association postdoctoral fellowship.",
+  "funderRole": "unknown",
+  "authorConflicts": "The corresponding author is a full-time employee of the Nestle Institute of Health Sciences S.A., Switzerland, so the record is classed industry for an industry role in the work and its publication.",
+  "dataAccess": "summary",
+  "result": "Fructose-1,6-bisphosphatase-1 (FBP1, EC 3.1.3.11), a rate-controlling gluconeogenic enzyme inhibited allosterically by AMP, is reported as a major contributor to the therapeutic action of metformin. A point mutation rendering FBP1 insensitive to AMP, while sparing its regulation by fructose-2,6-bisphosphate, significantly reduced the response to metformin in knock-in mice during a metformin tolerance test and a metformin-euglycaemic clamp. In high-fat-diet diabetic mice, oral metformin 250 mg/kg lowered blood glucose by about 30% to 40% in wild-type mice and the effect was significantly blunted in knock-in mice (p = 0.047), while hepatic metformin concentrations, the change in the AMP to ATP ratio, energy charge and AMPK phosphorylation were comparable between genotypes. The authors note that people with FBP1 deficiency present with hypoglycaemia and metabolic acidosis from impaired gluconeogenesis, and discuss that in cultured hepatocytes lactate and pyruvate as sole carbon sources allow metformin at 1 mmol/L to cut intracellular ATP by about 85%, an extreme of adenylate energy charge not seen in vivo.",
+  "class": "industry",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6207338/fullTextXML"
+}

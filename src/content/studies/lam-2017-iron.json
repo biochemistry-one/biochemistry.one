@@ -1,0 +1,18 @@
+{
+  "title": "Proton pump inhibitor and histamine-2 receptor antagonist use and iron deficiency",
+  "authors": "Lam JR, Schneider JL, Quesenberry CP, Corley DA",
+  "journal": "Gastroenterology",
+  "year": 2017,
+  "doi": "10.1053/j.gastro.2016.11.023",
+  "pmid": "27890768",
+  "design": "case-control",
+  "participants": 466360,
+  "followUp": "January 1999 to December 2013",
+  "population": "Community-based case-control study: 77,046 patients with new iron deficiency and 389,314 controls, excluding patients with pre-existing risk factors for iron deficiency",
+  "funder": "Not read: the publisher page refused access and Crossref lists no funder.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "A 2-year or longer supply of PPIs was received by 2343 cases (3.0%) and 3354 controls (0.9%): adjusted OR 2.49 (95% CI 2.35 to 2.64); H2-receptor antagonists OR 1.58 (1.46 to 1.71). Associations were stronger at more than 1.5 pills a day than at less than 0.75 (interaction P = .004), were strongest with more than 1.5 pills a day for at least 10 years (OR 4.27, 2.53 to 7.21), and decreased after discontinuation (P for trend < .001).",
+  "class": "undetermined",
+  "fundingChecked": "https://www.gastrojournal.org/article/S0016-5085(16)35392-6/fulltext"
+}

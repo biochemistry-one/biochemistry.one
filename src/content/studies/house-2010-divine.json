@@ -1,0 +1,21 @@
+{
+  "title": "Effect of B-vitamin therapy on progression of diabetic nephropathy: a randomized controlled trial",
+  "authors": "House AA, Eliasziw M, Cattran DC, Churchill DN, Oliver MJ, Fine A, et al.",
+  "journal": "JAMA",
+  "year": 2010,
+  "doi": "10.1001/jama.2010.490",
+  "pmid": "20424250",
+  "registry": "ISRCTN41332305",
+  "design": "rct",
+  "participants": 238,
+  "followUp": "mean 31.9 months; primary outcome at 36 months",
+  "population": "Adults with type 1 or type 2 diabetes and clinical diabetic nephropathy at 5 university medical centres in Canada, a country with folic acid fortification, 2001 to 2007",
+  "funder": "This work was funded by grant MCT-41551 from the Canadian Institutes of Health Research and by the Kidney Foundation of Canada. The sponsors had no role in the design and conduct of the study, in the collection, management, analysis, and interpretation of the data, or in the preparation, review, or approval of the manuscript.",
+  "funderRole": "none",
+  "inKindSupport": "Pan American Laboratories (Covington, Louisiana) provided in-kind the B vitamins and matching placebos.",
+  "authorConflicts": "Dr Spence reported past consulting fees from Pan American Laboratories and Medice Arzneimittel Pütter; Drs House and Spence have a patent pending on mesna to reduce homocysteine in dialysis patients.",
+  "dataAccess": "summary",
+  "result": "One tablet of folic acid 2.5 mg, vitamin B6 25 mg and vitamin B12 1 mg daily against placebo. Radionuclide GFR fell by 16.5 against 10.7 mL/min/1.73 m2 at 36 months: difference -5.8 (95% CI -10.6 to -1.1). Composite of myocardial infarction, stroke, revascularisation and death from any cause: 36-month risk 23.5% (15.0% to 32.0%) against 14.4% (6.9% to 21.8%), HR 2.0 (1.0 to 4.0), P = 0.04. Dialysis HR 1.1 (0.4 to 2.6); death from any cause did not differ significantly. Homocysteine fell by 2.2 µmol/L against a rise of 2.6 µmol/L.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20170312120007/http://jamanetwork.com/journals/jama/fullarticle/185758"
+}

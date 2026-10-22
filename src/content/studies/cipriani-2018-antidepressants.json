@@ -1,0 +1,20 @@
+{
+  "title": "Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis",
+  "authors": "Cipriani A, Furukawa TA, Salanti G, Chaimani A, Atkinson LZ, Ogawa Y, et al.",
+  "journal": "Lancet",
+  "year": 2018,
+  "doi": "10.1016/S0140-6736(17)32802-7",
+  "pmid": "29477251",
+  "registry": "PROSPERO CRD42012002291",
+  "design": "meta-analysis",
+  "participants": 116477,
+  "followUp": "acute treatment, outcomes recorded as close to 8 weeks as possible (range 4 to 12 weeks)",
+  "population": "Adults with major depressive disorder in 522 double-blind randomised trials of 21 antidepressants or placebo done between 1979 and 2016",
+  "funder": "National Institute for Health Research (NIHR) Oxford Health Biomedical Research Centre (BRC-1215-20005) and the Japan Society for the Promotion of Science (17K19808). The funder had no role in study design, data collection, data analysis, data interpretation, writing of the report, or the decision to submit for publication.",
+  "funderRole": "none",
+  "authorConflicts": "TAF reported lecture fees from Eli Lilly, Janssen, Meiji, Mitsubishi-Tanabe, Merck Sharp & Dohme and Pfizer, consultancy fees from Takeda Science Foundation and research support from Mochida and Mitsubishi-Tanabe; SL reported consulting and lecture honoraria from several companies, including Lundbeck, Otsuka, Janssen, Lilly and Servier; NT and YH reported lecture fees from Otsuka, Meiji and Yoshitomi; the other authors declared no competing interests.",
+  "dataAccess": "summary",
+  "result": "522 trials with 116,477 participants; 409 of 522 trials (78%) were funded by pharmaceutical companies. Response was a reduction of at least 50% in an observer-rated depression score. All 21 antidepressants were more efficacious than placebo, with odds ratios from 2.13 (95% CrI 1.89 to 2.41) for amitriptyline to 1.37 (1.16 to 1.63) for reboxetine; sertraline against placebo: response OR 1.67 (95% CrI 1.49 to 1.87), all-cause dropout OR 0.96 (0.85 to 1.08). Summary effect sizes were mostly modest; the random-effects summary SMD for all antidepressants was 0.30 (95% CrI 0.26 to 0.34). The certainty of evidence was moderate to very low.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5889788/fullTextXML"
+}

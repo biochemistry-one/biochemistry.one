@@ -1,0 +1,19 @@
+{
+  "title": "Cholecystokinin secretion is suppressed by glucagon-like peptide-1: clue to the mechanism of the adverse gallbladder events of GLP-1-derived drugs",
+  "authors": "Rehfeld JF, Knop FK, Asmar A, Madsbad S, Holst JJ, Asmar M",
+  "journal": "Scandinavian Journal of Gastroenterology",
+  "year": 2018,
+  "doi": "10.1080/00365521.2018.1530297",
+  "pmid": "30449207",
+  "design": "mechanistic",
+  "participants": 20,
+  "followUp": "240-minute infusion during and after a meal",
+  "population": "Ten healthy subjects and ten patients with type 1 diabetes, plasma glucose clamped at 6 to 9 mmol/l, infused with GLP-1 or saline",
+  "funder": "This study was supported by the Danish Biotechnology Center for Cellular Communication.",
+  "funderRole": "unknown",
+  "authorConflicts": "Two authors report advisory, consulting, lecture or research support relationships with Novo Nordisk, Eli Lilly and other companies.",
+  "dataAccess": "summary",
+  "result": "Plasma cholecystokinin rose during the meal with saline, whereas GLP-1 infusion significantly suppressed postprandial cholecystokinin secretion in both healthy subjects and patients with diabetes. The authors propose that suppression of cholecystokinin attenuates gallbladder contraction and explains the gallbladder adverse events of GLP-1-derived drugs.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250706010732/https://www.tandfonline.com/doi/full/10.1080/00365521.2018.1530297"
+}

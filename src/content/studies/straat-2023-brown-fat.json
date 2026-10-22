@@ -1,0 +1,19 @@
+{
+  "title": "Stimulation of the beta-2-adrenergic receptor with salbutamol activates human brown adipose tissue",
+  "authors": "Straat ME, Hoekx CA, van Velden FHP, Pereira Arias-Bouda LM, Dumont L, Blondin DP, et al.",
+  "journal": "Cell Reports Medicine",
+  "year": 2023,
+  "doi": "10.1016/j.xcrm.2023.100942",
+  "pmid": "36812890",
+  "design": "rct",
+  "participants": 10,
+  "population": "Ten young lean healthy men; randomised double-blind crossover of a single intravenous bolus of salbutamol 250 µg after oral placebo or propranolol 80 mg, with dynamic [18F]FDG PET-CT",
+  "registry": "NL9345",
+  "funder": "Supported by a Fonds de Recherche du Québec - Santé doctoral award, the GSK Chair in Diabetes of Université de Sherbrooke (to one author), an FRQS salary award, the Dutch Diabetes Foundation, an NWO-VENI grant, a Maria Zambrano fellowship (NextGenerationEU) and the Netherlands Cardiovascular Research Initiative with the Dutch Heart Foundation.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare no competing interests associated with this manuscript.",
+  "dataAccess": "summary",
+  "result": "Salbutamol increased glucose uptake by brown adipose tissue compared with salbutamol plus propranolol, without changing glucose uptake by skeletal muscle or white adipose tissue; salbutamol-induced uptake correlated with the rise in energy expenditure. Salbutamol raised heart rate acutely by 16.9 beats/min (SD 10.5) and tended to raise energy expenditure by 7.2% (122 kcal/day, p = 0.06), whereas with propranolol energy expenditure fell 9.4%. The authors cite human biopsies and brown adipocytes in which ADRB2, not ADRB3, is the dominant adrenergic receptor.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9975328/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Misdiagnosis and mistreatment of a common side-effect--angiotensin-converting enzyme inhibitor-induced cough",
+  "authors": "Vegter S, de Jong-van den Berg LT",
+  "journal": "British Journal of Clinical Pharmacology",
+  "year": 2010,
+  "doi": "10.1111/j.1365-2125.2009.03571.x",
+  "pmid": "20233184",
+  "design": "cohort",
+  "participants": 27446,
+  "followUp": "dispensing data 2000 to 2007; half-year window around ACE inhibitor initiation",
+  "population": "Incident users of ACE inhibitors in the Dutch IADB.nl pharmacy dispensing database",
+  "funder": "not read: the available full-text record contains only the abstract, which carries no funding statement.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Prescription sequence symmetry analysis: of 1054 patients starting both an ACE inhibitor and an antitussive within half a year, 703 received the antitussive after and 351 before the ACE inhibitor, adjusted sequence ratio 2.2 (95% CI 1.9 to 2.4); women were more likely to receive antitussives after initiation (odds ratio 1.4, 1.1 to 1.9). The authors estimate that 15% of ACE-inhibitor cough is treated with antitussives instead of substitution.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2824482/"
+}

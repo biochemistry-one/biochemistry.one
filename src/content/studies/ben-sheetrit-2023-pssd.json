@@ -1,0 +1,19 @@
+{
+  "title": "Estimating the risk of irreversible post-SSRI sexual dysfunction (PSSD) due to serotonergic antidepressants",
+  "authors": "Ben-Sheetrit J, Hermon Y, Birkenfeld S, Gutman Y, Csoka AB, Toren P",
+  "journal": "Annals of General Psychiatry",
+  "year": 2023,
+  "doi": "10.1186/s12991-023-00447-0",
+  "pmid": "37085865",
+  "design": "cohort",
+  "participants": 12302,
+  "followUp": "19-year retrospective records",
+  "population": "Men aged 21 to 49 in the Tel Aviv district database of Clalit Health Services, non-smokers with BMI below 25 and without medical or psychiatric conditions or medicines associated with erectile dysfunction; 866 treated with serotonergic antidepressants",
+  "funder": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare that they have no competing interests.",
+  "dataAccess": "summary",
+  "result": "Erectile dysfunction, defined by PDE-5 inhibitor prescriptions, was more frequent after serotonergic antidepressants (adjusted OR 3.2, 95% CI 2.3 to 4.4). Four of 866 treated men (0.46%, 1 in 216) met criteria for persistent post-treatment erectile dysfunction, defined as persisting at least one month after stopping without active depression or anxiety; they had used escitalopram, paroxetine, imipramine or nortriptyline for 4 to 8 months and still received PDE-5 inhibitors 3.6 to 14.8 months later. The authors note that counting only erectile dysfunction treated with PDE-5 inhibitors in healthy men may underestimate the risk.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10122283"
+}

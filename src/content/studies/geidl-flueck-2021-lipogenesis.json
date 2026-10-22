@@ -1,0 +1,21 @@
+{
+  "title": "Fructose- and sucrose- but not glucose-sweetened beverages promote hepatic de novo lipogenesis: A randomized controlled trial",
+  "authors": "Geidl-Flueck B, Hochuli M, Németh Á, Eberl A, Derron N, Köfeler HC, et al.",
+  "journal": "Journal of Hepatology",
+  "year": 2021,
+  "doi": "10.1016/j.jhep.2021.02.027",
+  "pmid": "33684506",
+  "registry": "NCT01733563",
+  "design": "rct",
+  "participants": 126,
+  "followUp": "7 weeks",
+  "population": "Healthy men aged 18 to 30 years with BMI below 24 kg/m2 in Zurich; 94 of 126 randomised completed",
+  "funder": "This study was funded by the Swiss National Science Foundation (No. 144204), Vontobel Foundation, Rhyner Bangerter Foundation, Promedica Foundation, Uniscientia Foundation, Prof. Otto Beisheim-Foundation, Jubiläumsstiftung Swiss Life, Philhuman Foundation and the Austrian Federal Ministry of Education (No. BMWFW-10.420/0005-WF/V/3c/2017).",
+  "funderRole": "none",
+  "inKindSupport": "Molkerei Biedermann AG provided the beverages in coded containers; the Swiss technology testing service, Dietikon, performed quality control; payment terms are not stated.",
+  "authorConflicts": "The authors declared that no conflicts of interest exist with regard to this study; ICMJE forms not read.",
+  "dataAccess": "summary",
+  "result": "Described as double-blind; the control group abstained from sugar-sweetened beverages and received no placebo. 80 g per day of fructose, sucrose or glucose in three 200 ml beverages for 7 weeks. Median basal hepatic fractional secretion rate of newly synthesised VLDL palmitate (%/day): fructose 19.7 (P=0.013), sucrose 20.8 (P=0.0015), glucose 11.0 (P=0.16), control 9.1. Total energy intake did not change; fasting triglyceride, glucose and insulin did not change; liver fat was not measured.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20250811093548/https://www.journal-of-hepatology.eu/article/S0168-8278(21)00161-6/fulltext"
+}

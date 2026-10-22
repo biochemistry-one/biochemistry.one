@@ -1,0 +1,16 @@
+{
+  "title": "PharmGKB summary: pathways of acetaminophen metabolism at the therapeutic versus toxic doses",
+  "authors": "Mazaleuskaya LL, Sangkuhl K, Thorn CF, FitzGerald GA, Altman RB, Klein TE",
+  "journal": "Pharmacogenetics and Genomics",
+  "year": 2015,
+  "doi": "10.1097/FPC.0000000000000150",
+  "pmid": "26049587",
+  "design": "database",
+  "funder": "This study is supported by the NIH/NIGMS R24 GM61374, The Personalized NSAID Therapeutics Consortium (PENTACON: HL117798) and by T32 H107971.",
+  "funderRole": "none",
+  "authorConflicts": "Two authors are stockholders in Personalis Inc. One author holds the McNeil Professorship of Translational Medicine and Therapeutics. The other authors declare no conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "Oral bioavailability of paracetamol is 88% and the plasma half-life 1.5 to 2.5 hours at recommended doses. After a therapeutic dose, urinary metabolites are the glucuronide (52 to 57%), the sulfate (30 to 44%) and products of oxidation to N-acetyl-p-benzoquinone imine (NAPQI, 5 to 10%); less than 5% is excreted unchanged. UGT1A1, UGT1A6, UGT1A9 and UGT2B15 catalyse glucuronidation; SULT1A1 and SULT1A3/4 catalyse sulfation, with SULT1E1 and SULT2A1 in fetal liver; CYP2E1, with CYP1A2 and CYP2A6, forms NAPQI. NAPQI is conjugated with glutathione spontaneously and by glutathione S-transferases, GSTP1 being the most effective catalyst, followed by GSTT1 and GSTM1, and is excreted as cysteine and mercapturic acid conjugates. ABCC2 and ABCG2 of the canalicular membrane move the glucuronide and the sulfate into bile; movement of the glucuronide into blood depends on ABCC3 and that of the sulfate on ABCC3 with ABCC4, both of the sinusoidal membrane. Above 4 g per day sulfation saturates, and after highly toxic doses more than 15% is oxidised and about 10% excreted unchanged. The contribution of CYP3A4 is reported as ranging from negligible to primary.",
+  "class": "reference",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4498995/"
+}

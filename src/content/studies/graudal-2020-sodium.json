@@ -1,0 +1,18 @@
+{
+  "title": "Effects of low sodium diet versus high sodium diet on blood pressure, renin, aldosterone, catecholamines, cholesterol, and triglyceride",
+  "authors": "Graudal NA, Hubeck-Graudal T, Jurgens G",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2020,
+  "doi": "10.1002/14651858.CD004022.pub5",
+  "pmid": "33314019",
+  "design": "meta-analysis",
+  "participants": 12296,
+  "population": "195 randomised studies of low- versus high-sodium diets lasting 3 to 1100 days in people with normal or elevated blood pressure",
+  "funder": "Internal sources: Copenhagen University Hospital Rigshospitalet (salary). External sources: the A.P. Møller Foundation for the Advancement of Medical Science, Denmark, a non-profit funding source that donated a grant for the pay of N. Graudal.",
+  "funderRole": "none",
+  "authorConflicts": "None. All authors are employed at public institutions; none has any connection with or receives funds from the food and salt industries.",
+  "dataAccess": "summary",
+  "result": "Sodium reduction from 203 to 65 mmol/day in white participants: systolic blood pressure -1.14 mm Hg (95% CI -1.65 to -0.63) with normal blood pressure (95 trials) and -5.71 mm Hg (-6.67 to -4.74) with hypertension (88 trials). During sodium reduction plasma renin activity rose by 1.56 ng/mL/h (1.39 to 1.73; 82 trials, 2904 participants), aldosterone by 104 pg/mL (88.4 to 119.7; 66 trials, 2506 participants), noradrenaline by 62.3 pg/mL (41.9 to 82.8), cholesterol by 5.19 mg/dL (2.1 to 8.3) and triglyceride by 7.10 mg/dL (3.1 to 11.1). The authors describe the hormone and lipid changes as potential side effects, more consistent than the blood-pressure effect.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8094404/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "The positive impact of red palm oil in school meals on vitamin A status: study in Burkina Faso",
+  "authors": "Zeba AN, Martin Prével Y, Somé IT, Delisle HF",
+  "journal": "Nutrition Journal",
+  "year": 2006,
+  "doi": "10.1186/1475-2891-5-17",
+  "pmid": "16846498",
+  "design": "rct",
+  "followUp": "12 months between surveys",
+  "population": "Primary-school pupils in Burkina Faso: 15 intervention schools in Kaya (pre-post design) and 24 schools in Bogandé randomised to usual school lunch, a single 60 mg vitamin A capsule, or 15 ml red palm oil in meals 3 times a week",
+  "funder": "Micronutrient Initiative (Canada) provided most of the funding for the RPO project and for this study.",
+  "funderRole": "none",
+  "authorConflicts": "The author(s) declare that they have no competing interests.",
+  "dataAccess": "summary",
+  "result": "15 ml of local red palm oil provided approximately 1500 µg retinol activity equivalents, based on analyses of the oil. Bogandé, serum retinol below 0.70 µmol/L at baseline and after 12 months: red palm oil 40.4% to 14.9% (n = 114); vitamin A capsule 46.1% to 17.1% (n = 117); usual lunch 23.6% to 14.2% (n = 106, p = 0.08). Mean serum retinol: red palm oil 0.82 to 0.98 µmol/L, capsule 0.77 to 0.98 µmol/L, usual lunch 0.96 to 0.94 µmol/L. Baseline serum retinol was higher in the usual-lunch group despite randomisation; endline differences between groups were not significant.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1562437/fullTextXML"
+}

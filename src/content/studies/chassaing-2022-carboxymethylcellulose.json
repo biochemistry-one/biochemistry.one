@@ -1,0 +1,20 @@
+{
+  "title": "Randomized controlled-feeding study of dietary emulsifier carboxymethylcellulose reveals detrimental impacts on the gut microbiota and metabolome",
+  "authors": "Chassaing B, Compher C, Bonhomme B, Liu Q, Tian Y, Walters W, et al.",
+  "journal": "Gastroenterology",
+  "year": 2022,
+  "doi": "10.1053/j.gastro.2021.11.006",
+  "pmid": "34774538",
+  "registry": "NCT03440229",
+  "design": "rct",
+  "participants": 16,
+  "followUp": "11 days of intervention (14 days for the first 3 participants)",
+  "population": "Healthy adults aged 18 to 60 years in a domiciled feeding unit at the University of Pennsylvania",
+  "funder": "National Institutes of Health grants DK115180, 5UL1TR001878 and P30-DK050306, and the Max Planck Society; laboratory support from the European Research Council, IdEx Université de Paris, the Kenneth Rainin Foundation, the French Research Agency, INSERM and the USDA National Institute of Food and Agriculture. The funders had no role in the design of the study and data collection, analysis and interpretation, or in manuscript writing.",
+  "funderRole": "none",
+  "authorConflicts": "JD Lewis consulted or served on advisory boards for pharmaceutical companies and Nestle Health Science and has had research funding from Nestle Health Science, Takeda, Janssen and AbbVie; the remaining authors disclose no conflicts.",
+  "dataAccess": "unknown",
+  "result": "Double-blind: an emulsifier-free diet (n = 9) or the same diet with 15 g/day carboxymethylcellulose (n = 7), given in brownies and sorbet. Carboxymethylcellulose modestly increased postprandial abdominal discomfort (P = 0.019), shifted microbiota composition with lower diversity and lower relative abundance of Faecalibacterium prausnitzii, and depleted faecal short-chain fatty acids and free amino acids; faecal lipocalin-2, serum cytokines and appetite did not change. Microbiota encroachment into the inner mucus layer appeared in 2 of 7 versus 0 of 9 participants (P = 0.175).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9639366/"
+}

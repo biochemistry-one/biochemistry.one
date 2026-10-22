@@ -1,0 +1,20 @@
+{
+  "title": "A trial of sugar-free or sugar-sweetened beverages and body weight in children",
+  "authors": "de Ruyter JC, Olthof MR, Seidell JC, Katan MB",
+  "journal": "New England Journal of Medicine",
+  "year": 2012,
+  "doi": "10.1056/NEJMoa1203034",
+  "pmid": "22998340",
+  "registry": "NCT00893529",
+  "design": "rct",
+  "participants": 641,
+  "followUp": "18 months",
+  "population": "Primarily normal-weight children aged 4 years 10 months to 11 years 11 months who habitually drank sugar-sweetened beverages, at eight elementary schools near Amsterdam",
+  "funder": "Supported by grants from the Netherlands Organization for Health Research and Development (120520010), the Netherlands Heart Foundation (2008B096), and the Royal Netherlands Academy of Arts and Sciences (ISK/741/PAH). The investigators hired Refresco Benelux to produce the beverages; the manufacturer had no role in the design of the study, the accrual or analysis of the data, or the preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "Disclosure forms are published with the full text at NEJM.org; not read.",
+  "dataAccess": "summary",
+  "result": "Double-blind; one 250 ml can per day of a sugar-free drink (34 mg sucralose, 12 mg acesulfame potassium) or a matching drink with 26 g sucrose (104 kcal). With imputation for the 26% who stopped drinking the beverages, BMI z score rose by 0.02 SD in the sugar-free group and 0.15 SD in the sugar group (95% CI of the difference -0.21 to -0.05); weight rose by 6.35 kg and 7.37 kg (difference 1.01 kg; 95% CI -1.54 to -0.48).",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20251211015812/https://www.nejm.org/doi/full/10.1056/NEJMoa1203034"
+}

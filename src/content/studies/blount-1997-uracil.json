@@ -1,0 +1,16 @@
+{
+  "title": "Folate deficiency causes uracil misincorporation into human DNA and chromosome breakage: implications for cancer and neuronal damage",
+  "authors": "Blount BC, Mack MM, Wehr CM, MacGregor JT, Hiatt RA, Wang G, et al.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 1997,
+  "doi": "10.1073/pnas.94.7.3290",
+  "pmid": "9096386",
+  "design": "other",
+  "population": "Healthy splenectomised adults, 3 folate-deficient adults with normal splenic function and 1 splenectomised patient with Crohn disease",
+  "funder": "This work was supported by National Cancer Institute Outstanding Investigator Grant CA39910, by National Institute of Environmental Health Sciences Center Grant ESO1896 (B.N.A.), and by the intramural programs of the National Institute of Environmental Health Sciences and National Health and Environmental Effects Research Laboratory (R.B.E.). B.C.B. thanks the Biomedical Mass Spectrometry Unit at the University of New South Wales for financial support during the writing of a portion of the article.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Folate-deficient adults (erythrocyte folate below 140 ng/ml, n = 8) had a geometric mean of 3,960,000 uracils per diploid cell in blood DNA, 8-fold more than controls (498,000, n = 14; P = 0.003); after 5 mg folic acid daily, measured at 6 to 8 weeks, the value fell to 186,000 (n = 5; P = 0.0003). Mechanism proposed: low 5,10-methylene-THF decreases dTMP synthesis, raises the dUMP/dTMP ratio and leads to DNA polymerase-mediated dUTP misincorporation; excision by uracil-DNA glycosylase and apyrimidinic endonuclease creates transient nicks, and two opposing nicks can form a double-strand break. Vitamin B12 deficiency traps folate as 5-methyl-THF, causing functional folate deficiency, homocysteine accumulation and uracil misincorporation.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC20362/"
+}

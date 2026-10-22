@@ -1,0 +1,19 @@
+{
+  "title": "Milk intake and risk of mortality and fractures in women and men: cohort studies",
+  "authors": "Michaëlsson K, Wolk A, Langenskiöld S, Basu S, Warensjö Lemming E, Melhus H, et al.",
+  "journal": "BMJ",
+  "year": 2014,
+  "doi": "10.1136/bmj.g6015",
+  "pmid": "25352269",
+  "design": "cohort",
+  "participants": 106772,
+  "followUp": "mean 20.1 years (women), 11.2 years (men)",
+  "population": "Swedish Mammography Cohort, 61,433 women aged 39-74 years at baseline 1987-90; Cohort of Swedish Men, 45,339 men aged 45-79 years in 1997; central Sweden",
+  "funder": "Grants from the Swedish Research Council. The funders had no role in study design, data collection, data analysis, data interpretation, writing of the report, or the decision to submit. One author is employed by the Swedish National Food Agency.",
+  "funderRole": "none",
+  "authorConflicts": "No support from any organisation for the submitted work and no relevant financial relationships declared.",
+  "dataAccess": "summary",
+  "result": "Women, 3 or more glasses (600 g or more) of milk per day versus less than 1 glass: death 17.7 versus 10.7 per 1000 person-years (age standardised), adjusted HR 1.93 (95% CI 1.80 to 2.06); hip fracture 4.2 versus 3.1 per 1000 person-years, HR 1.60 (1.39 to 1.84); any fracture HR 1.16 (1.08 to 1.25). Per glass in women: mortality HR 1.15 (1.13 to 1.17), hip fracture 1.09 (1.05 to 1.13). Per glass in men: mortality 1.03 (1.01 to 1.04), any fracture 1.01 (0.99 to 1.03), hip fracture 1.03 (0.99 to 1.07). In women each serving of cheese or fermented milk was associated with 10-15% lower mortality and hip fracture rates. Milk intake was positively associated with urine 8-iso-PGF2alpha and, in men, serum interleukin 6. The authors proposed D-galactose, about 5 g per glass, as a mechanism on the basis of animal models of ageing and state that generalisation to humans needs further support; they recommend cautious interpretation because of possible residual confounding and reverse causation.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4212225/"
+}

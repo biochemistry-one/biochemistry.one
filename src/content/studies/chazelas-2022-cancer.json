@@ -1,0 +1,21 @@
+{
+  "title": "Nitrites and nitrates from food additives and natural sources and cancer risk: results from the NutriNet-Santé cohort",
+  "authors": "Chazelas E, Pierre F, Druesne-Pecollo N, Esseddik Y, Szabo de Edelenyi F, Agaesse C, et al.",
+  "journal": "International Journal of Epidemiology",
+  "year": 2022,
+  "doi": "10.1093/ije/dyac046",
+  "pmid": "35303088",
+  "registry": "NCT03335644",
+  "design": "cohort",
+  "participants": 101056,
+  "followUp": "median 6.7 years; 6.8 years in men",
+  "population": "French adults of the web-based NutriNet-Santé cohort without prevalent cancer, with at least two 24-h dietary records in the first two years of follow-up, energy under-reporters excluded; 78.5% women; mean age 42.3 years",
+  "funder": "The NutriNet-Santé study was supported by Ministère de la Santé, Santé Publique France, INSERM, INRAE, CNAM and University Sorbonne Paris Nord. E.C. was supported by a Doctoral Funding from University Sorbonne Paris Nord; C.D. by a grant from the French National Cancer Institute (INCa). The project received funding from the European Research Council (Horizon 2020, grant agreement no. 864219), the French National Cancer Institute (INCa_14059), the French Ministry of Health (arrêté 29.11.19) and the IdEx Université de Paris (ANR-18-IDEX-0001). Researchers were independent from funders. Funders had no role in the study design, the collection, analysis and interpretation of data, the writing of the report and the decision to submit the article for publication.",
+  "funderRole": "none",
+  "inKindSupport": "Some of the 700 ad hoc laboratory assays of nitrites and nitrates in foods were commissioned by the consumers' association UFC Que Choisir.",
+  "authorConflicts": "F. Pierre received funding from the IFIP (French Pork Institute) for another project on experimental research in animal models, stated to have no relationship to this study; all other authors declared none.",
+  "dataAccess": "individual",
+  "result": "3311 first incident cancers, among them 966 breast, 400 prostate and 268 colorectal, over 639,756 person-years to 12 January 2021. Food additives supplied 4.7% of total nitrite intake; 73.9% consumed sodium nitrite (E 250). High consumers were those above the sex-specific median among consumers, 0.19 mg/day in women and 0.25 mg/day in men. Sodium nitrite, high consumers against non-consumers: prostate cancer 163 of 8157 against 56 of 5456 men, HR 1.62 (95% CI 1.17 to 2.25), median follow-up 6.8 years; colorectal cancer 106 of 37,328 against 51 of 26,397, HR 1.22 (0.85 to 1.75); overall cancer 1209 of 37,328 against 639 of 26,397, HR 1.10 (0.99 to 1.21). All additive nitrites and prostate cancer: 162 of 8164 against 56 of 5443, HR 1.58 (1.14 to 2.18). Additive nitrates and breast cancer HR 1.24 (1.03 to 1.48). No association was detected for natural sources. The authors state that residual confounding cannot be entirely ruled out.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9365633/fullTextXML"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Beta-blockers and inhibitors of the renin-angiotensin aldosterone system for chronic heart failure with preserved ejection fraction",
+  "authors": "Martin N, Manoharan K, Davies C, Lumbers RT",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2021,
+  "doi": "10.1002/14651858.CD012721.pub3",
+  "pmid": "34022072",
+  "design": "meta-analysis",
+  "participants": 23492,
+  "population": "41 randomised trials in adults with heart failure and left ventricular ejection fraction above 40%; ACE inhibitors 8 trials (2061 participants, mean ages 70 to 82), angiotensin receptor blockers 8 trials (8755 participants); search to 14 May 2020",
+  "funder": "not read: the full-text record in Europe PMC returned the abstract and results text without the sources-of-support section, and the Cochrane Library page is not accessible.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "ACE inhibitors, moderate certainty: cardiovascular mortality RR 0.93 (95% CI 0.61 to 1.42; 945 participants), all-cause mortality 1.04 (0.75 to 1.45; 1187) and heart-failure hospitalisation 0.86 (0.64 to 1.15; 1019); effects on hyperkalaemia uncertain. Angiotensin receptor blockers, high certainty: cardiovascular mortality 1.02 (0.90 to 1.14; 7254), all-cause mortality 1.01 (0.92 to 1.11; 7964), heart-failure hospitalisation 0.92 (0.83 to 1.02), and hyperkalaemia 1.88 (1.07 to 3.33; 7148). The authors conclude that current evidence does not support ACE inhibitors or angiotensin receptor blockers in this condition without another indication.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8140651/"
+}

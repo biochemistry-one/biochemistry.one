@@ -1,0 +1,19 @@
+{
+  "title": "In Vivo Imaging of Human 11C-Metformin in Peripheral Organs: Dosimetry, Biodistribution, and Kinetic Analyses",
+  "authors": "Gormsen LC, Sundelin EI, Jensen JB, Vendelbo MH, Jakobsen S, Munk OL, et al.",
+  "journal": "Journal of Nuclear Medicine",
+  "year": 2016,
+  "doi": "10.2967/jnumed.116.177774",
+  "pmid": "27469359",
+  "design": "mechanistic",
+  "participants": 9,
+  "followUp": "dynamic imaging for 90 minutes after intravenous and 120 minutes after oral tracer",
+  "population": "Nine subjects, three women and six men; whole-body dosimetry and biodistribution in four, tissue kinetics in the remainder",
+  "funder": "No funding statement appears in the article; the disclosure section states only that page charges were paid and that no potential conflict of interest relevant to the article was reported, so study funding could not be determined.",
+  "funderRole": "unknown",
+  "authorConflicts": "No potential conflict of interest relevant to this article was reported.",
+  "dataAccess": "summary",
+  "result": "Whole-body positron emission tomography of carbon-11-labelled metformin showed uptake primarily in the kidneys, urinary bladder and liver, and to a lesser extent in salivary glands, skeletal muscle and intestines. Effective doses were 9.5 microsieverts per megabecquerel after intravenous and 18.1 after oral administration. Liver kinetics fitted a reversible two-tissue compartment model with a volume of distribution of 2.45 mL/mL with arterial input and 2.66 mL/mL with portal and arterial input; renal data did not fit compartmental models and the volume of distribution was estimated linearly at 6.83 mL/mL. Skeletal muscle and intestinal kinetics showed only discrete tracer uptake, and only slow accumulation was observed in muscle. Liver uptake was pronounced after oral administration, with a tissue-to-blood ratio double that after intravenous administration. No elimination of the tracer through the bile was observed after either route.",
+  "class": "undetermined",
+  "fundingChecked": "https://jnm.snmjournals.org/content/57/12/1920"
+}

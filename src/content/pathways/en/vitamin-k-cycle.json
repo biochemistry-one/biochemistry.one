@@ -1,0 +1,27 @@
+{
+  "title": "Vitamin K cycle",
+  "layout": "cycle",
+  "compartment": "Endoplasmic reticulum membrane, particularly in liver and bone",
+  "steps": [
+    {
+      "from": "Vitamin K hydroquinone",
+      "to": "Vitamin K epoxide",
+      "enzyme": "γ-Glutamyl carboxylase (GGCX)",
+      "cofactors": ["Glutamate → γ-carboxyglutamate", "CO2", "O2"],
+      "note": "Carboxylates factors II, VII, IX and X and proteins C, S and Z"
+    },
+    {
+      "from": "Vitamin K epoxide",
+      "to": "Vitamin K quinone",
+      "enzyme": "Vitamin K epoxide reductase (VKORC1)",
+      "inhibitors": [{"name": "Warfarin", "page": "medicines/warfarin"}],
+      "note": "Each reduction oxidises two active-site cysteines of the enzyme"
+    },
+    {
+      "from": "Vitamin K quinone",
+      "to": "Vitamin K hydroquinone",
+      "enzyme": "Vitamin K epoxide reductase (VKORC1)",
+      "inhibitors": [{"name": "Warfarin", "page": "medicines/warfarin"}]
+    }
+  ]
+}

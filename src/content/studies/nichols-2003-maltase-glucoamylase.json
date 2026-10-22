@@ -1,0 +1,15 @@
+{
+  "title": "The maltase-glucoamylase gene: common ancestry to sucrase-isomaltase with complementary starch digestion activities",
+  "authors": "Nichols BL, Avery S, Sen P, Swallow DM, Hahn D, Sterchi E",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 2003,
+  "doi": "10.1073/pnas.0237170100",
+  "pmid": "12547908",
+  "design": "genetic",
+  "funder": "Funded in part with federal funds from the US Department of Agriculture/Agricultural Research Service (Cooperative Agreement 58-6250-1-003 to B.L.N.) and the Swiss National Foundation (Grant 3200-052736.97 to E.S.); a student assistant was funded by a Rank Prize summer studentship.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Dietary starches are about 25% amylose, a linear alpha-1,4 glucan, and 75% amylopectin, whose additional alpha-1,6 links (about 4% of the total) form branches. Alpha-amylase of salivary and pancreatic secretions hydrolyses internal alpha-1,4 links and bypasses alpha-1,6 links, producing linear and branched malto-oligosaccharides, which brush-border maltase-glucoamylase (MGA, gene MGAM) and sucrase-isomaltase (SI) hydrolyse to glucose from the non-reducing ends. SI accounts for 80% of neutral maltase activity, all sucrase and almost all isomaltase activity; MGA accounts for all glucoamylase activity, 1% of isomaltase and 20% of neutral maltase activity. MGA is specific for the 95% alpha-1,4 and SI for the 5% alpha-1,6 glucose links of starch. MGAM spans about 82,000 bp at 7q34 with 48 exons, with an exon structure identical to that of SI.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20221030093946/https://www.pnas.org/doi/10.1073/pnas.0237170100"
+}

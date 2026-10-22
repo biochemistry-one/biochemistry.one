@@ -1,0 +1,15 @@
+{
+  "title": "Protein and amino acid requirements in human nutrition",
+  "authors": "Joint WHO/FAO/UNU Expert Consultation",
+  "journal": "World Health Organization Technical Report Series, No. 935",
+  "year": 2007,
+  "pmid": "18330140",
+  "url": "https://iris.who.int/handle/10665/43411",
+  "design": "guideline",
+  "funder": "Joint WHO/FAO/UNU Expert Consultation held at WHO headquarters, Geneva, 9-16 April 2002; the report states no other source of funding.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Nutritionally indispensable amino acids: histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan and valine; conditionally indispensable: e.g. cysteine, tyrosine, taurine, glycine, arginine, glutamine and proline. Adult average protein requirement 0.66 g/kg per day; safe level 0.83 g/kg per day for protein with a protein digestibility-corrected amino acid score of 1.0, expected to meet the needs of 97.5% of healthy adults. Mean adult indispensable amino acid requirements (mg/kg per day): histidine 10, isoleucine 20, leucine 39, lysine 30, methionine plus cysteine 15, phenylalanine plus tyrosine 25, threonine 15, tryptophan 4, valine 26.",
+  "class": "consensus",
+  "fundingChecked": "https://iris.who.int/handle/10665/43411"
+}

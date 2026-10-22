@@ -1,0 +1,16 @@
+{
+  "title": "Alcoholic liver disease: alcohol metabolism, cascade of molecular mechanisms, cellular targets, and clinical aspects",
+  "authors": "Teschke R",
+  "journal": "Biomedicines",
+  "year": 2018,
+  "doi": "10.3390/biomedicines6040106",
+  "pmid": "30424581",
+  "design": "other",
+  "funder": "There was no funding of this article.",
+  "funderRole": "none",
+  "authorConflicts": "The author has no conflict of interest to declare, with respect to this invited review article.",
+  "dataAccess": "summary",
+  "result": "Narrative review. In the liver, ADH (cytosol, NAD+), the microsomal ethanol-oxidizing system with CYP2E1 (endoplasmic reticulum, NADPH and O2) and catalase (peroxisomes, H2O2) oxidise ethanol to acetaldehyde; ADH and MEOS, but not catalase, are relevant in vivo. Km for ethanol: ADH 0.5 to 2.0 mM (animal studies), MEOS 7 to 11 mM, catalase 0.6 to 10 mM. MEOS is induced by chronic alcohol consumption through increased CYP2E1 synthesis. Mitochondrial ALDH oxidises acetaldehyde to acetate, which is released into the blood and oxidised in extrahepatic tissues; ADH and ALDH both generate NADH. The raised NADH/NAD+ ratio stimulates hepatic fatty acid synthesis and alpha-glycerophosphate supply, and acetaldehyde impairs mitochondrial fatty acid oxidation.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6316574/"
+}

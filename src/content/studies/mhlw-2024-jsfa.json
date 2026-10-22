@@ -1,0 +1,14 @@
+{
+  "title": "第10版 食品添加物公定書 (Japan's Specifications and Standards for Food Additives, 10th edition)",
+  "authors": "Ministry of Health, Labour and Welfare; Consumer Affairs Agency",
+  "journal": "Ministry of Health, Labour and Welfare and Consumer Affairs Agency, Japan; Appendix 1, classification table of listed additives, and Section F, standards for use",
+  "year": 2024,
+  "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuten/kouteisho10e.html",
+  "design": "regulatory",
+  "funder": "Ministry of Health, Labour and Welfare and Consumer Affairs Agency, Japan; the compendium carries no funding statement.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Appendix 1 classifies L-ascorbic acid (Ｌ－アスコルビン酸, code FA001100) as a designated additive (指定), the category listed in Appended Table 1 of the Food Sanitation Act Enforcement Regulations; calcium and sodium L-ascorbate, L-ascorbic acid 2-glucoside and the stearate and palmitate esters are also designated. Section F, standards for use, has entries for erythorbic acid and sodium erythorbate and none for L-ascorbic acid or its salts. Appendix 1 classifies グリセリン脂肪酸エステル (Glycerol Esters of Fatty Acids, code FA018600) as designated; the Section D monograph (https://www.mhlw.go.jp/content/11130500/001208483.pdf) defines it as esters of fatty acids with glycerol or polyglycerol and their derivatives, comprising glycerol fatty acid esters, glycerol acetic, lactic, citric, succinic and diacetyltartaric acid fatty acid esters, glycerol acetic acid esters, polyglycerol fatty acid esters and polyglycerol condensed ricinoleic acid esters.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.mhlw.go.jp/content/11130500/001206779.pdf"
+}

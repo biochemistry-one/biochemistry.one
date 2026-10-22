@@ -1,0 +1,18 @@
+{
+  "title": "Prevention of cardiovascular events with an antihypertensive regimen of amlodipine adding perindopril as required versus atenolol adding bendroflumethiazide as required, in the Anglo-Scandinavian Cardiac Outcomes Trial-Blood Pressure Lowering Arm (ASCOT-BPLA): a multicentre randomised controlled trial",
+  "authors": "Dahlof B, Sever PS, Poulter NR, Wedel H, Beevers DG, Caulfield M, et al.; ASCOT Investigators",
+  "journal": "Lancet",
+  "year": 2005,
+  "doi": "10.1016/S0140-6736(05)67185-1",
+  "pmid": "16154016",
+  "design": "rct",
+  "participants": 19257,
+  "followUp": "median 5.5 years; stopped prematurely; 106,153 patient-years accumulated",
+  "population": "Patients with hypertension aged 40 to 79 years with at least three other cardiovascular risk factors, in a multicentre trial",
+  "funder": "The funding statement of the 2005 report is behind a subscription. A later ASCOT publication in Open Heart states: the principal funding source for ASCOT was Pfizer, New York, NY, USA; additional funding was also provided by Servier Research Group, Paris, France, and Leo Laboratories, Copenhagen, Denmark. Industry funding sets the class to industry; whether the companies had any role in design, analysis or publication is not stated in a readable source.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Amlodipine 5 to 10 mg adding perindopril 4 to 8 mg as required (n=9639) against atenolol 50 to 100 mg adding bendroflumethiazide 1.25 to 2.5 mg and potassium as required (n=9618), by intention to treat. With the amlodipine-based regimen against the atenolol-based regimen: the primary endpoint of non-fatal myocardial infarction, including silent infarction, and fatal coronary heart disease occurred in 429 against 474 participants (unadjusted hazard ratio 0.90, 95% CI 0.79 to 1.02, p=0.1052); fatal and non-fatal stroke in 327 against 422 (0.77, 0.66 to 0.89, p=0.0003); total cardiovascular events and procedures in 1362 against 1602 (0.84, 0.78 to 0.90, p<0.0001); all-cause mortality in 738 against 820 (0.89, 0.81 to 0.99, p=0.025); and new-onset diabetes in 567 against 799 (0.70, 0.63 to 0.78, p<0.0001).",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11795408/"
+}

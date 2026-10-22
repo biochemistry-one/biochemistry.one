@@ -1,0 +1,35 @@
+{
+  "title": "Harnstoffzyklus",
+  "layout": "cycle",
+  "compartment": "Leber; OTC in der mitochondrialen Matrix; ASS1, ASL und ARG1 im Zytosol",
+  "steps": [
+    {
+      "from": "Ornithin",
+      "to": "Citrullin",
+      "enzyme": "Ornithin-Transcarbamylase (OTC)",
+      "cofactors": ["Carbamoylphosphat"],
+      "note": "Matrix; die durch N-Acetylglutamat aktivierte CPS1 bildet Carbamoylphosphat"
+    },
+    {
+      "from": "Citrullin",
+      "to": "Argininosuccinat",
+      "enzyme": "Argininosuccinat-Synthase 1 (ASS1)",
+      "cofactors": ["Aspartat", "ATP"],
+      "note": "Zytosol; Citrullin verlässt die Matrix über ORNT1; ATP zu AMP und Diphosphat"
+    },
+    {
+      "from": "Argininosuccinat",
+      "to": "Arginin",
+      "enzyme": "Argininosuccinat-Lyase (ASL)",
+      "reversible": true,
+      "note": "Setzt Fumarat frei, das den Harnstoffzyklus mit dem Citratzyklus verknüpft"
+    },
+    {
+      "from": "Arginin",
+      "to": "Ornithin",
+      "enzyme": "Arginase 1 (ARG1)",
+      "cofactors": ["H2O", "Mn2+ (2 je Untereinheit)"],
+      "note": "Setzt Harnstoff frei; Ornithin kehrt über ORNT1 (SLC25A15) in die Matrix zurück"
+    }
+  ]
+}

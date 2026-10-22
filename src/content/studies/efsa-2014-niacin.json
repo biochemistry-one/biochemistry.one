@@ -1,0 +1,14 @@
+{
+  "title": "Scientific Opinion on Dietary Reference Values for niacin",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA)",
+  "journal": "EFSA Journal",
+  "year": 2014,
+  "doi": "10.2903/j.efsa.2014.3759",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (question EFSA-Q-2011-01218).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Niacin (nicotinic acid and nicotinamide) is the precursor of the coenzymes NAD and NADP; many dehydrogenases use NAD or NADP or both, and NAD also takes part in non-redox ADP-ribose transfer reactions. About 60 mg of tryptophan yields 1 mg of niacin. Long-term inadequate intake of tryptophan and niacin can lead to pellagra, with photosensitive dermatitis, tongue and mouth soreness, vomiting, diarrhoea, depression and dementia; untreated pellagra results in death from multiorgan failure.",
+  "class": "regulatory",
+  "fundingChecked": "https://web.archive.org/web/20241214041419/https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2014.3759"
+}

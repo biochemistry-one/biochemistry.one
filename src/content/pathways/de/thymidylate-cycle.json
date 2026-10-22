@@ -1,0 +1,33 @@
+{
+  "title": "Thymidylatzyklus",
+  "layout": "cycle",
+  "compartment": "Zytosol, Zellkern und Mitochondrien",
+  "steps": [
+    {
+      "from": "Tetrahydrofolat (THF)",
+      "to": "5,10-Methylen-THF",
+      "enzyme": "Serin-Hydroxymethyltransferase (SHMT1, SHMT2)",
+      "cofactors": ["L-Serin → Glycin", "Pyridoxal-5′-Phosphat"],
+      "reversible": true
+    },
+    {
+      "from": "5,10-Methylen-THF",
+      "to": "Dihydrofolat (DHF)",
+      "enzyme": "Thymidylatsynthase (TYMS)",
+      "cofactors": ["dUMP → dTMP"],
+      "inhibitors": [
+        {"name": "Fluorouracil", "page": "medicines/fluorouracil"},
+        {"name": "Pemetrexed", "page": "medicines/pemetrexed"}
+      ],
+      "note": "Folat liefert das C-Atom und zwei Elektronen, die es zur Methylgruppe reduzieren"
+    },
+    {
+      "from": "Dihydrofolat (DHF)",
+      "to": "Tetrahydrofolat (THF)",
+      "enzyme": "Dihydrofolatreduktase (DHFR)",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "Methotrexat", "page": "medicines/methotrexate"}],
+      "note": "Reduziert auch Folsäure zu DHF, in der menschlichen Leber langsam"
+    }
+  ]
+}

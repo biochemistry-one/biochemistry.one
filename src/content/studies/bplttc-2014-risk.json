@@ -1,0 +1,18 @@
+{
+  "title": "Blood pressure-lowering treatment based on cardiovascular risk: a meta-analysis of individual patient data",
+  "authors": "Blood Pressure Lowering Treatment Trialists' Collaboration",
+  "journal": "Lancet",
+  "year": 2014,
+  "doi": "10.1016/S0140-6736(14)61212-5",
+  "pmid": "25131978",
+  "design": "meta-analysis",
+  "participants": 51917,
+  "followUp": "median 4.0 years (IQR 3.4 to 4.4)",
+  "population": "Individual participant data from 11 trials (26 randomised groups, 67,475 individuals) of blood-pressure-lowering drugs against placebo or of more against less intensive regimens; 51,917 with data for the risk equations, grouped by predicted 5-year cardiovascular risk (<11%, 11 to 15%, 15 to 21%, >21%)",
+  "funder": "Funding: None (as stated in the published summary; the full text with the role and declaration sections is behind a subscription).",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "4167 participants (8%) had a cardiovascular event. Mean predicted 5-year risks in the four groups were 6.0%, 12.1%, 17.7% and 26.8%. Relative reductions in cardiovascular events were 18% (95% CI 7 to 27), 15% (4 to 25), 13% (2 to 22) and 15% (5 to 24) (p for trend 0.30). Treating 1000 patients for 5 years would prevent 14 (8 to 21), 20 (8 to 31), 24 (8 to 40) and 38 (16 to 61) cardiovascular events respectively (p for trend 0.04).",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20220926041543/https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61212-5/fulltext"
+}

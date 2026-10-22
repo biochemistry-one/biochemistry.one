@@ -1,0 +1,30 @@
+{
+  "title": "叶酸循环的甲基分支",
+  "layout": "cycle",
+  "compartment": "胞质溶胶",
+  "steps": [
+    {
+      "from": "四氢叶酸（THF）",
+      "to": "5,10-亚甲基-THF",
+      "enzyme": "丝氨酸羟甲基转移酶1（SHMT1）",
+      "cofactors": ["L-丝氨酸→甘氨酸", "5′-磷酸吡哆醛"],
+      "reversible": true,
+      "note": "SHMT2在线粒体中催化同一反应"
+    },
+    {
+      "from": "5,10-亚甲基-THF",
+      "to": "5-甲基-THF",
+      "enzyme": "亚甲基四氢叶酸还原酶（MTHFR）",
+      "cofactors": ["NADPH", "FAD"],
+      "note": "体内不可逆；受SAM抑制；Ala222Val（677C>T）变异型丢失FAD更快"
+    },
+    {
+      "from": "5-甲基-THF",
+      "to": "四氢叶酸（THF）",
+      "enzyme": "甲硫氨酸合酶（MTR）",
+      "cofactors": ["同型半胱氨酸→甲硫氨酸", "甲基钴胺素"],
+      "inhibitors": [{"name": "氧化亚氮", "page": "medicines/nitrous-oxide"}],
+      "note": "5-甲基-THF的唯一去路；维生素B12缺乏时减慢（甲基叶酸陷阱）"
+    }
+  ]
+}

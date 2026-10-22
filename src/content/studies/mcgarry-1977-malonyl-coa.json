@@ -1,0 +1,16 @@
+{
+  "title": "A possible role for malonyl-CoA in the regulation of hepatic fatty acid oxidation and ketogenesis",
+  "authors": "McGarry JD, Mannaerts GP, Foster DW",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1977,
+  "doi": "10.1172/JCI108764",
+  "pmid": "874089",
+  "design": "in-vitro",
+  "population": "Liver homogenates and mitochondrial fractions from fed and fasted rats",
+  "funder": "This work was supported by U. S. Public Health Service grant AM-18573 and training grant CA 05200. J. D. McGarry held Research Career Development Award I-KO4-AM0763; G. P. Mannaerts held Fogarty International Fellowship I-FOS-TW223401.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Malonyl-CoA inhibited ketogenesis from oleic acid but not from octanoic acid; the site of inhibition appeared to be the carnitine acyltransferase I reaction. The effect was specific and easily reversible, and inhibitory concentrations were in the range reported by others in livers of fed rats. The authors proposed that malonyl-CoA is both precursor of fatty acid synthesis and suppressor of fatty acid oxidation.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/108764/version/1/pdf/render.pdf"
+}

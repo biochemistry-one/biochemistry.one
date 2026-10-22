@@ -1,0 +1,17 @@
+{
+  "title": "Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement",
+  "authors": "US Preventive Services Task Force, Mangione CM, Barry MJ, Nicholson WK, Cabana M, Chelmow D, et al.",
+  "journal": "JAMA",
+  "year": 2022,
+  "doi": "10.1001/jama.2022.13044",
+  "pmid": "35997723",
+  "design": "guideline",
+  "population": "Adults 40 years or older without known cardiovascular disease or its signs and symptoms",
+  "funder": "The USPSTF is an independent, voluntary body. The US Congress mandates that the Agency for Healthcare Research and Quality (AHRQ) support the operations of the USPSTF. AHRQ staff assisted in developing the research plan, commissioning the evidence review, coordinating review and public comment, and writing and preparing the statement; they had no role in approving the final statement or in the decision to submit it.",
+  "funderRole": "several",
+  "authorConflicts": "All members of the USPSTF receive travel reimbursement and an honorarium for participating in USPSTF meetings.",
+  "dataAccess": "summary",
+  "result": "The USPSTF recommends that clinicians prescribe a statin for primary prevention of cardiovascular disease to adults aged 40 to 75 years with one or more risk factors (dyslipidaemia, diabetes, hypertension or smoking) and an estimated 10-year cardiovascular risk of 10% or greater (B recommendation), and selectively offer one at an estimated 10-year risk of 7.5% to less than 10% (C recommendation). The evidence is insufficient to assess the balance of benefits and harms of initiating a statin for primary prevention in adults 76 years or older (I statement).",
+  "class": "consensus",
+  "fundingChecked": "http://web.archive.org/web/20220831033323/https://jamanetwork.com/journals/jama/fullarticle/2795521"
+}

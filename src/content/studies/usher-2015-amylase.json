@@ -1,0 +1,18 @@
+{
+  "title": "Structural forms of the human amylase locus and their relationships to SNPs, haplotypes and obesity",
+  "authors": "Usher CL, Handsaker RE, Esko T, Tuke MA, Weedon MN, Hastie AR, et al.",
+  "journal": "Nature Genetics",
+  "year": 2015,
+  "doi": "10.1038/ng.3340",
+  "pmid": "26098870",
+  "design": "genetic",
+  "participants": 4464,
+  "population": "1,000 Estonians from the BMI extremes of a 51,535-person biobank cohort (500 with BMI below 22, 500 above 33); 2,807 GoT2D and 657 InCHIANTI participants",
+  "funder": "National Human Genome Research Institute (R01 HG006855); Estonian Ministry of Science and Education (SF0180142s08), Development Fund of the University of Tartu (SP1GVARENG), European Regional Development Fund (3.2.0304.11-0312) and FP7 grant 313010; US National Institutes of Health (R01 DK075787, DK062370); European Research Council (FP7 SZ-50371-GLUCOSEGENES); Wellcome Trust Institutional Strategic Support Award (WT097835MF).",
+  "funderRole": "none",
+  "authorConflicts": "Two authors, who performed the nanochannel-based genome mapping, are employees of BioNano Genomics Inc. and own company stock options.",
+  "dataAccess": "summary",
+  "result": "AMY1 copy number varied from 2 to 17 and was generally even. Copy number measured by droplet digital PCR in 1,000 Estonians showed no association with obesity (P = 0.70 for AMY1), with more than 99% power to detect the previously reported effect; in 3,464 further Europeans AMY1 copy number did not associate with BMI (meta-analysis P = 0.38).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4712930/"
+}

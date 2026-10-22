@@ -1,0 +1,14 @@
+{
+  "title": "FDA requests removal of suicidal behavior and ideation warning from glucagon-like peptide-1 receptor agonist (GLP-1 RA) medications",
+  "authors": "US Food and Drug Administration",
+  "journal": "US Food and Drug Administration, Drug Safety Communication, 13 January 2026",
+  "year": 2026,
+  "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-requests-removal-suicidal-behavior-and-ideation-warning-glucagon-peptide-1-receptor-agonist-glp",
+  "design": "regulatory",
+  "funder": "US Food and Drug Administration",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "FDA requested removal of suicidal ideation and behaviour information from the labels of Saxenda, Wegovy and Zepbound after a review that found no increased risk. The earlier label information was based on reports with a variety of older weight-loss medicines. Because the January 2024 review found too few cases in individual trials for a precise estimate, FDA performed a meta-analysis of 91 placebo-controlled GLP-1 receptor agonist trials with 107,910 patients (60,338 on a GLP-1 receptor agonist, 47,572 on placebo), which did not show an increased risk of suicidal ideation or behaviour or of anxiety, depression, irritability or psychosis. A Sentinel claims cohort of 2,243,138 adults with type 2 diabetes (1,161,983 starting a GLP-1 receptor agonist, 1,081,155 an SGLT2 inhibitor; October 2015 to September 2023) found no increased risk of intentional self-harm, including in those with obesity. FDA concluded that the totality of published observational and pooled studies does not support a causal relationship. The communication reports no hazard ratios or confidence intervals.",
+  "class": "regulatory",
+  "fundingChecked": "http://web.archive.org/web/20260310180648/https://www.fda.gov/drugs/drug-safety-and-availability/fda-requests-removal-suicidal-behavior-and-ideation-warning-glucagon-peptide-1-receptor-agonist-glp"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Withdrawal of antihypertensive drugs in older people",
+  "authors": "Gnjidic D, Langford AV, Jordan V, Sawan M, Sheppard JP, Thompson W, et al.",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2025,
+  "doi": "10.1002/14651858.CD012572.pub3",
+  "pmid": "40162571",
+  "design": "meta-analysis",
+  "participants": 1073,
+  "followUp": "4 to 56 weeks",
+  "population": "Six randomised trials of withdrawal or dose reduction against continuation of antihypertensive drugs used for hypertension or primary prevention in adults aged 50 or over; mean ages 58 to 82 years; search to October 2022",
+  "funder": "Sources of support, read on the PubMed Central article page: internal sources, Faculty of Pharmacy and Pharmaceutical Sciences, Monash University; School of Pharmacy, University of Sydney; Royal North Shore Hospital, University of Sydney; Department of Obstetrics and Gynaecology, University of Auckland; Department of Epidemiology and Preventive Medicine, Monash University. External sources: National Health and Medical Research Council (NHMRC) Investigator Grant fellowship for Emily Reeve (GNT1195460); NHMRC-Australian Research Council Dementia Research Leadership Fellowship for Danijela Gnjidic; Wellcome Trust/Royal Society Sir Henry Dale Fellowship for James Sheppard (211182/Z/18/Z/WT).",
+  "funderRole": "unknown",
+  "authorConflicts": "Langford is an executive committee member and Reeve chair of the Australian Deprescribing Network; Reeve receives royalties from UpToDate for a chapter on deprescribing; Sheppard holds government and charity funding for antihypertensive deprescribing trials and took no part in decisions on his own trials; the others declare nothing.",
+  "dataAccess": "summary",
+  "result": "Discontinuation against continuation: all-cause mortality OR 2.08 (95% CI 0.79 to 5.46; 4 studies, 630 participants; low certainty), myocardial infarction 1.86 (0.19 to 17.98; very low certainty), hospitalisation 0.83 (0.33 to 2.10; 1 study, 385), stroke 1.44 (0.25 to 8.35; 3 studies, 524); systolic pressure 9.75 mm Hg higher (7.33 to 12.18) and diastolic 3.5 mm Hg higher. Adverse drug reactions could not be meta-analysed, withdrawal reactions were not assessed and no study reported falls. The authors conclude that firm conclusions cannot be drawn and call for trials in frail, older and polymedicated people measuring adverse drug events, falls and quality of life.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11956142/"
+}

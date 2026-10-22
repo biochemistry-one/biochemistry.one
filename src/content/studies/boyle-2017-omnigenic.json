@@ -1,0 +1,17 @@
+{
+  "title": "An Expanded View of Complex Traits: From Polygenic to Omnigenic",
+  "authors": "Boyle EA, Li YI, Pritchard JK",
+  "journal": "Cell",
+  "year": 2017,
+  "doi": "10.1016/j.cell.2017.05.038",
+  "pmid": "28622505",
+  "design": "other",
+  "population": "Published height GWAS summary statistics from the GIANT consortium, with replication effect sizes estimated in the Health and Retirement Study",
+  "funder": "This work was supported by RO1 HG008140, the National Science Foundation graduate research fellowship program and the Howard Hughes Medical Institute.",
+  "funderRole": "none",
+  "authorConflicts": "No statement in the PMC author manuscript.",
+  "dataAccess": "summary",
+  "result": "Perspective with new analysis. Fisher showed in 1918 that if many genes affect a trait, random sampling of alleles produces a continuous, normally distributed phenotype. Height illustrates the extreme polygenicity typical of many complex traits: across all SNPs genome-wide, the median SNP is associated with an effect of 0.14 mm on height, about one tenth of the median effect of genome-wide significant SNPs (1.43 mm). Under simplifying assumptions the authors estimate that more than 100,000 SNPs have independent causal effects on height. They propose an omnigenic model as a hypothesis.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240917201525/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5536862/"
+}

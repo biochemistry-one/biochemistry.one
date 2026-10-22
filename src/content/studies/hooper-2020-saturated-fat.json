@@ -1,0 +1,19 @@
+{
+  "title": "Reduction in saturated fat intake for cardiovascular disease",
+  "authors": "Hooper L, Martin N, Jimoh OF, Kirk C, Foster E, Abdelhamid AS",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2020,
+  "doi": "10.1002/14651858.CD011737.pub3",
+  "pmid": "32827219",
+  "design": "systematic-review",
+  "participants": 56675,
+  "followUp": "at least 24 months",
+  "population": "15 randomised trials (16 comparisons) aiming to reduce saturated fat intake, in adults with or without cardiovascular disease",
+  "funder": "Internal sources: University of East Anglia; University of Manchester. External sources: studentship, Systematic Reviews Training Unit, Institute of Child Health, University of London; the World Health Organization funded the most recent update.",
+  "funderRole": "none",
+  "authorConflicts": "Lee Hooper is a member of the WHO Nutrition Guidance Expert Advisory Group; WHO funded her institution for this update. No other conflicts declared.",
+  "dataAccess": "summary",
+  "result": "Reducing saturated fat: combined cardiovascular events RR 0.83 (95% CI 0.70 to 0.98; 12 trials, 53,758 participants); number needed to treat 56 over about four years in primary prevention and 53 in secondary prevention; all-cause mortality RR 0.96 (0.90 to 1.03). Subgroup replacing saturated fat with polyunsaturated fat: cardiovascular events RR 0.79 (0.62 to 1.00; 8 trials, 4353 participants); all-cause mortality RR 0.96 (0.82 to 1.13; 7 trials, 4238 participants). The Minnesota Coronary trial was excluded because mean follow-up was about one year.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8092457/"
+}

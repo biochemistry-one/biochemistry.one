@@ -1,0 +1,19 @@
+{
+  "title": "Cardiovascular effects of intensive lifestyle intervention in type 2 diabetes",
+  "authors": "Look AHEAD Research Group, Wing RR, Bolin P, Brancati FL, Bray GA, Clark JM, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2013,
+  "doi": "10.1056/NEJMoa1212914",
+  "pmid": "23796131",
+  "registry": "NCT00017953",
+  "design": "rct",
+  "participants": 5145,
+  "followUp": "median 9.6 years (interquartile range 8.9 to 10.3); planned maximum 13.5 years, stopped early for futility on 14 September 2012",
+  "population": "Overweight or obese adults aged 45 to 76 years with type 2 diabetes at 16 US centres, HbA1c below 11%, able to complete a maximal exercise test; insulin users limited to under 30% of participants",
+  "funder": "The study was sponsored by the National Institutes of Health with additional support from other federal partners and the clinical research centres of participating institutions. Major contributions were provided by the FedEx Corporation, Health Management Resources, LifeScan Inc (a Johnson & Johnson company), Nestle HealthCare Nutrition Inc, Hoffmann-La Roche Inc, Abbott Nutrition and Unilever North America; the paper states that none of the corporate sponsors had any role in the trial design, data analysis or reporting of results.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "Participants were randomised to an intensive lifestyle intervention aiming at 7% weight loss through a calorie goal of 1200 to 1800 kcal/day, meal replacements and at least 175 minutes of moderate activity weekly, or to diabetes support and education. Weight loss was greater in the intervention group throughout: 8.6% against 0.7% at one year and 6.0% against 3.5% at the end of the study. The intervention also produced greater reductions in HbA1c and greater initial improvements in fitness and all cardiovascular risk factors except LDL cholesterol. The primary composite outcome of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke or hospitalised angina occurred in 403 of 2570 intervention participants and 418 of 2575 control participants, 1.83 against 1.92 events per 100 person-years (hazard ratio 0.95, 95% CI 0.83 to 1.09, p = 0.505), with no significant differences in the prespecified secondary composite outcomes, in any individual component or across prespecified subgroups. The trial was designed with more than 80% power to detect an 18% difference assuming a control event rate of 2% per year; at termination the probability of a significant positive result at the planned end of follow-up, assuming a true hazard ratio of 0.82, was estimated at 1%. Fewer than 4% of participants were lost to follow-up.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3791615"
+}

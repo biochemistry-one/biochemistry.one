@@ -1,0 +1,19 @@
+{
+  "title": "Association of Coffee Drinking With Mortality by Genetic Variation in Caffeine Metabolism: Findings From the UK Biobank",
+  "authors": "Loftfield E, Cornelis MC, Caporaso N, Yu K, Sinha R, Freedman N",
+  "journal": "JAMA Internal Medicine",
+  "year": 2018,
+  "doi": "10.1001/jamainternmed.2018.2425",
+  "pmid": "29971434",
+  "design": "cohort",
+  "participants": 498134,
+  "followUp": "up to 10 years (median 7 years), 3.4 million person-years, 2006 to 2016",
+  "population": "UK Biobank participants aged 38 to 73 years (mean 57), 54% women, 78% coffee drinkers; genetic data for 403,816",
+  "funder": "UK Biobank resource (established by the Wellcome Trust, the Medical Research Council, the UK Department of Health and the Scottish Government, with funding from the Welsh Assembly Government, the British Heart Foundation and Diabetes UK); Intramural Research Program of the NIH, Division of Cancer Epidemiology and Genetics, National Cancer Institute; Department of Health and Human Services.",
+  "funderRole": "none",
+  "authorConflicts": "None reported.",
+  "dataAccess": "individual",
+  "result": "14,225 deaths occurred. Against non-coffee drinkers, multivariable-adjusted hazard ratios for all-cause mortality were 0.94 (95% CI 0.88 to 1.01) for less than 1 cup a day, 0.92 (0.87 to 0.97) for 1, 0.88 (0.84 to 0.93) for 2 to 3, 0.88 (0.83 to 0.93) for 4 to 5, 0.84 (0.77 to 0.92) for 6 to 7 and 0.86 (0.77 to 0.95) for 8 or more cups a day. Similar associations were observed for instant, ground and decaffeinated coffee and regardless of genetic caffeine metabolism scores built from variants near AHR, CYP1A2, CYP2A6 and POR; for 6 or more cups a day hazard ratios across score strata ranged from 0.70 (0.53 to 0.94) to 0.92 (0.78 to 1.10), P = 0.17 for heterogeneity. Adjustment for detailed smoking history had the largest effect on estimates; participation was about 5.5%.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20200217210013/https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2686145"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "ACMG Practice Guideline: lack of evidence for MTHFR polymorphism testing",
+  "authors": "Hickey SE, Curry CJ, Toriello HV",
+  "journal": "Genetics in Medicine",
+  "year": 2013,
+  "doi": "10.1038/gim.2012.165",
+  "pmid": "23288205",
+  "design": "guideline",
+  "funder": "not stated; practice guideline of the American College of Medical Genetics and Genomics.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare no conflict of interest.",
+  "dataAccess": "summary",
+  "result": "More than 25% of Hispanics and 10 to 15% of North American Caucasians are homozygous for the thermolabile c.665C>T (677C>T) variant; c.1286A>C (1298A>C) is milder, and the two are in linkage disequilibrium. Women homozygous for 677C>T should be counselled that they have a modestly increased risk (odds ratio 1.6) of offspring with a neural tube defect, further increased if the fetus is also homozygous. Heterozygosity for 677C>T, homozygosity for 1298A>C and compound heterozygosity appear unlikely to be of clinical significance. There is no evidence that specific treatments reduce risks associated with hyperhomocysteinaemia or MTHFR genotype; an at-risk individual may elect a daily multivitamin or prenatal vitamin. Fortification has raised serum folate and lowered homocysteine and may incidentally reduce risks attributed to the variant. Reaffirmed by the ACMG Board on 27 April 2020 and reclassified as a Clinical Practice Resource because it no longer met the criteria for an evidence-based guideline (Genet Med 2020;22:2125).",
+  "class": "consensus",
+  "fundingChecked": "https://www.nature.com/articles/gim2012165"
+}

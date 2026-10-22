@@ -1,0 +1,94 @@
+{
+  "title": "Vía del mevalonato",
+  "layout": "chain",
+  "compartment": "Citosol y retículo endoplasmático",
+  "steps": [
+    {
+      "from": "Acetil-CoA",
+      "to": "Acetoacetil-CoA",
+      "enzyme": "Acetil-CoA acetiltransferasa 2 (ACAT2)",
+      "reversible": true,
+      "note": "Condensa dos moléculas de acetil-CoA y libera CoA"
+    },
+    {
+      "from": "Acetoacetil-CoA",
+      "to": "HMG-CoA",
+      "enzyme": "HMG-CoA sintasa 1 (HMGCS1)",
+      "cofactors": ["Acetil-CoA", "H2O"],
+      "note": "Añade una tercera unidad de acetilo y libera CoA"
+    },
+    {
+      "from": "HMG-CoA",
+      "to": "Mevalonato",
+      "enzyme": "HMG-CoA reductasa (HMGCR)",
+      "cofactors": ["2 NADPH"],
+      "inhibitors": [{"name": "Estatinas", "page": "medicines/statins"}],
+      "note": "Paso limitante de la velocidad; enzima de la membrana del RE; libera CoA"
+    },
+    {
+      "from": "Mevalonato",
+      "to": "Mevalonato 5-fosfato",
+      "enzyme": "Mevalonato cinasa (MVK)",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "Mevalonato 5-fosfato",
+      "to": "Mevalonato 5-difosfato",
+      "enzyme": "Fosfomevalonato cinasa (PMVK)",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "Mevalonato 5-difosfato",
+      "to": "Isopentenil difosfato",
+      "enzyme": "Difosfomevalonato descarboxilasa (MVD)",
+      "cofactors": ["ATP"],
+      "note": "Libera CO2 y fosfato; el producto es la unidad isoprenoide C5"
+    },
+    {
+      "from": "Isopentenil difosfato",
+      "to": "Dimetilalil difosfato",
+      "enzyme": "Isopentenil difosfato isomerasa 1 (IDI1)",
+      "reversible": true
+    },
+    {
+      "from": "Dimetilalil difosfato",
+      "to": "Geranil difosfato",
+      "enzyme": "Farnesil difosfato sintasa (FDPS)",
+      "cofactors": ["Isopentenil difosfato"],
+      "note": "Añade una unidad C5 y libera difosfato"
+    },
+    {
+      "from": "Geranil difosfato",
+      "to": "Farnesil difosfato",
+      "enzyme": "Farnesil difosfato sintasa (FDPS)",
+      "cofactors": ["Isopentenil difosfato"],
+      "note": "Punto de ramificación hacia ubiquinona, dolicol, hemo A y proteínas preniladas"
+    },
+    {
+      "from": "Farnesil difosfato",
+      "to": "Escualeno",
+      "enzyme": "Escualeno sintasa (FDFT1)",
+      "cofactors": ["NADPH"],
+      "note": "Une dos moléculas de farnesil difosfato a través del preescualeno difosfato"
+    },
+    {
+      "from": "Escualeno",
+      "to": "(S)-2,3-Epoxiescualeno",
+      "enzyme": "Escualeno monooxigenasa (SQLE)",
+      "cofactors": ["O2", "NADPH a través de la citocromo P450 oxidorreductasa (POR)", "FAD"],
+      "note": "También se considera limitante de la síntesis de esteroles"
+    },
+    {
+      "from": "(S)-2,3-Epoxiescualeno",
+      "to": "Lanosterol",
+      "enzyme": "Lanosterol sintasa (LSS)",
+      "note": "La ciclación da lugar al primer esterol"
+    },
+    {
+      "from": "Lanosterol",
+      "to": "Colesterol",
+      "enzyme": "varios pasos",
+      "note": "Vía de Bloch o de Kandutsch-Russell modificada; de CYP51A1 a DHCR24 o DHCR7"
+    }
+  ]
+}

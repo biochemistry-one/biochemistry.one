@@ -1,0 +1,44 @@
+{
+  "title": "Síntesis de butirato por las bacterias del colon (vía del acetil-CoA)",
+  "layout": "chain",
+  "compartment": "Luz del colon; citosol de las bacterias productoras de butirato",
+  "steps": [
+    {
+      "from": "Polisacáridos fermentables",
+      "to": "Acetil-CoA",
+      "enzyme": "varios pasos",
+      "note": "Almidón, xilano y otros polisacáridos no digeridos; a través del piruvato"
+    },
+    {
+      "from": "Acetil-CoA",
+      "to": "Acetoacetil-CoA",
+      "enzyme": "Tiolasa (Thl)",
+      "cofactors": ["Acetil-CoA"],
+      "note": "Condensa dos acetil-CoA y libera CoA"
+    },
+    {
+      "from": "Acetoacetil-CoA",
+      "to": "3-Hidroxibutiril-CoA",
+      "enzyme": "β-Hidroxibutiril-CoA deshidrogenasa (Hbd)"
+    },
+    {
+      "from": "3-Hidroxibutiril-CoA",
+      "to": "Crotonil-CoA",
+      "enzyme": "Crotonasa (Cro)"
+    },
+    {
+      "from": "Crotonil-CoA",
+      "to": "Butiril-CoA",
+      "enzyme": "Complejo de la butiril-CoA deshidrogenasa y la flavoproteína de transferencia de electrones (Bcd-Etfαβ)",
+      "cofactors": ["Ferredoxina"],
+      "note": "Común a las cuatro vías de síntesis de butirato; se postula que conserva energía"
+    },
+    {
+      "from": "Butiril-CoA",
+      "to": "Butirato",
+      "enzyme": "Butiril-CoA:acetato CoA-transferasa (But)",
+      "cofactors": ["Acetato → acetil-CoA"],
+      "note": "Alternativa: fosfato butiriltransferasa (Ptb) y butirato cinasa (Buk)"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Effect of dietary sources of calcium and protein on hip fractures and falls in older adults in residential care: cluster randomised controlled trial",
+  "authors": "Iuliano S, Poon S, Robbins J, Bui M, Wang X, De Groot L, et al.",
+  "journal": "BMJ",
+  "year": 2021,
+  "doi": "10.1136/bmj.n2364",
+  "pmid": "34670754",
+  "registry": "ACTRN12613000228785",
+  "design": "rct",
+  "participants": 7195,
+  "followUp": "2 years; mean 12.6 months per resident",
+  "population": "Permanent residents of 60 accredited aged-care facilities in Melbourne and regional Victoria, Australia; mean age 86 years, 68% women, vitamin D replete",
+  "funder": "Grants from Dairy Australia (TP 701722), California Dairy Research Foundation, National Dairy Council, Aarhus University Hospital and Danish Dairy Research Foundation, Fonterra Co-operative Group Ltd, Dutch Dairy Association, Dairy Council of California, Dairy Farmers of Canada, Centre national interprofessionnel de l'economie laitiere, University of Melbourne, Austin Hospital Medical Research Foundation and Sir Edward Dunlop Medical Research Foundation. The funding groups played no role in design, execution, analyses, interpretation, writing or any other aspect of the study.",
+  "funderRole": "none",
+  "inKindSupport": "Dairy foods provided in kind by Fonterra International (New Zealand).",
+  "authorConflicts": "SI has received lecture fees from Abbott; TVN and ES report research support or fees from Amgen, MSD, Novartis, Eli Lilly and Allergan; ES is a consultant for and shareholder of StraxCorp.",
+  "dataAccess": "individual",
+  "result": "Cluster randomised by facility. Additional milk, yoghurt and cheese supplied 562 mg calcium and 12 g protein per day (dairy 2.0 to 3.5 servings/day). Fractures 121 (3.7%) intervention versus 203 (5.2%) control, HR 0.67 (95% CI 0.48 to 0.93); hip fractures, post hoc, 42 (1.3%) versus 93 (2.4%), HR 0.54 (0.35 to 0.83); falls 57% versus 62%, HR 0.89 (0.78 to 0.98); deaths 27% versus 28%, HR 1.01 (0.43 to 3.08). Numbers needed to treat: 52 for any fracture, 82 for hip fracture. Serum IGF-1 rose 5.9% with the intervention; between-group difference 7.9%.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8527562/"
+}

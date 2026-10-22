@@ -1,0 +1,19 @@
+{
+  "title": "Association of thyroid hormone therapy with quality of life and thyroid-related symptoms in patients with subclinical hypothyroidism: a systematic review and meta-analysis",
+  "authors": "Feller M, Snel M, Moutzouri E, Bauer DC, de Montmollin M, Aujesky D, et al.",
+  "journal": "JAMA",
+  "year": 2018,
+  "doi": "10.1001/jama.2018.13770",
+  "pmid": "30285179",
+  "design": "meta-analysis",
+  "participants": 2192,
+  "followUp": "3 to 18 months",
+  "population": "21 randomised trials in non-pregnant adults with subclinical hypothyroidism",
+  "funder": "The Swiss National Science Foundation funded this study (grant SNSF 320030_172676 to Dr Rodondi). The funding source had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; or decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Dr Quinn was an investigator on an included trial funded by the European Union 7th Framework Program and on a trial in which the study drug was provided by Merck; Dr Stott received a research grant from the European Union 7th Framework Program.",
+  "dataAccess": "summary",
+  "result": "Thyroid hormone lowered mean TSH into the reference range (0.5 to 3.7 against 4.6 to 14.7 mIU/l on placebo) but was not associated with benefit in general quality of life (n = 796; standardised mean difference -0.11, 95% CI -0.25 to 0.03) or thyroid-related symptoms (n = 858; SMD 0.01, -0.12 to 0.14). Risk of bias low; GRADE quality moderate to high.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6233842/"
+}

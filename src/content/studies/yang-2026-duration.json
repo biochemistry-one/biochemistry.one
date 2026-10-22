@@ -1,0 +1,19 @@
+{
+  "title": "A meta-analysis of the long-term effects of antihypertensive therapy on the risk of major cardiovascular disease across 51 randomized trials",
+  "authors": "Yang Q, Bidel Z, Canoy D, Zeng G, Cushman WC, Rodgers A, et al.",
+  "journal": "Nature Medicine",
+  "year": 2026,
+  "doi": "10.1038/s41591-026-04514-3",
+  "pmid": "42387214",
+  "design": "meta-analysis",
+  "participants": 357314,
+  "followUp": "median 4.2 years (interquartile interval 3.0 to 5.0)",
+  "population": "Participants of 51 randomised trials of blood-pressure-lowering treatment held in the Blood Pressure Lowering Treatment Trialists' Collaboration, excluding those with heart failure at baseline; mean age about 65 years, mean baseline blood pressure about 152/87 mm Hg",
+  "funder": "British Heart Foundation (FS/19/36/34346). The funder had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript. The acknowledgements add: this study used data from a trial supported by Boehringer Ingelheim; Boehringer Ingelheim had no role in the design, analysis or interpretation of the results; however, they were allowed to review the paper for medical and scientific accuracy regarding Boehringer Ingelheim substances and for intellectual property considerations. That pre-publication review is an industry role in publication, so the class is industry.",
+  "funderRole": "publication",
+  "authorConflicts": "Rahimi reports grants from the British Heart Foundation, the Horizon Europe AI4HF consortium, the Novo Nordisk Oxford Big Data Partnership, the University of Oxford and UKRI, consulting fees from Medtronic CRDN and honoraria from Heart, PLoS Medicine, AstraZeneca MEA Region, Medscape and WebMD Medscape UK; Nazarzadeh reports honoraria from AstraZeneca, Nemysis, Albus Health and BMJ Publishing Group; Woodward reports personal fees from Amgen, Kyowa Kirin and Freeline; Cushman reports consulting fees from Alnylam, Idorsia and Azurity and a grant from George Medicines; further declarations are listed in the paper.",
+  "dataAccess": "individual",
+  "result": "Annual incidence of major adverse cardiovascular events was highest in the first year, 3.0% with treatment against 3.6% in controls. Standardised to a 5 mm Hg lower systolic blood pressure, the hazard ratio for major adverse cardiovascular events was 0.88 (95% CI 0.84 to 0.91) in year 1, 0.88 (0.85 to 0.92) in years 1 to 2, 0.94 (0.90 to 0.98) in years 2 to 3, 0.87 (0.83 to 0.92) in years 3 to 4, 0.97 (0.91 to 1.03) in years 4 to 5 and 0.94 (0.87 to 1.01) after 5 years (p for trend 0.006), so relative benefits appeared early and did not compound. Cumulative absolute risk reduction for major adverse cardiovascular events rose from 0.30% (0.20 to 0.40) at 1 year, a number needed to treat of 337, to 1.25% (0.94 to 1.57) at 5 years, a number needed to treat of 80; for stroke it rose from 0.07% (0.02 to 0.12) to 0.52% (0.36 to 0.68), numbers needed to treat 1535 and 192. In an individual-participant network meta-analysis of 34 trials across angiotensin-converting enzyme inhibitors, angiotensin II receptor blockers, beta blockers, calcium channel blockers and thiazide diuretics, no class showed compounding benefit for major adverse cardiovascular events (all p for trend above 0.05); heart failure prevention diminished over time with calcium channel blockers (p for trend 0.010) and with thiazide diuretics, whose first-year hazard ratio was 0.40 (0.30 to 0.54, p for trend 0.034).",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13472958/"
+}

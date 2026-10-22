@@ -1,0 +1,19 @@
+{
+  "title": "GLP-1 receptor agonists and the risk of thyroid cancer",
+  "authors": "Bezin J, Gouverneur A, Pénichon M, Mathieu C, Garrel R, Hillaire-Buys D, et al.",
+  "journal": "Diabetes Care",
+  "year": 2023,
+  "doi": "10.2337/dc22-1148",
+  "pmid": "36356111",
+  "design": "case-control",
+  "participants": 47746,
+  "followUp": "exposure measured over 6 years before a 6-month lag; cancers identified 2014 to 2018",
+  "population": "Nested case-control analysis in the French national health insurance database (SNDS) of people with type 2 diabetes on second-line antidiabetic drugs from 2006 to 2018: 2562 thyroid cancer cases matched to 45,184 controls",
+  "funder": "This work was supported by the French Medicines Agency (Agence Nationale de Sécurité du Médicament et des Produits de Santé, ANSM, grant 2019S015) in the context of a partnership with the Health Product Epidemiology Scientific Interest Group (EPI-PHARE), as part of the DRUGS-SAFER research programme. The French Medicines Agency played no role in the study design or conduct or results interpretation or discussion.",
+  "funderRole": "none",
+  "authorConflicts": "All authors declare support from the French Medicines Agency for the submitted work; no other potential conflicts of interest were reported.",
+  "dataAccess": "summary",
+  "result": "Use of GLP-1 receptor agonists for 1 to 3 years was associated with increased risk of all thyroid cancer (adjusted hazard ratio 1.58, 95% CI 1.27 to 1.95) and medullary thyroid cancer (1.78, 1.04 to 3.05). This study prompted the EMA signal assessment.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250807145638/https://diabetesjournals.org/care/article/46/2/384/147888/GLP-1-Receptor-Agonists-and-the-Risk-of-Thyroid"
+}

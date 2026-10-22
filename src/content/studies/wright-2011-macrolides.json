@@ -1,0 +1,19 @@
+{
+  "title": "The risk of hypotension following co-prescription of macrolide antibiotics and calcium-channel blockers",
+  "authors": "Wright AJ, Gomes T, Mamdani MM, Horn JR, Juurlink DN",
+  "journal": "CMAJ",
+  "year": 2011,
+  "doi": "10.1503/cmaj.100702",
+  "pmid": "21242274",
+  "design": "case-control",
+  "participants": 7100,
+  "followUp": "prescriptions between 1 April 1994 and 31 March 2009",
+  "population": "Ontario residents aged 66 or older taking a single calcium channel blocker (verapamil, diltiazem, nifedipine, amlodipine or felodipine) and admitted to hospital for hypotension or shock; population-based nested case-crossover design comparing a 7-day risk interval with a 7-day control interval one month earlier",
+  "funder": "This study was supported by the Institute for Clinical Evaluative Sciences (ICES), which is funded by an annual grant from the Ontario Ministry of Health and Long-Term Care. The study was supported in part by the Ontario Drug Innovation Fund, which had no role in the design, analysis, conduct or reporting of the study.",
+  "funderRole": "none",
+  "authorConflicts": "Mamdani has worked as a consultant for Pfizer, Novartis and Jansen-Ortho; Horn has consulted for Merck Consumer Care and writes books on drug interactions.",
+  "dataAccess": "individual",
+  "result": "Of 7100 patients admitted with hypotension while taking a calcium channel blocker, 176 had a macrolide in the risk or control interval. Erythromycin, the strongest CYP3A4 inhibitor of the three, was associated with hypotension or shock (odds ratio 5.8, 95% CI 2.3 to 15.0), followed by clarithromycin (3.7, 2.3 to 6.1); azithromycin, which does not inhibit CYP3A4, was not (1.5, 0.8 to 2.8). Results were similar in patients taking only dihydropyridines (nifedipine, amlodipine or felodipine).",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240418163421/https://www.cmaj.ca/content/183/3/303"
+}

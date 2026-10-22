@@ -1,0 +1,15 @@
+{
+  "title": "Re-evaluation of erythritol (E 968) as a food additive",
+  "authors": "EFSA Panel on Food Additives and Flavourings (FAF), Younes M, Aquilina G, Castle L, Degen G, Engel KH, et al.",
+  "journal": "EFSA Journal",
+  "year": 2023,
+  "doi": "10.2903/j.efsa.2023.8430",
+  "pmid": "38125972",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission (question numbers EFSA-Q-2011-00730 and EFSA-Q-2022-00219). Adopted 25 October 2023.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Erythritol is 1,2,3,4-butanetetrol (C4H10O4), a polyol obtained by fermentation, with a sweetness of approximately 60% to 80% that of sucrose. It is absorbed dose-dependently, 78% to 92% is excreted unchanged in urine within 24 h, less than 1% of the dose is metabolised to erythronate, the half-life of excretion is about 4 h, and human gut microbiota metabolise it negligibly; in humans erythritol is also formed endogenously through the pentose phosphate pathway. ADI 0.5 g/kg bw per day (500 mg/kg bw per day), the lower bound of the range of NOAELs for diarrhoea in human studies, without uncertainty factors; 95th percentile acute and chronic exposure estimates were at or above the ADI in all populations, and the Panel considered the exposure assessments overestimates. The Panel considered that the cohort associations of circulating erythritol with cardiovascular disease (Witkowski et al. 2023 and others) do not demonstrate a causal relationship with dietary erythritol, that fasting erythritol may be a biomarker of metabolic disturbance, and that no long-term interventional study is available; the in vitro platelet studies provided insufficient basis to predict effects in humans.",
+  "class": "regulatory",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10731997"
+}

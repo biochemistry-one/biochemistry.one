@@ -1,0 +1,16 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "design": "database",
+  "funder": "National Human Genome Research Institute (NHGRI) [HG002273]; Office of the Director, NIH OD [U24HG007822]; National Institute of Allergy and Infectious Diseases (NIAID); National Institute on Aging (NIA); National Institute of General Medical Sciences (NIGMS) [R35GM141873]; National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK); National Eye Institute (NEI); National Cancer Institute (NCI); National Heart, Lung, and Blood Institute (NHLBI); Biotechnology and Biological Sciences Research Council (BBSRC) [BB/T015608/1]; National Science Foundation's Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 - Research and Innovation Framework Programme [825575]; State Secretariat for Education, Research and Innovation (SERI); European Molecular Biology Laboratory (EMBL) Australia. Funding for open access charge: National Institutes of Health.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed human UniProtKB entries, release 2026_03, read through rest.uniprot.org on 2026-10-21. POLR2A (P24928): catalytic core component of RNA polymerase II, which synthesises mRNA precursors from the four ribonucleoside triphosphates, appends one nucleotide at a time to the 3' end of the nascent RNA on the basis of complementarity with the template DNA strand, uses two Mg2+ ions, and cooperates in co-transcriptional 5'-end capping and co-transcriptional splicing. RNGTT (O60942): removes the gamma-phosphate from the 5'-triphosphate end of nascent mRNA and transfers the GMP moiety of GTP to the 5'-diphosphate end. RNMT (O43148): methylates the N7 position of the added guanosine of the 5' cap with S-adenosyl-L-methionine. PAPOLA (P51003): creates the 3' poly(A) tail of mRNAs from ATP. EIF1 (P41567): component of the 43S pre-initiation complex, which binds the cap-proximal region, scans the 5' untranslated region and locates the initiation codon; essential for start-codon recognition on the basis of AUG nucleotide context and location relative to the cap. EEF1A1 (P68104): catalyses the GTP-dependent binding of aminoacyl-tRNA to the ribosomal A site; codon-anticodon base pairing promotes GTP hydrolysis; the ribosome then forms the peptide bond. EEF2 (P13639): catalyses the GTP-dependent ribosomal translocation step. DNMT1 (P26358): methylates CpG residues, preferentially hemimethylated DNA, and associates with replication sites in S phase, maintaining the methylation pattern on the newly synthesised strand.",
+  "class": "reference",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11701636/fullTextXML"
+}

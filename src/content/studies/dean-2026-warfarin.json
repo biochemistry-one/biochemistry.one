@@ -1,0 +1,16 @@
+{
+  "title": "Warfarin Therapy and VKORC1 and CYP Genotype",
+  "authors": "Dean L, Kane M",
+  "journal": "Medical Genetics Summaries, National Center for Biotechnology Information (US)",
+  "year": 2026,
+  "pmid": "28520347",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK84174/",
+  "design": "database",
+  "funder": "not stated in the chapter",
+  "funderRole": "unknown",
+  "authorConflicts": "not stated in the chapter",
+  "dataAccess": "summary",
+  "result": "Peer-reviewed chapter, first posted 8 March 2012, version 4.0 of 16 June 2026. VKORC1, on chromosome 16p11.2, encodes vitamin K epoxide reductase, which catalyses the rate-limiting step of vitamin K recycling and is the target of warfarin. The promoter variant c.-1639G>A (rs9923231) is associated with lower protein expression, increased warfarin sensitivity and lower dose requirements; the variant allele is the major allele (about 90%) in Asian populations and has a frequency of about 40% in people of European descent and 14% in African Americans. VKORC1 accounts for about 30% of the variation in dose requirement, CYP2C9 usually for less than 10%.",
+  "class": "reference",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/0f/7f/gtrbook_NBK61999.tar.gz"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Sensitivity to insulin during treatment with atenolol and metoprolol: a randomised, double blind study of effects on carbohydrate and lipoprotein metabolism in hypertensive patients",
+  "authors": "Pollare T, Lithell H, Selinus I, Berne C",
+  "journal": "BMJ",
+  "year": 1989,
+  "doi": "10.1136/bmj.298.6681.1152",
+  "pmid": "2500169",
+  "design": "rct",
+  "participants": 60,
+  "followUp": "placebo run-in of 4 to 6 weeks, then two 16-week crossover treatment periods",
+  "population": "Patients with primary hypertension, supine diastolic pressure 95 to 119 mm Hg during placebo, at University Hospital, Uppsala, Sweden",
+  "funder": "Supported by grants from the Swedish Medical Research Council, the Swedish Diabetes Association, the Ernfors Family Fund, the King Gustaf V Fund, the Heart and Lung Fund and the Forenade Liv Mutual Life Insurance Corporation.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Double-blind, double-dummy crossover of metoprolol 100 mg twice daily and atenolol 25 mg twice daily. Insulin-mediated glucose uptake during a euglycaemic hyperinsulinaemic clamp fell from 5.6 to 4.5 mg/kg/min on metoprolol and from 5.6 to 4.9 on atenolol; fasting insulin, glucose and glycated haemoglobin rose slightly, and the small insulin response to intravenous glucose suggested inhibited insulin release. Against placebo (total triglycerides 2.04 mmol/l, HDL cholesterol 1.03 mmol/l), total serum triglycerides rose by 0.59 mmol/l on metoprolol and 0.43 on atenolol and HDL cholesterol fell by 0.06 and 0.08 mmol/l; LDL cholesterol did not rise. Difficulty in concentrating and vivid dreams were more pronounced on metoprolol.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20241221092515/https://pmc.ncbi.nlm.nih.gov/articles/instance/1836369/pdf/bmj00229-0034.pdf"
+}

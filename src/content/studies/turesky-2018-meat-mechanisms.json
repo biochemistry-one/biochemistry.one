@@ -1,0 +1,16 @@
+{
+  "title": "Mechanistic Evidence for Red Meat and Processed Meat Intake and Cancer Risk: A Follow-up on the International Agency for Research on Cancer Evaluation of 2015",
+  "authors": "Turesky RJ",
+  "journal": "Chimia",
+  "year": 2018,
+  "doi": "10.2533/chimia.2018.718",
+  "pmid": "30376922",
+  "design": "other",
+  "funder": "The research conducted in the author's lab on cooked meat mutagens and colorectal cancer has been supported by National Institutes of Health Grants R01CA122320 and R01CA134700.",
+  "funderRole": "none",
+  "authorConflicts": "No conflict-of-interest statement; the author biography lists employment at the Nestlé Research Center, Lausanne, from 1986 to 2000 and at the US Food and Drug Administration from 2000 to 2004.",
+  "dataAccess": "summary",
+  "result": "Narrative review. Red meat: unprocessed mammalian muscle meats, including beef, veal, pork, lamb, mutton, horse or goat. Processed meat: meat treated through salting, curing, fermentation, smoking or other processes to enhance flavour or improve preservation. Curing with nitrite can produce carcinogenic N-nitroso compounds, at less than 1 to 130 ppb in cured meats, activated by CYP2E1. Ingested haem can catalyse the nitrosation of endogenous secondary amines and exert pro-oxidative effects by catalysis of lipid peroxidation in the gastrointestinal tract. High-temperature cooking produces heterocyclic aromatic amines, which cytochrome P450 enzymes N-hydroxylate and N-acetyltransferases or sulfotransferases convert to DNA-binding intermediates. Many of these chemicals form DNA adducts.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6294997/"
+}

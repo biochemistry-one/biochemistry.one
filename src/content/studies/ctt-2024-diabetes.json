@@ -1,0 +1,19 @@
+{
+  "title": "Effects of statin therapy on diagnoses of new-onset diabetes and worsening glycaemia in large-scale randomised blinded statin trials: an individual participant data meta-analysis",
+  "authors": "Cholesterol Treatment Trialists' (CTT) Collaboration",
+  "journal": "Lancet Diabetes and Endocrinology",
+  "year": 2024,
+  "doi": "10.1016/S2213-8587(24)00040-8",
+  "pmid": "38554713",
+  "design": "meta-analysis",
+  "participants": 154664,
+  "followUp": "median 4.3 years in trials of statin against placebo; 4.9 years in trials of more against less intensive statin",
+  "population": "Individual participant data from 19 double-blind trials of statin against placebo (123,940 participants, 21% with diabetes) and 4 trials of more against less intensive statin therapy (30,724 participants)",
+  "funder": "The work of the CTT Collaboration was funded by the British Heart Foundation (PG/18/16/33570 and CH/1996001/9454), UK Medical Research Council (MC_UU_00017/4), and Australian National Health and Medical Research Council (GNT1037786 and GNT1150467). Although individual trials that were contributing data to the analyses were funded by the pharmaceutical industry, as well as by charities and government organisations, the Cholesterol Treatment Trialists' Collaboration has not received grant funding from industry. The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "Several authors report institutional grants or personal fees from manufacturers of lipid-lowering and other drugs; one author is now an employee of AstraZeneca. Authors at the Nuffield Department of Population Health accept no personal honoraria from the pharmaceutical and food industries.",
+  "dataAccess": "individual",
+  "result": "Against placebo, low-intensity or moderate-intensity statin therapy increased new-onset diabetes by 10%: 2420 of 39,179 (1.3% per year) against 2214 of 39,266 (1.2% per year), rate ratio 1.10 (95% CI 1.04 to 1.16). High-intensity statin therapy increased it by 36%: 1221 of 9935 (4.8% per year) against 905 of 9859 (3.5% per year), rate ratio 1.36 (1.25 to 1.48). The size of the absolute excess depended mainly on how often HbA1c was measured in each trial. In participants without baseline diabetes, mean glucose rose by 0.04 mmol/L and mean HbA1c by 0.06% (low or moderate intensity) and 0.08% (high intensity). Among participants with a baseline measure of glycaemia, about 62% of new-onset diabetes cases arose in those already in the top quarter of the baseline distribution.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615958/"
+}

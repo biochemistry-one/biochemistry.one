@@ -1,0 +1,17 @@
+{
+  "title": "Metformin inhibits gluconeogenesis via a redox-dependent mechanism in vivo",
+  "authors": "Madiraju AK, Qiu Y, Perry RJ, Rahimi Y, Zhang XM, Zhang D, et al.",
+  "journal": "Nature Medicine",
+  "year": 2018,
+  "doi": "10.1038/s41591-018-0125-4",
+  "pmid": "30038219",
+  "design": "animal",
+  "population": "Awake Sprague Dawley rats, Zucker Diabetic Fatty rats and high-fat-diet streptozotocin-nicotinamide rats given acute intravenous, acute intraportal or chronic oral metformin, with isolated primary hepatocytes and mice expressing constitutively active acetyl-CoA carboxylase",
+  "funder": "This publication was supported by grants from the US Department of Health and Human Services: R01 DK113984, P30 DK45735, P30 DK034989, K99 CA215315 and R01 DK114793, with further support from a Canada Research Chair in Metabolism and Obesity, an endowed chair at McMaster University, Diabetes Canada, the National Health and Medical Research Council of Australia and the Victorian Government Operational Infrastructure Support Scheme.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing financial interests and state that none of the authors have any conflicts of interest related to this study.",
+  "dataAccess": "summary",
+  "result": "An acute intravenous dose of 50 mg/kg achieved plasma concentrations of 25 to 50 micromolar, which the authors state approximate plasma concentrations in people with type 2 diabetes after an acute 1 g oral dose or during chronic treatment with 1 g twice daily; parenteral doses of 200 mg/kg or more, used in many earlier rodent studies, give peak plasma concentrations of about 1200 micromolar, which the authors call supra-pharmacological. At clinically relevant concentrations metformin inhibited gluconeogenesis from lactate and glycerol but not from pyruvate or alanine, raised the hepatic lactate to pyruvate ratio about threefold and lowered the mitochondrial beta-hydroxybutyrate to acetoacetate ratio, with unaltered hepatic energy charge and citrate synthase flux, indicating no complex I inhibition. Infusion of pyruvate or dihydroxyacetone abolished the fall in plasma glucose, while lactate and glycerol infusion did not; methylene blue, which lowers the cytosolic NADH to NAD+ ratio, abrogated the effects of metformin on plasma glucose, redox ratios and endogenous glucose production. Infusion of 50 mg/kg into the portal vein gave peak plasma concentrations of about 130 micromolar and hepatic concentrations of about 25 micromolar at two hours and inhibited endogenous glucose production by about 25%, showing an effect independent of the gut and its microbiota. Hepatic AMPK was activated by acute treatment without a detectable effect on its substrate acetyl-CoA carboxylase.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6129196/fullTextXML"
+}

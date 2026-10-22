@@ -1,0 +1,15 @@
+{
+  "title": "Glucagon-like peptide-1 receptor agonists and the risk of non-arteritic anterior ischemic optic neuropathy: a consensus statement by the North American Neuro-Ophthalmology Society and the American Academy of Ophthalmology",
+  "authors": "DeParis SW, Oke I, Gaier ED, Moss HE, MacIntosh PW, Gilbert AL, et al.",
+  "journal": "Ophthalmology",
+  "year": 2026,
+  "doi": "10.1016/j.ophtha.2026.04.008",
+  "pmid": "42132708",
+  "design": "guideline",
+  "funder": "not stated in the abstract; PubMed lists NEI grant P30 EY026877. Financial disclosure: the authors have no proprietary or commercial interest in any materials discussed.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "The societies state that available evidence is primarily retrospective observational studies relying on electronic health records and claims data, subject to limitations; many report a small possible increased risk of NAION with GLP-1 receptor agonists such as semaglutide, some report no correlation, and the overall magnitude of risk remains low. They recommend shared decision-making on whether to start, continue or stop GLP-1 receptor agonists.",
+  "class": "consensus",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/42132708/"
+}

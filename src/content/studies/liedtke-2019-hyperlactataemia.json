@@ -1,0 +1,17 @@
+{
+  "title": "Selective ß2-Adrenoceptor Agonists and Relevant Hyperlactatemia: Systematic Review and Meta-Analysis",
+  "authors": "Liedtke AG, Lava SAG, Milani GP, Agostoni C, Gilardi V, Bianchetti MG, et al.",
+  "journal": "Journal of Clinical Medicine",
+  "year": 2019,
+  "doi": "10.3390/jcm9010071",
+  "pmid": "31892109",
+  "design": "systematic-review",
+  "population": "56 reports to April 2019: 42 case reports of 47 patients, 2 observational studies and 12 clinical trials in healthy volunteers, adults and children with acute asthma, and women in preterm labour",
+  "funder": "This research received no external funding.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no conflict of interest.",
+  "dataAccess": "summary",
+  "result": "Forty-seven individual patients (46 on a short-acting agonist) had lactate of 5.0 mmol/l or more, which fell by 3.0 mmol/l or more, or to 2.5 mmol/l or less, 3 to 56 h (median 13 h) after stopping (24), reducing (17) or continuing (6) the agonist. In 12 clinical trials, lactate of 5.0 mmol/l or more occurred in 103 of 426 patients (24%): 97 of 324 with acute asthma (30%; 63 of 212 aged 18 or under and 34 of 112 older) and 6 of 102 women in premature labour (5.9%). In healthy volunteers albuterol raised lactate by about 2.0 mmol/l intravenously (n = 4) and 0.8 mmol/l nebulised (n = 14). Lactate correlated with intravenous albuterol dose in 42 children and with circulating albuterol in 65 adults. The authors ascribe the rise to beta2-stimulated aerobic glycolysis in skeletal muscle and note that tachypnoea from lactic acidosis can be misread as worsening asthma; all but one report lacked a measure of attack severity.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7019948/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Renin-Angiotensin System Inhibition in Advanced Chronic Kidney Disease",
+  "authors": "Bhandari S, Mehta S, Khwaja A, Cleland JGF, Ives N, Brettell E, et al.; STOP ACEi Trial Investigators",
+  "journal": "New England Journal of Medicine",
+  "year": 2022,
+  "doi": "10.1056/NEJMoa2210639",
+  "pmid": "36326117",
+  "registry": "ISRCTN62869767; EudraCT 2013-003798-82",
+  "design": "rct",
+  "participants": 411,
+  "followUp": "3 years",
+  "population": "Patients in the United Kingdom with advanced and progressive chronic kidney disease (eGFR below 30 ml/min/1.73 m2) taking an ACE inhibitor or angiotensin receptor blocker",
+  "funder": "Funded by the National Institute for Health Research and the Medical Research Council (statement in the published abstract). A post hoc analysis of the same trial gives the grant as NIHR-HTA 11/30/07 from the National Institute for Health Research and the Medical Research Council. The role of the funders is not stated in a readable source.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Open-label trial of discontinuing against continuing renin-angiotensin system inhibitors. At 3 years the least-squares mean eGFR was 12.6 against 13.3 ml/min/1.73 m2 (difference -0.7, 95% CI -2.5 to 1.0), with no heterogeneity across prespecified subgroups. End-stage kidney disease or kidney replacement therapy occurred in 128 (62%) after discontinuation and 115 (56%) with continuation (hazard ratio 1.28, 0.99 to 1.65). Cardiovascular events 108 against 88 and deaths 20 against 22.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13134784/"
+}

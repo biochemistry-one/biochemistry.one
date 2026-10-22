@@ -1,0 +1,16 @@
+{
+  "title": "Milk and dairy consumption and incidence of cardiovascular diseases and all-cause mortality: dose-response meta-analysis of prospective cohort studies",
+  "authors": "Soedamah-Muthu SS, Ding EL, Al-Delaimy WK, Hu FB, Engberink MF, Willett WC, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2011,
+  "doi": "10.3945/ajcn.2010.29866",
+  "pmid": "21068345",
+  "design": "meta-analysis",
+  "population": "17 prospective cohort studies; searches to February 2010",
+  "funder": "Supported by an unrestricted grant from the Dutch Dairy Association (to SSS-M and JMG). The Dutch Dairy Association (Nederlandse Zuivelorganisatie, nzo.nl) is the trade association of Dutch dairy processing companies.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Per 200 mL/day milk: overall cardiovascular disease RR 0.94 (95% CI 0.89 to 0.99; 4 studies); coronary heart disease 1.00 (0.96 to 1.04; 6 studies); stroke 0.87 (0.72 to 1.05; 6 studies); total mortality 0.99 (0.95 to 1.03; 8 studies).",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3361013/"
+}

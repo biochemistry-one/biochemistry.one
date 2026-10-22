@@ -1,0 +1,16 @@
+{
+  "title": "The effect of consecutive steps of refining on squalene content of vegetable oils",
+  "authors": "Nergiz C, Celikkale D",
+  "journal": "Journal of Food Science and Technology",
+  "year": 2011,
+  "doi": "10.1007/s13197-010-0190-2",
+  "pmid": "23572763",
+  "design": "other",
+  "population": "Olive, sunflower, rapeseed, corn and soybean oils sampled at each refining step in four commercial refineries; 10 olive oil samples",
+  "funder": "This study was supported financially by the Scientific Research Fund of Celal Bayar University under project number Müh.2007/037.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Squalene in olive oil (n = 10): 491.0 mg/100 g in crude oil, reported in the abstract as virgin olive oil; 427.0 after neutralisation (13.0% loss), 392.5 after bleaching (7.0%), 315.5 after deodorisation (15.6%) and 290.0 after winterisation (5.2%); total reduction 40.94%. Crude seed oils contained 13.8 to 26.2 mg/100 g. Crude vegetable oils cannot be consumed without refining, except good-quality virgin olive oil.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3551149/"
+}

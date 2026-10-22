@@ -1,0 +1,15 @@
+{
+  "title": "Genetic evidence that the human CYP2R1 enzyme is a key vitamin D 25-hydroxylase",
+  "authors": "Cheng JB, Levine MA, Bell NH, Mangelsdorf DJ, Russell DW",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 2004,
+  "doi": "10.1073/pnas.0402490101",
+  "pmid": "15128933",
+  "design": "genetic",
+  "funder": "Robert A. Welch Foundation Grants I-0971 and I-1275; National Institutes of Health Grants HL 20948, GM 08014 and DK 56603; and the Howard Hughes Medical Institute.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Synthesis of active vitamin D requires 25-hydroxylation in the liver and 1α-hydroxylation in the kidney, the latter by the mitochondrial enzyme CYP27B1. A patient with low circulating 25-hydroxyvitamin D and classic symptoms of vitamin D deficiency was homozygous for a transition in exon 2 of CYP2R1 on chromosome 11p15.2 that substitutes proline for a conserved leucine at residue 99 and eliminated vitamin D 25-hydroxylase activity. One of 50 Nigerian control subjects was heterozygous for the same L99P change.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC419671/"
+}

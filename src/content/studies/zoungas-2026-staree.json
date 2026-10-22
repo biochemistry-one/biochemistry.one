@@ -1,0 +1,20 @@
+{
+  "title": "Atorvastatin, Cardiovascular Events, and Disability-free Survival in Older Adults",
+  "authors": "Zoungas S, Wolfe R, Moran C, Nicholls SJ, Cloud GC, Reid CM, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2026,
+  "doi": "10.1056/NEJMoa2607314",
+  "pmid": "42670961",
+  "registry": "NCT02099123",
+  "design": "rct",
+  "participants": 9971,
+  "followUp": "median 5.9 years",
+  "population": "Community-dwelling adults aged 70 or older without cardiovascular disease, diabetes or dementia, recruited through Australian general practices (STAREE); mean age 74.7, 51.9% women",
+  "funder": "Abstract: Funded by the National Health and Medical Research Council and others. Registry NCT02099123: sponsor Monash University; collaborators National Health and Medical Research Council, Australia, and National Heart Foundation, Australia. Protocol (BMJ Open 2023) and baseline (JAHA 2024) papers: funding from NHMRC (APP1068146, APP1161503) and the Heart Foundation of Australia; the funders have had no role in the study design, collection, management, analysis, and interpretation of data or in writing or submission of reports or publications. The full NEJM text was not readable.",
+  "funderRole": "none",
+  "authorConflicts": "Per the baseline paper, several investigators reported payments, honoraria or research support from pharmaceutical companies, including AstraZeneca, Amgen, Pfizer and Novartis.",
+  "dataAccess": "unknown",
+  "result": "Atorvastatin 40 mg daily (n=4984) against identical placebo (n=4987). Primary cardiovascular composite (cardiovascular death, non-fatal myocardial infarction or stroke, or coronary revascularisation): 297 participants (10.9 per 1000 person-years) against 412 (15.5 per 1000 person-years), HR 0.70 (95% CI 0.61 to 0.82). Death from any cause, dementia or persistent physical disability: 637 (21.6 per 1000 person-years) against 676 (23.0), HR 0.94 (0.84 to 1.05), P = 0.25. Serious adverse events 131 (2.7%) against 129 (2.7%); musculoskeletal, hepatobiliary and diabetes-related adverse events were more common with atorvastatin. The authors conclude that atorvastatin lowered major cardiovascular events but did not lengthen disability-free survival.",
+  "class": "independent",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT02099123"
+}

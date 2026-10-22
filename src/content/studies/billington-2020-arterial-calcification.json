@@ -1,0 +1,20 @@
+{
+  "title": "Effect of high-dose vitamin D supplementation on peripheral arterial calcification: secondary analysis of a randomized controlled trial",
+  "authors": "Billington EO, Burt LA, Plett R, Rose MS, Boyd SK, Hanley DA",
+  "journal": "Osteoporosis International",
+  "year": 2020,
+  "doi": "10.1007/s00198-020-05500-2",
+  "pmid": "32556518",
+  "registry": "NCT01900860",
+  "design": "rct",
+  "participants": 302,
+  "followUp": "3 years",
+  "population": "Calgary Vitamin D Study: community-dwelling adults aged 55 to 70 years with serum 25-hydroxyvitamin D 30 to 125 nmol/L (mean 78.9 nmol/L)",
+  "funder": "The full text was not accessible. Registry: lead sponsor University of Calgary; collaborator Pure North S'Energy Foundation. The primary trial report states that funding came from Pure North S'Energy Foundation, which had no role in design, conduct, analysis or publication.",
+  "funderRole": "unknown",
+  "inKindSupport": "Primary report: vitamin D3 drops provided by Ddrops Canada.",
+  "dataAccess": "individual",
+  "result": "Vitamin D3 400 (n=105), 4000 (n=96) or 10,000 IU/day (n=101) for 3 years; tibial artery calcification measured by HR-pQCT at baseline, 6, 12, 24 and 36 months. At baseline 85 participants (28%) had calcification, mean 2.8 mg hydroxyapatite (95% CI 1.7 to 3.9), which increased by 0.020 mgHA per month (0.012 to 0.029) with no treatment-group effect (P=0.645 for interaction); no participant developed new arterial calcification.",
+  "class": "independent",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT01900860"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Deprescribing versus continuation of chronic proton pump inhibitor use in adults",
+  "authors": "Boghossian TA, Rashid FJ, Thompson W, Welch V, Moayyedi P, Rojas-Fernandez C, et al.",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2017,
+  "doi": "10.1002/14651858.CD011969.pub2",
+  "pmid": "28301676",
+  "design": "systematic-review",
+  "participants": 1758,
+  "population": "6 randomised trials in adult outpatients on daily PPI for at least 28 days with non-erosive reflux disease or Los Angeles grade A or B oesophagitis; 5 trials of on-demand use and 1 of abrupt discontinuation",
+  "funder": "Internal sources: Bruyère Research Institute, Canada. External sources: Ministry of Health and Long-Term Care, Ontario, Health Services Research Fund, Canada; Ontario Pharmacy Research Collaboration (OPEN), Canada.",
+  "funderRole": "none",
+  "authorConflicts": "Moayyedi received lecture fees, and his research chair is funded in part by an unrestricted grant from AstraZeneca to McMaster University; the Government of Ontario funded Farrell's institute to prepare a related deprescribing guideline.",
+  "dataAccess": "summary",
+  "result": "On-demand use against continuous PPI use: lack of symptom control 157 against 92 per 1000 (RR 1.71, 95% CI 1.31 to 2.21; 5 trials, 1653 participants; low-quality evidence); pill use 3.79 fewer per week (4.73 to 2.84 fewer; moderate quality). Data were insufficient for conclusions on long-term benefits and harms of discontinuation.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6464703/"
+}

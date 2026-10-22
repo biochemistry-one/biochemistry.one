@@ -1,0 +1,19 @@
+{
+  "title": "Proton pump inhibitors for the prevention of non-steroidal anti-inflammatory drug-induced ulcers and dyspepsia",
+  "authors": "Garegnani L, Oltra G, Burgos MA, Ivaldi D, Varela LB, Díaz Menai S, et al.",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2025,
+  "doi": "10.1002/14651858.CD014585.pub2",
+  "pmid": "40337979",
+  "design": "systematic-review",
+  "participants": 8760,
+  "followUp": "up to 12 months; most trials about 6 months",
+  "population": "12 randomised trials published 1996 to 2014 in outpatients taking NSAIDs for 4 weeks or longer; PPI against placebo, H2-receptor antagonist or misoprostol; pharmaceutical companies funded 7 of the 12 trials",
+  "funder": "This Cochrane review had no dedicated funding.",
+  "funderRole": "none",
+  "authorConflicts": "One author worked as biostatistics consultant for the Instituto Ecuatoriano de Enfermedades Digestivas; others none relevant.",
+  "dataAccess": "summary",
+  "result": "PPI against placebo: incident ulcers 36 against 119 per 1000 (RR 0.29, 95% CI 0.23 to 0.36; 11 trials, 7022 participants; moderate certainty); ulcer complications 4 against 11 per 1000 (RR 0.33, 0.10 to 1.07; 5 trials, 4394 participants; low certainty); global dyspepsia symptoms little or no effect (very low certainty); adverse events could not be pooled (very low certainty). PPI against H2-receptor antagonist: 154 against 77 ulcers per 1000 (1 trial, 26 participants). PPI against misoprostol: more ulcers (RR 2.32, 1.25 to 4.30) and fewer adverse events (RR 0.38, 0.25 to 0.57; 1 trial, 402 participants; very low certainty).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12060214/fullTextXML"
+}

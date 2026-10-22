@@ -1,0 +1,19 @@
+{
+  "title": "Benefits and harms of levothyroxine/L-triiodothyronine versus levothyroxine monotherapy for adult patients with hypothyroidism: systematic review and meta-analysis",
+  "authors": "Millan-Alanis JM, González-González JG, Flores-Rodríguez A, Singh Ospina N, Maraka S, Moreno-Peña PJ, et al.",
+  "journal": "Thyroid",
+  "year": 2021,
+  "doi": "10.1089/thy.2021.0270",
+  "pmid": "34340589",
+  "design": "meta-analysis",
+  "participants": 1563,
+  "followUp": "5 weeks to 12 months",
+  "population": "18 randomised or quasi-experimental trials (10 crossover, 8 parallel) of combined levothyroxine and liothyronine against levothyroxine alone in adults, mostly women, with overt hypothyroidism; searched to September 2020",
+  "funder": "Dr. Maraka receives support by the Arkansas Biosciences Institute, the major research component of the Arkansas Tobacco Settlement Proceeds Act of 2000. Dr. Singh Ospina was supported by the National Cancer Institute of the National Institutes of Health under Award No. K08CA248972.",
+  "funderRole": "unknown",
+  "authorConflicts": "No competing financial interests exist.",
+  "dataAccess": "summary",
+  "result": "Low-to-moderate certainty evidence showed no difference between combined therapy and monotherapy in clinical status, quality of life, psychological distress, depressive symptoms or fatigue. In preference studies 43% chose combined therapy, 23% monotherapy and 30% had no preference. Adverse events appeared similar, but could only be assessed narratively, without meta-analysis.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8917901/"
+}

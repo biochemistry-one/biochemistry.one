@@ -1,0 +1,15 @@
+{
+  "title": "Opinion on the re-evaluation of starch sodium octenyl succinate (E 1450) as a food additive in foods for infants below 16 weeks of age and the follow-up of its re-evaluation as a food additive for uses in foods for all population groups",
+  "authors": "EFSA Panel on Food Additives and Flavourings (FAF), Younes M, Aquilina G, Castle L, Engel KH, Fowler P, et al.",
+  "journal": "EFSA Journal",
+  "year": 2020,
+  "doi": "10.2903/j.efsa.2020.5874",
+  "pmid": "32817762",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission (question EFSA-Q-2018-00102).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "JECFA had evaluated starch sodium octenyl succinate for use as an emulsifier in infant formula. Six clinical trials in infants below 16 weeks were submitted by interested business operators; none was planned to investigate the influence of E 1450 on body weight or its tolerability; five were rated tier 3 (high risk of bias) and one tier 2. A reference point could not be derived from the trials or from a 3-week piglet study, but neither clearly indicated an adverse effect. No indication for safety concern in infants below 16 weeks, or in infants above 16 weeks and young children consuming foods for special medical purposes, within the range reported in the clinical studies (up to 2,725 mg/kg bw per day); the conclusion that a numerical ADI is not needed was reiterated. For infants below 16 weeks fed special formulae, exposure at the maximum permitted level of 20,000 mg/kg was 4,000 (mean) and 5,200 (high level) mg/kg bw per day. Information on the gut microbiome specific to E 1450 was not available; changes in microbiota composition without a measured health outcome are difficult to interpret. Recommendations: revise the maximum permitted levels in food categories 13.1.5.1 and 13.1.5.2, lower the limits for sulfur dioxide, arsenic, lead and mercury, and add cadmium and microbiological criteria to the specifications.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7425341/fullTextXML"
+}

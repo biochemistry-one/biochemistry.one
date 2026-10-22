@@ -1,0 +1,16 @@
+{
+  "title": "Low-density lipoproteins cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical studies. A consensus statement from the European Atherosclerosis Society Consensus Panel",
+  "authors": "Ference BA, Ginsberg HN, Graham I, Ray KK, Packard CJ, Bruckert E, et al.",
+  "journal": "European Heart Journal",
+  "year": 2017,
+  "doi": "10.1093/eurheartj/ehx144",
+  "pmid": "28444290",
+  "design": "guideline",
+  "funder": "Travel and meeting logistics were supported by unrestricted educational grants from MSD and Amgen to the European Atherosclerosis Society; the companies were not present at the Consensus Panel meetings, had no role in the design or content of the manuscript and had no right to approve or disapprove the final document. The European Atherosclerosis Society paid the open-access charges.",
+  "funderRole": "none",
+  "authorConflicts": "Most panel members declared research grants, honoraria or consultancy from manufacturers of lipid-lowering drugs, among them Amgen, Merck/MSD, Sanofi-Regeneron, Pfizer and AstraZeneca; B. van de Sluis and J.K. Stock reported no disclosures.",
+  "dataAccess": "summary",
+  "result": "Meta-analyses of over 200 prospective cohort studies, Mendelian randomisation studies and randomised trials, including more than 2 million participants, over 20 million person-years of follow-up and over 150,000 cardiovascular events, show a consistent dose-dependent log-linear association between the absolute magnitude of exposure to LDL cholesterol and the risk of atherosclerotic cardiovascular disease, which appears to increase with the duration of exposure. The panel concluded that LDL causes atherosclerotic cardiovascular disease.",
+  "class": "consensus",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5837225/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Long-term effects of lifestyle intervention or metformin on diabetes development and microvascular complications over 15-year follow-up: the Diabetes Prevention Program Outcomes Study",
+  "authors": "Diabetes Prevention Program Research Group",
+  "journal": "Lancet Diabetes and Endocrinology",
+  "year": 2015,
+  "doi": "10.1016/S2213-8587(15)00291-0",
+  "pmid": "26377054",
+  "design": "rct",
+  "participants": 2776,
+  "followUp": "mean 15 years from randomisation; about 40,000 patient-years in all",
+  "population": "2776 of 3149 surviving Diabetes Prevention Program participants (88%) followed in the Outcomes Study from 2002 to 2013, analysed by intention to treat according to the original assignment to placebo, metformin 850 mg twice daily or intensive lifestyle intervention; 1887 were women",
+  "funder": "During the Outcomes Study the National Institute of Diabetes and Digestive and Kidney Diseases provided funding to the clinical centres and the coordinating centre for design and conduct, and for collection, management, analysis and interpretation of the data, with further funding from other National Institutes of Health institutes, the Indian Health Service, the Department of Veterans Affairs, the Centers for Disease Control and Prevention and the American Diabetes Association. Industry contributors had no role in planning or conduct, but Bristol-Myers Squibb and Parke-Davis provided additional funding and material support during the Diabetes Prevention Program, Lipha (Merck-Sante) provided medication and LifeScan Inc donated materials during both studies. The sponsor was represented on the steering committee and played a part in study design, conduct and publications.",
+  "funderRole": "several",
+  "inKindSupport": "Study medication from Lipha (Merck-Sante); donated materials from LifeScan Inc.",
+  "authorConflicts": "We declare that we have no conflicts of interest.",
+  "dataAccess": "individual",
+  "result": "Over a mean 15 years, diabetes incidence was 27% lower with lifestyle intervention (hazard ratio 0.73, 95% CI 0.65 to 0.83) and 18% lower with metformin (0.82, 0.72 to 0.93) than with placebo, against 58% and 31% during the first 2.8 years of the Diabetes Prevention Program. Cumulative incidence of diabetes by year 15 was 560 cases (62%) with placebo, 499 (56%) with metformin and 480 (55%) with lifestyle. The average prevalence of the prespecified aggregate microvascular outcome, composed of nephropathy, neuropathy and retinopathy, did not differ significantly between groups and was 11% to 13%; metformin reduced microvascular disease in neither sex. In women, lifestyle intervention lowered the prevalence to 8.7% against 11% with placebo and 11.2% with metformin, reductions of 21% (p = 0.03) and 22% (p = 0.02). Participants who did not develop diabetes had a 28% lower prevalence of microvascular complications than those who did (p < 0.0001). Mean HbA1c over the combined studies was 6.1%, 6.0% and 5.9% in the placebo, metformin and lifestyle groups. No case of lactic acidosis was reported in approximately 40,000 patient-years of follow-up, and there were no significant differences between groups in other severe adverse events; sprains or fractures needing medical attention occurred at 3.7, 4.3 and 4.1 events per 100 patient-years in the lifestyle, metformin and placebo groups. The authors note the therapeutic crossover from offering lifestyle instruction to all groups, the less intensive lifestyle intervention after the first phase, out-of-study metformin use in the other groups, and that neuropathy was measured by monofilament, a less sensitive and more subjective test.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4623946"
+}

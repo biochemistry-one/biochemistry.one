@@ -1,0 +1,21 @@
+{
+  "title": "Bioactivation of PhIP",
+  "layout": "chain",
+  "compartment": "Hepatocyte endoplasmic reticulum, then cytosol",
+  "steps": [
+    {
+      "from": "PhIP",
+      "to": "N-Hydroxy-PhIP",
+      "enzyme": "Cytochrome P450 1A2 (CYP1A2)",
+      "cofactors": ["O2", "NADPH via cytochrome P450 reductase"],
+      "note": "CYP1A2 accounts for an estimated 70% of PhIP metabolism in humans"
+    },
+    {
+      "from": "N-Hydroxy-PhIP",
+      "to": "N-Acetoxy-PhIP",
+      "enzyme": "N-acetyltransferase 2 (NAT2)",
+      "cofactors": ["Acetyl-CoA"],
+      "note": "The ester binds DNA; SULT1A1 and SULT1A2 also activate N-hydroxy-PhIP"
+    }
+  ]
+}

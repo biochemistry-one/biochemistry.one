@@ -1,0 +1,19 @@
+{
+  "title": "Beta-blockers for hypertension",
+  "authors": "Wiysonge CS, Bradley HA, Volmink J, Mayosi BM, Opie LH",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2017,
+  "doi": "10.1002/14651858.CD002003.pub5",
+  "pmid": "28107561",
+  "design": "meta-analysis",
+  "participants": 91561,
+  "followUp": "randomised trials of at least one year",
+  "population": "13 randomised trials, conducted between the 1970s and 2000s, of beta-blockers as first-line therapy for hypertension in adults, against placebo (4 trials, 23,613 participants), diuretics (5 trials, 18,241), calcium channel blockers (4 trials, 44,825) or renin-angiotensin system inhibitors (3 trials, 10,828); 40,245 participants took beta-blockers, three-quarters of them atenolol; search to June 2016",
+  "funder": "Internal sources: South African Medical Research Council; Stellenbosch University; University of the Western Cape; University of Cape Town. External sources: no sources of support supplied.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare no affiliation with or involvement in any organisation with a direct financial interest in the subject matter.",
+  "dataAccess": "summary",
+  "result": "Against placebo: all-cause mortality 51 against 52 per 1000 (RR 0.99, 95% CI 0.88 to 1.11; moderate certainty), total cardiovascular disease 57 against 64 per 1000 (RR 0.88, 0.79 to 0.97; low certainty), stroke 18 against 23 per 1000 (RR 0.80, 0.66 to 0.96; low certainty) and coronary heart disease 34 against 37 per 1000 (RR 0.93, 0.81 to 1.07; moderate certainty). Against calcium channel blockers: mortality 78 against 73 per 1000 (RR 1.07, 1.00 to 1.14), total cardiovascular disease 96 against 81 per 1000 (RR 1.18, 1.08 to 1.29) and stroke 29 against 23 per 1000 (RR 1.24, 1.11 to 1.40), moderate certainty. Against renin-angiotensin system inhibitors: stroke RR 1.30 (1.11 to 1.53) and discontinuation for adverse events RR 1.41 (1.29 to 1.54), moderate certainty. In the single trial in people aged 65 or older, atenolol carried more coronary heart disease than a diuretic (RR 1.63, 1.15 to 2.32). No outcome trial of a vasodilating beta-blocker such as nebivolol was found, and most trials carried a high risk of bias. The authors conclude that initiating treatment with beta-blockers leads to modest reductions in cardiovascular disease and little or no effect on mortality, inferior to those of other antihypertensive drugs.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5369873/"
+}

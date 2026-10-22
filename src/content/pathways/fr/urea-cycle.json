@@ -1,0 +1,35 @@
+{
+  "title": "Cycle de l'urée",
+  "layout": "cycle",
+  "compartment": "Foie ; OTC dans la matrice mitochondriale ; ASS1, ASL et ARG1 dans le cytosol",
+  "steps": [
+    {
+      "from": "Ornithine",
+      "to": "Citrulline",
+      "enzyme": "Ornithine transcarbamylase (OTC)",
+      "cofactors": ["Carbamoyl-phosphate"],
+      "note": "Matrice ; carbamoyl-phosphate formé par CPS1, activée par le N-acétylglutamate"
+    },
+    {
+      "from": "Citrulline",
+      "to": "Argininosuccinate",
+      "enzyme": "Argininosuccinate synthase 1 (ASS1)",
+      "cofactors": ["Aspartate", "ATP"],
+      "note": "Cytosol ; la citrulline quitte la matrice par ORNT1 ; ATP en AMP et diphosphate"
+    },
+    {
+      "from": "Argininosuccinate",
+      "to": "Arginine",
+      "enzyme": "Argininosuccinate lyase (ASL)",
+      "reversible": true,
+      "note": "Libère du fumarate, qui relie ce cycle au cycle de l'acide citrique"
+    },
+    {
+      "from": "Arginine",
+      "to": "Ornithine",
+      "enzyme": "Arginase 1 (ARG1)",
+      "cofactors": ["H2O", "Mn2+ (2 par sous-unité)"],
+      "note": "Libère l'urée ; l'ornithine regagne la matrice par ORNT1 (SLC25A15)"
+    }
+  ]
+}

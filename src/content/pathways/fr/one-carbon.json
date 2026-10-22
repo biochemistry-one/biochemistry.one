@@ -1,0 +1,45 @@
+{
+  "title": "Réduction de l'acide folique et cycle monocarboné des folates",
+  "layout": "chain",
+  "compartment": "Cytosol des hépatocytes et des cellules en division",
+  "steps": [
+    {
+      "from": "Acide folique",
+      "to": "7,8-Dihydrofolate",
+      "enzyme": "Dihydrofolate réductase (DHFR)",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "Méthotrexate"}],
+      "note": "Lente et variable dans le foie humain ; les folates naturels réduits y échappent"
+    },
+    {
+      "from": "7,8-Dihydrofolate",
+      "to": "Tétrahydrofolate",
+      "enzyme": "Dihydrofolate réductase (DHFR)",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "Méthotrexate"}],
+      "note": "Réduit aussi le dihydrofolate libéré par la thymidylate synthase (TYMS)"
+    },
+    {
+      "from": "Tétrahydrofolate",
+      "to": "5,10-Méthylènetétrahydrofolate",
+      "enzyme": "Sérine hydroxyméthyltransférase (SHMT1 cytosolique, SHMT2 mitochondriale)",
+      "cofactors": ["Sérine convertie en glycine", "Pyridoxal-5′-phosphate"],
+      "reversible": true,
+      "note": "Embranchement : la TYMS transfère ce carbone au dUMP et forme le dTMP de l'ADN"
+    },
+    {
+      "from": "5,10-Méthylènetétrahydrofolate",
+      "to": "5-Méthyltétrahydrofolate",
+      "enzyme": "Méthylènetétrahydrofolate réductase (MTHFR)",
+      "cofactors": ["NADPH", "FAD"],
+      "note": "Irréversible in vivo, inhibée par la SAM ; le variant 677C>T réduit l'activité"
+    },
+    {
+      "from": "5-Méthyltétrahydrofolate",
+      "to": "Tétrahydrofolate",
+      "enzyme": "Méthionine synthase (MTR)",
+      "cofactors": ["Méthylcobalamine", "Homocystéine convertie en méthionine"],
+      "note": "Ralentie par la carence en B12, qui piège les folates sous forme de 5-méthyl-THF"
+    }
+  ]
+}

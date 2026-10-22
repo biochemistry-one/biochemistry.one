@@ -1,0 +1,19 @@
+{
+  "title": "Metformin inhibits mitochondrial adaptations to aerobic exercise training in older adults",
+  "authors": "Konopka AR, Laurin JL, Schoenberg HM, Reid JJ, Castor WM, Wolff CA, et al.",
+  "journal": "Aging Cell",
+  "year": 2019,
+  "doi": "10.1111/acel.12880",
+  "pmid": "30548390",
+  "design": "rct",
+  "participants": 53,
+  "followUp": "12 weeks of aerobic exercise training",
+  "population": "Metformin-naive older adults, mean age 62 years, free of chronic disease but each with at least one risk factor for type 2 diabetes: fasting glucose 100 to 125 mg/dl, two-hour glucose 140 to 199 mg/dl, HbA1c 5.7% to 6.4% or a family history of type 2 diabetes; 42 (80%) had a family history and 14 (26%) took statins",
+  "funder": "This work was supported by the Dairy Management, Inc and Dexcom, Inc. Analysis of plasma insulin was performed at a centre supported in part by NIH/NCATS grant UL1TR001082.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have no conflict of interests to disclose.",
+  "dataAccess": "summary",
+  "result": "Double-blind randomisation to placebo (n = 26) or metformin (n = 27) during 12 weeks of supervised aerobic exercise training; dose titrated by 500 mg weekly to 2000 mg daily, reduced to 1500 mg daily in 11 participants who reported gastrointestinal discomfort (3 on placebo, 8 on metformin) and capped at 1500 mg for 5 participants weighing under 75 kg; pill compliance 98%. Independently of treatment, training reduced body weight, whole-body, trunk and leg fat mass, HbA1c, fasting insulin, HOMA-IR, 24-hour mean glucose and glycaemic variability. Maximal oxygen uptake rose significantly within the placebo group (p < 0.01) but not within the metformin group, metformin attenuating the increase by about 50% (p = 0.08). Whole-body insulin sensitivity, measured by the Matsuda index during a 75 g oral glucose tolerance test, rose after training with placebo but not metformin (time by treatment interaction p < 0.05), and metformin inhibited the increase (p = 0.02); the change with metformin was highly variable, with 58% of participants responding positively and 42% negatively. Metformin blunted the training-induced increase in skeletal muscle mitochondrial respiration and in the ratio of maximal coupled oxidative phosphorylation to uncoupled electron transport capacity, without affecting mitochondrial protein synthesis; the change in insulin sensitivity correlated with the change in complex I-linked respiration in the placebo group but not the metformin group. The authors state that these data raise concerns about broad recommendations for metformin as a treatment to target ageing, and that earlier studies similarly found metformin diminished the gain in cardiorespiratory fitness by 40% to 60% after 10 and 22 weeks of training.",
+  "class": "industry",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6351883/fullTextXML"
+}

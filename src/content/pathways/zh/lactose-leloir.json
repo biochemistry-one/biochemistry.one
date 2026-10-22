@@ -1,0 +1,42 @@
+{
+  "title": "乳糖消化与Leloir途径",
+  "layout": "chain",
+  "compartment": "肠上皮细胞刷状缘，随后为胞质溶胶，主要在肝细胞内",
+  "steps": [
+    {
+      "from": "乳糖",
+      "to": "β-D-半乳糖",
+      "enzyme": "乳糖酶-根皮苷水解酶（LCT）",
+      "cofactors": ["H2O"],
+      "note": "位于小肠上皮细胞顶端膜；同时生成D-葡萄糖"
+    },
+    {
+      "from": "β-D-半乳糖",
+      "to": "α-D-半乳糖",
+      "enzyme": "半乳糖变旋酶（GALM）",
+      "reversible": true,
+      "note": "此前经SGLT1（SLC5A1）摄入细胞，再经GLUT2（SLC2A2）转运出细胞"
+    },
+    {
+      "from": "α-D-半乳糖",
+      "to": "α-D-半乳糖-1-磷酸",
+      "enzyme": "半乳糖激酶（GALK1）",
+      "cofactors": ["ATP"],
+      "note": "半乳糖分解代谢的第一个定向步骤"
+    },
+    {
+      "from": "α-D-半乳糖-1-磷酸",
+      "to": "α-D-葡糖-1-磷酸",
+      "enzyme": "半乳糖-1-磷酸尿苷酰转移酶（GALT）",
+      "cofactors": ["UDP-葡糖"],
+      "note": "同时生成UDP-半乳糖；UDP-葡糖-4-差向异构酶（GALE）使其再转变为UDP-葡糖"
+    },
+    {
+      "from": "α-D-葡糖-1-磷酸",
+      "to": "α-D-葡糖-6-磷酸",
+      "enzyme": "磷酸葡糖变位酶1（PGM1）",
+      "reversible": true,
+      "note": "经由葡糖-1,6-二磷酸；产物是糖酵解中间物"
+    }
+  ]
+}

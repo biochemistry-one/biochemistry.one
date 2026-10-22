@@ -1,0 +1,21 @@
+{
+  "title": "Effects of n-3 Fatty Acid Supplements in Diabetes Mellitus",
+  "authors": "ASCEND Study Collaborative Group; Bowman L, Mafham M, Wallendszus K, Stevens W, Buck G, Barton J, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2018,
+  "doi": "10.1056/NEJMoa1804989",
+  "pmid": "30146932",
+  "registry": "ISRCTN60635500; NCT00135226",
+  "design": "rct",
+  "participants": 15480,
+  "followUp": "mean 7.4 years",
+  "population": "UK adults aged 40 years or older with diabetes of any type and no evidence of atherosclerotic cardiovascular disease; 2x2 factorial design with aspirin 100 mg",
+  "funder": "Supported by grants to the University of Oxford from the British Heart Foundation; the Clinical Trial Service Unit receives support from the UK Medical Research Council, the British Heart Foundation and Cancer Research UK. Capsules containing the n-3 fatty acids and matching placebo, along with funding for packaging, were provided by Mylan (and formerly by Solvay and Abbott), and Bayer provided aspirin and placebo; the companies and Bayer U.S. provided some funding for drug packaging. Mylan, Solvay and Abbott had nonvoting representation at steering committee meetings and provided comments regarding the trial design and draft manuscript but otherwise had no role in data collection or analysis or in the decision to submit.",
+  "funderRole": "several",
+  "inKindSupport": "n-3 fatty acid and olive-oil placebo capsules from Solvay, Abbott and Mylan; aspirin and placebo tablets from Bayer.",
+  "authorConflicts": "Haynes reported grant support from Boehringer Ingelheim and Novartis; Baigent from Pfizer, Merck, Novartis and Boehringer Ingelheim; Collins grant support and drug supplies from Merck and the Medicines Company.",
+  "dataAccess": "individual",
+  "result": "1-g capsule with 840 mg marine n-3 fatty acids (EPA 460 mg, DHA 380 mg) versus olive oil daily, 7740 patients per group, mean follow-up 7.4 years, adherence 76%. First serious vascular event 689 (8.9%) versus 712 (9.2%) (rate ratio 0.97, 95% CI 0.87 to 1.08); serious vascular event or revascularisation 882 (11.4%) versus 887 (11.5%) (1.00, 0.91 to 1.09); death from any cause 752 (9.7%) versus 788 (10.2%) (0.95, 0.86 to 1.05). In exploratory analyses, vascular death excluding intracranial haemorrhage 186 (2.4%) versus 228 (2.9%) (0.81, 0.67 to 0.99); intervals for secondary and exploratory outcomes were not adjusted for multiple comparisons.",
+  "class": "industry",
+  "fundingChecked": "https://ora.ox.ac.uk/objects/uuid:53aefe60-1c7a-4d6a-b863-41a42b54bb41"
+}

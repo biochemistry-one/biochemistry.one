@@ -1,0 +1,15 @@
+{
+  "title": "Re-evaluation of acesulfame K (E 950) as food additive",
+  "authors": "EFSA Panel on Food Additives and Flavourings (FAF), Castle L, Andreassen M, Aquilina G, Bastos ML, Boon P, et al.",
+  "journal": "EFSA Journal",
+  "year": 2025,
+  "doi": "10.2903/j.efsa.2025.9317",
+  "pmid": "40309404",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission (question number EFSA-Q-2011-00721).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Acesulfame K is 6-methyl-1,2,3-oxathiazin-4(3H)-one-2,2-dioxide potassium salt, approximately 200 times as sweet as sucrose; it is authorised in 34 food categories (47 uses), many of them restricted to energy-reduced foods or foods with no added sugar. It is almost fully absorbed, is not metabolised, has a half-life of 2 to 4 h and is excreted in urine; it crosses the placenta and passes into breast milk. ADI 15 mg/kg bw per day, from a NOAEL of 1500 mg/kg bw per day, the highest dose tested in a chronic toxicity and carcinogenicity study in rats, with an uncertainty factor of 100; it replaces the ADI of 9 mg/kg bw per day established by the SCF. The 95th percentile exposure estimates were generally below the ADI in all population groups.",
+  "class": "regulatory",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12041894"
+}

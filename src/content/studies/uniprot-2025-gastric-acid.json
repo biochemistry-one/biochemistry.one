@@ -1,0 +1,17 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "url": "https://www.uniprot.org/",
+  "design": "database",
+  "funder": "National Human Genome Research Institute [HG002273]; NIH Office of the Director [U24HG007822]; NIAID; NIA; NIGMS [R35GM141873]; NIDDK; NEI; NCI; NHLBI; BBSRC [BB/T015608/1]; National Science Foundation Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 [825575]; Swiss State Secretariat for Education, Research and Innovation; EMBL Australia.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed human UniProtKB entries, release 2026_03 (2 September 2026), read through rest.uniprot.org on 2026-10-22. ATP4A (P20648): catalytic subunit of the gastric H+/K+-ATPase of the parietal-cell apical membrane, K+(out) + ATP + H2O + H+(in) = K+(in) + ADP + phosphate + 2 H+(out), generating a million-fold proton gradient that acidifies gastric juice to pH 1; expressed in gastric parietal cells (at protein level). ATP4B (P51164): beta subunit required for assembly and membrane targeting and stabilising the E2 conformation. ATP12A (P54707): the non-gastric H+/K+-ATPase of apical epithelial membranes, involved in K+ absorption in kidney and colon and in airway mucus acidification; expressed in airway epithelium, skin, kidney and prostate; inhibited by ouabain and SCH-28080. GAST (P01350): gastrin stimulates gastric HCl secretion and pancreatic enzyme secretion. CCKBR (P32239): receptor for gastrin and cholecystokinin, expressed in brain, pancreas and stomach (high in fundic mucosa); also reduces intestinal SGLT1 and GLUT2 expression (by similarity). HDC (P19113): histidine decarboxylase forms histamine from histidine. CHGA (P10645): chromogranin A, secreted from neuroendocrine vesicles. CBLIF (P27352): intrinsic factor of the gastric mucosa, required for ileal cobalamin absorption; deficiency causes megaloblastic anaemia. TRPM6 (Q9BX84): channel crucial for Mg2+ homeostasis and active Mg2+ absorption in gut and kidney, highly expressed in kidney and colon; loss of function causes hypomagnesaemia with secondary hypocalcaemia. DDAH1 (O94760): hydrolyses asymmetric dimethylarginine (ADMA) and monomethylarginine, inhibitors of nitric oxide synthase, to citrulline; detected in brain, liver, kidney and pancreas. TCIRG1 (Q13488): a3 subunit of the V-type H+-ATPase that acidifies the extracellular space in some cell types, highly expressed in osteoclastomas; loss causes autosomal recessive osteopetrosis.",
+  "class": "reference",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11701636/fullTextXML"
+}

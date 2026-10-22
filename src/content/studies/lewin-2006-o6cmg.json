@@ -1,0 +1,19 @@
+{
+  "title": "Red meat enhances the colonic formation of the DNA adduct O6-carboxymethyl guanine: implications for colorectal cancer risk",
+  "authors": "Lewin MH, Bailey N, Bandaletova T, Bowman R, Cross AJ, Pollock J, et al.",
+  "journal": "Cancer Research",
+  "year": 2006,
+  "doi": "10.1158/0008-5472.CAN-05-2237",
+  "pmid": "16452248",
+  "design": "rct",
+  "participants": 21,
+  "followUp": "15 to 21 days on each diet",
+  "population": "Healthy volunteers living in a metabolic suite; randomised crossover of a 420 g/day red meat diet and a vegetarian diet, with a high-fibre red meat diet in 13",
+  "funder": "Grant support: UK Medical Research Council grant-in-aid and UK Food Standards Agency.",
+  "funderRole": "none",
+  "authorConflicts": "One author is affiliated with Pollock and Pool Ltd., Reading, UK; the article states no role for the company and contains no conflict-of-interest statement.",
+  "dataAccess": "individual",
+  "result": "Faecal apparent total N-nitroso compounds, vegetarian against red meat diet: 699 ± 120 against 4923 ± 1387 μg/kg (P < 0.0001); output 193 ± 43 against 667 ± 141 μg/day (P = 0.0002). Exfoliated colonocytes staining positive for O6-carboxymethylguanine: 22.7 ± 2.6% against 55.7 ± 3.3% (P < 0.001); faecal N-nitroso compounds correlated with the percentage of positive cells (r = 0.56, n = 55). The red meat was prepared to minimise heterocyclic amine content.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20250327103022/https://aacrjournals.org/cancerres/article/66/3/1859/526656/Red-Meat-Enhances-the-Colonic-Formation-of-the-DNA"
+}

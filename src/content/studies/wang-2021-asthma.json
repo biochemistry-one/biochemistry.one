@@ -1,0 +1,19 @@
+{
+  "title": "Association between proton pump inhibitor use and risk of asthma in children",
+  "authors": "Wang YH, Wintzell V, Ludvigsson JF, Svanström H, Pasternak B",
+  "journal": "JAMA Pediatrics",
+  "year": 2021,
+  "doi": "10.1001/jamapediatrics.2020.5710",
+  "pmid": "33555324",
+  "design": "cohort",
+  "participants": 161740,
+  "followUp": "median 3.0 years (interquartile range 2.1 to 3.0)",
+  "population": "Swedish children and adolescents 17 years or younger starting a PPI, 2007 to 2016, matched by age and propensity score with non-initiators (80,870 pairs)",
+  "funder": "This study was supported by the Swedish Research Council and Frimurare Barnhuset Foundation and an investigator grant from the Strategic Research Area Epidemiology program at Karolinska Institutet (Dr Pasternak). The sponsors had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Ludvigsson coordinates a register study funded by Janssen; Svanström received consulting fees from Celgene and is employed by IQVIA.",
+  "dataAccess": "individual",
+  "result": "Incident asthma 21.8 per 1000 person-years after PPI initiation against 14.0 among non-initiators (HR 1.57, 95% CI 1.49 to 1.64); HR 1.83 (1.65 to 2.03) for initiation before 6 months of age and 1.91 (1.65 to 2.22) from 6 months to under 2 years; high-dimensional propensity score matching HR 1.48 (1.41 to 1.55).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7871209/fullTextXML"
+}

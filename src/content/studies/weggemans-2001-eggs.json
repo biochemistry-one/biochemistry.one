@@ -1,0 +1,18 @@
+{
+  "title": "Dietary cholesterol from eggs increases the ratio of total cholesterol to high-density lipoprotein cholesterol in humans: a meta-analysis",
+  "authors": "Weggemans RM, Zock PL, Katan MB",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2001,
+  "doi": "10.1093/ajcn/73.5.885",
+  "pmid": "11333841",
+  "design": "meta-analysis",
+  "participants": 556,
+  "population": "17 controlled trials with parallel or crossover design in which diets differed only in cholesterol or egg content and were fed for at least 14 days",
+  "funder": "Supported by the Netherlands Heart Foundation (grant number 95.118).",
+  "funderRole": "none",
+  "authorConflicts": "No conflict statement; the authors were affiliated with Wageningen University and the Wageningen Centre for Food Sciences.",
+  "dataAccess": "summary",
+  "result": "17 trials, 24 dietary comparisons, 556 subjects. Each additional 100 mg dietary cholesterol per day raised the ratio of total to HDL cholesterol by 0.020 (95% CI 0.010 to 0.030), total cholesterol by 0.056 mmol/L (0.046 to 0.065) and HDL cholesterol by 0.008 mmol/L (0.005 to 0.010). Taking one egg as 200 mg cholesterol, one additional egg daily was predicted to raise LDL cholesterol by 0.100 ± 0.008 mmol/L and the total-to-HDL ratio by 0.041 ± 0.011. Per 100 mg, LDL cholesterol rose by 0.036 ± 0.004 mmol/L in studies with background diets low in saturated fat and by 0.061 ± 0.006 mmol/L with diets high in saturated fat (P = 0.03). Diet-induced changes vary considerably between individuals.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20180113132940/http://ajcn.nutrition.org:80/content/73/5/885.full"
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Bacterial degradation of pectin to pyruvate",
+  "layout": "chain",
+  "compartment": "Colonic lumen; periplasm and cytosol of pectin-fermenting bacteria",
+  "steps": [
+    {
+      "from": "Pectin (methyl-esterified homogalacturonan)",
+      "to": "Polygalacturonate",
+      "enzyme": "Pectin methylesterase (EC 3.1.1.11)",
+      "cofactors": ["H2O"],
+      "note": "Hydrolyses galacturonate methyl esters, releasing methanol and H+"
+    },
+    {
+      "from": "Polygalacturonate",
+      "to": "D-Galacturonate",
+      "enzyme": "several steps",
+      "note": "Endo-lyases or endo-hydrolases; exo-α-galacturonidases release galacturonate"
+    },
+    {
+      "from": "D-Galacturonate",
+      "to": "D-Tagaturonate",
+      "enzyme": "Uronate isomerase (UxaC, EC 5.3.1.12)",
+      "reversible": true
+    },
+    {
+      "from": "D-Tagaturonate",
+      "to": "D-Altronate",
+      "enzyme": "Altronate oxidoreductase (UxaB, EC 1.1.1.58)",
+      "cofactors": ["NADH + H+ → NAD+"],
+      "reversible": true
+    },
+    {
+      "from": "D-Altronate",
+      "to": "2-Dehydro-3-deoxy-D-gluconate",
+      "enzyme": "Altronate dehydratase (UxaA, EC 4.2.1.7)",
+      "cofactors": ["Fe2+"],
+      "note": "Releases H2O; product also named 2-keto-3-deoxygluconate (KDG)"
+    },
+    {
+      "from": "2-Dehydro-3-deoxy-D-gluconate",
+      "to": "2-Dehydro-3-deoxy-6-phospho-D-gluconate",
+      "enzyme": "2-Dehydro-3-deoxygluconokinase (KdgK, EC 2.7.1.45)",
+      "cofactors": ["ATP → ADP"]
+    },
+    {
+      "from": "2-Dehydro-3-deoxy-6-phospho-D-gluconate",
+      "to": "Pyruvate",
+      "enzyme": "KDPG aldolase (Eda, EC 4.1.2.14)",
+      "note": "Also yields D-glyceraldehyde 3-phosphate"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "When bioequivalence in healthy volunteers may not translate to bioequivalence in patients: differential effects of increased gastric pH on the pharmacokinetics of levothyroxine capsules and tablets",
+  "authors": "Seng Yue C, Benvenga S, Scarsi C, Loprete L, Ducharme MP",
+  "journal": "Journal of Pharmacy and Pharmaceutical Sciences",
+  "year": 2015,
+  "doi": "10.18433/j36p5m",
+  "pmid": "26670370",
+  "design": "rct",
+  "participants": 32,
+  "followUp": "24 hours after each single dose; washout of 45 days between periods",
+  "population": "Healthy men aged 18 to 50 years weighing 70 to 80 kg; 14 of 16 evaluated in study 1 (6 capsule, 8 tablet) and 15 of 16 in study 2",
+  "funder": "These studies were funded by IBSA Institut Biochimique SA., Switzerland.",
+  "funderRole": "unknown",
+  "authorConflicts": "No conflict statement in the article. Affiliations: C Scarsi, IBSA Institut Biochimique SA; L Loprete, CROSS Metrics S.A.; C Seng Yue and MP Ducharme, Learn and Confirm Inc.",
+  "dataAccess": "unknown",
+  "result": "Single 600 mcg doses of Synthroid tablets (Abbott) or Tirosint soft-gel capsules (IBSA) under fasting conditions, with or without intravenous esomeprazole up to 80 mg. Intragastric pH about 1.0 to 2.0 without and about 5.4 to 6.2 with esomeprazole. Study 1, esomeprazole against none, baseline-adjusted: tablets Cmax ratio 87.32% (90% CI 79.63 to 95.76), AUC0-12 83.22% (72.85 to 95.06), AUC0-t 89.61% (79.65 to 100.81); capsules Cmax 94.28% (73.36 to 121.16), AUC0-t 92.18% (71.21 to 119.34). Study 2, tablets against capsules after esomeprazole: Cmax 83.81% (72.27 to 97.19), AUC0-t 84.38% (70.87 to 100.47).",
+  "class": "industry",
+  "fundingChecked": "https://journals.library.ualberta.ca/jpps/index.php/JPPS/article/download/25337/19209"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Odd-chain fatty acids as a biomarker for dietary fiber intake: a novel pathway for endogenous production from propionate",
+  "authors": "Weitkunat K, Schumann S, Nickel D, Hornemann S, Petzke KJ, Schulze MB, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2017,
+  "doi": "10.3945/ajcn.117.152702",
+  "pmid": "28424190",
+  "registry": "DRKS00010121",
+  "design": "rct",
+  "participants": 16,
+  "followUp": "7 days per supplement, crossover",
+  "population": "Healthy adults given cellulose 30 g/day, inulin 30 g/day or propionate 6 g/day; human hepatoma cells",
+  "funder": "Core budget of the German Institute of Human Nutrition Potsdam-Rehbruecke and German Research Foundation (DFG; KL613/18-1).",
+  "funderRole": "none",
+  "inKindSupport": "Propionate (Propicum) from Flexopharm GmbH & Co. KG, cellulose (Vivapur 105) from J Rettenmaier und Soehne GmbH, inulin (Fibruline DS2) from Georg Breuer GmbH.",
+  "dataAccess": "summary",
+  "result": "Cellulose did not change plasma phospholipid odd-chain fatty acids; inulin and propionate raised pentadecanoic acid (15:0) by about 17% (P < 0.05) and 13% (P = 0.05) and heptadecanoic acid (17:0) by 11% (P < 0.01) and 13% (P < 0.001). In hepatoma cells propionate correlated with odd-chain fatty acid levels (R2 = 0.99). The authors conclude that gut-derived propionate is used for hepatic odd-chain fatty acid synthesis in humans.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240419070751/https://www.sciencedirect.com/science/article/pii/S0002916522049280"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Xanthan gum intake modifies the colon microbiota profile and causes mild colon inflammation in rats",
+  "authors": "Silva Rischiteli AB, Silva-Neto AF, Maza PK, Boldarine VT, Ribeiro DA, Moura CFG, et al.",
+  "journal": "PLoS One",
+  "year": 2026,
+  "doi": "10.1371/journal.pone.0347232",
+  "pmid": "41984887",
+  "design": "animal",
+  "population": "32 male Wistar rats, 8 per group, fed from 90 to 160 days of age a control diet or the same diet with 462.5, 925 or 1,850 mg xanthan gum per kg of diet",
+  "funder": "CMO received funding from FAPESP (The São Paulo Research Foundation), number 2018/16470-0. The funder acts as a funding agency that supports research projects financially. It had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "The authors have declared that no competing interests exist.",
+  "dataAccess": "individual",
+  "result": "Body weight gain, food intake, food efficiency, adiposity, glycaemia and serum lipids did not differ between groups. The histological inflammation score of the distal colon was higher than control at 925 and 1,850 mg/kg diet (2.0 ± 1.2 and 1.2 ± 1.3 against 0.2 ± 0.4, p ≤ 0.05), with mononuclear, chiefly lymphocytic, infiltration of the intestinal wall on haematoxylin and eosin staining. Colonic IL-1beta was 18.29 ± 2.68 pg/mg protein at 925 mg/kg against 11.41 ± 0.94 in controls (p ≤ 0.05) and 8.87 ± 1.25 at 1,850 mg/kg (p ≤ 0.05 against 925 mg/kg); IL-6 and TNF-alpha concentrations did not differ between groups (TNF-alpha median 0.04 pg/mg protein in every group). TNF-alpha and claudin-2 immunostaining scores were higher than control at all three doses (TNF-alpha 2.0 ± 0.7, 1.4 ± 0.8 and 1.4 ± 0.5 against 0.4 ± 0.5). Claudin-2 content (1.04 ± 0.43 against 0.31 ± 0.03 ng/mg protein) and ZO-1 content (83.69 ± 10.69 against 46.04 ± 5.29 pg/mg protein) were higher than control only at 462.5 mg/kg; occludin did not differ. Relative abundance of Firmicutes and Bacteroidetes, their ratio and alpha diversity were unchanged; Elusimicrobiota abundance was higher at 1,850 mg/kg than in the control and 462.5 mg/kg groups (p < 0.04). Doses were set by body surface area conversion to mimic a gluten-free diet and mild or moderate oropharyngeal dysphagia managed with a xanthan gum thickener.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13082600/"
+}

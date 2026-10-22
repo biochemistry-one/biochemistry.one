@@ -1,0 +1,18 @@
+{
+  "title": "Co-trimoxazole and sudden death in patients receiving inhibitors of renin-angiotensin system: population based study",
+  "authors": "Fralick M, Macdonald EM, Gomes T, Antoniou T, Hollands S, Mamdani MM, et al.",
+  "journal": "BMJ",
+  "year": 2014,
+  "doi": "10.1136/bmj.g6196",
+  "pmid": "25359996",
+  "design": "case-control",
+  "followUp": "1 April 1994 to 1 January 2012; exposure windows of 7 and 14 days after an antibiotic prescription",
+  "population": "Ontario residents aged 66 years or older treated with an ACE inhibitor or angiotensin receptor blocker; cases died suddenly shortly after an outpatient prescription of co-trimoxazole, amoxicillin, ciprofloxacin, norfloxacin or nitrofurantoin, each matched with up to four controls on age, sex, chronic kidney disease and diabetes",
+  "funder": "This study was supported in part by a grant from the Canadian Drug Safety and Effectiveness Research Network (CDSERN) and by the Institute for Clinical Evaluative Sciences (ICES), a non-profit research institute sponsored by the Ontario Ministry of Health and Long-Term Care (MOHLTC). The opinions, results and conclusions reported in this paper are those of the authors and are independent from the funding sources.",
+  "funderRole": "none",
+  "authorConflicts": "Mamdani has served on advisory boards or received honorariums from AstraZeneca, Bristol-Myers Squibb, Eli Lilly, GlaxoSmithKline, Hoffmann-La Roche, Novartis, Novo Nordisk and Pfizer.",
+  "dataAccess": "individual",
+  "result": "Of 39,879 sudden deaths, 1027 occurred within 7 days of an antibiotic prescription and were matched to 3733 controls. Against amoxicillin, co-trimoxazole was associated with sudden death, adjusted odds ratio 1.38 (95% CI 1.09 to 1.76) within 7 days and 1.54 (1.29 to 1.84) within 14 days, corresponding to approximately three sudden deaths within 14 days per 1000 co-trimoxazole prescriptions. Ciprofloxacin, which prolongs the QT interval, gave 1.29 (1.03 to 1.62); nitrofurantoin and norfloxacin showed no such risk. The authors propose unrecognised severe hyperkalaemia as the mechanism.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4214638/"
+}

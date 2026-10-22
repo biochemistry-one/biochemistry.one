@@ -1,0 +1,19 @@
+{
+  "title": "Effect of amlodipine on the survival of patients with severe chronic heart failure due to a nonischemic cardiomyopathy: results of the PRAISE-2 study (Prospective Randomized Amlodipine Survival Evaluation 2)",
+  "authors": "Packer M, Carson P, Elkayam U, Konstam MA, Moe G, O'Connor C, et al.; PRAISE-2 Study Group",
+  "journal": "JACC: Heart Failure",
+  "year": 2013,
+  "doi": "10.1016/j.jchf.2013.04.004",
+  "pmid": "24621933",
+  "design": "rct",
+  "participants": 1654,
+  "followUp": "median 33 months",
+  "population": "Patients with severe heart failure due to a non-ischaemic cardiomyopathy and ejection fraction below 30% on conventional heart failure therapy",
+  "funder": "This research was supported by a grant from Pfizer, Inc.",
+  "funderRole": "unknown",
+  "authorConflicts": "Packer reports consultant's fees from Pfizer and other companies; Konstam research support or consultant's fees from Pfizer and others; DeMets honoraria for industry-sponsored data-monitoring committees.",
+  "dataAccess": "unknown",
+  "result": "Amlodipine (target 10 mg daily) against placebo: 278 against 262 deaths (hazard ratio 1.09, 95% CI 0.92 to 1.29, p=0.33); cardiovascular death and hospitalisation did not differ significantly. Combined with the non-ischaemic patients of PRAISE, the hazard ratio for death was 0.97 (0.83 to 1.13). Both trials observed more peripheral and pulmonary oedema and less uncontrolled hypertension and chest pain with amlodipine. The authors conclude that amlodipine does not exert favourable effects in heart failure and that striking subgroup benefits call for great caution.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20201112005504/https://www.sciencedirect.com/science/article/pii/S2213177913001844"
+}

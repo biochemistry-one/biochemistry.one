@@ -1,0 +1,17 @@
+{
+  "title": "The role of SGLT1 and GLUT2 in intestinal glucose transport and sensing",
+  "authors": "Röder PV, Geillinger KE, Zietek TS, Thorens B, Koepsell H, Daniel H",
+  "journal": "PLoS One",
+  "year": 2014,
+  "doi": "10.1371/journal.pone.0089977",
+  "pmid": "24587162",
+  "design": "animal",
+  "population": "SGLT1-deficient and GLUT2-deficient (RIPGLUT1 x GLUT2) mice and wild-type controls fed a sugar-free diet, fasted 6 hours and given 4 g/kg glucose by gavage",
+  "funder": "The work was supported by the Deutsche Forschungsgemeinschaft (GZ DA 190/10-1, Nutra2Sense). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "The authors have declared that no competing interests exist.",
+  "dataAccess": "summary",
+  "result": "After a 4 g/kg intragastric glucose bolus, giving about 160 mM luminal glucose, SGLT1-deficient mice retained 80% less glucose tracer in intestinal tissue and had 73% less tracer in plasma than wild-type mice (4 to 5 mice per group), and their GIP and GLP-1 responses were abolished. Immunostaining showed GLUT2 in the basolateral but not the apical membrane; GLUT2 in brush-border membrane fractions was attributed mainly to basolateral contamination and did not change after the bolus (3 mice per group). The authors find no evidence for apical GLUT2 in glucose influx and expect the controversy to continue.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3935955/fullTextXML"
+}

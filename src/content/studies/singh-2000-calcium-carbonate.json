@@ -1,0 +1,18 @@
+{
+  "title": "Effect of calcium carbonate on the absorption of levothyroxine",
+  "authors": "Singh N, Singh PN, Hershman JM",
+  "journal": "JAMA",
+  "year": 2000,
+  "doi": "10.1001/jama.283.21.2822",
+  "pmid": "10838651",
+  "design": "cohort",
+  "participants": 20,
+  "followUp": "3 months of calcium carbonate with levothyroxine, then 2 months after stopping calcium",
+  "population": "Patients with hypothyroidism on stable levothyroxine (Synthroid) at a Veterans Affairs endocrine clinic; before-during-after design without a control group, plus in vitro binding experiments",
+  "funder": "Funding statement not read: the publisher page displayed no funding or acknowledgment section, although PubMed indexes the article as research supported by non-US-government sources.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "1200 mg/d of elemental calcium as calcium carbonate was taken together with levothyroxine for 3 months. Mean free T4 was 17 pmol/l before, 15 during and 18 after calcium; mean TSH 1.6, 2.7 and 1.4 mIU/l (P = .008). TSH rose in 13 of 20 patients during calcium and exceeded the normal range in 4 (20%), highest 7.8 mIU/l. In vitro, T4 adsorbed to calcium carbonate at acidic pH (52% of T4 left in supernatant at 400 mg/ml at pH 2.0) but not at pH 7.4.",
+  "class": "undetermined",
+  "fundingChecked": "https://jamanetwork.com/journals/jama/fullarticle/192748"
+}

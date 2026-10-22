@@ -1,0 +1,16 @@
+{
+  "title": "Trends in National Institutes of Health funding for clinical trials registered in ClinicalTrials.gov",
+  "authors": "Ehrhardt S, Appel LJ, Meinert CL",
+  "journal": "JAMA",
+  "year": 2015,
+  "doi": "10.1001/jama.2015.12206",
+  "pmid": "26670975",
+  "design": "cross-sectional",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "authorConflicts": "Appel reported NIH grants to conduct clinical trials; Meinert reported NIH grants and industry funding to conduct clinical trials.",
+  "dataAccess": "summary",
+  "result": "Newly registered interventional trials by year first received, 2006 to 2014: NIH-funded 1376 to 1048 (328 fewer, 24%); industry-funded 4585 to 6550 (1965 more, 43%); all trials 9321 to 18,400.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919115/"
+}

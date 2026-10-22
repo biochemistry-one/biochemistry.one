@@ -1,0 +1,17 @@
+{
+  "title": "Dipeptidyl peptidase-IV inhibitor use associated with increased risk of ACE inhibitor-associated angioedema",
+  "authors": "Brown NJ, Byiers S, Carr D, Maldonado M, Warner BA",
+  "journal": "Hypertension",
+  "year": 2009,
+  "doi": "10.1161/HYPERTENSIONAHA.109.134197",
+  "pmid": "19581505",
+  "design": "meta-analysis",
+  "population": "Patients in phase III randomised trials of the DPP-4 inhibitor vildagliptin against comparator, with adjudicated angio-oedema events and concurrent ACE inhibitor or angiotensin receptor blocker use from case report forms",
+  "funder": "This work was funded by Novartis Pharmaceuticals and Novartis Pharma AG. Dr. Brown also received support from National Institutes of Health grant R01 HL079184.",
+  "funderRole": "several",
+  "authorConflicts": "Byiers, Maldonado and Warner are employed by Novartis and Carr works at Novartis; Brown has received consulting fees from Novartis, consults for Merck, maker of sitagliptin, and holds a patent for identifying susceptibility to ACE-inhibitor angio-oedema.",
+  "dataAccess": "individual",
+  "result": "Overall, vildagliptin was not associated with angio-oedema. Among patients taking an ACE inhibitor, confirmed angio-oedema occurred in 14 of 2754 vildagliptin users against 1 of 1819 comparator users (odds ratio 4.57, 95% CI 1.57 to 13.28). The authors propose reduced degradation of substance P, a DPP-4 substrate, and describe the absolute risk as small.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2758288/"
+}

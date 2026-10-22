@@ -1,0 +1,20 @@
+{
+  "title": "Antihypertensive treatment and risk of cancer: an individual participant data meta-analysis",
+  "authors": "Copland E, Canoy D, Nazarzadeh M, Bidel Z, Ramakrishnan R, Woodward M, et al.; Blood Pressure Lowering Treatment Trialists' Collaboration",
+  "journal": "Lancet Oncology",
+  "year": 2021,
+  "doi": "10.1016/S1470-2045(21)00033-4",
+  "pmid": "33794209",
+  "registry": "PROSPERO CRD42018099283",
+  "design": "meta-analysis",
+  "participants": 260447,
+  "followUp": "median 4.2 years (IQR 3.0 to 5.0)",
+  "population": "Individual participant data from 33 randomised trials comparing one blood-pressure-lowering class with placebo, inactive control or another class, each with at least 1000 participant-years per group and cancer event information",
+  "funder": "British Heart Foundation, National Institute for Health Research, Oxford Martin School. The funder of the study had no role in study design, data collection, data analysis, data interpretation or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "Woodward reports personal fees from Amgen, Kyowa Kirin and Freeline; Kjeldsen reports lecture honoraria from Merck and Sanofi and study committee honoraria from Takeda; further declarations are listed in the paper.",
+  "dataAccess": "individual",
+  "result": "15,012 cancer events. Comparing each class with all other comparators, no class was associated with any cancer except calcium channel blockers (hazard ratio 1.06, 95% CI 1.01 to 1.11); ACE inhibitors 0.99 (0.95 to 1.04), angiotensin receptor blockers 0.96 (0.92 to 1.01), beta blockers 0.98 (0.89 to 1.07), thiazides 1.01 (0.95 to 1.07). Against placebo in the network analysis, calcium channel blockers 1.04 (0.96 to 1.13). The authors state that evidence was insufficient to rule out excess risk entirely, in particular for calcium channel blockers.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8024901/"
+}

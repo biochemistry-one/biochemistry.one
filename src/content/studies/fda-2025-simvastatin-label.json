@@ -1,0 +1,14 @@
+{
+  "title": "ZOCOR (simvastatin) tablets, for oral use: full prescribing information",
+  "authors": "US Food and Drug Administration (labelling submitted by Organon LLC)",
+  "journal": "US Food and Drug Administration approved prescribing information, via DailyMed; version 11, effective 28 March 2025",
+  "year": 2025,
+  "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9",
+  "design": "regulatory",
+  "funder": "not stated; FDA-approved labelling carries no funding statement",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Simvastatin is a lactone prodrug hydrolysed after administration to its active beta-hydroxyacid form, simvastatin acid; simvastatin acid and its metabolites inhibit HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate. Inhibition of HMG-CoA reductase by simvastatin acid accelerates the expression of LDL receptors, followed by uptake of LDL cholesterol from blood into the liver and a fall in plasma LDL cholesterol. Because simvastatin undergoes extensive first-pass extraction in the liver, its availability to the general circulation is below 5%. Simvastatin is metabolised by CYP3A4, and simvastatin acid is a substrate of the transport protein OATP1B1. Contraindicated with strong CYP3A4 inhibitors and with ciclosporin, danazol or gemfibrozil. In clinical studies of 24,747 simvastatin-treated patients (median follow-up 4 years), myopathy (muscle symptoms with creatine kinase above 10 times the upper limit of normal) occurred in about 0.03%, 0.08% and 0.61% on 20, 40 and 80 mg daily; in a study of 12,064 patients with previous myocardial infarction (mean 6.7 years), in about 0.02% on 20 mg and 0.9% on 80 mg. Discontinue if markedly elevated creatine kinase occurs or myopathy is diagnosed or suspected.",
+  "class": "regulatory",
+  "fundingChecked": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/8f55d5de-5a4f-4a39-8c84-c53976dd6af9.xml"
+}

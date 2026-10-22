@@ -1,0 +1,18 @@
+{
+  "title": "Maternal exposure to angiotensin converting enzyme inhibitors in the first trimester and risk of malformations in offspring: a retrospective cohort study",
+  "authors": "Li DK, Yang C, Andrade S, Tavares V, Ferber JR",
+  "journal": "BMJ",
+  "year": 2011,
+  "doi": "10.1136/bmj.d5931",
+  "pmid": "22010128",
+  "design": "cohort",
+  "participants": 465754,
+  "population": "Mother-infant pairs with live births in Kaiser Permanente Northern California, 1995 to 2008",
+  "funder": "This project was funded under Contract No 290050033I from the Agency for Healthcare Research and Quality, US Department of Health and Human Services as part of the Developing Evidence to Inform Decisions about Effectiveness (DEcIDE) programme. The Food and Drug Administration, Office of Women's Health also contributed funds. The authors of this report are responsible for its content.",
+  "funderRole": "none",
+  "authorConflicts": "No financial relationships with any organisations that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "individual",
+  "result": "First-trimester-only ACE inhibitor use 0.9 per 1000 pregnancies. Against women with neither hypertension nor antihypertensives, congenital heart defects occurred in 15 of 381 (3.9%) exposed to ACE inhibitors against 6232 of 400,021 (1.6%), odds ratio 1.54 (95% CI 0.90 to 2.62), and other antihypertensives gave 1.52 (1.04 to 2.21). Against women with untreated hypertension (708 of 29,735, 2.4%), neither ACE inhibitors (1.14, 0.65 to 1.98) nor other antihypertensives (1.12, 0.76 to 1.64) were associated with congenital heart defects; the authors attribute the apparent excess to the underlying hypertension.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3196564/"
+}

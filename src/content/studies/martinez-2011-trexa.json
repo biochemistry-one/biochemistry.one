@@ -1,0 +1,21 @@
+{
+  "title": "Use of beclomethasone dipropionate as rescue treatment for children with mild persistent asthma (TREXA): a randomised, double-blind, placebo-controlled trial",
+  "authors": "Martinez FD, Chinchilli VM, Morgan WJ, Boehmer SJ, Lemanske RF Jr, Mauger DT, et al.",
+  "journal": "Lancet",
+  "year": 2011,
+  "doi": "10.1016/S0140-6736(10)62145-9",
+  "pmid": "21324520",
+  "registry": "NCT00394329",
+  "design": "rct",
+  "participants": 288,
+  "followUp": "44 weeks",
+  "population": "Children and adolescents aged 5-18 years with mild persistent asthma at five clinical centres in the USA; 843 enrolled and 288 randomised after run-in",
+  "funder": "The study was funded by grants from the National Heart, Lung and Blood Institute, which also established and managed the independent data and safety monitoring board. The corresponding author had full responsibility for study design, data collection, statistical analysis, interpretation and writing, and the authors had complete independence over the conduct, integrity and publication of the study.",
+  "funderRole": "none",
+  "inKindSupport": "TEVA Pharmaceutical Industries provided beclomethasone dipropionate-HFA and placebo.",
+  "authorConflicts": "Several authors reported consulting fees, honoraria or grant support from manufacturers of asthma medicines; the remaining authors declared no conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "Four arms, each with albuterol 180 µg as rescue: twice-daily beclomethasone plus beclomethasone as rescue (combined, n = 71), twice-daily beclomethasone (daily, n = 72), beclomethasone as rescue only (rescue, n = 71) and placebo, that is rescue albuterol alone (n = 74). The probability of a first exacerbation requiring oral corticosteroids by 44 weeks was 49% (95% CI 37 to 61) with rescue albuterol alone, 28% (18 to 40) with daily beclomethasone (hazard ratio 0.49, 0.28 to 0.85; Hochberg-adjusted p = 0.033), 31% (21 to 43) with combined treatment and 35% (24 to 47) with rescue beclomethasone. Treatment failure occurred in 17 of 74 (23%) with albuterol alone, 2 of 72 (2.8%) with daily beclomethasone, 4 of 71 (5.6%) with combined treatment and 6 of 71 (8.5%) with rescue beclomethasone. Children in the daily and combined arms grew 1.1 cm (SD 0.3) less than the placebo arm (p < 0.0001); growth in the rescue arm did not differ (0.3 cm, SD 0.2, p = 0.26). Albuterol use increased in all participants during the trial, without difference between treatment groups.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4852146/"
+}

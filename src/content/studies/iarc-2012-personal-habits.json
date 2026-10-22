@@ -1,0 +1,16 @@
+{
+  "title": "Personal habits and indoor combustions",
+  "authors": "IARC Working Group on the Evaluation of Carcinogenic Risks to Humans",
+  "journal": "IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, volume 100E",
+  "year": 2012,
+  "pmid": "23193840",
+  "url": "https://publications.iarc.who.int/122",
+  "design": "other",
+  "population": "Working Group meeting in Lyon, 29 September to 6 October 2009; chapter on consumption of alcoholic beverages",
+  "funder": "This programme has been supported since 1982 by Cooperative Agreement U01 CA33193 with the United States National Cancer Institute, Department of Health and Human Services. Additional support has been provided since 1986 by the Health, Safety and Hygiene at Work Unit of the European Commission Directorate-General for Employment, Social Affairs and Equal Opportunities, and since 1992 by the United States National Institute of Environmental Health Sciences. This volume was made possible, in part, through Cooperative Agreement CR 834012 with the United States Environmental Protection Agency. The contents of this volume are solely the responsibility of the Working Group.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Alcohol consumption, ethanol in alcoholic beverages and acetaldehyde associated with the consumption of alcoholic beverages are carcinogenic to humans (Group 1). Alcohol consumption causes cancers of the oral cavity, pharynx, larynx, oesophagus, colorectum, liver (hepatocellular carcinoma) and female breast. Acetaldehyde associated with alcohol consumption causes cancers of the oesophagus and of the upper aerodigestive tract combined. Sufficient epidemiological evidence shows that humans deficient in the oxidation of acetaldehyde to acetate have a substantially increased risk of alcohol-related cancers, in particular of the oesophagus and the upper aerodigestive tract.",
+  "class": "consensus",
+  "fundingChecked": "https://publications.iarc.who.int/download/mono100E-1.pdf"
+}

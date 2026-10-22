@@ -1,0 +1,15 @@
+{
+  "title": "Dietary reference values for vitamin D",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA)",
+  "journal": "EFSA Journal",
+  "year": 2016,
+  "doi": "10.2903/j.efsa.2016.4547",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (question EFSA-Q-2011-01230); adopted 29 June 2016. Preparatory meta-regression data came from a review undertaken for EFSA by an external contractor (Brouwer-Brolsma et al., 2016).",
+  "funderRole": "none",
+  "authorConflicts": "In line with EFSA's policy on declarations of interest, Panel member Harry McArdle did not participate in the development and adoption of this opinion; individual declarations not read.",
+  "dataAccess": "summary",
+  "result": "Average requirements and population reference intakes could not be derived; a serum 25-hydroxyvitamin D of 50 nmol/L was chosen as the target value for all population groups and adequate intakes set at 15 µg/day for adults and children aged 1 to 17 years and 10 µg/day for infants aged 7 to 11 months, from a meta-regression of 83 trial arms (35 studies) conducted under minimal cutaneous synthesis; with cutaneous synthesis the dietary requirement is lower or may be zero. Skin synthesis depends on latitude, season, ozone and cloud, surface reflection, time outdoors, sunscreen, clothing, skin colour and age; the 'vitamin D winter' runs November to February in Rome (41.9°N), October to April in Berlin and Amsterdam (about 52.5°N) and early October to mid-March in Tromsø (69.4°N). Synthesis is lower in dark than in light skin and decreases with age. UV-B photodegrades previtamin D3 and vitamin D3 to inert isomers, which prevents toxicity from prolonged sun exposure; vitamin D intoxication by UV-B has not been reported. 25-hydroxyvitamin D has a mean half-life of about 13 to 15 days; in the kidney 1,25-dihydroxyvitamin D stimulates PTH-dependent tubular calcium reabsorption, and it suppresses PTH gene expression and parathyroid cell proliferation.",
+  "class": "regulatory",
+  "fundingChecked": "http://web.archive.org/web/20221220174053/https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2016.4547"
+}

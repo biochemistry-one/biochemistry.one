@@ -1,0 +1,18 @@
+{
+  "title": "Association of semaglutide with risk of suicidal ideation in a real-world cohort",
+  "authors": "Wang W, Volkow ND, Berger NA, Davis PB, Kaelber DC, Xu R",
+  "journal": "Nature Medicine",
+  "year": 2024,
+  "doi": "10.1038/s41591-023-02672-2",
+  "pmid": "38182782",
+  "design": "cohort",
+  "followUp": "6 months; up to 3 years in the type 2 diabetes cohort",
+  "population": "TriNetX electronic health records: 240,618 patients with overweight or obesity prescribed semaglutide or non-GLP-1 anti-obesity drugs (June 2021 to December 2022), replicated in 1,589,855 patients with type 2 diabetes (December 2017 to May 2021); propensity-matched",
+  "funder": "Supported by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Aging and the National Cancer Institute Case Comprehensive Cancer Center. The funding sources had no role in design, execution, analysis, data interpretation or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing interests.",
+  "dataAccess": "summary",
+  "result": "In overweight or obesity, incident suicidal ideation over 6 months occurred in 0.11% on semaglutide against 0.43% on non-GLP-1 anti-obesity drugs (52,783 per matched group; hazard ratio 0.27, 95% CI 0.20 to 0.36), and recurrent ideation in 6.5% against 14.1% (865 per group; 0.44, 0.32 to 0.60). In type 2 diabetes incident ideation was 0.13% against 0.36% (0.36, 0.25 to 0.53), attenuated at 3 years (0.58, 0.49 to 0.72). The comparator anti-obesity drugs included bupropion, naltrexone and topiramate. The authors note reverse causality as a limitation of the short follow-up.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11034947/"
+}

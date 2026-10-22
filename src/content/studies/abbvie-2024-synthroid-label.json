@@ -1,0 +1,14 @@
+{
+  "title": "SYNTHROID (levothyroxine sodium) tablets, for oral use",
+  "authors": "AbbVie Inc.; approved by the US Food and Drug Administration",
+  "journal": "US Food and Drug Administration, Drugs@FDA, NDA 021402, prescribing information revised February 2024",
+  "year": 2024,
+  "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/021402s038lbl.pdf",
+  "design": "regulatory",
+  "funder": "Labelling prepared by the applicant, AbbVie Inc., and approved by the US Food and Drug Administration as supplement 038 to NDA 021402 on 20 February 2024.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Synthetic T4, chemically identical to thyroidal T4, indicated for primary, secondary and tertiary hypothyroidism and as an adjunct for TSH suppression in thyrotropin-dependent well-differentiated thyroid cancer. Narrow therapeutic index. Once daily on an empty stomach, half to one hour before breakfast, and at least 4 hours apart from drugs that interfere with absorption, including phosphate binders such as calcium carbonate and ferrous sulfate; gastric acidity is required for absorption, and proton pump inhibitors, sucralfate and antacids may reduce it. Absorption 40% to 80%, mostly in the jejunum and upper ileum, increased by fasting. T4 is 99.96% protein-bound; half-life 6 to 7 days in euthyroid patients, 9 to 10 days in hypothyroidism and 3 to 4 days in hyperthyroidism. About 80% of circulating T3 derives from peripheral monodeiodination of T4. Adult full replacement 1.6 mcg/kg/day, titrated by 12.5 to 25 mcg every 4 to 6 weeks; TSH is checked 6 to 8 weeks after a dose change; peak effect may take 4 to 6 weeks; in primary hypothyroidism the dose is titrated to a normal TSH, in secondary or tertiary hypothyroidism to free T4. Atrial fibrillation is the most common arrhythmia of overtreatment in the elderly; over-replacement may increase bone resorption and decrease bone mineral density, particularly in postmenopausal women. If cardiac symptoms develop or worsen, the dose is reduced or withheld for one week and restarted lower. Replacement therapy is generally taken for life.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/021402s038lbl.pdf"
+}

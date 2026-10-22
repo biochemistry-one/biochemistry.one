@@ -1,0 +1,19 @@
+{
+  "title": "Reduced-function SLC22A1 polymorphisms encoding organic cation transporter 1 and glycemic response to metformin: a GoDARTS study",
+  "authors": "Zhou K, Donnelly LA, Kimber CH, Donnan PT, Doney AS, Leese G, et al.",
+  "journal": "Diabetes",
+  "year": 2009,
+  "doi": "10.2337/db08-0896",
+  "pmid": "19336679",
+  "design": "genetic",
+  "participants": 3450,
+  "followUp": "maximum HbA1c reduction within 18 months; average HbA1c on monotherapy from 6 to 42 months",
+  "population": "Patients with type 2 diabetes in Tayside, Scotland, who were incident users of metformin, from the Diabetes Audit and Research in Tayside Scotland database",
+  "funder": "This research was specifically funded by Diabetes UK (grant 07/0003525). The Wellcome Trust provided support for the Wellcome Trust U.K. Type 2 Diabetes Case Control Collection and funded the Scottish Health Informatics Programme; informatics support was provided by the Chief Scientist Office, which also funds a Clinician Scientist award held by one author.",
+  "funderRole": "none",
+  "authorConflicts": "No potential conflicts of interest relevant to this article were reported.",
+  "dataAccess": "individual",
+  "result": "Metformin is actively transported into the liver by organic cation transporter 1, encoded by SLC22A1. R61C (rs12208357) and 420del were genotyped in 3450 incident metformin users; minor allele frequencies were 6.7% and 19.8%, and the R61C variant occurred only on the wild-type allele at codon 420. Among 1531 patients with a definable metformin response, neither variant affected the initial HbA1c reduction (P = 0.47 and P = 0.92), the chance of reaching HbA1c below 7% (P = 0.83 and P = 0.36), the average HbA1c on monotherapy up to 42 months (P = 0.44 and P = 0.75) or the hazard of monotherapy failure (P = 0.85 and P = 0.56); covariates were genotype, body-mass index, average dose, adherence and creatinine clearance. With 1500 subjects the analysis had 90% power to detect a difference in HbA1c reduction of 0.15% per copy of 420del and 80% power to detect 0.2% per copy of R61C. The authors note that the design is observational, since the decision to start metformin and the rate of titration rested with patients and physicians, and that intolerance was not measured directly.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2682689/fullTextXML"
+}

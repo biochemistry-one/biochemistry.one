@@ -1,0 +1,43 @@
+{
+  "title": "生酮作用",
+  "layout": "chain",
+  "compartment": "肝细胞线粒体基质",
+  "steps": [
+    {
+      "from": "长链脂酰辅酶A",
+      "to": "乙酰辅酶A",
+      "enzyme": "多步反应",
+      "inhibitors": [{"name": "丙二酸单酰辅酶A"}],
+      "note": "经CPT1A肉碱穿梭进入线粒体，随后进行β氧化"
+    },
+    {
+      "from": "乙酰辅酶A",
+      "to": "乙酰乙酰辅酶A",
+      "enzyme": "乙酰辅酶A乙酰转移酶1（ACAT1）",
+      "cofactors": ["乙酰辅酶A"],
+      "reversible": true,
+      "note": "线粒体硫解酶；两分子乙酰辅酶A缩合，释放辅酶A"
+    },
+    {
+      "from": "乙酰乙酰辅酶A",
+      "to": "羟甲基戊二酸单酰辅酶A（HMG-CoA）",
+      "enzyme": "线粒体HMG-CoA合酶2（HMGCS2）",
+      "cofactors": ["乙酰辅酶A", "H2O"],
+      "note": "定向步骤；释放辅酶A；该酶缺乏时禁食期间生酮作用受损"
+    },
+    {
+      "from": "羟甲基戊二酸单酰辅酶A（HMG-CoA）",
+      "to": "乙酰乙酸",
+      "enzyme": "HMG-CoA裂合酶（HMGCL）",
+      "note": "释放乙酰辅酶A；乙酰乙酸自发脱羧生成丙酮"
+    },
+    {
+      "from": "乙酰乙酸",
+      "to": "D-3-羟丁酸",
+      "enzyme": "3-羟丁酸脱氢酶1（BDH1）",
+      "cofactors": ["NADH→NAD+"],
+      "reversible": true,
+      "note": "反应接近平衡；产物比值随线粒体NADH/NAD+比值变化"
+    }
+  ]
+}

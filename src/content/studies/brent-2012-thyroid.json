@@ -1,0 +1,16 @@
+{
+  "title": "Mechanisms of thyroid hormone action",
+  "authors": "Brent GA",
+  "journal": "Journal of Clinical Investigation",
+  "year": 2012,
+  "doi": "10.1172/JCI60047",
+  "pmid": "22945636",
+  "design": "other",
+  "funder": "This work was supported by Veterans Affairs Merit Review Funds and NIH grant R01 CA89364.",
+  "funderRole": "none",
+  "authorConflicts": "The author has declared that no conflict of interest exists.",
+  "dataAccess": "summary",
+  "result": "Review. Thyroid hormone is synthesised in thyroid follicles by iodination of tyrosine residues in thyroglobulin; TSH, secreted by the anterior pituitary in response to feedback from circulating thyroid hormone, acts on the TSH receptor of follicular cells and regulates iodide uptake by the sodium/iodide symporter. T4 is a prohormone activated to T3; humans derive circulating T3 primarily from type 2 deiodinase and rodents from type 1; type 3 deiodinase inactivates T4 to reverse T3; selenium is required by all three deiodinases. Unliganded thyroid hormone receptor heterodimerises with RXR, binds a thyroid hormone response element and then a corepressor such as NCoR or SMRT; T3 binding disrupts corepressor binding and promotes coactivator binding. TR-beta mediates thyroid hormone feedback to TRH and TSH; resistance to thyroid hormone, caused by TR-beta mutations, features elevated circulating thyroid hormone and nonsuppressed serum TSH.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/60047"
+}

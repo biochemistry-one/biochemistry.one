@@ -1,0 +1,16 @@
+{
+  "title": "Familial Hypercholesterolemia",
+  "authors": "Ison HE, Clarke SL, Knowles JW",
+  "journal": "GeneReviews, University of Washington, Seattle",
+  "year": 2025,
+  "pmid": "24404629",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK174884/",
+  "design": "database",
+  "funder": "No funding statement in the chapter. Acknowledgments: The FH Foundation, AHA, NIH, Doris Duke Foundation.",
+  "funderRole": "unknown",
+  "authorConflicts": "No conflict-of-interest statement in the chapter. Author notes: Knowles is volunteer Chief Medical Advisor of the FH Foundation, a patient-led research and advocacy organisation; his research is funded through the NIH, a Doris Duke Foundation grant and, in part, the AHA.",
+  "dataAccess": "summary",
+  "result": "Expert-authored, peer-reviewed chapter, first posted 2 January 2014, comprehensive update 7 July 2022, revised 30 January 2025. APOB-, LDLR- and PCSK9-related familial hypercholesterolaemia is inherited in an autosomal dominant manner. Pathogenic LDLR variants account for more than 50% of FH; of pathogenic LDLR variants, about 85% are identified by sequence analysis, which detects missense, nonsense and splice-site variants and small intragenic deletions/insertions, and about 15% by gene-targeted deletion/duplication analysis, which detects intragenic deletions or duplications. Heterozygous LDLR-related FH: LDL cholesterol often above 190 mg/dL. Biallelic LDLR pathogenic variants: untreated adults often have LDL cholesterol above 500 mg/dL (above 13 mmol/L), and most develop severe coronary artery disease by their mid-20s.",
+  "class": "reference",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/ca/84/gene_NBK1116.tar.gz"
+}

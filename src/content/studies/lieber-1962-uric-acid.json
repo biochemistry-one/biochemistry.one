@@ -1,0 +1,17 @@
+{
+  "title": "Interrelation of uric acid and ethanol metabolism in man",
+  "authors": "Lieber CS, Jones DP, Losowsky MS, Davidson CS",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1962,
+  "doi": "10.1172/JCI104643",
+  "pmid": "13930523",
+  "design": "mechanistic",
+  "participants": 22,
+  "population": "22 adults aged 31 to 67 years without gout, including 16 acutely intoxicated patients and 7 subjects given ethanol on a metabolic ward",
+  "funder": "Work supported in part by the U. S. Army Medical Research and Development Command, Department of the Army, contract DA-49-193-MD-2013, and by a grant from the Nutrition Foundation, Inc., N. Y.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "In eight acutely intoxicated patients (mean serum ethanol 311 mg per 100 ml), blood lactate averaged 22.3 mg per 100 ml, against a mean of 7.1 mg per 100 ml in 18 fasting normal subjects. Oral or intravenous ethanol raised serum uric acid in seven subjects; in three, urinary uric acid output fell to about 20 to 50% of control values without change in creatinine clearance, and oral sodium lactate reproduced the fall in one subject.",
+  "class": "industry",
+  "fundingChecked": "https://www.jci.org/articles/view/104643/version/1/pdf/render.pdf"
+}

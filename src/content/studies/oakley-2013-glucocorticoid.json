@@ -1,0 +1,16 @@
+{
+  "title": "The biology of the glucocorticoid receptor: new signaling mechanisms in health and disease",
+  "authors": "Oakley RH, Cidlowski JA",
+  "journal": "Journal of Allergy and Clinical Immunology",
+  "year": 2013,
+  "doi": "10.1016/j.jaci.2013.09.007",
+  "pmid": "24084075",
+  "design": "other",
+  "funder": "This research was supported by the Intramural Research Program of the NIH, NIEHS.",
+  "funderRole": "none",
+  "authorConflicts": "Not stated in the author manuscript.",
+  "dataAccess": "summary",
+  "result": "Review. Glucocorticoids are synthesised and released by the adrenal cortex in a circadian manner and in response to stress under control of the hypothalamic-pituitary-adrenal axis: CRH from the hypothalamus stimulates synthesis and secretion of ACTH by the anterior pituitary, ACTH stimulates production and secretion of glucocorticoids, and glucocorticoids act on the hypothalamus and anterior pituitary to inhibit production and release of CRH and ACTH in a classic negative feedback loop. The glucocorticoid receptor (NR3C1) belongs to the nuclear receptor superfamily of ligand-dependent transcription factors; without hormone it resides mainly in the cytoplasm with hsp90, hsp70, p23, FKBP51 and FKBP52; glucocorticoid binding dissociates these proteins, and the receptor enters the nucleus and binds glucocorticoid response elements as a homodimer. Cortisol is the most abundant endogenous glucocorticoid in humans; free cortisol diffuses across the plasma membrane; 11beta-HSD2 oxidises cortisol to inactive cortisone and 11beta-HSD1 converts cortisone to cortisol.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4084612"
+}

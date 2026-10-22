@@ -1,0 +1,19 @@
+{
+  "title": "Trends in proton-pump inhibitor use among Danish adults: a nationwide drug utilization study 2015-2023",
+  "authors": "Lundgaard KM, Christiansen MØ, Sonne H, Mose K, Nyland N, Andersen MJL, et al.",
+  "journal": "Basic & Clinical Pharmacology & Toxicology",
+  "year": 2025,
+  "doi": "10.1111/bcpt.70057",
+  "pmid": "40417779",
+  "design": "cohort",
+  "participants": 1729440,
+  "followUp": "2015 to 2023",
+  "population": "All Danish adults filling at least one PPI prescription, nationwide prescription and patient registers; in-hospital and over-the-counter use not captured; indications not recorded",
+  "funder": "The authors received no specific funding for this work.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no conflicts of interest.",
+  "dataAccess": "individual",
+  "result": "Prevalence of PPI use rose from 7.0% of adults in 2015 to 8.2% in 2023, with incidence stable at about 3 users per 100 person-years. Three years after initiation 17% used PPIs and 1.5% had remained on continuous treatment. Allowing for treatment breaks, 34% of new users aged 80 years or older were still treated after 1 year and 30% after 3 years, against 8.7% and 7.6% of those aged 18 to 39. In 2023, 50% of users also used ulcerogenic drugs.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12104965/fullTextXML"
+}

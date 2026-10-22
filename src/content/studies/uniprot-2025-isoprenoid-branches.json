@@ -1,0 +1,16 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "design": "database",
+  "funder": "National Human Genome Research Institute [HG002273]; NIH Office of the Director [U24HG007822]; NIAID; NIA; NIGMS [R35GM141873]; NIDDK; NEI; NCI; NHLBI; BBSRC [BB/T015608/1]; National Science Foundation Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 [825575]; Swiss State Secretariat for Education, Research and Innovation; EMBL Australia.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed human UniProtKB entries, release 2026_03 (2 September 2026), read through rest.uniprot.org on 2026-10-22. COX10 (Q12887): heme O synthase, converts protoheme IX and farnesyl diphosphate to heme O; mitochondrial membrane; variants cause mitochondrial complex IV deficiency, nuclear type 3. COX15 (Q7KZN9): heme A synthase, converts heme O to heme A, the prosthetic group of cytochrome c oxidase; inner mitochondrial membrane; predominantly in tissues with high oxidative phosphorylation, including muscle, heart and brain; variants cause complex IV deficiency, nuclear type 6. TRIT1 (Q9H3H1): transfers a dimethylallyl group from dimethylallyl diphosphate to adenine 37 of a subset of cytosolic and mitochondrial tRNAs, with partial modification of the selenocysteine tRNA, and is required for selenoprotein expression; variants cause combined oxidative phosphorylation deficiency 35. COQ2 (Q96H96): prenylates 4-hydroxybenzoate with the decaprenyl chain to form coenzyme Q10, which carries electrons between respiratory chain complexes; highest expression in skeletal muscle, adrenal glands and heart; variants cause primary coenzyme Q10 deficiency 1. DHDDS (Q86SQ9): with NUS1 condenses isopentenyl diphosphate onto farnesyl diphosphate to form the precursor of dolichol phosphate, the sugar carrier for protein glycosylation in the endoplasmic reticulum; variants cause congenital disorder of glycosylation 1BB and retinitis pigmentosa 59. HMGCR (P04035): rate-limiting step in the synthesis of cholesterol and other isoprenoids; main target of statins; highest expression in cerebellum, fetal brain, testis, skin and adrenal gland; biallelic variants cause autosomal recessive limb-girdle muscular dystrophy 28, with progressive proximal and axial weakness, limited ambulation or wheelchair dependence within a few decades and frequent respiratory insufficiency (PubMed 36745799, 37167966).",
+  "class": "reference",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11701636/fullTextXML"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Scientific report of the 2025 Dietary Guidelines Advisory Committee: advisory report to the Secretary of Health and Human Services and Secretary of Agriculture",
+  "authors": "2025 Dietary Guidelines Advisory Committee",
+  "journal": "US Department of Health and Human Services and US Department of Agriculture",
+  "year": 2024,
+  "doi": "10.52570/dgac2025",
+  "design": "guideline",
+  "funder": "Federal advisory committee convened under the Federal Advisory Committee Act; HHS chartered the Committee and served as administrative lead, and HHS and USDA support development of the Dietary Guidelines. The Departments proposed the scientific questions and worked with the Committee to refine them.",
+  "funderRole": "design",
+  "authorConflicts": "Members were special government employees who filed confidential financial disclosure reports (OGE Form 450) and disclosed relationships collectively on ICMJE forms posted on DietaryGuidelines.gov; not read.",
+  "dataAccess": "summary",
+  "result": "Systematic review question on dietary patterns with varying amounts of ultra-processed food and growth, body composition and risk of obesity. Children and adolescents, and adults and older adults: patterns with more food classified as ultra-processed are associated with greater adiposity (fat mass, waist circumference, BMI) and greater risk of overweight or obesity (grade limited). Infants and young children, pregnancy and postpartum: grade not assignable. The evidence was difficult to assess because definitions of ultra-processed food varied between studies, many such foods were higher in saturated fat, sodium and added sugars, and food frequency questionnaires do not distinguish processing levels.",
+  "class": "consensus",
+  "fundingChecked": "https://www.dietaryguidelines.gov/sites/default/files/2024-12/Part%20C_Methodology_FINAL_508c.pdf"
+}

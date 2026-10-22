@@ -1,0 +1,16 @@
+{
+  "title": "Introduction to Lipids and Lipoproteins",
+  "authors": "Feingold KR",
+  "journal": "Endotext, MDText.com, Inc., South Dartmouth (MA)",
+  "year": 2024,
+  "pmid": "26247089",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK305896/",
+  "design": "textbook",
+  "funder": "This work was supported by grants from the Northern California Institute for Research and Education.",
+  "funderRole": "unknown",
+  "authorConflicts": "Not stated in the chapter.",
+  "dataAccess": "summary",
+  "result": "Textbook chapter, updated 14 January 2024, read in the chapter XML of the NCBI Bookshelf open-access archive of Endotext. Lipids are insoluble in water and travel in lipoproteins, with a core of cholesteryl esters and triglycerides inside a surface of phospholipids, free cholesterol and apolipoproteins. Intestinal lipases hydrolyse dietary triglycerides to fatty acids and monoacylglycerol, which enterocytes resynthesise into triglycerides with MGAT and DGAT. Each chylomicron, made by the intestine, carries one apoB-48; each VLDL, made by the liver, and each IDL and LDL particle carries one apoB-100. MTTP transfers triglycerides to apoB-100 in the liver and to apoB-48 in the intestine; its absence prevents chylomicron formation (abetalipoproteinaemia). Chylomicrons are secreted into lymph and reach the systemic circulation through the thoracic duct. Triglyceride availability is the primary determinant of VLDL secretion. LPL, synthesised in muscle, heart and adipose tissue, is anchored to capillary endothelium by GPIHBP1 and hydrolyses the triglycerides of chylomicrons and VLDL; apoC-II is its cofactor, and apoC-III inhibits it. Loss-of-function mutations in LPL, APOC2, GPIHBP1, LMF1 and APOA5 can cause familial chylomicronaemia syndrome. The liver clears chylomicron remnants through apoE binding to the LDL receptor, LRP and syndecan-4, and clears about 50% (variable) of IDL; hepatic lipase hydrolyses the triglycerides of the remaining IDL, forming LDL. About 70% of circulating LDL is cleared by hepatocyte LDL receptors; statins, ezetimibe, PCSK9 inhibitors, bile acid sequestrants and bempedoic acid lower plasma LDL by increasing hepatic LDL receptors. Nascent HDL forms when ABCA1 effluxes cholesterol and phospholipids to lipid-poor apoA-I; LCAT, activated by apoA-I, esterifies HDL cholesterol. The pathway of fatty acid absorption is not well understood: humans and mice deficient in CD36 do not have fat malabsorption, mice deficient in FATP4 have no abnormality of fat absorption, and the pathways of monoacylglycerol uptake remain to be defined. The precise pathway of VLDL secretion from hepatocytes is not resolved.",
+  "class": "reference",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/e7/e5/endotext_NBK278943.tar.gz"
+}

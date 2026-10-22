@@ -1,0 +1,17 @@
+{
+  "title": "Signal refinement of angioedema events in association with use of drugs that act on the renin-angiotensin-aldosterone system: report",
+  "authors": "Toh D, Reichman ME, Houstoun M, Ross Southworth M, Ding X, Hernandez A, et al.",
+  "journal": "Mini-Sentinel Medical Product Assessment, US Food and Drug Administration Sentinel Initiative, 15 October 2012",
+  "year": 2012,
+  "url": "https://www.sentinelinitiative.org/sites/default/files/Drugs/Assessments/Mini-Sentinel_Angioedema-and-RAAS_Final-Report.pdf",
+  "design": "cohort",
+  "participants": 3909596,
+  "followUp": "up to 365 days after the first prescription; mean 149 days for ACE inhibitor initiators, 136 for angiotensin receptor blocker initiators and 126 for beta-blocker initiators",
+  "population": "New users aged 18 years or older of an ACE inhibitor (1,845,138), angiotensin receptor blocker (467,313), aliskiren (4867) or beta-blocker (1,592,278) in 17 US health plans contributing to the Mini-Sentinel Distributed Database, 2001 to 2010; angio-oedema identified by ICD-9-CM code 995.1",
+  "funder": "Mini-Sentinel is a pilot project sponsored by the U.S. Food and Drug Administration. The Mini-Sentinel Coordinating Center is funded by the FDA through the Department of Health and Human Services Contract number HHSF223200910006I. Nine of the thirteen authors are FDA staff. The analysis was also published as Toh S et al., Arch Intern Med 2012;172:1582-9 (PMID 23147456).",
+  "funderRole": "several",
+  "dataAccess": "summary",
+  "result": "Angio-oedema arose at 4.38 per 1000 person-years (95% CI 4.24 to 4.54) with ACE inhibitors, 1.66 (1.47 to 1.86) with angiotensin receptor blockers, 4.67 (1.88 to 9.63) with aliskiren and 1.67 (1.56 to 1.78) with beta-blockers; cumulative incidence 1.79 per 1000 ACE inhibitor initiators. Serious angio-oedema, with airway obstruction requiring inpatient care, arose at 0.43 per 1000 person-years with ACE inhibitors against 0.06 with angiotensin receptor blockers and 0.09 with beta-blockers. Against beta-blockers, propensity-score-adjusted hazard ratios were 3.04 (2.81 to 3.27) for ACE inhibitors, 1.16 (1.00 to 1.34) for angiotensin receptor blockers and 2.85 (1.34 to 6.04) for aliskiren, and 4.91 (3.62 to 6.65) for serious angio-oedema with ACE inhibitors. With ACE inhibitors the rate was 9.68 per 1000 person-years in the first 30 days and 2.59 at days 271 to 365, which remained above beta-blockers (adjusted hazard ratio 2.10, 1.60 to 2.76); 66% of cases arose within 90 days. Rates with ACE inhibitors were 5.64 per 1000 person-years in women against 3.30 in men, and 4.92 at age 65 or over. Race was missing for most patients and was not adjusted for.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.sentinelinitiative.org/sites/default/files/Drugs/Assessments/Mini-Sentinel_Angioedema-and-RAAS_Final-Report.pdf"
+}

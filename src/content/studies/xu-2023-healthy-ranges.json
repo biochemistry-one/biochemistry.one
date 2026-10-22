@@ -1,0 +1,19 @@
+{
+  "title": "The optimal healthy ranges of thyroid function defined by the risk of cardiovascular disease and mortality: systematic review and individual participant data meta-analysis",
+  "authors": "Xu Y, Derakhshan A, Hysaj O, Wildisen L, Ittermann T, Pingitore A, et al.",
+  "journal": "Lancet Diabetes and Endocrinology",
+  "year": 2023,
+  "doi": "10.1016/S2213-8587(23)00227-9",
+  "pmid": "37696273",
+  "registry": "PROSPERO CRD42017057576",
+  "design": "meta-analysis",
+  "participants": 134346,
+  "population": "Individual participant data from 26 prospective cohorts of the Thyroid Studies Collaboration; median age 59 years",
+  "funder": "Funding: None. The Thyroid Studies Collaboration is funded by a grant from the Swiss National Science Foundation (SNSF 32003B_200606); the contributing cohorts were funded by public agencies and foundations listed in the acknowledgements.",
+  "funderRole": "none",
+  "authorConflicts": "One author reported personal fees from IBSA, Merck, Berlin-Chemie and Quidel; another reported an investigator-initiated trial grant and speaker fees from Merck KGaA and speaker fees from Abbott and IBSA, makers of levothyroxine; another reported grants or speaker fees from many pharmaceutical and device companies.",
+  "dataAccess": "individual",
+  "result": "Free T4 showed a J-shaped association with cardiovascular events and mortality, lowest at the 20th to 40th percentiles (median 13.5 to 14.8 pmol/l). Against these, free T4 in the 80th to 100th percentiles carried age- and sex-adjusted hazard ratios of 1.20 (95% CI 1.11 to 1.31) for the composite outcome, 1.34 (1.20 to 1.49) for all-cause mortality and 1.57 (1.31 to 1.89) for cardiovascular mortality. At age 70 or more, the 10-year absolute composite risk rose by more than 5% for women with free T4 above the 85th percentile (median 17.6 pmol/l) and men above the 75th (16.7 pmol/l). TSH in the 0 to 20th percentiles, against the 60th to 80th (median 1.90 to 2.90 mIU/l), carried hazard ratios of 1.07 (1.02 to 1.12) for the composite and 1.09 (1.05 to 1.14) for all-cause mortality. Excluding thyroid medication users did not meaningfully change estimates; levothyroxine users were not analysed separately.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866328/"
+}

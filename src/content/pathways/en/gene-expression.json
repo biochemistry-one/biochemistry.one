@@ -1,0 +1,35 @@
+{
+  "title": "From gene to protein",
+  "layout": "chain",
+  "compartment": "Nucleus for transcription and mRNA processing; cytosol for translation",
+  "steps": [
+    {
+      "from": "Gene (template DNA strand)",
+      "to": "Pre-mRNA",
+      "enzyme": "RNA polymerase II (catalytic subunit POLR2A)",
+      "cofactors": ["ATP, CTP, GTP and UTP", "Mg2+ (two ions)"],
+      "note": "Adds one nucleotide at a time to the 3′ end, complementary to the template"
+    },
+    {
+      "from": "Pre-mRNA",
+      "to": "Capped pre-mRNA",
+      "enzyme": "mRNA-capping enzyme (RNGTT), then cap methyltransferase (RNMT)",
+      "cofactors": ["GTP", "S-adenosylmethionine"],
+      "note": "During transcription; forms the 7-methylguanosine cap at the 5′ end"
+    },
+    {
+      "from": "Capped pre-mRNA",
+      "to": "Mature mRNA",
+      "enzyme": "Spliceosome (U1, U2, U4/U6 and U5 snRNPs); poly(A) polymerase (PAPOLA)",
+      "cofactors": ["ATP for the poly(A) tail"],
+      "note": "Introns excised; 98.71% of 22,489 mammalian splice-site pairs are GT–AG"
+    },
+    {
+      "from": "Mature mRNA",
+      "to": "Polypeptide",
+      "enzyme": "Ribosome, with elongation factors eEF1A and eEF2",
+      "cofactors": ["Aminoacyl-tRNAs", "GTP"],
+      "note": "Codons read from the AUG start codon to one of three stop codons"
+    }
+  ]
+}

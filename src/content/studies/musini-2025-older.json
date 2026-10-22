@@ -1,0 +1,19 @@
+{
+  "title": "Pharmacotherapy for hypertension in adults 60 years or older",
+  "authors": "Musini VM, Tejani AM, Bassett K, Puil L, Thompson W, Wright JM",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2025,
+  "doi": "10.1002/14651858.CD000028.pub4",
+  "pmid": "41065416",
+  "design": "meta-analysis",
+  "participants": 26795,
+  "followUp": "mean treatment duration 3.8 years",
+  "population": "16 randomised trials of at least one year comparing antihypertensive drugs with placebo or no treatment in healthy ambulatory adults aged 60 or older (mean 73.8 years) with moderate to severe hypertension (average 182/95 mm Hg); most evaluated first-line thiazides; search to June 2024",
+  "funder": "Internal sources: Department of Anesthesiology, Pharmacology & Therapeutics, University of British Columbia (office space). External sources: BC Ministry of Health grant to the Therapeutics Initiative (infrastructure).",
+  "funderRole": "unknown",
+  "authorConflicts": "Nothing to declare for all six authors; five hold editorial roles with Cochrane and were not involved in the editorial process.",
+  "dataAccess": "summary",
+  "result": "All-cause mortality 10% with treatment against 11% with control (RR 0.91, 95% CI 0.85 to 0.97; 13 trials, 25,932; high certainty); cardiovascular morbidity and mortality 10% against 14% (0.72, 0.68 to 0.77); cerebrovascular 3.4% against 5.2% (0.66, 0.59 to 0.74); coronary heart disease 3.7% against 4.8% (0.78, 0.69 to 0.88); withdrawals for adverse effects 16% against 5.4% (2.91, 2.56 to 3.30; 4 trials, 11,310; low certainty). Mortality RR 0.86 (0.79 to 0.95) at ages 60 to 79 against 0.97 (0.87 to 1.10) at 80 or older, without a significant subgroup difference. Downgrading was mainly for incomplete outcome data and selective outcome reporting.",
+  "class": "independent",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/41065416/"
+}

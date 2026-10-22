@@ -1,0 +1,18 @@
+{
+  "title": "Brain metabolism during fasting",
+  "authors": "Owen OE, Morgan AP, Kemp HG, Sullivan JM, Herrera MG, Cahill GF Jr",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1967,
+  "doi": "10.1172/JCI105650",
+  "pmid": "6061736",
+  "design": "mechanistic",
+  "participants": 3,
+  "followUp": "cerebral catheterisation after 38 to 41 days of fasting",
+  "population": "Three obese adults, two women and one man aged 26 to 49 years, in therapeutic starvation",
+  "funder": "This study was supported in part by grants from the U. S. Public Health Service AM-09584-02, AM-09748-02, 8 MO1-FR-31-06, T1-AM-5077-11, 5-RO1-AM-02657-07, 1-T1-HE-05679-02, and HE-08591-02; the Adler Foundation, Inc., Rye, N. Y.; the U. S. Army Medical Research and Development Command (DA-49-193-MO-2337); the John A. Hartford Foundation, Inc., New York, N. Y.; and the Atomic Energy Commission. G. F. Cahill Jr. was an Investigator of the Howard Hughes Medical Institute.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "After 38 to 41 days of fasting, mean arterial 3-hydroxybutyrate was 6.67 mmol/L, acetoacetate 1.17 mmol/L and glucose 4.49 mmol/L of whole blood. Calculated brain oxygen equivalents per litre of blood: 3-hydroxybutyrate 1.53 mmol, acetoacetate 0.24 mmol, glucose corrected for lactate and pyruvate release 0.87 mmol and alpha-amino nitrogen 0.42 mmol, total 3.06 mmol against a measured oxygen uptake of 2.96 mmol. Urinary nitrogen 3.3 to 3.9 g/24 h, mainly ammonia. The introduction gives glucose and glycogen stores of adult man as 150 to 300 g, glycerol as about 10% of triglyceride weight, and net gluconeogenesis from fatty acid carbon as not demonstrated in mammals.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/105650/version/1/pdf/render.pdf"
+}

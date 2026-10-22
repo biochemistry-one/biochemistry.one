@@ -1,0 +1,19 @@
+{
+  "title": "Effects of altering levothyroxine (L-T4) doses on quality of life, mood, and cognition in L-T4 treated subjects",
+  "authors": "Samuels MH, Kolobova I, Niederhausen M, Janowsky JS, Schuff KG",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2018,
+  "doi": "10.1210/jc.2017-02668",
+  "pmid": "29509918",
+  "design": "rct",
+  "participants": 138,
+  "followUp": "6 months",
+  "population": "Adults with levothyroxine-treated hypothyroidism and normal TSH at Oregon Health and Science University",
+  "funder": "This work was supported by National Institutes of Health Grants R01 DK075496 (to M.H.S.) and UL1 RR024120 (to OHSU).",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have nothing to disclose.",
+  "dataAccess": "unknown",
+  "result": "Doses were adjusted double-blind to TSH targets of 0.34 to 2.50, 2.51 to 5.60 or 5.61 to 12.0 mU/l; final mean doses were 1.50, 1.32 and 0.78 µg/kg and mean TSH 1.85, 3.93 and 9.49 mU/l. Quality of life, mood, memory and executive function did not differ after correction for multiple comparisons. Participants could not tell how their dose had changed (P = 0.55), yet preferred the dose they perceived as higher (P < 0.001): 68% preferred the final dose when they thought it had risen and 96% the initial dose when they thought it had fallen.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6457033/"
+}

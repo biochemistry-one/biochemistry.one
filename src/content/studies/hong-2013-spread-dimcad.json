@@ -1,0 +1,20 @@
+{
+  "title": "Effects of metformin versus glipizide on cardiovascular outcomes in patients with type 2 diabetes and coronary artery disease",
+  "authors": "Hong J, Zhang Y, Lai S, Lv A, Su Q, Dong Y, et al.",
+  "journal": "Diabetes Care",
+  "year": 2013,
+  "doi": "10.2337/dc12-0719",
+  "pmid": "23230096",
+  "registry": "NCT00513630",
+  "design": "rct",
+  "participants": 304,
+  "followUp": "3 years of study drug administration; median 5.0 years (range 3.7 to 5.7) for the primary endpoint",
+  "population": "Adults with type 2 diabetes and a history of coronary artery disease at 15 centres in China, mean age 63.3 years, mean diabetes duration 5.6 years, baseline HbA1c 7.6%; serum creatinine above 132 micromol/L and New York Heart Association class above III were exclusions",
+  "funder": "Grants from the 863 Project, the National Natural Science Foundation of China, the Shanghai Shenkang Hospital Development Center, the Key Laboratory for Endocrine and Metabolic Diseases of the Ministry of Chinese Public Health, the National Key New Drug Creation and Manufacturing Program, the Shanghai Committee on Science and Technology, the Program for Innovative Research Team of Shanghai Municipal Education Commission and the Sector Funds of the Ministry of Health. All funding sources had no role in study design, data collection, data analysis, data interpretation or writing of the manuscript. No other potential conflicts of interest relevant to the article were reported.",
+  "funderRole": "none",
+  "inKindSupport": "Both glipizide and metformin were provided by Xinyi Pharmaceutical Co., Shanghai.",
+  "dataAccess": "summary",
+  "result": "Double-blind randomisation after a two-week run-in during which all previous antidiabetic agents were withdrawn: glipizide 30 mg daily with metformin placebo, or metformin 1.5 g daily with glipizide placebo, for 3 years; mean achieved doses 28.3 mg and 1.4 g daily. HbA1c fell from 7.6% to 7.1% with glipizide and 7.6% to 7.0% with metformin within 6 months, with no between-group difference. Over the whole study, 103 composite primary endpoints occurred in 91 patients: 52 patients (35.1%) in the glipizide group and 39 (25.0%) in the metformin group. Events were 60 with glipizide (14 deaths from any cause, 6 non-fatal myocardial infarctions, 15 non-fatal strokes, 25 arterial revascularisations) against 43 with metformin (7 deaths, 5 non-fatal myocardial infarctions, 10 non-fatal strokes, 21 revascularisations). The adjusted hazard ratio for the composite was 0.54 (95% CI 0.30 to 0.90, p = 0.026); mortality did not differ (p = 0.55). Secondary endpoints, recorded only during the three years of study drug, did not differ: new or worsening heart failure 10 (6.8%) against 9 (5.8%), new critical arrhythmia 27 (18.2%) against 30 (19.2%), new or worsening angina 71 (48%) against 77 (49.4%), peripheral vascular events 6 (4.1%) against 1 (0.6%), hypoglycaemic attacks 4 against 3. Statin use at the end of the study was lower in the metformin group (59.5% against 73.7%, p = 0.013). The authors state that they did not monitor diet or exercise, had no washout period, and advise caution in interpretation.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3631843/fullTextXML"
+}

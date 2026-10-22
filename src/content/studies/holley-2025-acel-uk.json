@@ -1,0 +1,19 @@
+{
+  "title": "Assessing the cardiovascular effects of levothyroxine use in an ageing United Kingdom population (ACEL-UK): cohort study",
+  "authors": "Holley M, Razvi S, Maxwell I, Dew R, Wilkes S",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2025,
+  "doi": "10.1210/clinem/dgaf208",
+  "pmid": "40179252",
+  "design": "cohort",
+  "participants": 53899,
+  "followUp": "median 10 years (IQR 5.5 to 10.0)",
+  "population": "UK primary care patients older than 50 years with subclinical hypothyroidism in The Health Improvement Network; median age 67 years, 68.5% women, median TSH 4.6 mU/l",
+  "funder": "This work was supported by the National Institute for Health and Care Research (NIHR) Applied Research Collaboration North East and North Cumbria (NIHR200173). The funding source was not involved in the study design, data collection, data analysis, data interpretation, writing of the report, or the decision to submit the paper for publication.",
+  "funderRole": "none",
+  "authorConflicts": "None of the authors have any conflicts of interest to declare.",
+  "dataAccess": "individual",
+  "result": "19,952 (37%) were prescribed levothyroxine and 33,947 (63%) were not. With time-varying adjusted models, levothyroxine was associated with fewer cardiovascular events (HR 0.91, 95% CI 0.87 to 0.97) but more bone events, fragility fractures or osteoporosis (HR 1.21, 1.14 to 1.28), and higher all-cause mortality (HR 1.17, 1.13 to 1.22).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12623041/"
+}

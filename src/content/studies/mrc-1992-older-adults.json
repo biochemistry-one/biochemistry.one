@@ -1,0 +1,19 @@
+{
+  "title": "Medical Research Council trial of treatment of hypertension in older adults: principal results",
+  "authors": "MRC Working Party",
+  "journal": "BMJ",
+  "year": 1992,
+  "doi": "10.1136/bmj.304.6824.405",
+  "pmid": "1445513",
+  "design": "rct",
+  "participants": 4396,
+  "followUp": "mean 5.8 years; 25,355 patient-years",
+  "population": "Patients aged 65 to 74 years with mean systolic pressure 160 to 209 mm Hg and diastolic below 115 mm Hg during an eight-week run-in, untreated, recruited from 226 practices of the MRC general practice research framework in England, Scotland and Wales between 1982 and 1987",
+  "funder": "The report carries no separate funding section. It is issued by the Medical Research Council Working Party, the trial ran within the MRC general practice research framework, and data were reviewed and analysed by its coordinating centre staff. The acknowledgements thank Merck Sharp and Dohme for supplying Moduret and placebo, Imperial Chemical Industries for supplies of Tenormin and placebo, and Bayer for supplies of Adalat.",
+  "funderRole": "several",
+  "inKindSupport": "Merck Sharp and Dohme supplied hydrochlorothiazide-amiloride (Moduret) and placebo; Imperial Chemical Industries supplied atenolol (Tenormin) and placebo; Bayer supplied nifedipine (Adalat).",
+  "dataAccess": "summary",
+  "result": "Single-blind randomisation to atenolol 50 mg daily (1102 patients), hydrochlorothiazide 25 or 50 mg with amiloride 2.5 or 5 mg (1081) or placebo (2213). Randomised treatment accounted for 55% of patient-years in the atenolol group, supplemented by the diuretic for 16%, and for 69% in the diuretic group. Event rates per 1000 patient-years with atenolol (6330 patient-years), diuretic (6290) and placebo (12,735): strokes 56 (9.0), 45 (7.3) and 134 (10.8); coronary events 80 (12.8), 48 (7.7) and 159 (12.7); all cardiovascular events 151 (24.6), 107 (17.4) and 309 (25.2); deaths from all causes 167 (26.4), 134 (21.3) and 315 (24.7). After adjustment the diuretic reduced stroke by 31% (95% CI 3% to 51%), coronary events by 44% (21% to 60%) and all cardiovascular events by 35% (17% to 49%) against placebo; the beta-blocker group showed no significant reduction in these end points, and coronary and all cardiovascular event rates were significantly lower with the diuretic than with the beta-blocker (p = 0.006 and p = 0.007). Withdrawals per 1000 patient-years were higher with atenolol than placebo for impaired glucose tolerance (5.8 against 2.7), Raynaud's phenomenon (11.3 against 0.3), dyspnoea (22.9 against 1.1), lethargy (19.1 against 2.0) and low pulse rate (28.0 against 0.0). Over five years 333 atenolol patients were withdrawn for suspected major side effects against 160 on the diuretic and 82 on placebo; about 25% were lost to follow-up, and 63% of the atenolol group, 48% of the diuretic group and 53% of the placebo group stopped their randomised treatment.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240412200232/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1995577/pdf/bmj00060-0016.pdf"
+}

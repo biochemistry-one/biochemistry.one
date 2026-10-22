@@ -1,0 +1,16 @@
+{
+  "title": "Emerging Roles of the Membrane Potential: Action Beyond the Action Potential",
+  "authors": "Abdul Kadir L, Stacey M, Barrett-Jolley R",
+  "journal": "Frontiers in Physiology",
+  "year": 2018,
+  "doi": "10.3389/fphys.2018.01661",
+  "pmid": "30519193",
+  "design": "other",
+  "funder": "RB-J is currently a holder of BBSRC funding (BB/N003020/1).",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+  "dataAccess": "summary",
+  "result": "Review. The resting membrane potential is maintained by the differential permeability of the plasma membrane to ions and by the cell's complement of ion channels, and is typically in the range of -10 to -100 mV. In pancreatic beta cells, rising blood glucose increases ATP and decreases ADP, which closes ATP-sensitive K+ channels; the membrane depolarises, Ca2+ enters and insulin is released.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6258788/fullTextXML"
+}

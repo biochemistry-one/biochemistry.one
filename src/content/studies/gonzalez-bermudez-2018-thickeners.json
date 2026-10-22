@@ -1,0 +1,16 @@
+{
+  "title": "Effects of different thickening agents on infant gut microbiota",
+  "authors": "González-Bermúdez CA, López-Nicolás R, Peso-Echarri P, Frontela-Saseta C, Martínez-Graciá C",
+  "journal": "Food & Function",
+  "year": 2018,
+  "doi": "10.1039/c7fo01992k",
+  "pmid": "29508870",
+  "design": "in-vitro",
+  "population": "Fresh faecal samples from healthy donors aged 2 to 3 months",
+  "funder": "Funding statement not read: the article is closed access and absent from PubMed Central, the publisher's full text returned an automated-access challenge (HTTP 403), and the archived copy holds only the landing page. Publisher-deposited Crossref metadata name Fundación Séneca (award 11978/PI/09) and Universidad de Murcia.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Batch fermentation with 1% (w/v) locust bean gum, maize hydroxypropylated distarch phosphate or pre-gelatinised rice starch. Both starches gave lower pH than locust bean gum (p < 0.01) and higher total gas production (p < 0.05); total short-chain fatty acids and propionate were higher with locust bean gum (p < 0.05). The starches induced higher Lactobacillus and Bifidobacteria at the beginning of fermentation, a sudden drop of pH and greater acetate production, which promoted a less varied faecal microbiota; locust bean gum promoted a more varied microbiota. Results read from the PubMed abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://api.crossref.org/works/10.1039/c7fo01992k"
+}

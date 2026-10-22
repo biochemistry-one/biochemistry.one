@@ -1,0 +1,19 @@
+{
+  "title": "Monotherapy with major antihypertensive drug classes and risk of hospital admissions for mood disorders",
+  "authors": "Boal AH, Smith DJ, McCallum L, Muir S, Touyz RM, Dominiczak AF, et al.",
+  "journal": "Hypertension",
+  "year": 2016,
+  "doi": "10.1161/HYPERTENSIONAHA.116.08188",
+  "pmid": "27733585",
+  "design": "cohort",
+  "participants": 144066,
+  "followUp": "up to 5 years; 641,685 person-years",
+  "population": "Patients aged 40 to 80 years with antihypertensive exposure over 90 days in a Glasgow hospital database of 525,046 patients, analysed by monotherapy class",
+  "funder": "S. Padmanabhan is funded by the Medical Research Council (MR/M016560/1 and The AIM-HY Study) and the British Heart Foundation (PG/12/85/29925 and CS/16/1/31878); D.J. Smith by a Lister Institute Prize Fellowship; L. McCallum by a BHF fellowship (FS/14/52/30901); A.F. Dominiczak has funding from the Scottish Ecosystem for Precision Medicine.",
+  "funderRole": "unknown",
+  "authorConflicts": "None.",
+  "dataAccess": "individual",
+  "result": "299 hospital admissions with a mood disorder, median time 847 days. Against ACE inhibitors or angiotensin receptor blockers, which had the lowest risk, calcium antagonists had a hazard ratio of 2.28 (95% CI 1.13 to 4.58) and beta blockers 2.11 (1.12 to 3.98); no antihypertensive 1.63 (0.94 to 2.82) and thiazides 1.56 (0.65 to 3.73). The authors describe the findings as exploratory.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5058642/"
+}

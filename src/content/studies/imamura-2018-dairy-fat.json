@@ -1,0 +1,19 @@
+{
+  "title": "Fatty acid biomarkers of dairy fat consumption and incidence of type 2 diabetes: A pooled analysis of prospective cohort studies",
+  "authors": "Imamura F, Fretts A, Marklund M, Ardisson Korat AV, Yang WS, Lankinen M, et al.",
+  "journal": "PLoS Medicine",
+  "year": 2018,
+  "doi": "10.1371/journal.pmed.1002670",
+  "pmid": "30303968",
+  "design": "meta-analysis",
+  "participants": 63682,
+  "followUp": "average 9 years",
+  "population": "16 prospective cohorts from 12 countries in the Fatty Acids and Outcomes Research Consortium (FORCE)",
+  "funder": "Author support from the UK Medical Research Council, NIHR Cambridge Biomedical Research Centre, EU FP7 and Horizon 2020, ZonMW, Fondation Plan Alzheimer and NIH; cohorts funded mainly by public agencies, with the Alpha Omega Cohort funded by the Netherlands Heart Foundation, NIH and Unilever R&D, Vlaardingen (margarine production and distribution). The funders had no role in design, data collection, analysis, interpretation, manuscript preparation or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "Several authors report research funding from Unilever; one author reports unrestricted grants for meta-analyses on dairy foods from Global and Dutch Dairy Associations; D Mozaffarian is co-inventor on patents for use of trans-palmitoleic acid in insulin resistance and type 2 diabetes.",
+  "dataAccess": "individual",
+  "result": "15,180 incident type 2 diabetes cases. Hazard ratio per cohort-specific 10th to 90th percentile range: 15:0 0.80 (95% CI 0.73 to 0.87); 17:0 0.65 (0.59 to 0.72); trans-16:1n-7 0.82 (0.70 to 0.96); their sum 0.71 (0.63 to 0.79). The authors note that the biomarkers do not distinguish food sources of dairy fat and that odd-chain fatty acids also occur in meat and fish; of the propionate crossover trial they state that the primary randomised comparison showed no significant effect on 15:0 or 17:0, and that cheese contains about 157 mg propionate per 100 g.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6179183/"
+}

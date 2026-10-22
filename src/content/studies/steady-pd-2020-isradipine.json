@@ -1,0 +1,20 @@
+{
+  "title": "Isradipine versus placebo in early Parkinson disease: a randomized trial",
+  "authors": "Parkinson Study Group STEADY-PD III Investigators",
+  "journal": "Annals of Internal Medicine",
+  "year": 2020,
+  "doi": "10.7326/M19-2534",
+  "pmid": "32227247",
+  "registry": "NCT02168842",
+  "design": "rct",
+  "participants": 336,
+  "followUp": "36 months",
+  "population": "Patients with early Parkinson disease (duration under 3 years) not taking dopaminergic drugs, at 57 North American sites; mean age 62 years, 68% men",
+  "funder": "By grants U01NS080818 and U01NS080840 from NINDS. Research officers at NINDS were involved in the study design and interpretation of results, reviewed the manuscript and took part in the decision to submit; there was no industry involvement in the trial.",
+  "funderRole": "several",
+  "inKindSupport": "None: isradipine was purchased through a wholesale pharmacy and matching placebo manufactured by the University of Rochester Clinical Materials Services Unit.",
+  "dataAccess": "unknown",
+  "result": "Immediate-release isradipine 5 mg twice daily, a dihydropyridine, against placebo: adjusted mean change in UPDRS parts I to III over 36 months 2.99 against 3.26 points, treatment effect -0.27 (95% CI -3.02 to 2.48; P=0.85); secondary outcomes showed no effect. Oedema occurred in 31 of 170 (18.2%) on isradipine against 9 of 166 (5.4%) on placebo. The trial was based on studies suggesting that dihydropyridines may be associated with reduced Parkinson disease risk; the authors note the dose may have been insufficient to engage the targeted calcium channels.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7465126/"
+}

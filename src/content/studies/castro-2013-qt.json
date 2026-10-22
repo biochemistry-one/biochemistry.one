@@ -1,0 +1,18 @@
+{
+  "title": "QT interval and antidepressant use: a cross sectional study of electronic health records",
+  "authors": "Castro VM, Clements CC, Murphy SN, Gainer VS, Fava M, Weilburg JB, et al.",
+  "journal": "BMJ",
+  "year": 2013,
+  "doi": "10.1136/bmj.f288",
+  "pmid": "23360890",
+  "design": "cross-sectional",
+  "participants": 38397,
+  "population": "Adults with an electrocardiogram after prescription of an antidepressant or methadone in a New England healthcare system of two academic medical centres and outpatient clinics, February 1990 to August 2011; 6293 on sertraline",
+  "funder": "The project was supported by the NIH/National Library of Medicine (award No 2U54LM008748) and the National Institute of Mental Health (award No R01MH086026).",
+  "funderRole": "unknown",
+  "authorConflicts": "One author (MF) reported consulting fees or advisory roles for many pharmaceutical companies including Eli Lilly, GlaxoSmithKline, Janssen and Pfizer; RHP reported consulting fees from several companies.",
+  "dataAccess": "individual",
+  "result": "Dose-response association with QTc prolongation for citalopram (adjusted beta 0.10, SE 0.04, p<0.01; within-subject mean QTc increase 10.3 ms from 20 to 40 mg), escitalopram and amitriptyline, but not for other antidepressants examined, including sertraline (adjusted beta 0.01, SE 0.01). Cross-sectional design without random assignment.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3558546"
+}

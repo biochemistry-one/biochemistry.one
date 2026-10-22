@@ -1,0 +1,16 @@
+{
+  "title": "9. Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2026",
+  "authors": "American Diabetes Association Professional Practice Committee for Diabetes",
+  "journal": "Diabetes Care",
+  "year": 2026,
+  "doi": "10.2337/dc26-S009",
+  "pmid": "41358900",
+  "design": "guideline",
+  "funder": "Funding statement read in the companion methodology section of the same Standards of Care (doi 10.2337/dc26-SINT, PMID 41358883): the guideline is funded by American Diabetes Association general revenue; no other entity, industry included, provides financial support; committee members received no remuneration; no committee member or subject matter expert was an employee of a pharmaceutical or medical device company during development.",
+  "funderRole": "none",
+  "authorConflicts": "Members disclosing a duality of interest pertinent to a recommendation are prohibited from voting or their votes are excluded; the chair and co-chairs must remain unconflicted for one year after publication. Individual disclosures are published separately.",
+  "dataAccess": "summary",
+  "result": "Metformin is described as a commonly used medication that historically has been the first-line treatment for type 2 diabetes, effective, safe, inexpensive and widely available, and reducing risks of microvascular complications, cardiovascular events and death; compared with sulfonylureas it is weight neutral, does not cause hypoglycaemia and reduces cardiovascular mortality. Principal side effects are gastrointestinal intolerance, mitigated by gradual dose titration or the extended-release formulation. The drug may be safely used at an estimated glomerular filtration rate of 30 mL/min/1.73 m2 or above; it should not be started below 45, the dose should be reduced below 45 and it should be stopped below 30. Lactic acidosis occurs with very high circulating levels, such as overdose or acute kidney injury, is very rare, and primarily occurs when eGFR is below 30 mL/min/1.73 m2. Metformin use is associated with increased risk of vitamin B12 deficiency and worsening of neuropathy symptoms, which suggests periodic testing of vitamin B12 levels. In the summary table metformin is rated high for glucose-lowering efficacy, with no hypoglycaemia risk, neutral weight effect with potential for modest loss, potential cardiovascular benefit, and neutral heart failure, kidney and liver effects.",
+  "class": "consensus",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12690168/"
+}

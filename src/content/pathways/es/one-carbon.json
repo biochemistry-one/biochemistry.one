@@ -1,0 +1,45 @@
+{
+  "title": "Reducción del ácido fólico y ciclo monocarbonado del folato",
+  "layout": "chain",
+  "compartment": "Citosol de los hepatocitos y de las células en división",
+  "steps": [
+    {
+      "from": "Ácido fólico",
+      "to": "7,8-Dihidrofolato",
+      "enzyme": "Dihidrofolato reductasa (DHFR)",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "Metotrexato"}],
+      "note": "Lenta y variable en el hígado humano; los folatos dietéticos reducidos la evitan"
+    },
+    {
+      "from": "7,8-Dihidrofolato",
+      "to": "Tetrahidrofolato",
+      "enzyme": "Dihidrofolato reductasa (DHFR)",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "Metotrexato"}],
+      "note": "Reduce también el dihidrofolato liberado por la timidilato sintasa (TYMS)"
+    },
+    {
+      "from": "Tetrahidrofolato",
+      "to": "5,10-Metilentetrahidrofolato",
+      "enzyme": "Serina hidroximetiltransferasa (SHMT1 citosólica, SHMT2 mitocondrial)",
+      "cofactors": ["Serina a glicina", "5′-Fosfato de piridoxal"],
+      "reversible": true,
+      "note": "Ramificación: la TYMS transfiere este carbono al dUMP y forma dTMP para el ADN"
+    },
+    {
+      "from": "5,10-Metilentetrahidrofolato",
+      "to": "5-Metiltetrahidrofolato",
+      "enzyme": "Metilentetrahidrofolato reductasa (MTHFR)",
+      "cofactors": ["NADPH", "FAD"],
+      "note": "Irreversible in vivo; la SAM la inhibe; la variante 677C>T reduce su actividad"
+    },
+    {
+      "from": "5-Metiltetrahidrofolato",
+      "to": "Tetrahidrofolato",
+      "enzyme": "Metionina sintasa (MTR)",
+      "cofactors": ["Metilcobalamina", "Homocisteína a metionina"],
+      "note": "El déficit de B12 enlentece este paso y atrapa el folato como 5-metil-THF"
+    }
+  ]
+}

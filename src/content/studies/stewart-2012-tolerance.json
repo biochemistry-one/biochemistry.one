@@ -1,0 +1,19 @@
+{
+  "title": "Salbutamol tolerance to bronchoprotection: course of onset",
+  "authors": "Stewart SL, Martin AL, Davis BE, Cockcroft DW",
+  "journal": "Annals of Allergy, Asthma & Immunology",
+  "year": 2012,
+  "doi": "10.1016/j.anai.2012.08.003",
+  "pmid": "23176887",
+  "registry": "NCT01338311",
+  "design": "rct",
+  "participants": 13,
+  "followUp": "4 days per treatment period",
+  "population": "Thirteen people with mild asthma at the University of Saskatchewan; randomised double-blind placebo-controlled crossover of seven twice-daily doses of salbutamol 200 µg or placebo, with methacholine challenge 10 minutes after the first, third, fifth and seventh doses",
+  "funder": "not read in the article: the full text requires a subscription. The registry names the University of Saskatchewan as lead sponsor and responsible party, with no collaborator listed.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "A single dose of salbutamol shifted the methacholine PC20 about fivefold, from a geometric mean of 2.1 to 10.7 mg/ml. Bronchoprotection peaked on day 2 after the third dose, was trending down after the fifth dose and on day 4, after the seventh dose, was significantly lower than its peak (p = 0.001); PC20 under placebo did not change over the 4 days.",
+  "class": "independent",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT01338311?fields=protocolSection.sponsorCollaboratorsModule,protocolSection.identificationModule"
+}

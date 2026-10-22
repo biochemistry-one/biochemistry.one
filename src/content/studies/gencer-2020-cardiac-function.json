@@ -1,0 +1,21 @@
+{
+  "title": "The impact of levothyroxine on cardiac function in older adults with mild subclinical hypothyroidism: a randomized clinical trial",
+  "authors": "Gencer B, Moutzouri E, Blum MR, Feller M, Collet TH, Delgiovane C, et al.",
+  "journal": "American Journal of Medicine",
+  "year": 2020,
+  "doi": "10.1016/j.amjmed.2020.01.018",
+  "pmid": "32171774",
+  "registry": "NCT02832960",
+  "design": "rct",
+  "participants": 185,
+  "followUp": "median treatment 18.4 months",
+  "population": "Swiss TRUST participants aged 65 or older with TSH 4.60 to 19.99 mIU/l and free T4 in range, randomised to levothyroxine (starting 50 µg) or placebo; mean age 74.1 years, 47% women",
+  "funder": "This study was supported by grants of the Swiss National Science Foundation (SNSF 320030-150025 and 320030-172676), and investigator-driven grants of the Velux Stiftung (974a) and of the Swiss Heart Foundation. The TRUST Trial was supported by a research grant (278148) from the European Union FP7-HEALTH-2011 program. Merck KGaA provided study medication as an investigator grant free of any cost or charges. Merck KGaA reviewed the manuscript for medical accuracy before journal submission but played no role in the design, analysis, or reporting of the trial.",
+  "funderRole": "publication",
+  "inKindSupport": "Levothyroxine and placebo from Merck KGaA free of charge.",
+  "authorConflicts": "One author disclosed grants and personal fees unrelated to the submitted work from IBSA, Merck, Alfa-Sigma and Sanofi-Genzyme.",
+  "dataAccess": "unknown",
+  "result": "Mean TSH fell from 6.35 to 3.55 mIU/l with levothyroxine (n = 96) and stayed at 5.29 with placebo (n = 89). Left ventricular ejection fraction 62.7% against 62.5% (adjusted difference 0.4%, 95% CI -1.8% to 2.5%) and E/e' ratio 10.6 against 10.1 (difference 0.4, -0.7 to 1.4); secondary diastolic measures did not differ. Classified as industry because the manufacturer reviewed the manuscript before submission.",
+  "class": "industry",
+  "fundingChecked": "https://eprints.gla.ac.uk/213014/1/213014.pdf"
+}

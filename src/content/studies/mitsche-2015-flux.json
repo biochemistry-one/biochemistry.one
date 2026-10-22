@@ -1,0 +1,17 @@
+{
+  "title": "Flux analysis of cholesterol biosynthesis in vivo reveals multiple tissue and cell-type specific pathways",
+  "authors": "Mitsche MA, McDonald JG, Hobbs HH, Cohen JC",
+  "journal": "eLife",
+  "year": 2015,
+  "doi": "10.7554/eLife.07999",
+  "pmid": "26114596",
+  "design": "animal",
+  "population": "Mice labelled with deuterated water; cultured human fibroblasts, mouse adrenal cells and CHO cells",
+  "funder": "Howard Hughes Medical Institute; National Institutes of Health (R37HL72304, PO1 HL20948, K01GM109317, UL1TR001105); Clayton Foundation for Research. The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.",
+  "funderRole": "none",
+  "authorConflicts": "H.H. Hobbs is a reviewing editor of eLife; the other authors declare no competing interests.",
+  "dataAccess": "individual",
+  "result": "Cholesterol is synthesised from acetate through more than 30 enzymatic reactions grouped into condensation of acetate to isoprene, polymerisation of isoprene to squalene, cyclisation of squalene to lanosterol and conversion of lanosterol to cholesterol. The Bloch and Kandutsch-Russell pathways differ in the stage at which the side-chain Delta-24 double bond is reduced: last, by DHCR24 acting on desmosterol, in the Bloch pathway; at lanosterol, with conversion via 7-dehydrocholesterol, in the Kandutsch-Russell pathway. No mouse tissue used the canonical Kandutsch-Russell pathway; tissues used a hybrid, the modified Kandutsch-Russell pathway, in which intermediates follow the Bloch pathway until demethylation of the sterol nucleus is complete and then undergo Delta-24 reduction. Proportional flux through the Bloch pathway ranged from 8% in preputial gland to 97% in testes. The route by which cholesterol travels from peripheral tissues to the liver, termed reverse cholesterol transport, remains to be fully defined.",
+  "class": "independent",
+  "fundingChecked": "https://elifesciences.org/articles/07999"
+}

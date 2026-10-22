@@ -1,0 +1,20 @@
+{
+  "title": "Effects of evening vs morning levothyroxine intake: a randomized double-blind crossover trial",
+  "authors": "Bolk N, Visser TJ, Nijman J, Jongste IJ, Tijssen JG, Berghout A",
+  "journal": "Archives of Internal Medicine",
+  "year": 2010,
+  "doi": "10.1001/archinternmed.2010.436",
+  "pmid": "21149757",
+  "registry": "ISRCTN17436693 (NTR959)",
+  "design": "rct",
+  "participants": 90,
+  "followUp": "two 3-month periods, crossover",
+  "population": "Consecutive patients with primary hypothyroidism on levothyroxine at Maasstad Hospital, Rotterdam; 105 randomised, 90 analysed",
+  "funder": "not stated. The publisher page shows no funding statement; double-blind study medication was provided by the hospital pharmacy, which performed the randomization.",
+  "funderRole": "unknown",
+  "authorConflicts": "None reported.",
+  "dataAccess": "unknown",
+  "result": "Bedtime against morning intake lowered TSH by 1.25 mIU/l (95% CI 0.60 to 1.89), and raised free T4 by 0.07 ng/dl (0.02 to 0.13) and total T3 by 6.5 ng/dl (0.9 to 12.1, as given in the abstract); quality of life and plasma lipids did not change significantly. Each patient took one capsule in the morning and one at bedtime, one containing levothyroxine and the other placebo, switched after 3 months.",
+  "class": "undetermined",
+  "fundingChecked": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/776486"
+}

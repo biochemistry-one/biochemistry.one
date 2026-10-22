@@ -1,0 +1,19 @@
+{
+  "title": "Comparison of effect of cafetière and filtered coffee on serum concentrations of liver aminotransferases and lipids: six month randomised controlled trial",
+  "authors": "Urgert R, Meyboom S, Kuilman M, Rexwinkel H, Vissers MN, Klerk M, et al.",
+  "journal": "BMJ",
+  "year": 1996,
+  "doi": "10.1136/bmj.313.7069.1362",
+  "pmid": "8956701",
+  "design": "rct",
+  "participants": 46,
+  "followUp": "24 weeks of treatment after a 4-week run-in, then 12 weeks of follow-up",
+  "population": "Healthy men and women aged 19 to 69 recruited through advertisements, Wageningen Agricultural University, the Netherlands; 53 allocated by coin toss after run-in, 46 completed (22 cafetière, 24 filtered coffee)",
+  "funder": "Netherlands Heart Foundation through the Netherlands Organisation of Scientific Research (grant No 900-562-091).",
+  "funderRole": "none",
+  "authorConflicts": "Conflict of interest: None.",
+  "dataAccess": "individual",
+  "result": "Participants drank 0.9 litres a day of strong cafetière or paper-filtered coffee (Douwe Egberts Roodmerk). Cafetière coffee provided 38 (SD 6) mg cafestol and 33 (5) mg kahweol a day; filtered coffee less than 1 mg of either. After 24 weeks LDL cholesterol was raised by 0.26 mmol/l (95% CI 0.04 to 0.47; P = 0.03), 9% over baseline, relative to filtered coffee; LDL rose 9-14% during treatment; HDL cholesterol was not affected. Triglycerides rose 26% within 2 weeks and 7% at 24 weeks. Alanine aminotransferase rose by up to 80%, and by 9 U/l (3 to 15), 45%, at 24 weeks; it exceeded the upper limit of normal at least once in 8 of 22 cafetière and 1 of 24 filtered-coffee drinkers. All increases were reversible after the intervention stopped.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240724084930/https://www.bmj.com/content/313/7069/1362.full"
+}

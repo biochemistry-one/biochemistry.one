@@ -1,0 +1,19 @@
+{
+  "title": "New-onset nonarteritic anterior ischemic optic neuropathy and initiators of semaglutide in US veterans with type 2 diabetes",
+  "authors": "Heberer K, Bress AP, Cogill S, Maldonado AI, Kim SH, Nallamshetty S, et al.",
+  "journal": "JAMA Ophthalmology",
+  "year": 2026,
+  "doi": "10.1001/jamaophthalmol.2025.6262",
+  "pmid": "41678180",
+  "design": "cohort",
+  "participants": 102361,
+  "followUp": "median 2.1 years, maximum 7.5 years; March 2018 to July 2025",
+  "population": "US veterans with type 2 diabetes on metformin without prior GLP-1 receptor agonist or SGLT2 inhibitor use: 11,478 semaglutide initiators and 90,883 SGLT2 inhibitor initiators; target trial emulation with overlap weighting; 85.5% men, mean BMI 37.8",
+  "funder": "The VA authors conducted the study with support from the VA Cooperative Studies Program (CSP#2012); one author is partially funded by NIH/NIDDK. The VA Cooperative Studies Program was involved in design and conduct, data handling, analysis and interpretation, manuscript preparation and the decision to submit.",
+  "funderRole": "several",
+  "authorConflicts": "One author reported a Novartis grant and one consulting fees, both outside the work; one reported VA grants and company grants through the University of Utah outside the work.",
+  "dataAccess": "summary",
+  "result": "173 incident NAION events occurred. Incidence was 123 per 100,000 person-years among semaglutide initiators against 67 per 100,000 among SGLT2 inhibitor initiators; hazard ratio 2.33 (95% CI 1.54 to 3.54). Overlap-weighted incidence 0.29% against 0.13%, an average treatment effect of 0.16 percentage points over a median 2.1 years.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12902922"
+}

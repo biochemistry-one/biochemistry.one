@@ -1,0 +1,19 @@
+{
+  "title": "Antidepressant utilisation and incidence of weight gain during 10 years' follow-up: population based cohort study",
+  "authors": "Gafoor R, Booth HP, Gulliford MC",
+  "journal": "BMJ",
+  "year": 2018,
+  "doi": "10.1136/bmj.k1951",
+  "pmid": "29793997",
+  "design": "cohort",
+  "participants": 294719,
+  "followUp": "1,836,452 person-years over up to 10 years",
+  "population": "136,762 men and 157,957 women with three or more body mass index records in UK primary care (Clinical Practice Research Datalink)",
+  "funder": "MCG was supported by the NIHR Biomedical Research Centre at Guy's and St Thomas' NHS Foundation Trust and King's College London. The funders were not involved in the design, conduct, or reporting of this study.",
+  "funderRole": "none",
+  "authorConflicts": "HPB is now employed by CPRD; no other relationships declared.",
+  "dataAccess": "individual",
+  "result": "Incidence of a new 5% or greater weight gain: 8.1 per 100 person-years without and 11.2 per 100 person-years with antidepressants (adjusted rate ratio 1.21, 95% CI 1.19 to 1.22), raised for at least six years; in the second year, 27 people treated for one year for one additional episode. Transition from normal weight to overweight or obesity rate ratio 1.29 (1.25 to 1.34). Sertraline accounted for 9.0% of antidepressant use; individual-drug estimates were reported in figures. Associations may not be causal.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5964332"
+}

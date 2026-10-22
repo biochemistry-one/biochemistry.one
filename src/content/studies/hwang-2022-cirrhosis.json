@@ -1,0 +1,17 @@
+{
+  "title": "Correlation between proton pump inhibitors and the complications of liver cirrhosis: a systematic review and meta-analysis",
+  "authors": "Hwang SJ, Lee DH, Koh SJ, Kim JW, Park HS, Kim BG, et al.",
+  "journal": "Turkish Journal of Gastroenterology",
+  "year": 2022,
+  "doi": "10.5152/tjg.2022.20689",
+  "pmid": "35040787",
+  "design": "meta-analysis",
+  "participants": 20484,
+  "population": "29 observational studies (13 case-control, 16 cohort) in patients with cirrhosis",
+  "funder": "This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korean government (MSIT) (No. 2019R1C1C1002243), Basic Science Research Program through the NRF funded by the Ministry of Education (NRF-2016R1D1A1B03931961 and NFR-2020R1F1A1066491) and Seoul national university hospital (3020160160).",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "PPI use in cirrhosis: spontaneous bacterial peritonitis RR 1.31 (95% CI 1.10 to 1.55; 23 studies; I2 73.0%); portosystemic encephalopathy RR 1.25 (0.85 to 1.84; 7 studies; I2 96.1%); overall infection RR 1.37 (1.07 to 1.76; 7 studies); mortality RR 1.39 (0.85 to 2.27; 2 cohort studies).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9128585/fullTextXML"
+}

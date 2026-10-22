@@ -1,0 +1,14 @@
+{
+  "title": "CRESTOR (rosuvastatin) tablets, for oral use: full prescribing information",
+  "authors": "US Food and Drug Administration (labelling submitted by AstraZeneca Pharmaceuticals LP)",
+  "journal": "US Food and Drug Administration approved prescribing information, via DailyMed; version 19, effective 23 September 2026",
+  "year": 2026,
+  "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee",
+  "design": "regulatory",
+  "funder": "not stated; FDA-approved labelling carries no funding statement",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Rosuvastatin clearance is not dependent on metabolism by cytochrome P450 3A4 to a clinically significant extent. Rosuvastatin is a substrate of CYP2C9 and of transporter proteins including the hepatic uptake transporter organic anion-transporting polypeptide 1B1 (OATP1B1) and the efflux transporter breast cancer resistance protein (BCRP); coadministration of inhibitors of these transporters, such as ciclosporin, certain HIV protease inhibitors and ticagrelor, may raise rosuvastatin plasma concentrations and the risk of myopathy and rhabdomyolysis. Disposition involves OATP1B1 and other transporter proteins, and higher plasma concentrations have been reported in very small groups of patients (n = 3 to 5) who carry two reduced-function alleles of the gene encoding OATP1B1 (SLCO1B1 521T>C). The frequency of the SLCO1B1 521 C/C genotype is generally lower than 5% in most racial and ethnic groups, and the effect of this polymorphism on the efficacy or safety of rosuvastatin has not been clearly established.",
+  "class": "regulatory",
+  "fundingChecked": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Proton pump inhibitors suppress absorption of dietary non-haem iron in hereditary haemochromatosis",
+  "authors": "Hutchinson C, Geissler CA, Powell JJ, Bomford A",
+  "journal": "Gut",
+  "year": 2007,
+  "doi": "10.1136/gut.2006.108613",
+  "pmid": "17344278",
+  "design": "other",
+  "participants": 21,
+  "population": "Patients homozygous for HFE C282Y: 7 in a case review of maintenance phlebotomy before and during PPI use and 14 phlebotomised patients in a test-meal study before and during 7 days of lansoprazole 30 mg or omeprazole 20 mg",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "authorConflicts": "Competing interests: none.",
+  "dataAccess": "unknown",
+  "result": "Blood removed annually fell from 2.5 L (SE 0.25) before to 0.5 L (SE 0.25) during PPI use (p < 0.001; mean 6.1 and 3.8 years). Seven days of a PPI reduced absorption of non-haem iron (14.5 mg) from a test meal: recovery of administered iron at peak serum iron 20.5% (SE 3.2) against 11.0% (SE 2.0); peak serum iron 13.6 against 6.1 µmol/L (all p < 0.01).",
+  "class": "undetermined",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1954964/"
+}

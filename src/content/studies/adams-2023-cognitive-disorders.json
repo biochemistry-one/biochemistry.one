@@ -1,0 +1,19 @@
+{
+  "title": "Endogenous and exogenous thyrotoxicosis and risk of incident cognitive disorders in older adults",
+  "authors": "Adams R, Oh ES, Yasar S, Lyketsos CG, Mammen JS",
+  "journal": "JAMA Internal Medicine",
+  "year": 2023,
+  "doi": "10.1001/jamainternmed.2023.5619",
+  "pmid": "37870843",
+  "design": "cohort",
+  "participants": 65931,
+  "followUp": "primary care records from 1 January 2014 to 6 May 2023",
+  "population": "Patients aged 65 years or older in the Johns Hopkins Community Physicians network without prior low TSH or cognitive disorder; median age 68 years, 56% women",
+  "funder": "This work was supported by the Richman Family Precision Medicine Center of Excellence in Alzheimer's Disease, including significant contributions from the Richman Family Foundation, the Rick Sharp Alzheimer's Foundation, the Sharp Family Foundation, and others. The work was also supported by National Institutes of Health grants R01AG064256, P30 AG066507, R01AG076525 and R01AG057725. The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Dr Lyketsos reported personal fees from Karuna, MapLight Therapeutics, Axsome Therapeutics, GIA, GW Research Limited, Merck, EXCIVA GmbH, Otsuka, IntraCellular Therapies and Medesis Pharma for consulting on Alzheimer disease treatment outside the submitted work.",
+  "dataAccess": "individual",
+  "result": "Cumulative incidence of cognitive disorder (mild cognitive impairment or dementia) by age 75 years was 11.0% (95% CI 8.4% to 14.2%) with exposure to low TSH against 6.4% (6.0% to 6.8%) without. Adjusted hazard ratio 1.39 (1.18 to 1.64) for all-cause thyrotoxicosis and 1.34 (1.10 to 1.63) for exogenous thyrotoxicosis from thyroid hormone, with point estimates suggestive of a dose response.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10594176/"
+}

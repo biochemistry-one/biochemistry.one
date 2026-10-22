@@ -1,0 +1,17 @@
+{
+  "title": "Vitamin, Mineral, and Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer: US Preventive Services Task Force Recommendation Statement",
+  "authors": "US Preventive Services Task Force, Mangione CM, Barry MJ, Nicholson WK, Cabana M, Chelmow D, et al.",
+  "journal": "JAMA",
+  "year": 2022,
+  "doi": "10.1001/jama.2022.8970",
+  "pmid": "35727271",
+  "design": "guideline",
+  "population": "Community-dwelling, nonpregnant adults",
+  "funder": "The USPSTF is an independent, voluntary body; the US Congress mandates that the Agency for Healthcare Research and Quality (AHRQ) support its operations. AHRQ staff assisted in developing the research plan, commissioning the evidence review, coordinating expert review and public comment, and writing and preparing the statement; they had no role in approving the final statement or the decision to submit.",
+  "funderRole": "several",
+  "authorConflicts": "Members receive travel reimbursement and an honorarium for participating in USPSTF meetings; conflicts are handled under the USPSTF disclosure policy.",
+  "dataAccess": "summary",
+  "result": "The USPSTF recommends against beta carotene or vitamin E supplements for the prevention of cardiovascular disease or cancer (D recommendation), and concludes that the evidence is insufficient to assess the balance of benefits and harms of multivitamins and of single- or paired-nutrient supplements other than beta carotene and vitamin E (I statements).",
+  "class": "consensus",
+  "fundingChecked": "https://web.archive.org/web/20261004062150/https://jamanetwork.com/journals/jama/fullarticle/2793446"
+}

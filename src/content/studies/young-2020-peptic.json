@@ -1,0 +1,20 @@
+{
+  "title": "Effect of stress ulcer prophylaxis with proton pump inhibitors vs histamine-2 receptor blockers on in-hospital mortality among ICU patients receiving invasive mechanical ventilation: the PEPTIC randomized clinical trial",
+  "authors": "Young PJ, Bagshaw SM, Forbes AB, Nichol AD, Wright SE, Bailey M, et al.",
+  "journal": "JAMA",
+  "year": 2020,
+  "doi": "10.1001/jama.2019.22190",
+  "pmid": "31950977",
+  "registry": "ACTRN12616000481471",
+  "design": "rct",
+  "participants": 26982,
+  "followUp": "90 days in hospital",
+  "population": "Patients requiring invasive ventilation within 24 hours of ICU admission in 50 ICUs in five countries; cluster crossover of preferential PPI against preferential H2-receptor blocker use, 6 months each",
+  "funder": "Funded by the Health Research Council of New Zealand, the Canadian Institutes of Health Research, the Australian and New Zealand Intensive Care Foundation, and the Health Research Board of Ireland. The PEPTIC trial was supported by the UK National Institute for Health Research Critical Care Clinical Research Networks and the UK Critical Care Research Group. The funders/sponsors had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Bagshaw received grants and fees from Baxter and fees from Spectral Medical and CNA Diagnostics; Beasley received grants and fees from AstraZeneca and GlaxoSmithKline.",
+  "dataAccess": "summary",
+  "result": "Hospital death by day 90: 2459 of 13,415 (18.3%) in the PPI group against 2333 of 13,356 (17.5%) in the H2-receptor blocker group (RR 1.05, 95% CI 1.00 to 1.10; absolute difference 0.93 percentage points, -0.01 to 1.88; P = .054). Clinically important upper gastrointestinal bleeding 1.3% against 1.8% (RR 0.73, 0.57 to 0.92; -0.51 percentage points). C. difficile infection did not differ significantly. An estimated 4.1% of the PPI arm received H2-receptor blockers and 20.1% of the H2-receptor blocker arm received PPIs.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7029750/fullTextXML"
+}

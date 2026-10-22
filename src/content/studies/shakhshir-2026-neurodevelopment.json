@@ -1,0 +1,18 @@
+{
+  "title": "Prenatal exposure to asthma medications and risk of neurodevelopmental disorders and educational difficulties: A systematic review and meta-analysis",
+  "authors": "Shakhshir LA, Karain A, Pell JP, Hastie CE, Nelson SM, Fleming M",
+  "journal": "PLoS Medicine",
+  "year": 2026,
+  "doi": "10.1371/journal.pmed.1005100",
+  "pmid": "42224295",
+  "design": "meta-analysis",
+  "participants": 3867170,
+  "population": "Eight observational studies (5 cohort, 3 case-control) of prenatal asthma medication exposure and neurodevelopmental outcomes in offspring, 2003 to November 2025; studies of tocolytic or intravenous beta2-agonist use were excluded",
+  "funder": "The work is affiliated to Health Data Research UK, funded by UK public research councils and charities; the British Council funds one author's PhD. The funders had no role in design, conduct, analysis, interpretation, preparation, review or approval of the manuscript, or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "The authors have declared that no competing interests exist.",
+  "dataAccess": "summary",
+  "result": "All included studies examined beta2-adrenergic agonists, without separating short-acting from long-acting agents. Meta-analysis of three studies (1,380,871 participants) found associations with autism spectrum disorder for exposure before conception (adjusted OR 1.34, 95% CI 1.19 to 1.52) and during pregnancy (1.29, 1.16 to 1.42), with low heterogeneity. In five studies that tried to separate medication from maternal asthma, associations in the subgroup of mothers with confirmed asthma were non-significant. An association with ADHD rests on a single study. The authors state that the evidence cannot distinguish a medication effect from confounding by indication or severity.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13225639/"
+}

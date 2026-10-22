@@ -1,0 +1,19 @@
+{
+  "title": "Estimates of all cause mortality and cause specific mortality associated with proton pump inhibitors among US veterans: cohort study",
+  "authors": "Xie Y, Bowe B, Yan Y, Xian H, Li T, Al-Aly Z",
+  "journal": "BMJ",
+  "year": 2019,
+  "doi": "10.1136/bmj.l1580",
+  "pmid": "31147311",
+  "design": "cohort",
+  "participants": 214467,
+  "followUp": "median 10 years (interquartile range 6.95 to 10.00)",
+  "population": "US Department of Veterans Affairs new users of PPIs (n = 157,625) or H2-receptor antagonists (n = 56,842), 2002 to 2004",
+  "funder": "This research was funded by the United States Department of Veterans Affairs and the Institute for Public Health at Washington University in St Louis, MO, USA (ZAA). The funders of this study had no role in study design; collection, analysis, and interpretation of data; writing the report; and the decision to submit the report for publication.",
+  "funderRole": "none",
+  "authorConflicts": "No financial relationships with any organisations that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "individual",
+  "result": "Deaths over 10 years: 38.74 per 100 PPI users against 34.22 per 100 H2-receptor antagonist users (HR 1.17, 95% CI 1.10 to 1.24), an estimated 45.20 (28.20 to 61.40) excess deaths per 1000 PPI users, including circulatory diseases 17.47, neoplasms 12.94, infectious diseases 4.20 and genitourinary diseases 6.25 per 1000; cardiovascular disease 15.48 and chronic kidney disease 4.19 per 1000. Graded relation with cumulative duration. Among 116,377 without a documented indication, excess cardiovascular (22.91), chronic kidney disease (4.74) and upper gastrointestinal cancer (3.12) deaths per 1000. Negative-control outcomes (transport deaths, peptic ulcer deaths) were not associated. Data are available through the US Department of Veterans Affairs.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6538974/fullTextXML"
+}

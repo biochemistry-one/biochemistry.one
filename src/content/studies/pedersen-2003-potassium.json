@@ -1,0 +1,16 @@
+{
+  "title": "Loss of force induced by high extracellular [K+] in rat muscle: effect of temperature, lactic acid and beta2-agonist",
+  "authors": "Pedersen TH, Clausen T, Nielsen OB",
+  "journal": "Journal of Physiology",
+  "year": 2003,
+  "doi": "10.1113/jphysiol.2003.041418",
+  "pmid": "12813152",
+  "design": "animal",
+  "population": "Isolated rat soleus and extensor digitorum longus muscles",
+  "funder": "The study was supported by grants from the Danish Medical Research Council (no. 22-01-0189), the Danish Biomembrane Research Centre, Aarhus Universitets Forskningsfond and The Carlsberg Foundation.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "In isolated rat soleus muscle exposed to 11 mM extracellular K+, tetanic force was 16 ± 4% of control at 30 °C; raising the temperature to 35 °C gave 35 ± 5%, adding 10 mM L-lactic acid 52 ± 3%, and adding 10 µM salbutamol restored force to 87 ± 2%. Together, lactic acid and salbutamol raised the IC50 for extracellular K+ from 10.7 to 13.5 mM. Force recovery produced by warming was suppressed by ouabain, and warming raised ouabain-suppressible 86Rb+ uptake by 93%, lowered intracellular Na+ by 5 mM and hyperpolarised the membrane by 5 mV, so recovery in this preparation depends on Na+-K+ pump activity. The authors ascribe the added effect of salbutamol to a higher affinity of the pump for intracellular Na+.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2343135/"
+}

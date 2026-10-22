@@ -1,0 +1,17 @@
+{
+  "title": "Risk of Hypoglycemia Associated With Concomitant Use of Insulin Secretagogues and ACE Inhibitors in Adults With Type 2 Diabetes: A Systematic Review",
+  "authors": "Chu PY, Edmondson EK, Flory JH, Huang J, Hennessy S",
+  "journal": "Clinical Pharmacology and Therapeutics",
+  "year": 2025,
+  "doi": "10.1002/cpt.3530",
+  "pmid": "39670464",
+  "design": "systematic-review",
+  "population": "Five observational studies of adults with type 2 diabetes treated with sulfonylureas or meglitinides and exposed to an ACE inhibitor, from 472 records searched to July 2023",
+  "funder": "Supported by grants T32GM075766, F32 DK138739 from the National Institutes of Health.",
+  "funderRole": "unknown",
+  "authorConflicts": "Hennessy has consulted for the Medullary Thyroid Cancer Consortium (Novo Nordisk, AstraZeneca, GlaxoSmithKline, Eli Lilly), Urvant Sciences, i2o, Bailea, Bluebird bio, Amylyx, Ipsen and Covis Pharma, all stated as unrelated.",
+  "dataAccess": "summary",
+  "result": "Heterogeneity precluded meta-analysis. Two studies using multiple methods to address bias found no association between serious hypoglycaemia and concomitant ACE inhibitor and insulin secretagogue use; three found potential associations, one statistically significant, and were at serious or critical risk of bias because renal dysfunction was not adjusted for. Warnings of this interaction in drug compendia originated in case reports.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11924155/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Semaglutide and cardiovascular outcomes in obesity without diabetes",
+  "authors": "Lincoff AM, Brown-Frandsen K, Colhoun HM, Deanfield J, Emerson SS, Esbjerg S, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2023,
+  "doi": "10.1056/NEJMoa2307563",
+  "pmid": "37952131",
+  "registry": "NCT03574597",
+  "design": "rct",
+  "participants": 17604,
+  "followUp": "mean 39.8 months (SD 9.4); mean exposure 34.2 months",
+  "population": "Adults aged 45 or over with BMI of 27 kg/m2 or more, established cardiovascular disease (previous myocardial infarction, stroke or symptomatic peripheral arterial disease) and no diabetes, at 804 sites in 41 countries; mean age 61.6 years, 72.3% men, mean BMI 33.3, 66.4% with HbA1c 5.7 to 6.4%; 90.1% on lipid-lowering drugs",
+  "funder": "Supported by Novo Nordisk. The protocol was designed by the sponsor and the academic steering committee.",
+  "funderRole": "design",
+  "dataAccess": "summary",
+  "result": "Death from cardiovascular causes, non-fatal myocardial infarction or non-fatal stroke occurred in 569 of 8803 (6.5%) on semaglutide 2.4 mg weekly against 701 of 8801 (8.0%) on placebo (hazard ratio 0.80, 95% CI 0.72 to 0.90), an absolute difference of 1.5 percentage points over a mean 39.8 months. Cardiovascular death, the first confirmatory secondary end point, 223 (2.5%) against 262 (3.0%) (0.85, 0.71 to 1.01, P = 0.07), so the hierarchy stopped; death from any cause 375 (4.3%) against 458 (5.2%) (0.81, 0.71 to 0.93) was not formally tested. Non-fatal myocardial infarction 234 (2.7%) against 322 (3.7%); non-fatal stroke 154 (1.7%) against 165 (1.9%) (0.93, 0.74 to 1.15). Weight change to week 104 was -9.39% against -0.88%. Adverse events leading to permanent discontinuation 1461 (16.6%) against 718 (8.2%), gastrointestinal 880 (10.0%) against 172 (2.0%); serious adverse events 2941 (33.4%) against 3204 (36.4%); gallbladder disorders 246 (2.8%) against 203 (2.3%) (P = 0.04); adjudicated acute pancreatitis 17 against 24; acute kidney failure 171 (1.9%) against 200 (2.3%). The trial collected safety data in a targeted manner: only serious adverse events, adverse events leading to discontinuation and prespecified adverse events of special interest were systematically recorded. Permanent premature discontinuation of the trial drug 26.7% against 23.6%. Only patients with established cardiovascular disease were included, so primary prevention was not studied; 27.7% of participants were women and 3.8% Black.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20251112195017/https://www.nejm.org/doi/full/10.1056/NEJMoa2307563"
+}

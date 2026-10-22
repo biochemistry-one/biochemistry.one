@@ -1,0 +1,19 @@
+{
+  "title": "Effects of semaglutide on chronic kidney disease in patients with type 2 diabetes",
+  "authors": "Perkovic V, Tuttle KR, Rossing P, Mahaffey KW, Mann JFE, Bakris G, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2024,
+  "doi": "10.1056/NEJMoa2403347",
+  "pmid": "38785209",
+  "registry": "NCT03819153",
+  "design": "rct",
+  "participants": 3533,
+  "followUp": "median 3.4 years; stopped early after a prespecified interim analysis",
+  "population": "Adults with type 2 diabetes and chronic kidney disease: eGFR 50 to 75 mL/min/1.73 m2 with urinary albumin-to-creatinine ratio above 300 and below 5000 mg/g, or eGFR 25 to below 50 with ratio above 100 and below 5000",
+  "funder": "Supported by Novo Nordisk. The methods section describing the sponsor's role is behind the publisher's access wall in the archived copy and was not read.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "The composite of kidney failure, at least 50% reduction in eGFR, or death from kidney-related or cardiovascular causes occurred in 331 of 1767 on semaglutide 1.0 mg weekly against 410 of 1766 on placebo (hazard ratio 0.76, 95% CI 0.66 to 0.88), 18.7% against 23.2%, an absolute difference of 4.5 percentage points over a median 3.4 years. Kidney-specific components 0.79 (0.66 to 0.94); cardiovascular death 0.71 (0.56 to 0.89); major cardiovascular events 0.82 (0.68 to 0.98); death from any cause 0.80 (0.67 to 0.95). The mean annual eGFR decline was 1.16 mL/min/1.73 m2 less steep. Serious adverse events 49.6% against 53.8%.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20250725175525/https://www.nejm.org/doi/full/10.1056/NEJMoa2403347"
+}

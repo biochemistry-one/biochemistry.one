@@ -1,0 +1,19 @@
+{
+  "title": "Ascorbic acid supplements and kidney stone incidence among men: a prospective study",
+  "authors": "Thomas LD, Elinder CG, Tiselius HG, Wolk A, Akesson A",
+  "journal": "JAMA Internal Medicine",
+  "year": 2013,
+  "doi": "10.1001/jamainternmed.2013.2296",
+  "pmid": "23381591",
+  "design": "cohort",
+  "participants": 23355,
+  "followUp": "11 years; first incident stones ascertained from registries, 1 January 1998 to 31 December 2009",
+  "population": "Men of the Cohort of Swedish Men, aged 45 to 79 years at baseline in 1997, without prior kidney stones or cancer, who used ascorbic acid supplements only (907) or no supplements (22,448); Swedish tablets typically contain 1000 mg",
+  "funder": "The research was funded by the Swedish Research Council/Research Infrastructures (grant No. 2008-5947) and Karolinska Institutet KID funding (PhD funding awarded to Ms Thomas). Role of the Sponsors: The funders had no role in the design and conduct of the study; in the collection, analysis, and interpretation of the data; or in the preparation, review, or approval of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "None reported.",
+  "dataAccess": "individual",
+  "result": "First incident kidney stones: 31 of 907 users of ascorbic acid only (9,995 person-years; 310 per 100,000 person-years) against 405 of 22,448 supplement non-users (248,884 person-years; 163 per 100,000); incidence rate difference 147 per 100,000 person-years. Multivariable relative risk 1.92 (95% CI 1.33 to 2.77); fewer than 7 tablets a week 1.66 (0.99 to 2.79), 7 or more 2.23 (1.28 to 3.88), p for trend 0.001. Multivitamin use only: relative risk 0.86 (0.62 to 1.19).",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20190701083923/https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1568519"
+}

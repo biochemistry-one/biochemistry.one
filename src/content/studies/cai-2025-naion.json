@@ -1,0 +1,19 @@
+{
+  "title": "Semaglutide and nonarteritic anterior ischemic optic neuropathy",
+  "authors": "Cai CX, Hribar M, Baxter S, Goetz K, Swaminathan SS, Flowers A, et al.",
+  "journal": "JAMA Ophthalmology",
+  "year": 2025,
+  "doi": "10.1001/jamaophthalmol.2024.6555",
+  "pmid": "39976940",
+  "design": "cohort",
+  "participants": 37100000,
+  "followUp": "December 2017 to December 2023",
+  "population": "Adults with type 2 diabetes in 14 OHDSI network databases (6 claims, 8 electronic health records), including 810,390 new semaglutide users, compared with new users of dulaglutide, exenatide, empagliflozin, sitagliptin and glipizide",
+  "funder": "Supported in part by NIH and NEI grants to individual authors and by Department of Veterans Affairs informatics resources; the funders had no role in design, conduct, collection, analysis, interpretation, preparation, review or approval of the manuscript, or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "Several authors are employees and shareholders of Johnson & Johnson or employed by IQVIA, and others report fees from ophthalmic device and drug companies, all stated as outside the submitted work.",
+  "dataAccess": "summary",
+  "result": "NAION incidence was 14.5 per 100,000 person-years among semaglutide users. With a sensitive NAION definition, hazard ratios against empagliflozin, sitagliptin and glipizide were 1.44 (95% CI 0.78 to 2.68), 1.30 (0.56 to 3.01) and 1.23 (0.66 to 2.28); with a specific definition, 2.27 (1.16 to 4.46) against empagliflozin. The self-controlled case series gave an incidence rate ratio of 1.32 (1.14 to 1.54). The authors describe a modest increase, smaller than previously reported; cup-to-disc ratio was not available.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11843465"
+}

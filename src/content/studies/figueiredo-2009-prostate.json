@@ -1,0 +1,21 @@
+{
+  "title": "Folic acid and risk of prostate cancer: results from a randomized clinical trial",
+  "authors": "Figueiredo JC, Grau MV, Haile RW, Sandler RS, Summers RW, Bresalier RS, et al.",
+  "journal": "Journal of the National Cancer Institute",
+  "year": 2009,
+  "doi": "10.1093/jnci/djp019",
+  "pmid": "19276452",
+  "registry": "NCT00272324",
+  "design": "rct",
+  "participants": 643,
+  "followUp": "Up to 10.8 years, median 7.0 years",
+  "population": "Men in the Aspirin/Folate Polyp Prevention Study, a placebo-controlled trial of 1 mg folic acid daily in adults with recent colorectal adenomas, USA and Canada; mean age 57.4 years; secondary analysis",
+  "funder": "Supported in part by grants (R01-CA-059005 and U54-CA-100971) from the National Cancer Institute, National Institutes of Health; supported in part by a post-PhD Research Fellowship from the National Cancer Institute of Canada (#017602 to J.C.F.). The study sponsors had no role in the study design, data collection, analysis and interpretation of the data, the decision to submit the manuscript for publication, or the writing of the manuscript.",
+  "funderRole": "none",
+  "inKindSupport": "Wyeth, which markets folate supplements, provided study agents for the trial.",
+  "authorConflicts": "R. S. Bresalier is a consultant for Prozen, Inc.",
+  "dataAccess": "summary",
+  "result": "34 prostate cancers after randomisation. Estimated 10-year probability of prostate cancer 9.7% (95% CI 6.5% to 14.5%) with folic acid against 3.3% (1.7% to 6.4%) with placebo: age-adjusted HR 2.63 (1.23 to 5.65); multiadjusted HR 2.58 (1.14 to 5.86). Baseline dietary folate (HR per SD 0.65, 0.35 to 1.20) and plasma folate in non-users of multivitamins (0.42, 0.17 to 1.04) tended in the opposite direction. Screening was not protocol-driven, and the authors call the estimates imprecise.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2657096/"
+}

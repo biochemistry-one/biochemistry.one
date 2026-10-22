@@ -1,0 +1,20 @@
+{
+  "title": "Ultraprocessed or minimally processed diets following healthy dietary guidelines on weight and cardiometabolic health: a randomized, crossover trial",
+  "authors": "Dicken SJ, Jassil FC, Brown A, Kalis M, Stanley C, Ranson C, et al.",
+  "journal": "Nature Medicine",
+  "year": 2025,
+  "doi": "10.1038/s41591-025-03842-0",
+  "pmid": "40760353",
+  "registry": "NCT05627570",
+  "design": "rct",
+  "participants": 55,
+  "followUp": "8 weeks on each diet, 2 × 2 crossover with a 4-week washout",
+  "population": "Adults in England with BMI 25 to below 40 kg/m2 and habitual ultra-processed food intake of at least 50% of energy (mean 67.4%); 50 of 55 (90.9%) women; 50 in the intention-to-treat analysis",
+  "funder": "The trial was supported by a National Institute for Health and Care Research UCLH Biomedical Research Centre grant and a Rosetrees Trust grant (PGL22/100041). The Sponsor and funders were not involved in the design, conduct or analysis of the trial.",
+  "funderRole": "none",
+  "authorConflicts": "RL Batterham reports honoraria and advisory or consultancy work for Novo Nordisk, Eli Lilly and others and has been an employee and shareholder of Eli Lilly and Company since May 2023; A Brown reports grants and honoraria from Novo Nordisk; SJ Dicken receives royalties for a self-published book that mentions ultra-processed food, and C van Tulleken for a book on ultra-processed food.",
+  "dataAccess": "summary",
+  "result": "Both diets followed the UK Eatwell Guide and were delivered to participants' homes for ad libitum intake. Weight change at 8 weeks −2.06% (95% CI −2.99 to −1.13) on minimally processed food and −1.05% (−1.98 to −0.13) on ultra-processed food; difference −1.01 percentage points (−1.87 to −0.14; P = 0.024), −0.96 kg (−1.76 to −0.17). Fat mass difference −0.98 kg; triglycerides −0.25 mmol/l (−0.42 to −0.09) in favour of minimally processed food; LDL cholesterol fell more on ultra-processed food (difference 0.25 mmol/l, 0.05 to 0.45). Corrected energy density 1.25 kcal/g (minimally processed) versus 1.60 kcal/g (ultra-processed). Diet order interacted significantly with diet (P < 0.001).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12532614/"
+}

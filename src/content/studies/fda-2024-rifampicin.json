@@ -1,0 +1,14 @@
+{
+  "title": "Rifampin capsules, USP: full prescribing information",
+  "authors": "US Food and Drug Administration (labelling submitted by ANI Pharmaceuticals, Inc.)",
+  "journal": "US Food and Drug Administration approved prescribing information, via DailyMed; version 1, effective 10 October 2024",
+  "year": 2024,
+  "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b389b1a3-672f-47e3-916c-4a9c044b211b",
+  "design": "regulatory",
+  "funder": "not stated; FDA-approved labelling carries no funding statement",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Rifampin is a well characterised and potent inducer of drug metabolising enzymes and transporters. Those affected include cytochromes P450 1A2, 2B6, 2C8, 2C9, 2C19 and 3A4, UDP-glucuronyltransferases, sulfotransferases, carboxylesterases, P-glycoprotein and multidrug resistance-associated protein 2. Rifampin may therefore increase the metabolism and decrease the activity of a coadministered drug, or increase the activity of a coadministered prodrug that requires metabolic activation. Reductions in exposure listed in Table 1 include oxycodone and tamoxifen, area under the curve lowered by 86%, lenacapavir 84%, zopiclone 82%, daclatasvir 79%, zolpidem 73%, rosiglitazone 66%, cabotegravir 59%, tacrolimus 56% and losartan 30%; haloperidol plasma concentrations fall by 70%. For digoxin the label advises measuring serum concentrations before rifampin is started and raising the digoxin dose by about 20% to 40% as necessary. Concomitant use with clopidogrel should be discouraged, because the exposure to the active metabolite and the risk of bleeding increase.",
+  "class": "regulatory",
+  "fundingChecked": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b389b1a3-672f-47e3-916c-4a9c044b211b"
+}

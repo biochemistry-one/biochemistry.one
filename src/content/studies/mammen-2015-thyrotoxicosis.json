@@ -1,0 +1,19 @@
+{
+  "title": "Thyroid hormone therapy and risk of thyrotoxicosis in community-resident older adults: findings from the Baltimore Longitudinal Study of Aging",
+  "authors": "Mammen JS, McGready J, Oxman R, Chia CW, Ladenson PW, Simonsick EM",
+  "journal": "Thyroid",
+  "year": 2015,
+  "doi": "10.1089/thy.2015.0180",
+  "pmid": "26177259",
+  "design": "cohort",
+  "participants": 1450,
+  "followUp": "examinations every 1 to 4 years between 2003 and 2014",
+  "population": "Ambulatory community volunteers in the Baltimore Longitudinal Study of Aging examined at the National Institute on Aging Clinical Research Unit",
+  "funder": "Financial support came from the Passano Foundation, the Walton Family Foundation, NIH grant K23DK095954 to J.S.M., and the NIH Intramural Research Program, National Institute on Aging. Data for these analyses were obtained from the Baltimore Longitudinal Study of Aging, a study performed by the NIA.",
+  "funderRole": "unknown",
+  "authorConflicts": "No competing financial interests exist.",
+  "dataAccess": "individual",
+  "result": "Low TSH was present in 9.6% of participants on thyroid hormone and 0.8% of untreated participants. New cases of low TSH occurred at 17.7 per 1000 person-years of thyroid hormone exposure (95% CI 9 to 32) against 1.5 per 1000 (0.7 to 2.9) without; adjusted hazard ratio 27.5 (7.2 to 105.4) in women and 3.8 (1.2 to 6.3) in men. Initiation of thyroid hormone was highest in women older than 80 years, 3 per 100 person-years. Iatrogenic thyrotoxicosis accounted for about half of prevalent and incident low TSH; in one-third of treated participants with follow-up data, overtreatment persisted at least two years.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4560848/"
+}

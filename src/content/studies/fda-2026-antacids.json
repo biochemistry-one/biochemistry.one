@@ -1,0 +1,14 @@
+{
+  "title": "Part 331—Antacid products for over-the-counter (OTC) human use, 21 CFR part 331",
+  "authors": "US Food and Drug Administration",
+  "journal": "Code of Federal Regulations, title 21, part 331, read in the electronic Code of Federal Regulations, edition of 1 October 2026",
+  "year": 2026,
+  "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-331",
+  "design": "regulatory",
+  "funder": "US Food and Drug Administration; the text is federal regulation codified by the Office of the Federal Register.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "An OTC antacid is generally recognized as safe and effective if each active ingredient contributes at least 25% of the total acid neutralizing capacity and the product contains at least 5 mEq of acid neutralizing capacity (section 331.10). Section 331.11(k)(1): sodium bicarbonate, or carbonate as a component of an effervescent preparation, with a maximum daily dosage limit of 200 mEq of sodium for persons up to 60 years old and 100 mEq of sodium for persons 60 years or older, and 200 and 100 mEq of bicarbonate ion respectively. Section 331.30(c)(1): labels warn not to take more than the maximum recommended daily dosage in a 24-hour period, or use the maximum dosage for more than 2 weeks, except under the advice and supervision of a physician.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-21.xml?part=331"
+}

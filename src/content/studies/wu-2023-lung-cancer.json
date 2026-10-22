@@ -1,0 +1,18 @@
+{
+  "title": "Association between angiotensin-converting enzyme inhibitors and the risk of lung cancer: a systematic review and meta-analysis",
+  "authors": "Wu Z, Yao T, Wang Z, Liu B, Wu N, Lu M, et al.",
+  "journal": "British Journal of Cancer",
+  "year": 2023,
+  "doi": "10.1038/s41416-022-02029-5",
+  "pmid": "36396817",
+  "design": "meta-analysis",
+  "participants": 13061226,
+  "population": "Seven cohort and four case-control studies of adults followed for at least one year, comparing ACE inhibitor users with controls",
+  "funder": "This work was supported by a grant from the Beijing Key Clinical Specialty Funding (010071). The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing interests.",
+  "dataAccess": "summary",
+  "result": "Pooled odds ratio for lung cancer with ACE inhibitor use 1.19 (95% CI 1.05 to 1.36), with heterogeneity I2 98%; the authors call for randomised trials to confirm a causal association.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9670057/"
+}

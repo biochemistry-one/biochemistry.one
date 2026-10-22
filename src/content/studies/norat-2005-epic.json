@@ -1,0 +1,18 @@
+{
+  "title": "Meat, Fish, and Colorectal Cancer Risk: The European Prospective Investigation into Cancer and Nutrition",
+  "authors": "Norat T, Bingham S, Ferrari P, Slimani N, Jenab M, Mazuir M, et al.",
+  "journal": "Journal of the National Cancer Institute",
+  "year": 2005,
+  "doi": "10.1093/jnci/dji164",
+  "pmid": "15956652",
+  "design": "cohort",
+  "participants": 478040,
+  "followUp": "mean 4.8 years",
+  "population": "Men and women from 10 European countries, free of cancer at enrolment in 1992 to 1998",
+  "funder": "The work described in this article was carried out with financial support of the 'Europe Against Cancer Program' of the European Commission (SANCO); the Danish Cancer Society; German Cancer Aid; Ligue Nationale contre le Cancer, the 3M Company, INSERM; the German Cancer Research Center; the German Federal Ministry of Education and Research; the Dutch Ministry of Public Health, Welfare and Sports; the National Cancer Registry and the Regional Cancer Registries Amsterdam, East and Maastricht of The Netherlands; the Norwegian Cancer Society; the Norwegian Research Council; the Health Research Fund (FIS) of the Spanish Ministry of Health; the Greek Ministry of Health; the Greek Ministry of Education; the Italian Association for Research on Cancer; Spanish Regional Governments of Andalucia, Asturias, Basque Country, Murcia and Navarra, and ISCIII; Red de Centros RCESP, C03/09; the Swedish Cancer Society; the Swedish Scientific Council; the Regional Government of Skane, Sweden; Cancer Research UK; the Medical Research Council, U.K.; the Stroke Association, U.K.; the British Heart Foundation; the Department of Health, U.K.; the Food Standards Agency, U.K.; and the Wellcome Trust, U.K.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "1329 incident colorectal cancers. Red and processed meat, more than 160 against less than 20 g/day: HR 1.35 (95% CI 0.96 to 1.88), P for trend 0.03; per 100 g/day 1.25 (1.09 to 1.41) before and 1.55 (1.19 to 2.02) after calibration for measurement error. Processed meat, 80 g/day or more against less than 10 g/day: 1.42 (1.09 to 1.86); red meat, 80 g/day or more against less than 10 g/day: 1.17 (0.92 to 1.49). Fish, more than 80 against less than 10 g/day: 0.69 (0.54 to 0.88). Poultry not associated. The authors state that the absolute risk of colorectal cancer within 10 years for a participant aged 50 years was 1.71% for the highest and 1.28% for the lowest category of red meat intake.",
+  "class": "industry",
+  "fundingChecked": "https://web.archive.org/web/20240911040252/https://inserm.hal.science/inserm-00123284/document"
+}

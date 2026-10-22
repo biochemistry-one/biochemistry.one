@@ -1,0 +1,19 @@
+{
+  "title": "Methylenetetrahydrofolate reductase 677C-->T genotype modulates homocysteine responses to a folate-rich diet or a low-dose folic acid supplement: a randomized controlled trial",
+  "authors": "Ashfield-Watt PA, Pullin CH, Whiting JM, Clark ZE, Moat SJ, Newcombe RG, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2002,
+  "doi": "10.1093/ajcn/76.1.180",
+  "pmid": "12081832",
+  "design": "rct",
+  "participants": 126,
+  "followUp": "Three 4-month interventions in random order",
+  "population": "Healthy adults in Wales, 42 each of MTHFR 677 TT, CT and CC genotypes",
+  "funder": "Supported by the UK Ministry of Agriculture, Fisheries and Foods (UK Food Standards Agency, project reference N05002). The Kellogg Company of Great Britain provided funding for reimbursement of subjects for the cost of fortified foods.",
+  "funderRole": "unknown",
+  "inKindSupport": "Folic acid supplements and matched placebos were provided by Peter Black Healthcare Ltd.",
+  "dataAccess": "summary",
+  "result": "Results read from the published abstract. Exclusion diet with placebo, folate-rich diet of fortified and naturally folate-rich foods providing 400 µg folate/day, and exclusion diet with 400 µg folic acid. Both folate interventions raised plasma folate and lowered homocysteine against the exclusion diet (P ≤ 0.001); plasma folate was higher with the supplement than the diet, without a significant difference in homocysteine (P = 0.72). After the exclusion diet, TT carriers had homocysteine 14.5 against 8.9 µmol/L and plasma folate 14.8 against 19.0 nmol/L in CC; the difference narrowed with increasing folate (P = 0.097 after supplementation).",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20240421061015/https://www.sciencedirect.com/science/article/pii/S0002916523058574"
+}

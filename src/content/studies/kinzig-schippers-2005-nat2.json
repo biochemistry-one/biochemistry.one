@@ -1,0 +1,19 @@
+{
+  "title": "Should we use N-acetyltransferase type 2 genotyping to personalize isoniazid doses?",
+  "authors": "Kinzig-Schippers M, Tomalik-Scharte D, Jetter A, Scheidel B, Jakob V, Rodamer M, et al.",
+  "journal": "Antimicrobial Agents and Chemotherapy",
+  "year": 2005,
+  "doi": "10.1128/AAC.49.5.1733-1738.2005",
+  "pmid": "15855489",
+  "design": "genetic",
+  "participants": 18,
+  "population": "18 healthy Caucasian volunteers, age 30 ± 6 years, body weight 74 ± 10 kg, five women, each given isoniazid as a 200 mg infusion and as 100 mg and 300 mg oral doses in random order",
+  "funder": "The study was supported by a grant by Fatol Arzneimittel GmbH, Schiffweiler, Germany.",
+  "funderRole": "unknown",
+  "inKindSupport": "Both oral preparations given, ISOZID and ISOZID COMP. N, are products of the funding company.",
+  "authorConflicts": "We declare that we have no conflict of interest regarding this article.",
+  "dataAccess": "summary",
+  "result": "Isoniazid is metabolised by the genetically polymorphic arylamine N-acetyltransferase type 2 (NAT2). NAT2 genotype, drug formulation and body weight together explained 93% of the variability in apparent isoniazid clearance, and NAT2 genotype alone 88%. Individual clearance was predicted as clearance in litres per hour = 10 + 9 × the number of high-activity NAT2*4 alleles. To reach similar exposure, standard doses suited to one high-activity allele would be lowered or raised by about 50% for carriers of none or of two. The authors state that prospective clinical trials are required to assess the merits of this approach.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1087660/"
+}

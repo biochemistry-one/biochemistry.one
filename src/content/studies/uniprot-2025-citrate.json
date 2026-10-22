@@ -1,0 +1,16 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "design": "database",
+  "funder": "National Human Genome Research Institute (NHGRI) [HG002273]; Office of the Director, NIH OD [U24HG007822]; National Institute of Allergy and Infectious Diseases (NIAID); National Institute on Aging (NIA); National Institute of General Medical Sciences (NIGMS) [R35GM141873]; National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK); National Eye Institute (NEI); National Cancer Institute (NCI); National Heart, Lung, and Blood Institute (NHLBI); Biotechnology and Biological Sciences Research Council (BBSRC) [BB/T015608/1]; National Science Foundation's Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 - Research and Innovation Framework Programme [825575]; State Secretariat for Education, Research and Innovation (SERI); European Molecular Biology Laboratory (EMBL) Australia. Funding for open access charge: National Institutes of Health.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed human UniProtKB entries read through rest.uniprot.org on 2026-10-21 (annotation updates of 2 September 2026). SLC13A2 (Q13183): low-affinity sodium-dicarboxylate cotransporter of the apical cell membrane that mediates the entry of succinate, citrate, fumarate and 2-oxoglutarate into the small intestine and renal proximal tubule, with a probable stoichiometry of 3 Na+ per divalent dicarboxylate; citrate is transported in protonated form as a divalent anion rather than the trivalent form normally found in blood; expressed in kidney and intestine. SLC13A5 (Q86YT5): high-affinity sodium/citrate cotransporter of the cell membrane that recognises the trivalent form of citrate at physiological pH, probably with 4 Na+; expressed most predominantly in the liver, with moderate expression in brain and testis. SLC25A1 (P53007): electroneutral antiporter of the mitochondrial inner membrane that exports citrate from mitochondria into the cytosol in exchange for malate. ACO2 (Q99798): mitochondrial aconitase isomerises citrate to isocitrate via cis-aconitate.",
+  "class": "reference",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11701636"
+}

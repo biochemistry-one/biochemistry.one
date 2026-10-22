@@ -1,0 +1,14 @@
+{
+  "title": "Semaglutide for managing overweight and obesity",
+  "authors": "National Institute for Health and Care Excellence",
+  "journal": "National Institute for Health and Care Excellence, technology appraisal guidance TA875, published 8 March 2023, last updated 4 September 2023",
+  "year": 2023,
+  "url": "https://www.nice.org.uk/guidance/ta875",
+  "design": "guideline",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Semaglutide is recommended for weight management alongside a reduced-calorie diet and increased physical activity in adults only if used for a maximum of 2 years within a specialist multidisciplinary weight management service, in people with at least one weight-related comorbidity and a BMI of at least 35.0 kg/m2, or 30.0 to 34.9 kg/m2 meeting referral criteria, with thresholds usually 2.5 kg/m2 lower for people of South Asian, Chinese, other Asian, Middle Eastern, Black African or African-Caribbean background, and under the company's commercial arrangement; stopping should be considered if less than 5% of initial weight is lost after 6 months. The committee found no evidence of effectiveness for semaglutide as a stand-alone treatment. The company's model assumed that the weight advantage would be lost 3 years after stopping and that normalised glucose tolerance would revert; the committee called the assumptions on weight regain uncertain. NHS England noted that the risk equations used to model cardiovascular benefit from surrogate outcomes had not been validated by outcome data in people without diabetes; the committee required a high level of confidence that the ICER was near £20,000 per QALY. Company base-case ICER for BMI of 30 or more with a comorbidity was £14,827 per QALY and the review group's £16,337.",
+  "class": "consensus",
+  "fundingChecked": "https://www.nice.org.uk/guidance/ta875/chapter/3-Committee-discussion"
+}

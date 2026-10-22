@@ -1,0 +1,18 @@
+{
+  "title": "Folate supplementation and twin pregnancies",
+  "authors": "Vollset SE, Gjessing HK, Tandberg A, Rønning T, Irgens LM, Baste V, et al.",
+  "journal": "Epidemiology",
+  "year": 2005,
+  "doi": "10.1097/01.ede.0000152914.84962.13",
+  "pmid": "15703534",
+  "design": "cohort",
+  "participants": 176042,
+  "followUp": "Births from December 1998 to end of 2001",
+  "population": "Women giving birth in Norway, with folate and multivitamin use and in vitro fertilisation recorded on the Medical Birth Registry notification form",
+  "funder": "not stated in the abstract; full text not accessible",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Results read from the published abstract. Preconceptional folate use was associated with twin pregnancy (OR adjusted for age and parity 1.59, 95% CI 1.41 to 1.78), largely through confounding by in vitro fertilisation, which was strongly associated with both. After excluding known IVF pregnancies and accounting for under-reporting of IVF and folate use, OR 1.02 (0.85 to 1.24).",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/15703534/"
+}

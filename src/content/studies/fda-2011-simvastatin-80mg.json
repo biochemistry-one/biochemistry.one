@@ -1,0 +1,14 @@
+{
+  "title": "FDA Drug Safety Communication: New restrictions, contraindications, and dose limitations for Zocor (simvastatin) to reduce the risk of muscle injury",
+  "authors": "US Food and Drug Administration",
+  "journal": "US Food and Drug Administration, Drug Safety Communication, 8 June 2011",
+  "year": 2011,
+  "url": "http://web.archive.org/web/20110702013026/http://www.fda.gov:80/Drugs/DrugSafety/ucm256581.htm",
+  "design": "regulatory",
+  "funder": "US Food and Drug Administration",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Simvastatin 80 mg is restricted to patients who have taken it for 12 months or more without muscle injury and is not to be started in new patients; about 2.1 million US patients were prescribed an 80 mg simvastatin product in 2010; 80 mg lowers LDL cholesterol by an additional 6% over 40 mg. In SEARCH (seven years, 80 mg against 20 mg in survivors of myocardial infarction) major vascular events occurred in 24.5% against 25.7%; myopathy (creatine kinase above 10 times the upper limit of normal) in 52 (0.9%) against 1 (0.02%) and rhabdomyolysis (above 40 times) in 22 (0.4%) against none, with no rhabdomyolysis deaths; rates were 5 and 2 per 1000 person-years in the first 12 months and 1 and 0.4 per 1000 person-years thereafter. Older age, female sex and calcium channel blockers (about double risk, particularly diltiazem) raised myopathy risk, and about 60% of cases were associated with a variant of the hepatic uptake transporter gene. Reporting of fatal rhabdomyolysis to the Adverse Event Reporting System was higher for 80 mg simvastatin than for lower doses or most other statins. Rhabdomyolysis can damage the kidneys and lead to fatal kidney failure; hospitalised rhabdomyolysis occurs in 4.9 per 100,000 people exposed to simvastatin for one year, and 4.4 per 100,000 on average for atorvastatin, pravastatin or simvastatin (Graham et al., JAMA 2004).",
+  "class": "regulatory",
+  "fundingChecked": "http://web.archive.org/web/20110702013026/http://www.fda.gov:80/Drugs/DrugSafety/ucm256581.htm"
+}

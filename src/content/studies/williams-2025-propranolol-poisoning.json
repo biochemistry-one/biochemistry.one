@@ -1,0 +1,19 @@
+{
+  "title": "The problem of propranolol poisoning",
+  "authors": "Williams H, Jagpal P, Sandilands E, Morrison E, Gray L, Thanacoody HKR, et al.",
+  "journal": "British Journal of Clinical Pharmacology",
+  "year": 2025,
+  "doi": "10.1002/bcp.70147",
+  "pmid": "40611599",
+  "design": "other",
+  "participants": 359,
+  "followUp": "enquiries 1 January 2022 to 31 December 2023",
+  "population": "Patients whose intentional propranolol overdose requiring hospital attendance was reported to the UK National Poisons Information Service",
+  "funder": "The authors state that they received no remuneration from any manufacturer or other company in connection with this study; no funder is named.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "444 enquiries concerned 363 intentional propranolol overdoses in 359 patients, 248 (69%) women, median age 32 years (interquartile range 22 to 45), 52 (14%) under 18. The indication was known in 121 cases and was anxiety in 111. In 43 of 61 cases with a co-prescribed antidepressant, both were taken. Outcome was confirmed in 159 exposures (44%): 110 recovered completely, 13 had ongoing features, one had permanent sequelae and 35 died. The authors advise primary care prescribers that propranolol for anxiety can be dangerous.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12569547/"
+}

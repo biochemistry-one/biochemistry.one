@@ -1,0 +1,17 @@
+{
+  "title": "The relative risk of incident coronary heart disease associated with recently stopping the use of beta-blockers",
+  "authors": "Psaty BM, Koepsell TD, Wagner EH, LoGerfo JP, Inui TS",
+  "journal": "JAMA",
+  "year": 1990,
+  "pmid": "1968518",
+  "design": "case-control",
+  "participants": 985,
+  "followUp": "first coronary events 1982 to 1984",
+  "population": "Patients with drug-treated hypertension in a health maintenance organisation: 248 cases with new coronary heart disease and 737 controls free of coronary heart disease; recent stoppers identified from pharmacy records as filling prescriptions too irregularly to be at least 80% compliant",
+  "funder": "not read: the full text requires a subscription and is absent from PubMed Central.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "After adjustment for potential confounders, recent stopping of a beta-blocker carried a transient increase in the relative risk of incident coronary heart disease (relative risk 4.5, 95% CI 1.1 to 18.5). The association was specific to beta-blockers and absent for diuretics. The authors propose a withdrawal syndrome as an acute precipitant of angina and myocardial infarction in hypertensive patients without prior coronary disease.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/1968518/"
+}

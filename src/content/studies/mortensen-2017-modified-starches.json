@@ -1,0 +1,15 @@
+{
+  "title": "Re-evaluation of oxidised starch (E 1404), monostarch phosphate (E 1410), distarch phosphate (E 1412), phosphated distarch phosphate (E 1413), acetylated distarch phosphate (E 1414), acetylated starch (E 1420), acetylated distarch adipate (E 1422), hydroxypropyl starch (E 1440), hydroxypropyl distarch phosphate (E 1442), starch sodium octenyl succinate (E 1450), acetylated oxidised starch (E 1451) and starch aluminium octenyl succinate (E 1452) as food additives",
+  "authors": "EFSA Panel on Food Additives and Nutrient Sources added to Food (ANS), Mortensen A, Aguilar F, Crebelli R, Di Domenico A, Dusemund B, et al.",
+  "journal": "EFSA Journal",
+  "year": 2017,
+  "doi": "10.2903/j.efsa.2017.4911",
+  "pmid": "32625282",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Twelve modified starches authorised in the EU: E 1404 treated with sodium hypochlorite; E 1410 esterified with orthophosphoric acid, sodium or potassium orthophosphate or sodium tripolyphosphate; E 1412 cross-linked with sodium trimetaphosphate or phosphorus oxychloride; E 1413 both treatments; E 1414 cross-linked and acetylated; E 1420 acetylated; E 1422 cross-linked with adipic anhydride and acetylated; E 1440 etherified with propylene oxide; E 1442 cross-linked and hydroxypropylated; E 1450 esterified with octenylsuccinic anhydride (at most about one substituent per 50 glucose units); E 1451 oxidised and acetylated; E 1452 octenylsuccinate treated with aluminium sulfate. Table 1 lists INS numbers 1404 to 1451 for E 1404 to E 1451. Pastes are used as thickeners or gelling agents. Mintel GNPD, January 2011 to September 2016: 8.73% of 463,158 EU products labelled 'modified starches' and 0.53% with the exact E number, as Regulation (EU) No 1169/2011 permits the term alone; highest shares in soft cheese desserts (57.75%), chilled desserts (41.24%) and mayonnaise (36.92%). Digestibility by digestive enzymes slightly reduced or unchanged against native starch; modified starches are not absorbed intact but hydrolysed by intestinal enzymes and fermented by the microbiota to acetic, propionic and butyric acids, which are absorbed from the colon; human in vivo ADME data only for E 1420 and E 1450; genotoxicity assessed in silico only. No treatment-related effects relevant for humans in rats fed up to 31,000 mg/kg bw per day; E 1450 up to a single 25,000 mg dose well tolerated by fasting healthy adults. No safety concern at reported uses and no need for a numerical ADI; 95th percentile of the refined brand-loyal exposure up to 3,053 mg/kg bw per day in toddlers (maximum level scenario up to 4,219 in infants; FSMP consumers up to 5,286). E 1404 to E 1451 authorised at quantum satis in almost all foods, up to 50,000 mg/kg in foods for infants and young children and 20,000 mg/kg for E 1450 in special infant formulae; E 1452 only in food supplements, up to 35,000 mg/kg.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7009865/fullTextXML"
+}

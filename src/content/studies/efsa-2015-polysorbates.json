@@ -1,0 +1,15 @@
+{
+  "title": "Scientific Opinion on the re-evaluation of polyoxyethylene sorbitan monolaurate (E 432), polyoxyethylene sorbitan monooleate (E 433), polyoxyethylene sorbitan monopalmitate (E 434), polyoxyethylene sorbitan monostearate (E 435) and polyoxyethylene sorbitan tristearate (E 436) as food additives",
+  "authors": "EFSA Panel on Food Additives and Nutrient Sources added to Food (ANS)",
+  "journal": "EFSA Journal",
+  "year": 2015,
+  "doi": "10.2903/j.efsa.2015.4152",
+  "pmid": "42109790",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; on request from the European Commission.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Group ADI 25 mg/kg bw per day for polysorbates, from a NOAEL of 2500 mg/kg bw per day in a long-term rat study and an uncertainty factor of 100; toddler exposure in the highest non-brand-loyal scenario 24.5 mg/kg bw per day. The fatty acid ester bond is hydrolysed in the gastrointestinal tract and the fatty acids are metabolised like dietary fatty acids; only small amounts of polyoxyethylene sorbitans are absorbed. In four volunteers given 4.5 g polysorbate 80 per day, 90 to 97% of the polyoxyethylene moiety was recovered in faeces and 2.3 to 3.1% in urine. The 1% dose of Chassaing et al. (2015) was taken as equivalent to 1500 mg/kg bw per day.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13151592/"
+}

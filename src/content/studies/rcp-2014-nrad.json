@@ -1,0 +1,16 @@
+{
+  "title": "Why asthma still kills: the National Review of Asthma Deaths (NRAD) Confidential Enquiry report",
+  "authors": "Royal College of Physicians; Levy ML, Andrews R, Buckingham R, Evans H, Francis C, Houston R, et al.",
+  "journal": "Royal College of Physicians, London, May 2014",
+  "year": 2014,
+  "url": "https://www.rcp.ac.uk/media/i2jjkbmc/why-asthma-still-kills-full-report.pdf",
+  "design": "other",
+  "participants": 195,
+  "population": "Deaths in the UK from February 2012 to January 2013 judged by expert panels to be due to asthma, examined by confidential enquiry without a comparison group",
+  "funder": "The National Review of Asthma Deaths is commissioned by the Healthcare Quality Improvement Partnership (HQIP) on behalf of NHS England, NHS Wales, the Health and Social Care Division of the Scottish Government and the Northern Ireland Department of Health, Social Services and Public Safety, and delivered by the Clinical Effectiveness and Evaluation Unit of the Royal College of Physicians.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Of 195 people who died from asthma, 189 (97%) were prescribed a short-acting beta2-agonist at the time of death; for the 165 with known numbers, a median of 10 (IQR 2 to 21, range 0 to 112) inhalers were issued in the year before death, 92 (56%) received more than six, 65 (39%) more than 12 and 6 (4%) more than 50. 168 (86%) were prescribed inhaled corticosteroid preventers, alone or in combination; of 128 with known numbers, 49 (38%) were issued fewer than four and 103 (80%) fewer than 12 preventer inhalers in the year. Of 155 whose severity could be estimated, 14 (9%) were treated as mild (BTS step 1), 76 (49%) as moderate and 61 (39%) had severe asthma. Personal asthma action plans were known to have been provided to 44 (23%); 37 (19%) were current smokers; panels found avoidable factors related to implementation of guidelines in 89 (46%) deaths.",
+  "class": "independent",
+  "fundingChecked": "https://www.rcp.ac.uk/media/i2jjkbmc/why-asthma-still-kills-full-report.pdf"
+}

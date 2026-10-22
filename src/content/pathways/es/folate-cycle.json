@@ -1,0 +1,30 @@
+{
+  "title": "Ciclo del folato, rama de los grupos metilo",
+  "layout": "cycle",
+  "compartment": "Citosol",
+  "steps": [
+    {
+      "from": "Tetrahidrofolato (THF)",
+      "to": "5,10-Metilen-THF",
+      "enzyme": "Serina hidroximetiltransferasa 1 (SHMT1)",
+      "cofactors": ["L-Serina → glicina", "5′-Fosfato de piridoxal"],
+      "reversible": true,
+      "note": "La SHMT2 cataliza la misma reacción en las mitocondrias"
+    },
+    {
+      "from": "5,10-Metilen-THF",
+      "to": "5-Metil-THF",
+      "enzyme": "Metilentetrahidrofolato reductasa (MTHFR)",
+      "cofactors": ["NADPH", "FAD"],
+      "note": "Irreversible in vivo; la SAM la inhibe; Ala222Val (677C>T) pierde FAD más rápido"
+    },
+    {
+      "from": "5-Metil-THF",
+      "to": "Tetrahidrofolato (THF)",
+      "enzyme": "Metionina sintasa (MTR)",
+      "cofactors": ["Homocisteína → metionina", "Metilcobalamina"],
+      "inhibitors": [{"name": "Óxido nitroso", "page": "medicines/nitrous-oxide"}],
+      "note": "Única salida del 5-metil-THF; más lenta si falta B12 (trampa del metilfolato)"
+    }
+  ]
+}

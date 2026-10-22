@@ -1,0 +1,18 @@
+{
+  "title": "Impact of the novel CYP2C:TG haplotype and CYP2B6 variants on sertraline exposure in a large patient population",
+  "authors": "Bråten LS, Ingelman-Sundberg M, Jukic MM, Molden E, Kringen MK",
+  "journal": "Clinical and Translational Science",
+  "year": 2022,
+  "doi": "10.1111/cts.13347",
+  "pmid": "35668575",
+  "design": "genetic",
+  "participants": 840,
+  "population": "Adults genotyped between 2017 and 2020 with steady-state serum sertraline measurements in the therapeutic drug monitoring database of Diakonhjemmet Hospital, Oslo, treated in primary and secondary care across Norway",
+  "funder": "The project was partly funded by the South-Eastern Norway Regional Health Authority, the European Union's Horizon 2020 research and innovation program U-PGx (grant agreement 668353) and the Swedish Research Council (grant 2021-02732). Open access funding enabled and organized by ProjektDEAL.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declared no competing interests for this work.",
+  "dataAccess": "individual",
+  "result": "Against CYP2B6*1/*1 (n=454), serum sertraline was 25% higher in patients homozygous for CYP2B6*6 or *9 (n=40) and 15% higher in heterozygous carriers (n=261), and 17.4% lower in carriers of CYP2B6*4 (n=37). CYP2C19 poor metabolisers (n=29) had 2.3-fold higher concentrations than CYP2C19*1/*1. Predicted concentration with combined CYP2C19 and CYP2B6 poor metaboliser phenotypes was 2.89-fold (95% CI 2.02 to 4.15) that of combined normal metabolisers, from 2 patients.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9468554/"
+}

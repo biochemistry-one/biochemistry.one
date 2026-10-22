@@ -1,0 +1,16 @@
+{
+  "title": "Collagen structure and stability",
+  "authors": "Shoulders MD, Raines RT",
+  "journal": "Annual Review of Biochemistry",
+  "year": 2009,
+  "doi": "10.1146/annurev.biochem.77.032207.120833",
+  "pmid": "19344236",
+  "design": "other",
+  "funder": "Collagen research in the authors' laboratory is supported by NIH grant AR044276; M.D.S. was supported by graduate fellowships from the Department of Homeland Security and the Division of Medicinal Chemistry, American Chemical Society.",
+  "funderRole": "none",
+  "authorConflicts": "The authors are not aware of any affiliations, memberships, funding or financial holdings that might be perceived as affecting the objectivity of the review.",
+  "dataAccess": "summary",
+  "result": "Review. Prolyl 4-hydroxylase, a non-haem iron enzyme, hydroxylates proline residues in the Yaa position of collagen Xaa-Yaa-Gly triplets to (2S,4R)-4-hydroxyproline. Hydroxylation of Yaa-position proline increases dramatically the thermal stability of collagen triple helices, and prolyl 4-hydroxylase activity is required for the viability of Caenorhabditis elegans and the mouse.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=2846778&retmode=xml"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Total, Dietary, and Supplemental Vitamin C Intake and Risk of Incident Kidney Stones",
+  "authors": "Ferraro PM, Curhan GC, Gambaro G, Taylor EN",
+  "journal": "American Journal of Kidney Diseases",
+  "year": 2016,
+  "doi": "10.1053/j.ajkd.2015.09.005",
+  "pmid": "26463139",
+  "design": "cohort",
+  "participants": 197271,
+  "followUp": "median 11.7 years (NHS I), 11.5 years (NHS II) and 11.3 years (HPFS)",
+  "population": "156,735 female nurses in the Nurses' Health Studies I and II and 40,536 male health professionals in the Health Professionals Follow-up Study, without prior kidney stones or cancer; intake from food-frequency questionnaires updated every 4 years",
+  "funder": "This study was supported by research grants from the National Institutes of Health: DK094910, DK91417, CA186107, CA176726 and CA167552. The funders of this study had no role in study design; collection, analysis, and interpretation of data; writing the report; and the decision to submit the report for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Curhan: consultant to Allena Pharmaceuticals, AstraZeneca and Exponent; royalties from UpToDate; honorarium from the American Society of Nephrology. Ferraro: consultant to BioHealth Italia.",
+  "dataAccess": "individual",
+  "result": "6,245 incident stones over 2,494,789 person-years. Men (HPFS), total vitamin C of 1,000 mg/day or more against less than 90 mg/day: 260 cases in 81,316 person-years against 157 in 45,363; age-adjusted HR 0.98 (95% CI 0.80 to 1.20), multivariable HR 1.43 (1.15 to 1.79), p for trend 0.005; the change was due predominantly to adjustment for potassium intake. Supplemental vitamin C of 1,000 mg/day or more in men: HR 1.19 (1.01 to 1.40). Women (NHS I and II pooled), 1,000 mg/day or more: 257 cases in 179,051 person-years against 661 in 318,326; multivariable HR 0.99 (0.90 to 1.09). Dietary vitamin C was not associated with stones in either sex, although few participants had dietary intakes above 700 mg/day. Urinary oxalate after vitamin C loading may be inflated by ex vivo non-enzymatic conversion of vitamin C to oxalate.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4769668/"
+}

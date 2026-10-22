@@ -1,0 +1,19 @@
+{
+  "title": "Assessment of the relationship between genetic determinants of thyroid function and atrial fibrillation: a Mendelian randomization study",
+  "authors": "Ellervik C, Roselli C, Christophersen IE, Alonso A, Pietzner M, Sitlani CM, et al.",
+  "journal": "JAMA Cardiology",
+  "year": 2019,
+  "doi": "10.1001/jamacardio.2018.4635",
+  "pmid": "30673084",
+  "design": "mendelian-randomisation",
+  "participants": 56912,
+  "population": "Study-level analysis of 7679 individuals with atrial fibrillation and 49,233 referents from population cohorts, plus summary-level Mendelian randomisation of 55,114 individuals with atrial fibrillation and 482,295 referents using genetic instruments for thyroid traits",
+  "funder": "Roche Diagnostics provided reagents for the thyroid assays included in the article. There was no direct funding for these analyses. Funding statements for individual authors and each cohort are in the eMethods of the Supplement, which was not read. Roche Diagnostics had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "unknown",
+  "inKindSupport": "Thyroid assay reagents from Roche Diagnostics.",
+  "authorConflicts": "Disclosed during the conduct of the study: grants from Bristol-Myers Squibb (Dr Stott) and from Atherotech Diagnostics (Dr Mora), and grants from NHLBI, NIH, the American Heart Association, the European Union and the University of Glasgow to other authors. Outside the submitted work, several authors disclosed fees or grants from Siemens Diagnostics, Amgen, AstraZeneca, Sanofi, Abbott, Bayer, Novartis, Pfizer, Boehringer Ingelheim, Quest Diagnostics and others; Dr Verweij is an employee of Genomics plc.",
+  "dataAccess": "summary",
+  "result": "Observationally, free T4 was associated with incident atrial fibrillation (HR 1.55 per ng/dl, 95% CI 1.09 to 2.20). Genetically predicted free T4 within the reference range was not (OR 1.01, 0.89 to 1.14), whereas a genetically higher free T3 to free T4 ratio was (OR 1.33, 1.08 to 1.63), and genetically higher TSH within the reference range (OR 0.88, 0.84 to 0.92) and hypothyroidism (OR 0.94, 0.90 to 0.99) were associated with less atrial fibrillation; gene-based hyperthyroidism was associated with more (MR-Egger OR 1.31, 1.05 to 1.63) with evidence of pleiotropy.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6396813/"
+}

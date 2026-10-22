@@ -1,0 +1,18 @@
+{
+  "title": "Changes in antidepressant use by young people and suicidal behavior after FDA warnings and media coverage: quasi-experimental study",
+  "authors": "Lu CY, Zhang F, Lakoma MD, Madden JM, Rusinak D, Penfold RB, et al.",
+  "journal": "BMJ",
+  "year": 2014,
+  "doi": "10.1136/bmj.g3596",
+  "pmid": "24942789",
+  "design": "cohort",
+  "followUp": "2000 to 2010, interrupted time series",
+  "population": "Claims data of 11 US health plans in the Mental Health Research Network: around 1.1 million adolescents, 1.4 million young adults and 5 million adults",
+  "funder": "This research was supported by a cooperative agreement (U19MH092201) with the US National Institute of Mental Health. The sponsor had no role in the design and conduct of the study; analysis, and interpretation of the data; the preparation of the manuscript; and the decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Two authors reported research grants from Bristol-Myers Squibb outside or unrelated to this work.",
+  "dataAccess": "summary",
+  "result": "In the second year after the 2003 FDA warnings, antidepressant use fell by 31.0% in adolescents, 24.3% in young adults and 14.5% in adults; psychotropic drug poisonings, a proxy for suicide attempts, rose by 21.7% (95% CI 4.9% to 38.5%) in adolescents and 33.7% (26.9% to 40.4%) in young adults, absolute increases of 2 and 4 per 100,000 (about 77 additional poisonings among 2.5 million young people). Completed suicides did not change in any age group. The authors state that the interrupted time series design attributes the abrupt fall in antidepressant use to the warnings and media coverage, and describe the rise in poisonings as associated with that fall; only medically attended poisonings were counted, and population rates do not support inferences about individual patients.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4062705"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "尿素循环",
+  "layout": "cycle",
+  "compartment": "肝脏；OTC位于线粒体基质；ASS1、ASL和ARG1位于胞质溶胶",
+  "steps": [
+    {
+      "from": "鸟氨酸",
+      "to": "瓜氨酸",
+      "enzyme": "鸟氨酸氨甲酰转移酶（OTC）",
+      "cofactors": ["氨甲酰磷酸"],
+      "note": "在线粒体基质中进行；氨甲酰磷酸由CPS1生成，CPS1受N-乙酰谷氨酸激活"
+    },
+    {
+      "from": "瓜氨酸",
+      "to": "精氨酸代琥珀酸",
+      "enzyme": "精氨酸代琥珀酸合成酶1（ASS1）",
+      "cofactors": ["天冬氨酸", "ATP"],
+      "note": "在胞质溶胶中进行；瓜氨酸经ORNT1离开基质；ATP裂解为AMP和焦磷酸"
+    },
+    {
+      "from": "精氨酸代琥珀酸",
+      "to": "精氨酸",
+      "enzyme": "精氨酸代琥珀酸裂合酶（ASL）",
+      "reversible": true,
+      "note": "释放延胡索酸，后者将本循环与柠檬酸循环相联系"
+    },
+    {
+      "from": "精氨酸",
+      "to": "鸟氨酸",
+      "enzyme": "精氨酸酶1（ARG1）",
+      "cofactors": ["H2O", "Mn2+（每个亚基2个）"],
+      "note": "释放尿素；鸟氨酸经ORNT1（SLC25A15）重新进入基质"
+    }
+  ]
+}

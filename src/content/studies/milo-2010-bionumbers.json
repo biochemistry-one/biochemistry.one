@@ -1,0 +1,17 @@
+{
+  "title": "BioNumbers—the database of key numbers in molecular and cell biology",
+  "authors": "Milo R, Jorgensen P, Moran U, Weber G, Springer M",
+  "journal": "Nucleic Acids Research",
+  "year": 2010,
+  "doi": "10.1093/nar/gkp889",
+  "pmid": "19854939",
+  "url": "https://bionumbers.hms.harvard.edu/bionumber.aspx?id=105606",
+  "design": "database",
+  "funder": "Systems Biology Department at Harvard Medical School, and Weizmann Institute of Science, Israel, to BioNumbers. Funding for open access charge: Personal research funds of corresponding author.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "summary",
+  "result": "Curated database in which every number is taken from a cited literature source. Entry BNID 105606, read 2026-10-21: daily turnover of ATP in humans, 1 body weight a day, or about 60 kg. Its method, quoted from Buono and Kolkhorst (Advances in Physiology Education 2001), takes C6H12O6 + 6 O2 → 6 CO2 + 6 H2O + 36 ATP, so that 0.136 kg of ATP is resynthesised per litre of O2 consumed, and states that an average college student consumes 400 to 500 litres of O2 a day; the entry adds that Törnroth-Horsefield and Neutze (2008) give one body weight a day.",
+  "class": "reference",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=2808940"
+}

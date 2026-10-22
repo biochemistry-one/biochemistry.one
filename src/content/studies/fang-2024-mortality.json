@@ -1,0 +1,19 @@
+{
+  "title": "Association of ultra-processed food consumption with all cause and cause specific mortality: population based cohort study",
+  "authors": "Fang Z, Rossato SL, Hang D, Khandpur N, Wang K, Lo CH, et al.",
+  "journal": "BMJ",
+  "year": 2024,
+  "doi": "10.1136/bmj-2023-078476",
+  "pmid": "38719536",
+  "design": "cohort",
+  "participants": 114064,
+  "followUp": "median 34 years (women) and 31 years (men)",
+  "population": "74,563 women in the Nurses' Health Study and 39,501 men in the Health Professionals Follow-up Study, free of cancer, cardiovascular disease and diabetes at baseline",
+  "funder": "This work was supported by the US National Institutes of Health grants (UM1 CA186107; P01 CA87969; U01 CA167552; U01 CA261961; R01 CA263776; and K99 CA283146). The funders had no role in considering the study design or in the collection, analysis, and interpretation of data; the writing of the report; or the decision to submit the article for publication.",
+  "funderRole": "none",
+  "authorConflicts": "N Khandpur received a consulting fee from the Pan American Health Organization on nutrition disclosure initiatives and nutrient profiling models; no other relationships declared.",
+  "dataAccess": "individual",
+  "result": "48,193 deaths. Highest versus lowest quarter of ultra-processed food intake (whole grains and alcohol excluded from the exposure): all-cause mortality HR 1.04 (95% CI 1.01 to 1.07), 1536 versus 1472 deaths per 100,000 person-years; mortality from causes other than cancer or cardiovascular disease HR 1.09 (1.05 to 1.13); no association with cancer or cardiovascular mortality. Meat, poultry and seafood based ready-to-eat products HR 1.06 to 1.43 across mortality outcomes. Within quarters of Alternative Healthy Eating Index-2010 score, ultra-processed food showed no consistent association with mortality; adjustment for that score attenuated the association toward null, and removal of smoking pack-years from the model strengthened it.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11077436/"
+}

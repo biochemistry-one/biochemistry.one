@@ -1,0 +1,19 @@
+{
+  "title": "Antihypertensive medications and serious fall injuries in a nationally representative sample of older adults",
+  "authors": "Tinetti ME, Han L, Lee DS, McAvay GJ, Peduzzi P, Gross CP, et al.",
+  "journal": "JAMA Internal Medicine",
+  "year": 2014,
+  "doi": "10.1001/jamainternmed.2013.14764",
+  "pmid": "24567036",
+  "design": "cohort",
+  "participants": 4961,
+  "followUp": "3 years, through 2009",
+  "population": "Community-living adults older than 70 years with hypertension in the nationally representative Medicare Current Beneficiary Survey",
+  "funder": "This research was funded by the National Institute on Aging (grant R01 AG038528 and grant P30 AG021342 to the Yale Pepper Center). The funding organization had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Gross reports research funding from Medtronic and 21st Century Oncology and a scientific advisory board role at Fair Health.",
+  "dataAccess": "individual",
+  "result": "14.1% took no antihypertensive, 54.6% moderate-intensity and 31.3% high-intensity treatment. 446 participants (9.0%) had a serious fall injury (hip or other major fracture, traumatic brain injury or joint dislocation) and 837 (16.9%) died. Adjusted hazard ratios for serious fall injury against non-users were 1.40 (95% CI 1.03 to 1.90) for moderate and 1.28 (0.91 to 1.80) for high intensity; among 503 participants with a previous fall injury, 2.17 (0.98 to 4.80) and 2.31 (1.01 to 5.29). The authors note that trials of healthy older adults reported low fall-injury risk that may not reflect people with multiple chronic conditions.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4136657/"
+}

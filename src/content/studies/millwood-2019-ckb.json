@@ -1,0 +1,19 @@
+{
+  "title": "Conventional and genetic evidence on alcohol and vascular disease aetiology: a prospective study of 500 000 men and women in China",
+  "authors": "Millwood IY, Walters RG, Mei XW, Guo Y, Yang L, Bian Z, et al.",
+  "journal": "Lancet",
+  "year": 2019,
+  "doi": "10.1016/S0140-6736(18)31772-0",
+  "pmid": "30955975",
+  "design": "mendelian-randomisation",
+  "participants": 512715,
+  "followUp": "about 10 years, to 1 January 2017",
+  "population": "China Kadoorie Biobank adults from ten areas of China; 161,498 genotyped for ALDH2 rs671 and ADH1B rs1229984; 33% of men and 2% of women drank in most weeks",
+  "funder": "Chinese Ministry of Science and Technology, Kadoorie Charitable Foundation, National Natural Science Foundation of China, British Heart Foundation, Cancer Research UK, GlaxoSmithKline, Medical Research Council, and Wellcome Trust. DNA extraction and genotyping was supported by grants from GlaxoSmithKline and the UK Medical Research Council. The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "Several authors report grants from the Kadoorie Charitable Foundation, Wellcome Trust, Medical Research Council, GlaxoSmithKline, British Heart Foundation and Cancer Research UK during the study; Collins reports grants from Merck and Medco and a prize from Pfizer to his department.",
+  "dataAccess": "individual",
+  "result": "Mean male intake was 3, 37 and 157 g per week for rs671 AA, AG and GG. Self-reported intake had U-shaped associations with stroke and myocardial infarction, lowest at about 100 g per week; genotype-predicted mean male intake (4 to 256 g per week) had none. Per 280 g per week of genotype-predicted intake: ischaemic stroke RR 1.27 (95% CI 1.13 to 1.43), intracerebral haemorrhage 1.58 (1.36 to 1.84), total stroke 1.38 (1.26 to 1.51), acute myocardial infarction 0.96 (0.78 to 1.18), systolic blood pressure +4.3 mm Hg (3.7 to 4.9). In women, few of whom drank, the genotypes were not positively associated with blood pressure, stroke or myocardial infarction. Alcohol was estimated to cause about 8% of ischaemic strokes and 16% of intracerebral haemorrhages in men.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6497989/"
+}

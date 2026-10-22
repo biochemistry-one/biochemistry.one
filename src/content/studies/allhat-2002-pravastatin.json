@@ -1,0 +1,20 @@
+{
+  "title": "Major outcomes in moderately hypercholesterolemic, hypertensive patients randomized to pravastatin vs usual care: The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT-LLT)",
+  "authors": "ALLHAT Officers and Coordinators for the ALLHAT Collaborative Research Group",
+  "journal": "JAMA",
+  "year": 2002,
+  "doi": "10.1001/jama.288.23.2998",
+  "pmid": "12479764",
+  "registry": "NCT00000542",
+  "design": "rct",
+  "participants": 10355,
+  "followUp": "mean 4.8 years; mortality reported at 6 years",
+  "population": "Ambulatory adults aged 55 years or older with hypertension, at least one other coronary risk factor, LDL cholesterol 120 to 189 mg/dL (100 to 129 mg/dL with known coronary heart disease) and triglycerides below 350 mg/dL, at 513 North American centres; mean age 66 years, 14% with coronary heart disease, 35% with type 2 diabetes",
+  "funder": "The funding statement of the JAMA report could not be read: the publisher page returns HTTP 403. PubMed records contract N01-HC-35130 from the National Heart, Lung, and Blood Institute. An ALLHAT publication in the Journal of the American Heart Association states: the ALLHAT study was supported by the National Heart, Lung, and Blood Institute (NO1-HC-35130); ALLHAT investigators received contributions of study medications supplied by Pfizer (amlodipine and doxazosin), AstraZeneca (atenolol and lisinopril), and Bristol-Myers Squibb (pravastatin) and financial support provided by Pfizer. Whether Pfizer had any role in design, analysis or publication is not stated in a readable source.",
+  "funderRole": "unknown",
+  "inKindSupport": "Pravastatin supplied by Bristol-Myers Squibb.",
+  "dataAccess": "individual",
+  "result": "Results read from the abstract. Non-blinded pravastatin 40 mg/day (n = 5170) against usual care (n = 5185). During the trial 32% of usual-care participants with and 29% without coronary heart disease started lipid-lowering drugs. At year 4 total cholesterol was reduced by 17% with pravastatin and 8% with usual care, and LDL cholesterol (random sample) by 28% and 11%. All-cause mortality relative risk 0.99 (95% CI 0.89 to 1.11; P = 0.88), with 6-year mortality 14.9% against 15.3%. Coronary heart disease events relative risk 0.91 (0.79 to 1.04; P = 0.16), with 6-year rates 9.3% against 10.4%.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6507192/"
+}

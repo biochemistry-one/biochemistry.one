@@ -1,0 +1,20 @@
+{
+  "title": "Safety of proton pump inhibitors based on a large, multi-year, randomized trial of patients receiving rivaroxaban or aspirin",
+  "authors": "Moayyedi P, Eikelboom JW, Bosch J, Connolly SJ, Dyal L, Shestakovska O, et al.",
+  "journal": "Gastroenterology",
+  "year": 2019,
+  "doi": "10.1053/j.gastro.2019.05.056",
+  "pmid": "31152740",
+  "registry": "NCT01776424",
+  "design": "rct",
+  "participants": 17598,
+  "followUp": "median 3.01 years (53,152 patient-years)",
+  "population": "Stable cardiovascular disease and peripheral artery disease in the COMPASS trial, 3 × 2 partial factorial with rivaroxaban 2.5 mg twice daily plus aspirin 100 mg, rivaroxaban 5 mg twice daily or aspirin 100 mg",
+  "funder": "The funding statement of the article was not read because the publisher page could not be accessed; Europe PMC lists Bayer as grant agency. Registry NCT01776424: lead sponsor and responsible party Bayer; collaborators Population Health Research Institute and Janssen Research & Development. PubMed lists Bayer, Leverkusen, as the affiliation of two authors.",
+  "funderRole": "publication",
+  "authorConflicts": "Not read.",
+  "dataAccess": "unknown",
+  "result": "Pantoprazole 40 mg daily (n = 8791) against placebo (n = 8807): no statistically significant difference in pneumonia, Clostridium difficile infection, fractures, gastric atrophy, chronic kidney disease, diabetes, chronic obstructive lung disease, dementia, cardiovascular disease, cancer, hospitalisation or all-cause mortality, except enteric infections (1.4% against 1.0%; OR 1.33, 95% CI 1.01 to 1.75). C. difficile infection was about twice as common with pantoprazole, from 13 events in total.",
+  "class": "industry",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT01776424"
+}

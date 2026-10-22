@@ -1,0 +1,21 @@
+{
+  "title": "Thyroid hormone therapy for older adults with subclinical hypothyroidism",
+  "authors": "Stott DJ, Rodondi N, Kearney PM, Ford I, Westendorp RGJ, Mooijaart SP, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2017,
+  "doi": "10.1056/NEJMoa1603825",
+  "pmid": "28402245",
+  "registry": "NCT01660126",
+  "design": "rct",
+  "participants": 737,
+  "followUp": "primary outcomes at 12 months; median follow-up 18.0 months with levothyroxine and 17.3 months with placebo",
+  "population": "Community-dwelling adults aged 65 years or older (mean 74.4 years, 53.7% women) with thyrotropin 4.60 to 19.99 mIU/l on two occasions 3 months to 3 years apart and free thyroxine within the reference range",
+  "funder": "Supported by a research grant (278148) from the European Union FP7-HEALTH-2011 program and by grants from the Swiss National Science Foundation (SNSF 320030-150025, P2BEP3_165409 and PZ00P3-167826) and the Swiss Heart Foundation and Velux Stiftung (974a). The European Union FP7 provided primary financial support. The funder, the trial sponsors (NHS Greater Glasgow and Clyde Health Board, University of Glasgow, University College Cork, Leiden University Medical Center, University of Bern and Bern University Hospital) and Merck played no role in the design, analysis or reporting of the trial; the main sponsor contributed to the writing of the protocol.",
+  "funderRole": "none",
+  "inKindSupport": "Merck (Darmstadt, Germany) provided levothyroxine and matching placebo free of charge.",
+  "authorConflicts": "Disclosure forms are available with the full text at NEJM.org; not read.",
+  "dataAccess": "individual",
+  "result": "Levothyroxine starting at 50 mcg (25 mcg below 50 kg or with coronary heart disease), median 50 mcg at 1 year, against placebo with mock titration. At 12 months thyrotropin 3.63 against 5.48 mIU/l (difference -1.92, 95% CI -2.24 to -1.59). Change in Hypothyroid Symptoms score 0.2 in both groups (difference 0.0, 95% CI -2.0 to 2.1) and in Tiredness score 3.8 against 3.2 (difference 0.4, -2.1 to 2.9); minimum clinically important difference 9 points. New atrial fibrillation 11 of 368 (3.0%) against 13 of 369 (3.5%), hazard ratio 0.80 (0.35 to 1.80); fracture 9 (2.4%) against 8 (2.2%), 1.06 (0.41 to 2.76); death 10 (2.7%) against 5 (1.4%), 1.91 (0.65 to 5.60). Of 2647 people screened, 1645 had reversion of thyrotropin to below 4.60 mIU/l.",
+  "class": "independent",
+  "fundingChecked": "https://iris.unil.ch/bitstreams/5abd71fd-ef72-4632-a2cb-b0db115e3324/download"
+}

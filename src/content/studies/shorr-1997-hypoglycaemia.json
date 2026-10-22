@@ -1,0 +1,17 @@
+{
+  "title": "Antihypertensives and the risk of serious hypoglycemia in older persons using insulin or sulfonylureas",
+  "authors": "Shorr RI, Ray WA, Daugherty JR, Griffin MR",
+  "journal": "JAMA",
+  "year": 1997,
+  "pmid": "9207336",
+  "design": "cohort",
+  "participants": 13559,
+  "followUp": "33,107 person-years of insulin or sulfonylurea use, 1985 to 1989",
+  "population": "Tennessee Medicaid enrollees aged 65 or older (mean 78 years) prescribed insulin (38%) or sulfonylureas (62%)",
+  "funder": "not read: the full text requires a subscription and is absent from PubMed Central; PubMed indexes the article as supported by the US Government.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "598 persons had serious hypoglycaemia (hospitalisation, emergency admission or death with symptoms and blood glucose below 2.8 mmol/l). The rate was 2.01 per 100 person-years without antihypertensives; crude rates were highest with ACE inhibitors (2.47) and lowest with cardioselective beta-blockers (1.23). After adjustment for demographic characteristics and comorbidity, no antihypertensive class significantly increased or decreased the risk against non-users; against non-selective beta-blockers, each other class carried a lower but not significantly lower risk.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/9207336/"
+}

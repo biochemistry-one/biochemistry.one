@@ -1,0 +1,25 @@
+{
+  "title": "Oxidation and breakdown of ascorbate to oxalate",
+  "layout": "chain",
+  "steps": [
+    {
+      "from": "L-Ascorbate",
+      "to": "Dehydroascorbate",
+      "enzyme": "Oxidation by oxygen, metal ions or radicals; reduction by glutathione, NADH or NADPH",
+      "reversible": true,
+      "note": "Keeps vitamin C activity; GLUT1, GLUT3 and GLUT4 move it into cells"
+    },
+    {
+      "from": "Dehydroascorbate",
+      "to": "2,3-Diketo-L-gulonate",
+      "enzyme": "Hydrolysis of the lactone ring, spontaneous or possibly enzyme-catalysed",
+      "note": "Irreversible; faster at pH 7 to 8 than at pH 3 to 5"
+    },
+    {
+      "from": "2,3-Diketo-L-gulonate",
+      "to": "Oxalate and L-threonate",
+      "enzyme": "Oxidation, spontaneous or possibly enzyme-catalysed",
+      "note": "Part is excreted in urine; minor products xylose, xylonate, lyxonate"
+    }
+  ]
+}

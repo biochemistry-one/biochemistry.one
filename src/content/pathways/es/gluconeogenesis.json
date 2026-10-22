@@ -1,0 +1,94 @@
+{
+  "title": "Gluconeogénesis a partir del piruvato",
+  "layout": "chain",
+  "compartment": "Matriz mitocondrial, citosol y retículo endoplásmico del hígado y de la corteza renal",
+  "steps": [
+    {
+      "from": "Piruvato",
+      "to": "Oxalacetato",
+      "enzyme": "Piruvato carboxilasa (PC), mitocondrial",
+      "cofactors": ["ATP a ADP", "HCO3−", "Biotina"],
+      "note": "Activada alostéricamente por acetil-CoA; entran dos piruvatos por cada glucosa"
+    },
+    {
+      "from": "Oxalacetato",
+      "to": "Malato",
+      "enzyme": "Malato deshidrogenasa 2 (MDH2), mitocondrial",
+      "cofactors": ["NADH a NAD+"],
+      "reversible": true,
+      "note": "Después, el malato atraviesa la membrana mitocondrial interna"
+    },
+    {
+      "from": "Malato",
+      "to": "Oxalacetato",
+      "enzyme": "Malato deshidrogenasa 1 (MDH1), citosólica",
+      "cofactors": ["NAD+ a NADH"],
+      "reversible": true,
+      "note": "Aporta el NADH citosólico que utiliza la GAPDH"
+    },
+    {
+      "from": "Oxalacetato",
+      "to": "Fosfoenolpiruvato",
+      "enzyme": "Fosfoenolpiruvato carboxicinasa 1 (PCK1), citosólica",
+      "cofactors": ["GTP a GDP"],
+      "note": "Libera CO2; la PCK2 cataliza la misma reacción en las mitocondrias"
+    },
+    {
+      "from": "Fosfoenolpiruvato",
+      "to": "2-Fosfoglicerato",
+      "enzyme": "Enolasa 1 (ENO1)",
+      "cofactors": ["H2O"],
+      "reversible": true
+    },
+    {
+      "from": "2-Fosfoglicerato",
+      "to": "3-Fosfoglicerato",
+      "enzyme": "Fosfoglicerato mutasa 1 (PGAM1)",
+      "reversible": true
+    },
+    {
+      "from": "3-Fosfoglicerato",
+      "to": "1,3-Bisfosfoglicerato",
+      "enzyme": "Fosfoglicerato cinasa 1 (PGK1)",
+      "cofactors": ["ATP a ADP"],
+      "reversible": true
+    },
+    {
+      "from": "1,3-Bisfosfoglicerato",
+      "to": "Gliceraldehído 3-fosfato",
+      "enzyme": "Gliceraldehído-3-fosfato deshidrogenasa (GAPDH)",
+      "cofactors": ["NADH a NAD+"],
+      "reversible": true,
+      "note": "Libera fosfato"
+    },
+    {
+      "from": "Gliceraldehído 3-fosfato",
+      "to": "Fructosa 1,6-bisfosfato",
+      "enzyme": "Aldolasa B (ALDOB)",
+      "cofactors": ["Dihidroxiacetona fosfato"],
+      "reversible": true,
+      "note": "La DHAP procede de una segunda triosa por la triosa fosfato isomerasa (TPI1)"
+    },
+    {
+      "from": "Fructosa 1,6-bisfosfato",
+      "to": "Fructosa 6-fosfato",
+      "enzyme": "Fructosa-1,6-bisfosfatasa 1 (FBP1)",
+      "cofactors": ["H2O"],
+      "inhibitors": [{"name": "Fructosa 2,6-bisfosfato"}, {"name": "AMP"}],
+      "note": "Libera fosfato; el glucagón disminuye la fructosa 2,6-bisfosfato"
+    },
+    {
+      "from": "Fructosa 6-fosfato",
+      "to": "Glucosa 6-fosfato",
+      "enzyme": "Glucosa-6-fosfato isomerasa (GPI)",
+      "reversible": true
+    },
+    {
+      "from": "Glucosa 6-fosfato",
+      "to": "Glucosa",
+      "enzyme": "Glucosa-6-fosfatasa (G6PC1), del retículo endoplásmico",
+      "cofactors": ["H2O"],
+      "note": "SLC37A4 transporta el sustrato a la luz del RE; libera fosfato"
+    }
+  ]
+}

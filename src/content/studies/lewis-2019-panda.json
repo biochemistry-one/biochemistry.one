@@ -1,0 +1,20 @@
+{
+  "title": "The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial",
+  "authors": "Lewis G, Duffy L, Ades A, Amos R, Araya R, Brabyn S, et al.",
+  "journal": "Lancet Psychiatry",
+  "year": 2019,
+  "doi": "10.1016/S2215-0366(19)30366-9",
+  "pmid": "31543474",
+  "registry": "ISRCTN84544741",
+  "design": "rct",
+  "participants": 655,
+  "followUp": "12 weeks; primary outcome at 6 weeks",
+  "population": "Adults aged 18 to 74 years with depressive symptoms of any severity or duration in the past 2 years and clinical uncertainty about the benefit of an antidepressant, from 179 general practices in Bristol, Liverpool, London and York",
+  "funder": "Independent research commissioned by the National Institute for Health Research (NIHR) Programme Grant for Applied Research (RP-PG-0610-10048). The funder had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "CDo reported grants from Pfizer Independent Grants for Learning and Change outside the submitted work; GlL reported personal fees from Fortitude Law outside the submitted work; NJW was principal investigator on a methodological grant part-funded by Pfizer; several authors reported NIHR grants; the other authors reported no conflicts of interest.",
+  "dataAccess": "individual",
+  "result": "Sertraline 50 mg daily for 1 week, then 100 mg for up to 11 weeks (n=326), or placebo (n=329). PHQ-9 at 6 weeks 7.98 against 8.76, adjusted proportional difference 0.95 (95% CI 0.85 to 1.07; p=0.41); at 12 weeks 0.87 (0.79 to 0.97). GAD-7 at 6 weeks 0.79 (0.70 to 0.89). Feeling better at 6 weeks in 157 of 267 (59%) against 132 of 285 (46%), adjusted OR 1.90 (1.24 to 2.91). Standardised mean difference for PHQ-9 at 6 weeks -0.09 (-0.23 to 0.05) and at 12 weeks -0.18 (-0.33 to -0.03), against -0.27 (-0.34 to -0.21) for sertraline against placebo in the network meta-analysis by Cipriani and colleagues. Described by the authors as the largest placebo-controlled trial of an antidepressant not funded by the pharmaceutical industry.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7029306/fullTextXML"
+}

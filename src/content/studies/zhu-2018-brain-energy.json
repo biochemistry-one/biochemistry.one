@@ -1,0 +1,16 @@
+{
+  "title": "Quantitative imaging of brain energy metabolisms and neuroenergetics using in vivo X-nuclear 2H, 17O and 31P MRS at ultra-high field",
+  "authors": "Zhu XH, Lu M, Chen W",
+  "journal": "Journal of Magnetic Resonance",
+  "year": 2018,
+  "doi": "10.1016/j.jmr.2018.05.005",
+  "pmid": "29866434",
+  "design": "other",
+  "funder": "The work as reviewed in this article was partly supported by NIH grants of R01 NS057560, NS070839 and MH111413, R24 MH106049, P41 EB015894, P30 NS5076408; the W.M. Keck Foundation.",
+  "funderRole": "none",
+  "authorConflicts": "No conflict-of-interest statement in the PMC author manuscript.",
+  "dataAccess": "summary",
+  "result": "Review. The human brain makes up 2% of body weight; a resting adult brain accounts for roughly 20% of the body's oxygen and glucose consumption. Brain ATP is about 3 mM, about 2 g in a 1.4 kg brain, while the oxidative ATP synthesis rate through F1F0-ATPase is 8 to 9 µmol/g/min in the human brain, measured by in vivo 31P magnetization transfer, which translates into 7 to 8 kg of ATP synthesised by the human brain in a day.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5996770"
+}

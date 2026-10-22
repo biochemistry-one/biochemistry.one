@@ -1,0 +1,20 @@
+{
+  "title": "Beta blockers after myocardial infarction with mildly reduced ejection fraction: an individual patient data meta-analysis of randomised controlled trials",
+  "authors": "Rossello X, Prescott EIB, Kristensen AMD, Latini R, Fuster V, Fagerland MW, et al.",
+  "journal": "Lancet",
+  "year": 2025,
+  "doi": "10.1016/S0140-6736(25)01592-2",
+  "pmid": "40897190",
+  "registry": "PROSPERO CRD420251023480",
+  "design": "meta-analysis",
+  "participants": 1885,
+  "followUp": "median above 1 year in each contributing trial",
+  "population": "Individual participant data on patients with myocardial infarction, a left ventricular ejection fraction of 40% to 49% during the index hospitalisation and no history or signs of heart failure, from four randomised trials: REBOOT (979 patients), BETAMI (422), DANBLOCK (430) and CAPITAL-RCT (54)",
+  "funder": "The Funding section of the published abstract names the Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC), the Danish Heart Foundation, the Novo Nordisk Foundation, the South-Eastern Norway Regional Health Authority and the Research Council of Norway. The article's own funding section and any statement of a funder's role could not be read: the publisher page is behind a subscription, the archived copy stops at the abstract, the article is absent from PubMed Central and no repository copy is indexed. The class is therefore undetermined.",
+  "funderRole": "unknown",
+  "authorConflicts": "One author reports grant support from BMS/Pfizer, Medtronic, Bayer and Roche Diagnostics and speaker fees from Abbott, Amgen, Amarin, AstraZeneca, Bayer, Boehringer Ingelheim, BMS, Chiesi, GSK, MSD, Novartis, Novo Nordisk, Pfizer, Pharmacosmos, Philips, Roche Diagnostics, Sanofi, Takeda and Vifor, all paid to his institution; all other authors declare no competing interests.",
+  "dataAccess": "individual",
+  "result": "One-stage fixed-effects Cox proportional-hazards analysis with independently adjudicated endpoints. Of 1885 patients, 991 were assigned beta blockers and 894 no beta blockers. The composite of all-cause death, new myocardial infarction or heart failure occurred in 106 patients (32.6 events per 1000 patient-years) against 129 (43.0 per 1000 patient-years), hazard ratio 0.75 (95% CI 0.58 to 0.97), p = 0.031, without heterogeneity between trials (p for interaction 0.95) or countries of enrolment (0.98). No further eligible trial was found in a systematic search from 1 January 2020 to 26 June 2025.",
+  "class": "undetermined",
+  "fundingChecked": "https://web.archive.org/web/20250902231407/https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)01592-2/abstract"
+}

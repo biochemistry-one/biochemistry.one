@@ -1,0 +1,18 @@
+{
+  "title": "Effect of dose and duration of reduction in dietary sodium on blood pressure levels: systematic review and meta-analysis of randomised trials",
+  "authors": "Huang L, Trieu K, Yoshimura S, Neal B, Woodward M, Campbell NRC, et al.",
+  "journal": "BMJ",
+  "year": 2020,
+  "doi": "10.1136/bmj.m315",
+  "pmid": "32094151",
+  "design": "meta-analysis",
+  "participants": 12197,
+  "population": "133 randomised trials of reduced versus usual sodium intake with sodium measured by 24-hour urine collection, in adults without chronic kidney disease or heart failure",
+  "funder": "This research received no funding support.",
+  "funderRole": "none",
+  "authorConflicts": "Outside this work, B. Neal received salt substitute for trials from Salt Manufacturing Company in China and Nutek; M. Woodward received personal fees from Amgen and Kirin; N.R.C. Campbell is an unpaid member of World Action on Salt and Health; F.J. He and G.A. MacGregor hold unpaid roles in the non-profit organisations Blood Pressure UK, Consensus Action on Salt and Health and World Action on Salt and Health.",
+  "dataAccess": "summary",
+  "result": "Mean reduction of 24-hour urinary sodium 130 mmol (95% CI 115 to 145), systolic blood pressure 4.26 mm Hg (3.62 to 4.89) and diastolic 2.07 mm Hg (1.67 to 2.48). Each 50 mmol reduction lowered systolic pressure by 1.10 mm Hg (0.66 to 1.54) and diastolic by 0.33 mm Hg (0.04 to 0.63); in trials longer than 14 days, by 2.13 mm Hg systolic (0.85 to 3.40) versus 1.05 mm Hg (0.40 to 1.70) in shorter trials. Larger falls for the same reduction in older, non-white and higher-pressure populations. The authors state that renin-angiotensin, sympathetic and adverse metabolic responses to acute large sodium reductions do not appear to be present in longer-term interventions.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7190039/"
+}

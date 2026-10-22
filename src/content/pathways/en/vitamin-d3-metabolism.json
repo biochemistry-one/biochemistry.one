@@ -1,0 +1,32 @@
+{
+  "title": "Vitamin D3 activation and inactivation",
+  "layout": "chain",
+  "compartment": "Epidermis, liver endoplasmic reticulum and renal proximal tubule mitochondria",
+  "steps": [
+    {
+      "from": "7-Dehydrocholesterol",
+      "to": "Colecalciferol (vitamin D3)",
+      "enzyme": "several steps",
+      "note": "UVB opens the B ring to previtamin D3, which isomerises thermally"
+    },
+    {
+      "from": "Colecalciferol (vitamin D3)",
+      "to": "Calcifediol (25-hydroxyvitamin D3)",
+      "enzyme": "Vitamin D 25-hydroxylase (CYP2R1)",
+      "note": "Microsomal enzyme of liver; the product binds vitamin D-binding protein"
+    },
+    {
+      "from": "Calcifediol (25-hydroxyvitamin D3)",
+      "to": "Calcitriol (1,25-dihydroxyvitamin D3)",
+      "enzyme": "25-Hydroxyvitamin D 1α-hydroxylase (CYP27B1)",
+      "cofactors": ["Ferredoxin", "Ferredoxin reductase"],
+      "note": "Mitochondrial; PTH induces it, FGF23 and calcitriol suppress it"
+    },
+    {
+      "from": "Calcitriol (1,25-dihydroxyvitamin D3)",
+      "to": "Calcitroic acid",
+      "enzyme": "Vitamin D 24-hydroxylase (CYP24A1)",
+      "note": "Sequential C-24 oxidations; calcitriol and FGF23 induce it, PTH suppresses it"
+    }
+  ]
+}

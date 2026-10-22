@@ -1,0 +1,20 @@
+{
+  "title": "Food additive emulsifiers and the risk of type 2 diabetes: analysis of data from the NutriNet-Santé prospective cohort study",
+  "authors": "Salame C, Javaux G, Sellem L, Viennois E, de Edelenyi FS, Agaësse C, et al.",
+  "journal": "The Lancet Diabetes & Endocrinology",
+  "year": 2024,
+  "doi": "10.1016/S2213-8587(24)00086-X",
+  "pmid": "38663950",
+  "registry": "NCT03335644",
+  "design": "cohort",
+  "participants": 104139,
+  "followUp": "mean 6.8 years",
+  "population": "French adults without diabetes at baseline; 79.2% women; mean age 42.7 years",
+  "funder": "NutriNet-Santé public institutions (Ministère de la Santé, Santé Publique France, INSERM, INRAE, CNAM, University Sorbonne Paris Nord); European Research Council (grant agreement 864219, ADDITIVES); French National Cancer Institute (INCa_14059); French Ministry of Health; IdEx Université de Paris (ANR-18-IDEX-0001); Bettencourt-Schueller Foundation Research Prize 2021. The funders had no role in study design; the collection, analysis, and interpretation of data; the writing of the report, or the decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "We declare no competing interests.",
+  "dataAccess": "individual",
+  "result": "1056 incident cases of type 2 diabetes. Hazard ratios per 100 mg/day: total carrageenans 1.03 (95% CI 1.01 to 1.05), E407 1.03 (1.01 to 1.05); mean total carrageenan intake 59.0 mg/day. Associations were also reported for E340 (1.15, 1.02 to 1.31, per 500 mg/day), E472e, E331, E412, E414 and xanthan gum E415 (hazard ratio 1.08, 95% CI 1.02 to 1.14, per increment of 500 mg/day, p = 0.013). Xanthan gum was found in 5% of foods according to EFSA data cited by the authors. Appendix eTable3 (https://ars.els-cdn.com/content/image/1-s2.0-S221385872400086X-mmc1.pdf), per 500 mg/day, fully adjusted and mutually adjusted for other emulsifiers: E471 0.99 (0.91 to 1.08), p = 0.84, minimally adjusted 1.07 (0.98 to 1.16); total mono- and diglycerides of fatty acids 1.00 (0.95 to 1.05). E471 was consumed by 80.3%, mean 165.4 mg/day. eTable3, per 500 mg/day, fully adjusted: diphosphates E450 1.01 (0.98 to 1.04), p = 0.49; tripotassium phosphate E340 1.15 (1.02 to 1.31), p = 0.023, with a false-discovery-rate-adjusted p of 0.10 (Figure 4 legend); trisodium phosphate E339 1.03 (0.92 to 1.14), p = 0.64. E450 was consumed by 70.4%, mean 244.5 (SD 351.7) mg/day; E340 by 5.2%, mean 6.9 (SD 90.5) mg/day. Absolute risks by intake level are not reported.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20251231051509/https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00086-X/fulltext"
+}

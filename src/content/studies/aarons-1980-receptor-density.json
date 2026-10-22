@@ -1,0 +1,19 @@
+{
+  "title": "Elevation of beta-adrenergic receptor density in human lymphocytes after propranolol administration",
+  "authors": "Aarons RD, Nies AS, Gal J, Hegstrand LR, Molinoff PB",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1980,
+  "doi": "10.1172/JCI109781",
+  "pmid": "6102572",
+  "design": "mechanistic",
+  "participants": 12,
+  "followUp": "8 days of treatment and about 1 week after the last dose",
+  "population": "Twelve healthy volunteers, six men and six women, aged 23 to 33 years (mean 27), free of drugs and of asthma, chronic pulmonary disease, diabetes, hypertension and cardiac disease, at the University of Colorado Health Sciences Center",
+  "funder": "This work was supported by the U. S. Public Health Service (NS 13289 and RR 00051) and The Colorado and American Heart Associations. One author was a Predoctoral Fellow (HD 07072) and one a postdoctoral trainee (GM 07063) of the U. S. Public Health Service.",
+  "funderRole": "none",
+  "inKindSupport": "Hydroxybenzylpindolol was a gift of Sandoz Pharmaceuticals, practolol and the propranolol stereoisomers gifts of Ayerst Laboratories, 4-methylpropranolol a gift of ICI Pharmaceutical Division and d-isoproterenol a gift of Winthrop Laboratories.",
+  "dataAccess": "summary",
+  "result": "Propranolol 160 mg daily for 8 days produced trough plasma concentrations of about 35 ng/ml. By day 5 the density of beta-adrenergic receptors on lymphocyte membranes, measured by binding of [125I]iodohydroxybenzylpindolol, had risen 43 plus or minus 4% above pretreatment values (P below 0.01). Standing and supine heart rates fell during treatment. After the last dose propranolol disappeared from plasma within 24 hours, while receptor density returned to the pretreatment level only over several days; standing heart rate returned to control within 24 hours and supine heart rate only 4 days after discontinuation. The orthostatic change in heart rate (P below 0.05) and in the heart rate-systolic pressure product (P below 0.01) rose significantly during the first 48 hours after withdrawal, and the change in receptor density correlated with the orthostatic change in heart rate (r = 0.63, P = 0.036) and in the double product (r = 0.67, P = 0.024).",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/109781/version/1/pdf/render"
+}

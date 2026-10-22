@@ -1,0 +1,20 @@
+{
+  "title": "Effects of altering levothyroxine dose on energy expenditure and body composition in subjects treated with LT4",
+  "authors": "Samuels MH, Kolobova I, Niederhausen M, Purnell JQ, Schuff KG",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2018,
+  "doi": "10.1210/jc.2018-01203",
+  "pmid": "30165520",
+  "registry": "NCT00565864",
+  "design": "rct",
+  "participants": 138,
+  "followUp": "6 months",
+  "population": "The same 138 levothyroxine-treated adults with normal TSH whose doses were changed double-blind to three TSH targets; resting energy expenditure by indirect calorimetry and body composition measured",
+  "funder": "This work was supported by the National Institute of Diabetes and Digestive and Kidney Diseases (Grant R01 DK075496 to M.H.S.) and National Center for Advancing Translational Sciences (Grant UL1 RR024120; OHSU Clinical and Translational Science Award).",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have nothing to disclose.",
+  "dataAccess": "unknown",
+  "result": "With final mean TSH 1.85, 3.93 and 9.49 mU/l in the three arms, there were no substantial differences in metabolic outcomes, weight or body composition, although falls in thyroid status correlated with falls in resting energy expenditure across all subjects. The authors conclude that lowering TSH below 2.50 mU/l is unlikely to benefit weight or body composition in hypothyroid patients.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6194808/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Effect of high dose folic acid supplementation in pregnancy on pre-eclampsia (FACT): double blind, phase III, randomised controlled, international, multicentre trial",
+  "authors": "Wen SW, White RR, Rybak N, Gaudet LM, Robson S, Hague W, et al.",
+  "journal": "BMJ",
+  "year": 2018,
+  "doi": "10.1136/bmj.k3478",
+  "pmid": "30209050",
+  "registry": "NCT01355159",
+  "design": "rct",
+  "participants": 2464,
+  "followUp": "From randomisation at 8 to 16 weeks of gestation to 42 days post partum",
+  "population": "Pregnant women with at least one risk factor for pre-eclampsia (pre-existing hypertension, pre-pregnancy diabetes, twin pregnancy, previous pre-eclampsia or BMI 35 or more) at 70 centres in Argentina, Australia, Canada, Jamaica and the UK; up to 1.1 mg folic acid in prenatal vitamins allowed in both groups",
+  "funder": "This study was sponsored by the Ottawa Hospital Research Institute, and funded by the Canadian Institutes of Health Research (grants 198801 and 98030). FACT was conceived, designed, and coordinated independently of the funding source. The funder did not act as sponsor for the trial and had no role in analysis, interpretation of the data, writing of the report, or decision to submit for publication.",
+  "funderRole": "none",
+  "authorConflicts": "No financial relationships with organisations that might have an interest in the work.",
+  "dataAccess": "individual",
+  "result": "Folic acid 4.0 mg daily or placebo from the end of the first trimester to delivery. Pre-eclampsia 169 of 1144 (14.8%) against 156 of 1157 (13.5%): RR 1.10 (95% CI 0.90 to 1.34). No difference in any other adverse maternal or neonatal outcome; all adverse events were collected to 42 days post partum under an independent data safety monitoring board, which detected no safety issues. The authors conclude that the high-dose recommendation for pre-eclampsia prevention should cease. Data available on reasonable request.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6133042/"
+}

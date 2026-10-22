@@ -1,0 +1,21 @@
+{
+  "title": "A randomized trial of the effects of the no-carrageenan diet on ulcerative colitis disease activity",
+  "authors": "Bhattacharyya S, Shumard T, Xie H, Dodda A, Varady KA, Feferman L, et al.",
+  "journal": "Nutrition and Healthy Aging",
+  "year": 2017,
+  "doi": "10.3233/NHA-170023",
+  "pmid": "28447072",
+  "registry": "NCT01065571",
+  "design": "rct",
+  "participants": 12,
+  "followUp": "up to 1 year",
+  "population": "Adults with ulcerative colitis in remission on a no-carrageenan diet",
+  "funder": "The study was supported by the Broad Medical Research Program.",
+  "funderRole": "none",
+  "inKindSupport": "Food-grade carrageenan obtained from FMC Biopolymer; capsules prepared by the Chau Center for Industrial Pharmacy and Contract Manufacturing.",
+  "authorConflicts": "The authors have no conflicts of interest with regard to the content of this report.",
+  "dataAccess": "summary",
+  "result": "Double-blind capsules of 100 mg food-grade carrageenan or dextrose placebo. Relapse in 3 of 5 participants given carrageenan and 0 of 7 given placebo (log-rank P = 0.046); interleukin-6 rose in the carrageenan group (P = 0.02). EFSA (2018) judged the study of limited relevance because of the small number of patients.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5389019/"
+}

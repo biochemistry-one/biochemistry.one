@@ -1,0 +1,17 @@
+{
+  "title": "Associations between metformin use and vitamin B12 levels, anemia, and neuropathy in patients with diabetes: a meta-analysis",
+  "authors": "Yang W, Cai X, Wu H, Ji L",
+  "journal": "Journal of Diabetes",
+  "year": 2019,
+  "doi": "10.1111/1753-0407.12900",
+  "pmid": "30615306",
+  "design": "meta-analysis",
+  "population": "31 studies published in English before March 2018 comparing patients with diabetes taking metformin with patients with diabetes not taking it",
+  "funder": "No funding statement is given in the record indexed by PubMed or in the Crossref metadata, and the article is behind a subscription and absent from PubMed Central, so study funding could not be read. One of the four authors is affiliated with Eisai China Inc., Shanghai, so an industry role in the work and its publication is present and the record is classed industry.",
+  "funderRole": "unknown",
+  "authorConflicts": "One of the four authors is an employee of Eisai China Inc.",
+  "dataAccess": "summary",
+  "result": "Results read from the published abstract. Compared with patients with diabetes not taking metformin, those taking it had a higher risk of vitamin B12 deficiency (risk ratio 2.09, 95% CI 1.49 to 2.93, p < 0.0001, I2 = 64%), lower serum vitamin B12 (mean difference -63.70 pmol/L, -74.35 to -53.05, p < 0.00001, I2 = 87%) and a greater percentage fall from baseline (-14.68%, -17.98% to -11.39%, p < 0.00001, I2 = 33%), with the size of the effect depending on dose and duration of treatment. The analyses showed no significant association between metformin use and the prevalence of anaemia or of neuropathy. The authors recommend annual assessment of vitamin B12 in patients with diabetes taking metformin and state that more quality studies are needed on anaemia and neuropathy.",
+  "class": "industry",
+  "fundingChecked": "https://api.crossref.org/works/10.1111/1753-0407.12900"
+}

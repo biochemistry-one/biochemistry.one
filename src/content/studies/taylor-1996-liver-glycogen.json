@@ -1,0 +1,18 @@
+{
+  "title": "Direct assessment of liver glycogen storage by 13C nuclear magnetic resonance spectroscopy and regulation of glucose homeostasis after a mixed meal in normal subjects",
+  "authors": "Taylor R, Magnusson I, Rothman DL, Cline GW, Caumo A, Cobelli C, et al.",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1996,
+  "doi": "10.1172/JCI118379",
+  "pmid": "8550823",
+  "design": "mechanistic",
+  "participants": 18,
+  "population": "Healthy adults aged 18 to 40 years: 8 in the liver glycogen study, 6 in the hepatic glucose output study and 6 in the glycogen pathway study; two subjects took part in two studies",
+  "funder": "The work was funded by the Public Health Service (DK49230, DK45735, RR-03475, RR-00125), a grant from the American Diabetes Association (G. I. Shulman), and a grant from the Juvenile Diabetes Foundation (I. Magnusson). It was also partially supported by a grant from the Italian Ministero della Universita e della Ricerca Scientifica e Tecnologica and by grant 9300457PF40 from the Italian National Research Council. Roy Taylor was supported by Medical Research Council Grant G9012977SB.",
+  "funderRole": "none",
+  "inKindSupport": "Purified acetaminophen glucuronide used as a standard was the gift of McNeil Pharmaceuticals.",
+  "dataAccess": "summary",
+  "result": "Liver glycogen fell overnight from 350 ± 18 mmol/L 4 h after the evening meal to 207 ± 22 mmol/L in the fasting state. After an 824-kcal liquid meal with 67.3% of energy as glucose, it peaked at 316 ± 19 mmol/L at 318 ± 31 min; net hepatic glycogen synthesis was 28.3 ± 3.7 g, about 19% of the meal carbohydrate. Plasma insulin rose from 4.1 to 73 mU/L at 30 min. Hepatic glucose output, 1.90 ± 0.04 mg/kg per min fasting, was completely suppressed within 30 min and regained the fasting rate between 300 and 460 min after the meal (mean 380 ± 28 min). Mean liver volume 1.44 L.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/118379/version/1/pdf/render.pdf"
+}

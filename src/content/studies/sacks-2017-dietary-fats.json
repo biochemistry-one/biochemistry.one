@@ -1,0 +1,16 @@
+{
+  "title": "Dietary fats and cardiovascular disease: a presidential advisory from the American Heart Association",
+  "authors": "Sacks FM, Lichtenstein AH, Wu JHY, Appel LJ, Creager MA, Kris-Etherton PM, et al.",
+  "journal": "Circulation",
+  "year": 2017,
+  "doi": "10.1161/CIR.0000000000000510",
+  "pmid": "28620111",
+  "design": "guideline",
+  "funder": "not stated; the advisory was approved by the American Heart Association Science Advisory and Coordinating Committee and Executive Committee",
+  "funderRole": "unknown",
+  "authorConflicts": "Writing group disclosures list significant research grants to P.M. Kris-Etherton from the California Walnut Commission, Ag Canada and Canola Oil Council and National Cattlemen's Beef Association, significant other research support to J.H.Y. Wu from Unilever, and grants and consultancies of J.G. Robinson with pharmaceutical companies; the other members declared none.",
+  "dataAccess": "summary",
+  "result": "Fixed-effects meta-analysis of four core trials (Dayton et al, Oslo Diet-Heart Study, Medical Research Council soybean oil trial, Finnish Mental Hospital Study): replacing saturated fat with polyunsaturated vegetable oil, primarily soybean oil, lowered coronary heart disease by 29% (random-effects RR 0.71, 95% CI 0.61 to 0.83). The Minnesota Coronary Survey was excluded from the core group because of short duration (average 384 days), a large percentage of withdrawals and intermittent treatment, with concern about lightly hydrogenated corn oil margarine; the Sydney Diet Heart Study was not included because a margarine high in trans unsaturated fat was described as a major component of the high polyunsaturated diet. Conclusion: lowering saturated fat and replacing it with unsaturated fats, especially polyunsaturated fats, will lower the incidence of cardiovascular disease.",
+  "class": "consensus",
+  "fundingChecked": "http://web.archive.org/web/20260120155642/https://www.ahajournals.org/doi/10.1161/cir.0000000000000510"
+}

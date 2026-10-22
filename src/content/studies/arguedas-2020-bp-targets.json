@@ -1,0 +1,19 @@
+{
+  "title": "Blood pressure targets in adults with hypertension",
+  "authors": "Arguedas JA, Leiva V, Wright JM",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2020,
+  "doi": "10.1002/14651858.CD004349.pub3",
+  "pmid": "33332584",
+  "design": "meta-analysis",
+  "participants": 38688,
+  "followUp": "mean 3.7 years",
+  "population": "11 randomised trials comparing lower blood-pressure targets (135/85 mm Hg or less) with standard targets (140/90 mm Hg or less) in adults with hypertension; mean age 63.1 years, mean baseline pressure 155/91 mm Hg; search to May 2019",
+  "funder": "Sources of support, read on the PubMed Central article page: internal sources, Departments of Anesthesiology, Pharmacology & Therapeutics and Medicine, Faculty of Medicine, University of British Columbia, Canada (in kind costs for space and maintenance), and Universidad de Costa Rica (in kind costs); external source, British Columbia Ministry of Health, Canada (ongoing grant to the Therapeutics Initiative).",
+  "funderRole": "unknown",
+  "authorConflicts": "JAA has lectured on this subject in activities organised by AstraZeneca and MSD, neither of which participated in the content of the talks or in the preparation of this work; VL and JMW declare no conflict.",
+  "dataAccess": "summary",
+  "result": "Lower targets did not reduce total mortality (RR 0.95, 95% CI 0.86 to 1.05; 11 trials, 38,688 participants; high certainty) or total serious adverse events (1.04, 0.99 to 1.08; 6 trials, 18,165; moderate certainty). They may reduce myocardial infarction (0.84, 0.73 to 0.96; absolute risk reduction 0.4%, number needed to treat 250 over 3.7 years) and heart failure (0.75, 0.60 to 0.92; absolute reduction 0.6%, number needed to treat 167), with an increase in other serious adverse events (1.44, 1.32 to 1.59; absolute increase 3%, number needed to harm 33 over four years), low certainty. Lower-target groups took one additional drug and reached 122.8/82.0 against 135.0/85.2 mm Hg. The authors conclude that for the general population of people with raised blood pressure the benefits of lower targets do not outweigh the harms, and that the results apply mainly to older people at moderate to high cardiovascular risk.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8094587/"
+}

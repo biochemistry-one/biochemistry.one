@@ -1,0 +1,20 @@
+{
+  "title": "Beta-blockers after myocardial infarction in patients without heart failure",
+  "authors": "Munkhaugen J, Kristensen AMD, Halvorsen S, Holmager T, Olsen MH, Bakken A, et al.; BETAMI-DANBLOCK Investigators",
+  "journal": "New England Journal of Medicine",
+  "year": 2025,
+  "doi": "10.1056/NEJMoa2505985",
+  "pmid": "40888716",
+  "registry": "NCT03646357 and NCT03778554",
+  "design": "rct",
+  "participants": 5574,
+  "followUp": "median 3.5 years (interquartile range 2.2 to 4.6)",
+  "population": "Myocardial infarction with a left ventricular ejection fraction of at least 40% (BETAMI, type 1 infarction with revascularisation) or above 40% (DANBLOCK, type 1 or type 2 infarction), randomised within 7 or 14 days, excluding heart failure, another indication for a beta-blocker or a contraindication; 19 sites in Norway and 25 in Denmark; median age 63 years, 20.8% women, ejection fraction at least 50% in 84.7%, revascularised 94.5%",
+  "funder": "Supported by grants from the Health South-East research program in Norway (programme for clinical therapy research in the specialist health services, 2017205) and the Research Council of Norway (302454) for the BETAMI trial, and grants from the Danish Heart Foundation (18-R124-A8323-22091) and the Novo Nordisk Foundation (NNF18OC0034582) for the DANBLOCK trial. The paper states that unrestricted grants from the Danish Heart Foundation, the Norwegian Health South-East research program, the Research Council of Norway and the Novo Nordisk Foundation supported the trial, that the executive steering committees designed the combined trial, that data were collected by site investigators and analysed by the trial statistician and data manager, and that the first authors drafted the manuscript. Registries NCT03646357 and NCT03778554 name Oslo University Hospital and Bispebjerg Hospital as lead sponsors, with hospitals and universities as collaborators.",
+  "funderRole": "none",
+  "authorConflicts": "Disclosure forms are published with the full text at NEJM.org; not read.",
+  "dataAccess": "unknown",
+  "result": "Open-label with blinded end-point adjudication; registry-based follow-up. Of 5622 patients randomised, 5574 entered the main analyses, 2783 assigned a beta-blocker and 2791 none; long-acting metoprolol was prescribed to 94.5% of the treated group, median starting dose 50 mg. Death from any cause or a major adverse cardiovascular event (new myocardial infarction, unplanned coronary revascularisation, ischaemic stroke, heart failure or malignant ventricular arrhythmia) occurred in 394 of 2783 (14.2%) against 454 of 2791 (16.3%), hazard ratio 0.85 (95% CI 0.75 to 0.98), P = 0.03, over a median 3.5 years: an absolute difference of 2.1 percentage points, so 48 patients treated avoid one event. Death from any cause 118 (4.2%) against 124 (4.4%), hazard ratio 0.94 (0.73 to 1.21); myocardial infarction 138 (5.0%) against 186 (6.7%), 0.73 (0.59 to 0.92); unplanned revascularisation 108 (3.9%) against 110 (3.9%), 0.99 (0.76 to 1.29); ischaemic stroke 45 (1.6%) against 35 (1.3%), 1.30 (0.84 to 2.03); heart failure 42 (1.5%) against 52 (1.9%), 0.78 (0.52 to 1.18); malignant ventricular arrhythmias 15 (0.5%) against 18 (0.6%), 0.82 (0.42 to 1.64); pacemaker implantation or second- or third-degree atrioventricular block 49 (1.8%) in each group. Restricted to 12 months of follow-up, events occurred in 147 (5.3%) against 181 (6.5%), hazard ratio 0.80 (0.64 to 0.99). Among 852 patients with an ejection fraction of 40% to 49% the hazard ratio was 0.82 (0.65 to 1.02), and among 4718 with 50% or more 0.93 (0.85 to 1.01). At 6 months 88.6% and 88.7% of the two groups adhered to the assigned strategy, and 23% of adjudicated events were rejected.",
+  "class": "independent",
+  "fundingChecked": "https://orbi.uliege.be/bitstream/2268/335762/1/Beta%20Blockers%20after%20myocardial%20infarction.pdf"
+}

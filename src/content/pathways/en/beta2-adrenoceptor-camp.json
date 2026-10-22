@@ -1,0 +1,33 @@
+{
+  "title": "Beta2-adrenoceptor signalling in airway smooth muscle",
+  "layout": "chain",
+  "compartment": "Airway smooth muscle cell",
+  "steps": [
+    {
+      "from": "ATP",
+      "to": "Cyclic AMP",
+      "enzyme": "Adenylyl cyclase",
+      "cofactors": ["Mg2+"],
+      "note": "Gs alpha from the agonist-bound beta2 adrenoceptor activates it"
+    },
+    {
+      "from": "Cyclic AMP",
+      "to": "Free protein kinase A catalytic subunits",
+      "enzyme": "Protein kinase A holoenzyme",
+      "note": "cAMP binds the regulatory subunits, which release the catalytic ones"
+    },
+    {
+      "from": "Free protein kinase A catalytic subunits",
+      "to": "Phosphorylated myosin light-chain kinase",
+      "enzyme": "Protein kinase A catalytic subunit",
+      "cofactors": ["ATP", "Mg2+"],
+      "note": "KCa channels and heat shock protein 20 are further substrates"
+    },
+    {
+      "from": "Phosphorylated myosin light-chain kinase",
+      "to": "Relaxed airway smooth muscle",
+      "enzyme": "several steps",
+      "note": "Less phosphorylation of the myosin regulatory light chain"
+    }
+  ]
+}

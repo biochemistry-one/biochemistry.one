@@ -1,0 +1,18 @@
+{
+  "title": "Vitamin D exposures reported to US poison centers 2000-2014: Temporal trends and outcomes",
+  "authors": "Spiller HA, Good TF, Spiller NE, Aleguas A",
+  "journal": "Human & Experimental Toxicology",
+  "year": 2016,
+  "doi": "10.1177/0960327115595685",
+  "pmid": "26519481",
+  "design": "database",
+  "participants": 25397,
+  "followUp": "1 January 2000 to 30 June 2014",
+  "population": "Single-substance human vitamin D exposures reported to the US National Poison Data System; multivitamin products excluded",
+  "funder": "not stated in the abstract; the full text was not accessible (HTTP 403 at the publisher), so the funding statement was not read.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "25,397 human exposures; a mean of 196 per year in 2000 to 2005 rose by 1600% to a mean of 4535 per year after 2011; median age 10 years. No fatalities; five (0.02%) major-effect outcomes; serious medical outcomes ranged from 2 to 22 patients per year. Clinical effects were mainly gastrointestinal (0.7% to 1.5%) and mild neurological (0.2% to 0.4%).",
+  "class": "undetermined",
+  "fundingChecked": "https://journals.sagepub.com/doi/10.1177/0960327115595685"
+}

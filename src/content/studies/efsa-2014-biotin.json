@@ -1,0 +1,14 @@
+{
+  "title": "Scientific Opinion on Dietary Reference Values for biotin",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA)",
+  "journal": "EFSA Journal",
+  "year": 2014,
+  "doi": "10.2903/j.efsa.2014.3580",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (question EFSA-Q-2011-01205).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Biotin is a cofactor of acetyl-CoA carboxylase, propionyl-CoA carboxylase, beta-methylcrotonyl-CoA carboxylase and pyruvate carboxylase, to which it is covalently attached in the cell; biotinidase releases biotin from degraded holocarboxylases for reuse. Dietary biotin deficiency is rare and is characterised by fine scaly dermatitis, hair loss, conjunctivitis, ataxia and delayed child development; cases occurred with long-term parenteral nutrition without biotin, in biotinidase deficiency and after large intakes of raw eggs, whose egg-white avidin prevents biotin absorption.",
+  "class": "regulatory",
+  "fundingChecked": "https://web.archive.org/web/20160325121527/http://www.efsa.europa.eu/sites/default/files/scientific_output/files/main_documents/3580.pdf"
+}

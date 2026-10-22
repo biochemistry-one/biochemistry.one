@@ -1,0 +1,16 @@
+{
+  "title": "2014 evidence-based guideline for the management of high blood pressure in adults: report from the panel members appointed to the Eighth Joint National Committee (JNC 8)",
+  "authors": "James PA, Oparil S, Carter BL, Cushman WC, Dennison-Himmelfarb C, Handler J, et al.",
+  "journal": "JAMA",
+  "year": 2014,
+  "doi": "10.1001/jama.2013.284427",
+  "pmid": "24352797",
+  "design": "guideline",
+  "funder": "The evidence review for this project was funded by the National Heart, Lung, and Blood Institute (NHLBI).",
+  "funderRole": "none",
+  "authorConflicts": "Four members (24%) had relationships with industry or potential conflicts at the outset; those with conflicts could join discussions after declaring them and recused themselves from voting on related evidence statements and recommendations. Oparil reports board, consulting, lecture and grant relationships with Bayer, Daiichi Sankyo, Novartis, Medtronic, Takeda, Pfizer, Merck and others; Cushman institutional grants from Merck, Lilly and Novartis and consulting fees from several companies; Townsend board membership with Medtronic and consultancy for Janssen, GlaxoSmithKline and Merck; Wright consulting fees from Medtronic, CVRx, Takeda, Daiichi-Sankyo, Pfizer, Novartis and Take Care Health; the other authors report none.",
+  "dataAccess": "summary",
+  "result": "In the general population aged 60 or older, start drug treatment at systolic 150 mm Hg or diastolic 90 mm Hg or higher and treat to below 150/90 (strong recommendation, grade A). Below age 60, start at diastolic 90 or higher (grade A for ages 30 to 59, expert opinion for 18 to 29) and at systolic 140 or higher (expert opinion), with goals below 90 and 140. With chronic kidney disease or diabetes, start at 140/90 and treat to below 140/90 (expert opinion). Initial drugs in the non-black population: thiazide-type diuretic, calcium channel blocker, ACE inhibitor or angiotensin receptor blocker; in the black population a thiazide-type diuretic or calcium channel blocker. The panel was unable to reach unanimity on the systolic goal below 150 mm Hg; some members recommended continuing the JNC 7 goal below 140 mm Hg for people older than 60.",
+  "class": "consensus",
+  "fundingChecked": "https://jamanetwork.com/journals/jama/fullarticle/1791497"
+}

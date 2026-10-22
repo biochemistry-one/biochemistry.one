@@ -1,0 +1,43 @@
+{
+  "title": "ケトン体生成",
+  "layout": "chain",
+  "compartment": "肝細胞のミトコンドリアマトリックス",
+  "steps": [
+    {
+      "from": "長鎖アシルCoA",
+      "to": "アセチルCoA",
+      "enzyme": "複数の反応段階",
+      "inhibitors": [{"name": "マロニルCoA"}],
+      "note": "CPT1Aを介するカルニチンシャトルで取り込まれ、次いでβ酸化を受ける"
+    },
+    {
+      "from": "アセチルCoA",
+      "to": "アセトアセチルCoA",
+      "enzyme": "アセチルCoAアセチルトランスフェラーゼ1（ACAT1）",
+      "cofactors": ["アセチルCoA"],
+      "reversible": true,
+      "note": "ミトコンドリアのチオラーゼ。2分子のアセチルCoAを縮合し、CoAを放出する"
+    },
+    {
+      "from": "アセトアセチルCoA",
+      "to": "HMG-CoA",
+      "enzyme": "ミトコンドリアのHMG-CoA合成酵素2（HMGCS2）",
+      "cofactors": ["アセチルCoA", "H2O"],
+      "note": "決定段階。CoAを放出する。欠損症では絶食時のケトン体生成が障害される"
+    },
+    {
+      "from": "HMG-CoA",
+      "to": "アセト酢酸",
+      "enzyme": "HMG-CoAリアーゼ（HMGCL）",
+      "note": "アセチルCoAを放出する。アセト酢酸は自発的に脱炭酸されてアセトンになる"
+    },
+    {
+      "from": "アセト酢酸",
+      "to": "D-3-ヒドロキシ酪酸",
+      "enzyme": "3-ヒドロキシ酪酸脱水素酵素1（BDH1）",
+      "cofactors": ["NADH → NAD+"],
+      "reversible": true,
+      "note": "平衡に近い反応。生成物の比はミトコンドリアのNADH/NAD+比に従う"
+    }
+  ]
+}

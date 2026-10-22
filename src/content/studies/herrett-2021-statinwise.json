@@ -1,0 +1,20 @@
+{
+  "title": "Statin treatment and muscle symptoms: series of randomised, placebo controlled n-of-1 trials",
+  "authors": "Herrett E, Williamson E, Brack K, Beaumont D, Perkins A, Thayne A, et al.",
+  "journal": "BMJ",
+  "year": 2021,
+  "doi": "10.1136/bmj.n135",
+  "pmid": "33627334",
+  "registry": "ISRCTN30952488",
+  "design": "rct",
+  "participants": 200,
+  "followUp": "six double-blind treatment periods of two months each",
+  "population": "Adults in UK primary care (50 sites) who had recently stopped or were considering stopping statins because of muscle symptoms (StatinWISE)",
+  "funder": "The StatinWISE trial was funded by the National Institute for Health Research-Health Technology Programme (reference 14/49/159). The study was sponsored by the London School of Hygiene and Tropical Medicine. The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "No financial relationships with any organisations that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "individual",
+  "result": "Participants were randomised to sequences of atorvastatin 20 mg daily or placebo; 151 provided scores for at least one statin and one placebo period. Mean muscle symptom score difference, statin minus placebo, -0.11 (95% CI -0.36 to 0.14) on a 0 to 10 scale. Withdrawals for intolerable muscle symptoms: 18 (9%) during a statin period and 13 (7%) during a placebo period. Two thirds of those completing the trial reported restarting long-term statins. Deidentified participant data are shared through the LSHTM Data Compass repository.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7903384"
+}

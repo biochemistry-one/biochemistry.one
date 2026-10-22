@@ -1,0 +1,17 @@
+{
+  "title": "Evidence for a causal association between milk intake and cardiometabolic disease outcomes using a two-sample Mendelian Randomization analysis in up to 1,904,220 individuals",
+  "authors": "Vimaleswaran KS, Zhou A, Cavadino A, Hyppönen E",
+  "journal": "International Journal of Obesity",
+  "year": 2021,
+  "doi": "10.1038/s41366-021-00841-2",
+  "pmid": "34024907",
+  "design": "mendelian-randomisation",
+  "population": "1958 British Birth Cohort, Health and Retirement Study and UK Biobank (417,236 individuals) with summary data from GIANT, Global Lipids, MAGIC, ICBP, DIAGRAM and CARDIoGRAM",
+  "funder": "British Heart Foundation (D-CarDia collaboration, PG/09/023); National Health and Medical Research Council, Australia (1123603); Rank Prize Funds Nutrition Committee Travel Award; Medical Research Council (MR/S024778/1).",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing interests.",
+  "dataAccess": "unknown",
+  "result": "The T allele of the LCT variant rs4988235, which indexes higher milk intake, was associated with higher BMI and lower total, LDL and HDL cholesterol. Per T allele: coronary artery disease OR 0.86 (95% CI 0.75 to 0.99; CARDIoGRAM, 22,233 cases and 64,762 controls); type 2 diabetes OR 1.06 (0.97 to 1.16; DIAGRAM, 34,840 cases) and 0.89 (0.82 to 0.97; UK Biobank, 20,820 cases).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8310799/"
+}

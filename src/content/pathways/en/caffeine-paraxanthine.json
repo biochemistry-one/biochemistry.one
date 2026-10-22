@@ -1,0 +1,28 @@
+{
+  "title": "Caffeine breakdown through paraxanthine",
+  "layout": "chain",
+  "compartment": "Hepatocyte endoplasmic reticulum, then cytosol",
+  "steps": [
+    {
+      "from": "Caffeine (1,3,7-trimethylxanthine)",
+      "to": "Paraxanthine (1,7-dimethylxanthine)",
+      "enzyme": "Cytochrome P450 1A2 (CYP1A2), N3-demethylation",
+      "cofactors": ["O2", "NADPH via cytochrome P450 reductase"],
+      "note": "70% to 80% of a dose; CYP1A2 performs over 95% of primary metabolism"
+    },
+    {
+      "from": "Paraxanthine (1,7-dimethylxanthine)",
+      "to": "1-Methylxanthine",
+      "enzyme": "Cytochrome P450 1A2 (CYP1A2), N7-demethylation",
+      "cofactors": ["O2", "NADPH via cytochrome P450 reductase"],
+      "note": "Paraxanthine also yields 1,7-dimethyluric acid (CYP2A6) and, via NAT2, AFMU"
+    },
+    {
+      "from": "1-Methylxanthine",
+      "to": "1-Methyluric acid",
+      "enzyme": "Xanthine dehydrogenase/oxidase (XDH)",
+      "cofactors": ["Mo-molybdopterin", "FAD", "Two [2Fe-2S] clusters"],
+      "note": "Major urinary metabolite, as are paraxanthine, 1-methylxanthine and AFMU"
+    }
+  ]
+}

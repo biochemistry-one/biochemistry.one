@@ -1,0 +1,17 @@
+{
+  "title": "USDA's FoodData Central: what is it and why is it needed today?",
+  "authors": "Fukagawa NK, McKillop K, Pehrsson PR, Moshfegh A, Harnly J, Finley J",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2022,
+  "doi": "10.1093/ajcn/nqab397",
+  "pmid": "34893796",
+  "url": "https://fdc.nal.usda.gov/portal-data/external/175167",
+  "design": "database",
+  "funder": "All authors are employed by the USDA Agricultural Research Service and have not received external support in the preparation of this manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "The authors report no conflicts of interest.",
+  "dataAccess": "individual",
+  "result": "FoodData Central records read 2026-10-21, per 100 g. 'Fish, salmon, Atlantic, farmed, raw' (FDC 175167, NDB 15236): energy 208 kcal; total fat 13.4 g; 20:5 n-3 (EPA) 0.862 g, 22:5 n-3 (DPA) 0.393 g, 22:6 n-3 (DHA) 1.1 g and 18:3 n-3 (ALA) 0.148 g, each analytical with 4 data points. 'Oil, flaxseed, cold pressed' (FDC 167702, https://fdc.nal.usda.gov/portal-data/external/167702): total fat 100 g; 18:3 n-3 (ALA) 53.4 g; 18:2 n-6 14.2 g; EPA, DPA and DHA 0.0 g.",
+  "class": "reference",
+  "fundingChecked": "http://web.archive.org/web/20250804114112/https://ajcn.nutrition.org/article/S0002-9165(22)00179-4/fulltext"
+}

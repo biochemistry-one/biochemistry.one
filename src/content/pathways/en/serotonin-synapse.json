@@ -1,0 +1,58 @@
+{
+  "title": "Serotonin synthesis, release, reuptake and breakdown",
+  "layout": "chain",
+  "compartment": "Serotonergic neuron cytosol, synaptic vesicles, synaptic cleft and mitochondrial outer membrane",
+  "steps": [
+    {
+      "from": "L-Tryptophan",
+      "to": "5-Hydroxy-L-tryptophan",
+      "enzyme": "Tryptophan 5-hydroxylase 2 (TPH2)",
+      "cofactors": ["Fe2+", "O2", "Tetrahydrobiopterin to 4a-hydroxytetrahydrobiopterin"],
+      "note": "Rate-limiting step; TPH2 is the neuron-specific isoform"
+    },
+    {
+      "from": "5-Hydroxy-L-tryptophan",
+      "to": "Serotonin",
+      "enzyme": "Aromatic L-amino acid decarboxylase (DDC)",
+      "cofactors": ["Pyridoxal 5'-phosphate"],
+      "note": "Releases CO2"
+    },
+    {
+      "from": "Serotonin",
+      "to": "Vesicular serotonin",
+      "enzyme": "Vesicular monoamine transporter 2 (VMAT2, SLC18A2)",
+      "cofactors": ["2 H+ leave the vesicle per serotonin"],
+      "inhibitors": [{"name": "Reserpine"}, {"name": "Tetrabenazine"}],
+      "note": "The V-type proton ATPase builds the proton gradient"
+    },
+    {
+      "from": "Vesicular serotonin",
+      "to": "Synaptic serotonin",
+      "enzyme": "several steps",
+      "note": "Release by exocytosis"
+    },
+    {
+      "from": "Synaptic serotonin",
+      "to": "Presynaptic cytosolic serotonin",
+      "enzyme": "Serotonin transporter (SERT, SLC6A4)",
+      "cofactors": ["1 Na+ in", "1 K+ out"],
+      "inhibitors": [{"name": "Sertraline", "page": "medicines/sertraline"}],
+      "note": "The same transporter loads platelets with serotonin from plasma"
+    },
+    {
+      "from": "Presynaptic cytosolic serotonin",
+      "to": "5-Hydroxyindole-3-acetaldehyde",
+      "enzyme": "Monoamine oxidase A (MAO-A)",
+      "cofactors": ["FAD", "O2"],
+      "inhibitors": [{"name": "Monoamine oxidase inhibitors"}],
+      "note": "Mitochondrial outer membrane; also forms H2O2 and NH4+"
+    },
+    {
+      "from": "5-Hydroxyindole-3-acetaldehyde",
+      "to": "5-Hydroxyindole-3-acetic acid (5-HIAA)",
+      "enzyme": "Aldehyde dehydrogenase",
+      "cofactors": ["NAD+ to NADH"],
+      "note": "Shown experimentally for ALDH9A1"
+    }
+  ]
+}

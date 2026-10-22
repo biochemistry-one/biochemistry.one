@@ -1,0 +1,16 @@
+{
+  "title": "The 2011 report on dietary reference intakes for calcium and vitamin D from the Institute of Medicine: what clinicians need to know",
+  "authors": "Ross AC, Manson JE, Abrams SA, Aloia JF, Brannon PM, Clinton SK, et al.",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2011,
+  "doi": "10.1210/jc.2010-2704",
+  "pmid": "21118827",
+  "design": "guideline",
+  "funder": "Institute of Medicine committee assembled at the request of agencies of the US and Canadian governments.",
+  "funderRole": "none",
+  "authorConflicts": "None of the authors have conflicts of interest or other disclosures relevant to this publication.",
+  "dataAccess": "summary",
+  "result": "Recommended Dietary Allowance of vitamin D 600 IU per day for ages 1 to 70 years and 800 IU per day from 71 years, corresponding to serum 25-hydroxyvitamin D of at least 20 ng/ml (50 nmol/l); tolerable upper intake level 4000 IU per day from 9 years. Evidence on cancer, cardiovascular disease, diabetes and autoimmune disorders was judged inconsistent, inconclusive as to causality and insufficient to set requirements.",
+  "class": "consensus",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3046611/"
+}

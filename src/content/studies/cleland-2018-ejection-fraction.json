@@ -1,0 +1,20 @@
+{
+  "title": "Beta-blockers for heart failure with reduced, mid-range, and preserved ejection fraction: an individual patient-level analysis of double-blind randomized trials",
+  "authors": "Cleland JGF, Bunting KV, Flather MD, Altman DG, Holmes J, Coats AJS, et al.; Beta-blockers in Heart Failure Collaborative Group",
+  "journal": "European Heart Journal",
+  "year": 2018,
+  "doi": "10.1093/eurheartj/ehx564",
+  "pmid": "29040525",
+  "registry": "NCT0083244; PROSPERO CRD42014010012",
+  "design": "meta-analysis",
+  "participants": 17312,
+  "followUp": "median 1.3 years",
+  "population": "Individual patient data on 18,637 patients from 11 double-blind placebo-controlled trials of beta-blockers in heart failure, stratified by baseline ejection fraction and rhythm after exclusion of missing electrocardiogram or ejection fraction, heart block and paced rhythm: 14,262 patients in sinus rhythm (median ejection fraction 27%, 575 with 40% to 49% and 244 with 50% or more) and 3050 in atrial fibrillation",
+  "funder": "Menarini Farmaceutica Internazionale provided an unrestricted research grant for administrative costs; GlaxoSmithKline provided data extraction support; IRCCS San Raffaele provided a collaborative research grant. One author is funded through a National Institute for Health Research Career Development Fellowship (CDF-2015-08-074) that also supports a second author. The acknowledgements thank AstraZeneca, GlaxoSmithKline, Menarini Farmaceutica and Merck Serono for full access to trial data, and BEST data came through the NHLBI BioLINCC programme.",
+  "funderRole": "analysis",
+  "authorConflicts": "Several authors report fees or grants from Amgen, Novartis, AstraZeneca and other companies; listed in the paper.",
+  "dataAccess": "individual",
+  "result": "In sinus rhythm, all-cause mortality hazard ratios with beta-blockers against placebo were 0.70 (95% CI 0.60 to 0.83) at ejection fraction below 20% (623 deaths among 2531), 0.76 (0.65 to 0.89) at 20% to 25%, 0.75 (0.64 to 0.88) at 26% to 34%, 0.67 (0.50 to 0.90) at 35% to 39%, 0.59 (0.34 to 1.03) at 40% to 49% (21 of 292 against 35 of 283 died; cardiovascular death 13 of 292 against 26 of 283, hazard ratio 0.48, 0.24 to 0.97) and 1.79 (0.78 to 4.10) at 50% or more (24 deaths among 241). In atrial fibrillation, beta-blockers raised ejection fraction when below 50% but did not improve prognosis: all-cause mortality hazard ratios 1.23 (0.88 to 1.74) below 20%, 0.74 (0.54 to 1.02) at 20% to 25%, 0.98 (0.74 to 1.29) at 26% to 34%, 0.92 (0.53 to 1.58) at 35% to 39% and 1.30 (0.63 to 2.67) at 40% to 49%.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5837435/"
+}

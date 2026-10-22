@@ -1,0 +1,17 @@
+{
+  "title": "Lifestyle intervention in gastroesophageal reflux disease",
+  "authors": "Ness-Jensen E, Hveem K, El-Serag H, Lagergren J",
+  "journal": "Clinical Gastroenterology and Hepatology",
+  "year": 2016,
+  "doi": "10.1016/j.cgh.2015.04.176",
+  "pmid": "25956834",
+  "design": "systematic-review",
+  "population": "Meta-analyses, systematic reviews, randomised trials and prospective observational studies of lifestyle interventions in GERD, searched to 1 October 2014",
+  "funder": "ENJ is supported by the Norwegian and Swedish Research Councils. KH has no grant support covering his wages. HES is supported by NIH K24 DK04-107 and the Houston VA Health Services Research and Development Center of Excellence (HFP90-020). JL is supported by grants from the Swedish Research Council.",
+  "funderRole": "unknown",
+  "authorConflicts": "No relevant conflicts of interest exist.",
+  "dataAccess": "summary",
+  "result": "Weight loss: three randomised trials of gastric balloon against sham in severely obese people, with diet, exercise and behavioural therapy in both arms, reported reduced oesophageal acid exposure with weight loss (in one, 23 patients losing a mean 11.2 kg in 13 weeks went from 5.60% to 3.72% of time at pH < 4; in another, 17 sham-treated patients losing 12.5 kg went from 8.0% to 5.5% upright); in a trial of a structured weight-loss programme (n = 167) against telephone conferences (n = 165), reflux symptom prevalence fell from 37% to 15% after 6 months irrespective of group. A small randomised trial in obese patients with GERD (mean BMI 31.4), low-calorie diet of 430 kcal/day for 6 months (n = 10) against none (n = 9), found that a mean weight loss of 10.8 kg had no significant effect on symptoms, oesophagitis or pH measurements. Meal timing: crossover trial of 30 patients, late meal 2 hours before bedtime against early meal 6 hours before, more supine reflux after the late meal (mean change 5.2 percentage points). Head of bed: crossover trial of 15 patients, 10-inch wedge reduced time at pH < 4 from 21% to 15%. Smoking cessation reduced reflux symptoms in normal-weight people in a prospective cohort (OR 5.67). The authors note extensive data on acid-inhibiting medication against only few and heterogeneous trials of lifestyle intervention, consider commercial interests probably the main reason for this imbalance, and call for non-commercial funding of such trials.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4636482/fullTextXML"
+}

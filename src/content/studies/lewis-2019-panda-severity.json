@@ -1,0 +1,20 @@
+{
+  "title": "The clinical effectiveness of sertraline in primary care and the role of depression severity and duration (PANDA): a pragmatic, double-blind, placebo-controlled randomised trial",
+  "authors": "Lewis G, Duffy L, Ades A, Amos R, Araya R, Brabyn S, et al.",
+  "journal": "Lancet Psychiatry",
+  "year": 2019,
+  "doi": "10.1016/S2215-0366(19)30366-9",
+  "pmid": "31543474",
+  "registry": "ISRCTN84544741",
+  "design": "rct",
+  "participants": 655,
+  "followUp": "12 weeks; primary outcome at 6 weeks",
+  "population": "Adults aged 18 to 74 years with depressive symptoms of any severity or duration in the past 2 years and clinical uncertainty about the benefit of an antidepressant, from 179 general practices in Bristol, Liverpool, London and York",
+  "funder": "Part of an NIHR research programme (RP-PG-0610-10048). The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "CDo reported grants from Pfizer Independent Grants for Learning and Change outside the submitted work; GlL reported personal fees from Fortitude Law outside the submitted work; NJW was principal investigator on a methodological grant part-funded by Pfizer; several authors reported NIHR grants.",
+  "dataAccess": "individual",
+  "result": "The trial found no evidence that baseline severity or duration of depressive or anxiety symptoms modified the response to sertraline, although interaction analyses lacked statistical power, which led the authors to change the primary aim before analysis. Serious adverse events were collected by open-ended questions: seven adverse events, four on sertraline and three on placebo; three serious, two on sertraline (one possibly related) and one on placebo; physical symptom counts did not differ.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7029306"
+}

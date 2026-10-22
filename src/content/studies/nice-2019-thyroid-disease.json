@@ -1,0 +1,14 @@
+{
+  "title": "Thyroid disease: assessment and management",
+  "authors": "National Institute for Health and Care Excellence",
+  "journal": "National Institute for Health and Care Excellence, NICE guideline NG145, published 20 November 2019, last updated 12 October 2023",
+  "year": 2019,
+  "url": "https://www.nice.org.uk/guidance/ng145",
+  "design": "guideline",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Offer levothyroxine first-line for primary hypothyroidism; do not routinely offer liothyronine alone or with levothyroxine, because there is not enough evidence of benefit over monotherapy and its long-term adverse effects are uncertain; do not offer natural thyroid extract. Start 1.6 µg/kg/day under 65 without cardiovascular disease, 25 to 50 µg/day with titration at 65 or over or with cardiovascular disease; aim for TSH within the reference range and avoid doses causing TSH suppression or thyrotoxicosis. In subclinical hypothyroidism consider levothyroxine when TSH is 10 mIU/l or higher on 2 occasions 3 months apart, and a 6-month trial for adults under 65 with TSH above the reference range but below 10 on 2 occasions and symptoms, stopping if symptoms persist once TSH is in range. The rationale states that there was little evidence on treating subclinical hypothyroidism, mostly in older adults; that TSH 5 to 10 mIU/l may return to the reference range without treatment in about half of people; that for TSH below 10 the committee judged, based on its experience, the balance most favourable under 65; and that over 65 improvement is less likely and harms from TSH suppression, such as atrial fibrillation, greater. Evidence from 7 trials suggested no important benefit of levothyroxine with liothyronine.",
+  "class": "consensus",
+  "fundingChecked": "https://www.nice.org.uk/guidance/ng145/chapter/Finding-more-information-and-committee-details"
+}

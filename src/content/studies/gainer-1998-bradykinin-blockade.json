@@ -1,0 +1,18 @@
+{
+  "title": "Effect of bradykinin-receptor blockade on the response to angiotensin-converting-enzyme inhibitor in normotensive and hypertensive subjects",
+  "authors": "Gainer JV, Morrow JD, Loveland A, King DJ, Brown NJ",
+  "journal": "New England Journal of Medicine",
+  "year": 1998,
+  "doi": "10.1056/NEJM199810293391804",
+  "pmid": "9791144",
+  "design": "mechanistic",
+  "participants": 27,
+  "followUp": "four single-dose study days",
+  "population": "20 normotensive and 7 hypertensive subjects, salt depleted on 10 mmol sodium per day",
+  "funder": "not read: the publisher page is not accessible and the PubMed abstract carries no funding statement. PubMed lists NIH grants GM07569, HL56963 and RR00095.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Single-blind randomised crossover of captopril 25 mg, captopril with the bradykinin B2 receptor antagonist icatibant (100 µg/kg), losartan 75 mg and placebo. Icatibant attenuated the maximal fall in mean arterial pressure with captopril from 14.0 to 10.5 mm Hg (P=0.001), to a value similar to losartan (11.0 mm Hg), and altered the change in plasma renin activity with captopril (-0.4 against +2.0 ng angiotensin I/ml/h with captopril alone, P=0.007), without altering the renal haemodynamic response; effects were similar in normotensive and hypertensive and in Black and white subjects. The authors conclude that bradykinin contributes to the short-term blood-pressure effect of ACE inhibition.",
+  "class": "undetermined",
+  "fundingChecked": "https://doi.org/10.1056/NEJM199810293391804"
+}

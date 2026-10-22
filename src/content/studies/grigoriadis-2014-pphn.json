@@ -1,0 +1,17 @@
+{
+  "title": "Prenatal exposure to antidepressants and persistent pulmonary hypertension of the newborn: systematic review and meta-analysis",
+  "authors": "Grigoriadis S, Vonderporten EH, Mamisashvili L, Tomlinson G, Dennis CL, Koren G, et al.",
+  "journal": "BMJ",
+  "year": 2014,
+  "doi": "10.1136/bmj.f6932",
+  "pmid": "24429387",
+  "design": "meta-analysis",
+  "population": "Seven observational studies of antidepressant exposure in pregnancy and persistent pulmonary hypertension of the newborn; quantitative analysis possible only for SSRIs",
+  "funder": "This study was funded by a research syntheses grant from the Canadian Institutes of Health Research (KRS-83127) and the Ontario Ministry of Health and Long-Term Care through the Drug Innovation Fund (grant No 2008-005). The funding sources had no role in the study design; collection, analysis, or interpretation of results; writing of the manuscript; or submission of the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "SG reported honoraria from Servier and Lundbeck outside the work; MS reported grants from Pfizer and Eli Lilly and grants and fees from Lundbeck and others outside the work.",
+  "dataAccess": "summary",
+  "result": "SSRI exposure in early pregnancy was not associated with persistent pulmonary hypertension of the newborn (OR 1.23, 95% CI 0.58 to 2.60); exposure in late pregnancy was (OR 2.50, 1.32 to 4.73). Absolute risk difference 2.9 to 3.5 per 1000 infants; 286 to 351 women treated with an SSRI in late pregnancy for one additional case.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3898424"
+}

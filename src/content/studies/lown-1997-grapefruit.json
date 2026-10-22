@@ -1,0 +1,19 @@
+{
+  "title": "Grapefruit juice increases felodipine oral availability in humans by decreasing intestinal CYP3A protein expression",
+  "authors": "Lown KS, Bailey DG, Fontana RJ, Janardan SK, Adair CH, Fortlage LA, et al.",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1997,
+  "doi": "10.1172/JCI119439",
+  "pmid": "9153299",
+  "design": "mechanistic",
+  "participants": 15,
+  "population": "15 healthy men aged 18 to 65 years taking no medication; 10 in the 12-day inpatient protocol with endoscopic biopsies and felodipine kinetics, 5 in an outpatient protocol",
+  "funder": "This study was supported by NIH grants GM38149-11 (P.B. Watkins), GM53095-01 (K.S. Lown), MO1 RR00042 (University of Michigan General Clinical Research Center), and by a grant from the Medical Research Council of Canada (MA-11584).",
+  "funderRole": "none",
+  "inKindSupport": "Antibodies to CYP3A4 and CYP3A5 were gifts from a scientist at Eli Lilly and the antibody to CYP2D6 from a scientist at Merck Research Laboratories.",
+  "authorConflicts": "Not stated.",
+  "dataAccess": "summary",
+  "result": "Ten inpatients drank 8 oz of grapefruit juice three times daily for 6 days. Enterocyte CYP3A4 protein fell by 62% (P = 0.0006) with no change in CYP3A4 mRNA, in hepatic CYP3A4 activity measured by the erythromycin breath test, in colonic CYP3A5 or in small-bowel P-glycoprotein, villin, CYP1A1 and CYP2D6. With the first glass, mean felodipine peak concentration rose from 5.5 ± 3.4 to 17.9 ± 3.3 nmol/l (an increase of 225%, P = 0.0001) and mean area under the curve over 12 hours from 35.3 ± 21.6 to 76.4 ± 15.6 nmol·h/l (an increase of 116%, P = 0.0001). With the 16th glass these values were 34% and 44% higher again. The increase ranged from 64% to 597% for the peak and from 4% to 368% for the area under the curve across the 10 subjects. Enterocyte CYP3A4 measured before the juice correlated with the rise in peak concentration (r = 0.67, P = 0.043).",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/119439/files/pdf"
+}

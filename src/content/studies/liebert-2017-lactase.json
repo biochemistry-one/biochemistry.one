@@ -1,0 +1,16 @@
+{
+  "title": "World-wide distributions of lactase persistence alleles and the complex effects of recombination and selection",
+  "authors": "Liebert A, López S, Jones BL, Montalva N, Gerbault P, Lau W, et al.",
+  "journal": "Human Genetics",
+  "year": 2017,
+  "doi": "10.1007/s00439-017-1847-y",
+  "pmid": "29063188",
+  "design": "genetic",
+  "funder": "EU Marie Curie ITN FP7 Framework Programme grant LeCHE (215362-2); Bicentennial Becas-Chile Scholarship, Chilean National Commission for Scientific and Technological Research (CONICYT); Annals of Human Genetics; MRC-DTA studentship.",
+  "funderRole": "none",
+  "authorConflicts": "No conflict of interest stated by the corresponding author on behalf of all authors.",
+  "dataAccess": "summary",
+  "result": "Lactase persistence is associated with at least five independent functional single nucleotide variants in a transcriptional enhancer about 14 kb upstream of LCT: -13910*T (rs4988235), -13907*G (rs41525747), -13915*G (rs41380347), -14009*G (rs869051967) and -14010*C (rs145946881). -13910*T has almost reached fixation in some parts of Europe; the others occur at variable frequencies in the Middle East and Africa.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5702378/"
+}

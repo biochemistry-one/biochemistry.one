@@ -1,0 +1,17 @@
+{
+  "title": "Cognitive behavior therapy vs. control conditions, other psychotherapies, pharmacotherapies and combined treatment for depression: a comprehensive meta-analysis including 409 trials with 52,702 patients",
+  "authors": "Cuijpers P, Miguel C, Harrer M, Plessen CY, Ciharova M, Ebert D, et al.",
+  "journal": "World Psychiatry",
+  "year": 2023,
+  "doi": "10.1002/wps.21069",
+  "pmid": "36640411",
+  "design": "meta-analysis",
+  "participants": 52702,
+  "population": "409 randomised trials (518 comparisons) of cognitive behavioural therapy for depression",
+  "funder": "not stated: the article text read in PubMed Central carries no funding statement; the acknowledgements refer only to supplementary information at osf.io.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "CBT against care as usual or waitlist g=0.79 (95% CI 0.70 to 0.89). Against pharmacotherapies, no significant difference in the short term, and larger effects for CBT at 6 to 12 months (g=0.34, 0.09 to 0.58), from a small number of trials and not significant in all sensitivity analyses. Combined treatment exceeded pharmacotherapy alone in the short term (g=0.51) and long term (g=0.32) but not CBT alone.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9840507/"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Use of food ingredients and sources of radiation, and certain other permitted uses, 9 CFR 424.21 and 424.22",
+  "authors": "US Department of Agriculture, Food Safety and Inspection Service",
+  "journal": "Code of Federal Regulations, title 9, part 424, read in the electronic Code of Federal Regulations, up to date as of 20 October 2026",
+  "year": 2026,
+  "url": "https://www.ecfr.gov/current/title-9/chapter-III/subchapter-E/part-424",
+  "design": "regulatory",
+  "funder": "US Department of Agriculture, Food Safety and Inspection Service; the text is federal regulation codified by the Office of the Federal Register.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Section 424.21(c), curing agents: sodium or potassium nitrite, to fix colour, in cured meat and poultry products; nitrites may not be used in baby, junior or toddler foods; the use of nitrites, nitrates or a combination shall not result in more than 200 ppm of nitrite, calculated as sodium nitrite, in the finished product, except that nitrites may be used in bacon only in accordance with section 424.22(b). Sodium ascorbate and sodium erythorbate are listed to accelerate colour fixing or preserve colour during storage. Section 424.22(b): in pumped and massaged bacon, sodium nitrite shall be used at 120 ppm ingoing with 550 ppm of sodium ascorbate or sodium erythorbate, or at 100 ppm, or at 40 to 80 ppm with added fermentable carbohydrate and lactic acid bacteria, each with 550 ppm sodium ascorbate or erythorbate; immersion-cured bacon at most 120 ppm ingoing; dry-cured bacon at most 200 ppm ingoing.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-20/title-9.xml?part=424&section=424.22"
+}

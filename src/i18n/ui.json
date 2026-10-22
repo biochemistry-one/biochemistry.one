@@ -1,0 +1,289 @@
+{
+  "en": {
+    "heroTitle": "How your body works",
+    "heroLede": "Follow a cup of coffee, a slice of bread or a tablet into your cells, and see who paid for every study behind each fact.",
+    "heroStart": "Start with something familiar",
+    "heroMap": "Explore the map",
+    "journeysTitle": "Start with something familiar",
+    "journeysLede": "Each everyday thing below opens a short route through the molecules it meets.",
+    "journeys": {
+      "coffee": ["Your morning coffee", "Caffeine is cleared by the liver enzyme CYP1A2, at a speed set partly by your genes."],
+      "bread": ["A slice of bread", "Starch becomes glucose, and glucose becomes the ATP that every cell spends."],
+      "statin": ["A statin tablet", "One enzyme in the liver slows, and the liver takes more LDL cholesterol out of the blood."],
+      "wine": ["A glass of wine", "Ethanol becomes acetaldehyde, and a common ALDH2 variant explains why some faces flush."],
+      "egg": ["An egg", "Cholesterol from food meets the cholesterol the liver makes, and people balance the two differently."],
+      "drink": ["A sugar-free drink", "Some sweeteners pass through the body unchanged; others are split into familiar molecules."]
+    },
+    "mapTitle": "The map of your metabolism",
+    "mapLede": "The central chemistry of a human cell on one chart. Point at a pathway to name it; select it to open its chapter.",
+    "mapReadout": "Point at a pathway to see its name. Double arrows mark reversible steps; dotted arrows mark the steps that run backwards when the liver makes glucose.",
+    "legend": ["Sugars", "Fats and cholesterol", "Energy", "Amino acids", "Folate and B12", "Alcohol", "Where a medicine acts"],
+    "sectionText": {
+      "metabolism": "How the body turns food into energy, building blocks and signals.",
+      "medicines": "The most prescribed medicines in the United States and England, and what they change inside you.",
+      "foods": "What common foods are made of, and what studies not paid for by the food industry show.",
+      "additives": "The additives found in the most food products, plus sweeteners and emulsifiers.",
+      "method": "How every source on this site is classed by who paid for it."
+    },
+    "pages": "pages",
+    "keyTitle": "Who paid for the study",
+    "keyText": {
+      "independent": "Public or charitable money, no industry role",
+      "industry": "Any industry money, or a role in design, analysis or publication",
+      "regulatory": "FDA, EMA, EFSA and similar bodies",
+      "consensus": "Guidelines and expert panels",
+      "reference": "Textbooks and curated databases",
+      "undetermined": "No funding statement could be read"
+    },
+    "layerKeyTitle": "Where a statement sits",
+    "layerKey": ["Main text: independent findings", "Industry-funded results", "Consensus statements", "Unresolved questions"],
+    "details": "Funding and finding",
+    "inEnglish": "Available in English"
+  },
+  "ru": {
+    "heroTitle": "Как устроен ваш организм",
+    "heroLede": "Проследите путь чашки кофе, ломтика хлеба или таблетки до ваших клеток и узнайте, кто оплатил каждое исследование, на котором основан каждый факт.",
+    "heroStart": "Начать с привычного",
+    "heroMap": "Открыть карту",
+    "journeysTitle": "Начните с привычного",
+    "journeysLede": "Каждая привычная вещь ведёт по короткому маршруту через молекулы, с которыми она встречается.",
+    "journeys": {
+      "coffee": ["Утренний кофе", "Кофеин выводит фермент печени CYP1A2, и скорость отчасти задают ваши гены."],
+      "bread": ["Ломтик хлеба", "Крахмал превращается в глюкозу, а глюкоза — в АТФ, который расходует каждая клетка."],
+      "statin": ["Таблетка статина", "Один фермент печени замедляется, и печень забирает из крови больше холестерина ЛПНП."],
+      "wine": ["Бокал вина", "Этанол превращается в ацетальдегид, а распространённый вариант ALDH2 объясняет, почему у некоторых краснеет лицо."],
+      "egg": ["Яйцо", "Холестерин из пищи встречается с холестерином, который синтезирует печень, и у разных людей баланс разный."],
+      "drink": ["Напиток без сахара", "Одни подсластители проходят через организм без изменений, другие расщепляются на знакомые молекулы."]
+    },
+    "mapTitle": "Карта вашего метаболизма",
+    "mapLede": "Центральная химия клетки человека на одной схеме. Наведите на путь, чтобы увидеть его название; выберите его, чтобы открыть главу.",
+    "mapReadout": "Наведите на путь, чтобы увидеть его название. Двойные стрелки обозначают обратимые реакции, пунктирные — реакции, идущие в обратную сторону, когда печень синтезирует глюкозу.",
+    "legend": ["Сахара", "Жиры и холестерин", "Энергия", "Аминокислоты", "Фолаты и B12", "Алкоголь", "Где действует лекарство"],
+    "sectionText": {
+      "metabolism": "Как организм превращает пищу в энергию, строительные блоки и сигналы.",
+      "medicines": "Самые назначаемые лекарства в США и Англии и то, что они меняют внутри вас.",
+      "foods": "Из чего состоят привычные продукты и что показывают исследования, не оплаченные пищевой промышленностью.",
+      "additives": "Добавки, которые встречаются в наибольшем числе продуктов, а также подсластители и эмульгаторы.",
+      "method": "Как каждый источник на сайте классифицирован по тому, кто его оплатил."
+    },
+    "pages": "страниц",
+    "keyTitle": "Кто оплатил исследование",
+    "keyText": {
+      "independent": "Государственные или благотворительные средства, без участия индустрии",
+      "industry": "Любые средства индустрии или её участие в дизайне, анализе или публикации",
+      "regulatory": "FDA, EMA, EFSA и аналогичные органы",
+      "consensus": "Клинические рекомендации и экспертные группы",
+      "reference": "Учебники и курируемые базы данных",
+      "undetermined": "Сведения о финансировании найти не удалось"
+    },
+    "layerKeyTitle": "Где находится утверждение",
+    "layerKey": ["Основной текст: независимые данные", "Результаты исследований индустрии", "Консенсусные заявления", "Нерешённые вопросы"],
+    "details": "Финансирование и результат",
+    "inEnglish": "Доступно на английском"
+  },
+  "ja": {
+    "heroTitle": "からだのしくみ",
+    "heroLede": "一杯のコーヒー、一切れのパン、一錠の薬が細胞に届くまでをたどり、それぞれの事実を支える研究の資金提供者を確かめましょう。",
+    "heroStart": "身近なものから始める",
+    "heroMap": "マップを見る",
+    "journeysTitle": "身近なものから始める",
+    "journeysLede": "日常のものから、それが出会う分子をたどる短い道筋が始まります。",
+    "journeys": {
+      "coffee": ["朝のコーヒー", "カフェインは肝臓の酵素CYP1A2によって処理され、その速さは遺伝子によっても決まります。"],
+      "bread": ["一切れのパン", "デンプンはグルコースになり、グルコースはすべての細胞が使うATPになります。"],
+      "statin": ["スタチンの錠剤", "肝臓の一つの酵素の働きが弱まり、肝臓は血液中のLDLコレステロールをより多く取り込みます。"],
+      "wine": ["一杯のワイン", "エタノールはアセトアルデヒドになり、よくあるALDH2の変異が顔の赤くなる理由を説明します。"],
+      "egg": ["卵", "食事のコレステロールは肝臓が作るコレステロールと出会い、その釣り合いは人によって異なります。"],
+      "drink": ["無糖の飲み物", "甘味料には体を素通りするものと、なじみのある分子に分解されるものがあります。"]
+    },
+    "mapTitle": "代謝のマップ",
+    "mapLede": "ヒト細胞の中心的な化学を一枚の図に。経路を指すと名前が表示され、選ぶとその章が開きます。",
+    "mapReadout": "経路を指すと名前が表示されます。双方向の矢印は可逆反応、点線の矢印は肝臓がグルコースを作るときに逆向きに進む段階を示します。",
+    "legend": ["糖", "脂質とコレステロール", "エネルギー", "アミノ酸", "葉酸とB12", "アルコール", "薬が作用する場所"],
+    "sectionText": {
+      "metabolism": "からだが食べ物をエネルギー、構成成分、シグナルに変えるしくみ。",
+      "medicines": "米国と英国で最も多く処方される薬と、それがからだの中で変えること。",
+      "foods": "身近な食品の成分と、食品業界の資金によらない研究が示すこと。",
+      "additives": "最も多くの食品に含まれる添加物と、甘味料と乳化剤。",
+      "method": "このサイトのすべての情報源を、資金提供者によって分類する方法。"
+    },
+    "pages": "ページ",
+    "keyTitle": "研究の資金提供者",
+    "keyText": {
+      "independent": "公的資金または慈善資金、企業の関与なし",
+      "industry": "企業の資金、または設計・解析・発表への企業の関与",
+      "regulatory": "FDA、EMA、EFSAなどの規制機関",
+      "consensus": "診療ガイドラインと専門家パネル",
+      "reference": "教科書と精選されたデータベース",
+      "undetermined": "資金に関する記載が確認できない"
+    },
+    "layerKeyTitle": "記述の位置づけ",
+    "layerKey": ["本文：独立研究の知見", "企業資金による研究の結果", "コンセンサス声明", "未解決の問題"],
+    "details": "資金と結果",
+    "inEnglish": "英語で読めるページ"
+  },
+  "zh": {
+    "heroTitle": "人体如何运作",
+    "heroLede": "跟随一杯咖啡、一片面包或一片药进入你的细胞，并了解每一项事实背后的研究由谁资助。",
+    "heroStart": "从熟悉的事物开始",
+    "heroMap": "浏览代谢图",
+    "journeysTitle": "从熟悉的事物开始",
+    "journeysLede": "下面每一样日常事物，都会带你走过它所遇到的分子。",
+    "journeys": {
+      "coffee": ["早晨的咖啡", "咖啡因由肝脏中的CYP1A2酶清除，清除速度部分取决于你的基因。"],
+      "bread": ["一片面包", "淀粉变成葡萄糖，葡萄糖再变成每个细胞都要消耗的ATP。"],
+      "statin": ["一片他汀类药物", "肝脏中的一种酶减慢，肝脏便从血液中摄取更多低密度脂蛋白胆固醇。"],
+      "wine": ["一杯葡萄酒", "乙醇转化为乙醛，一种常见的ALDH2变异解释了为什么有些人会脸红。"],
+      "egg": ["一个鸡蛋", "食物中的胆固醇与肝脏合成的胆固醇相遇，不同的人平衡方式不同。"],
+      "drink": ["无糖饮料", "有些甜味剂不经改变就通过人体，另一些则被分解成常见的分子。"]
+    },
+    "mapTitle": "人体代谢图",
+    "mapLede": "把人体细胞的核心化学画在一张图上。指向一条通路即可看到名称，选择它即可打开相应章节。",
+    "mapReadout": "指向一条通路即可看到名称。双向箭头表示可逆反应，虚线箭头表示肝脏合成葡萄糖时逆向进行的步骤。",
+    "legend": ["糖类", "脂肪与胆固醇", "能量", "氨基酸", "叶酸与B12", "酒精", "药物作用部位"],
+    "sectionText": {
+      "metabolism": "人体如何把食物转化为能量、构成材料和信号。",
+      "medicines": "美国和英格兰处方量最大的药物，以及它们在你体内改变了什么。",
+      "foods": "常见食物的成分，以及不受食品行业资助的研究显示了什么。",
+      "additives": "出现在最多食品中的添加剂，以及甜味剂和乳化剂。",
+      "method": "本站如何按资助方对每一项来源进行分类。"
+    },
+    "pages": "页",
+    "keyTitle": "研究由谁资助",
+    "keyText": {
+      "independent": "公共或慈善资金，无企业参与",
+      "industry": "任何企业资金，或企业参与设计、分析或发表",
+      "regulatory": "FDA、EMA、EFSA等监管机构",
+      "consensus": "临床指南与专家小组",
+      "reference": "教科书与经审校的数据库",
+      "undetermined": "无法查到资助声明"
+    },
+    "layerKeyTitle": "陈述所在的层级",
+    "layerKey": ["正文：独立研究的发现", "企业资助研究的结果", "共识声明", "尚未解决的问题"],
+    "details": "资助与结果",
+    "inEnglish": "英文页面"
+  },
+  "de": {
+    "heroTitle": "Wie Ihr Körper funktioniert",
+    "heroLede": "Folgen Sie einer Tasse Kaffee, einer Scheibe Brot oder einer Tablette bis in Ihre Zellen, und sehen Sie, wer jede Studie hinter jeder Aussage bezahlt hat.",
+    "heroStart": "Mit Vertrautem beginnen",
+    "heroMap": "Karte erkunden",
+    "journeysTitle": "Mit Vertrautem beginnen",
+    "journeysLede": "Jedes Alltagsding führt auf einem kurzen Weg durch die Moleküle, denen es begegnet.",
+    "journeys": {
+      "coffee": ["Der Morgenkaffee", "Koffein wird vom Leberenzym CYP1A2 abgebaut, und die Geschwindigkeit hängt auch von Ihren Genen ab."],
+      "bread": ["Eine Scheibe Brot", "Stärke wird zu Glukose, und Glukose wird zum ATP, das jede Zelle verbraucht."],
+      "statin": ["Eine Statintablette", "Ein Enzym der Leber arbeitet langsamer, und die Leber nimmt mehr LDL-Cholesterin aus dem Blut auf."],
+      "wine": ["Ein Glas Wein", "Ethanol wird zu Acetaldehyd, und eine häufige ALDH2-Variante erklärt, warum manche Gesichter rot werden."],
+      "egg": ["Ein Ei", "Cholesterin aus der Nahrung trifft auf das Cholesterin der Leber, und jeder Mensch gleicht beides anders aus."],
+      "drink": ["Ein zuckerfreies Getränk", "Manche Süßstoffe passieren den Körper unverändert, andere werden in vertraute Moleküle zerlegt."]
+    },
+    "mapTitle": "Die Karte Ihres Stoffwechsels",
+    "mapLede": "Die zentrale Chemie einer menschlichen Zelle auf einer Karte. Zeigen Sie auf einen Weg, um seinen Namen zu sehen; wählen Sie ihn, um sein Kapitel zu öffnen.",
+    "mapReadout": "Zeigen Sie auf einen Weg, um seinen Namen zu sehen. Doppelpfeile markieren umkehrbare Schritte, gepunktete Pfeile die Schritte, die rückwärts laufen, wenn die Leber Glukose bildet.",
+    "legend": ["Zucker", "Fette und Cholesterin", "Energie", "Aminosäuren", "Folat und B12", "Alkohol", "Wo ein Arzneimittel wirkt"],
+    "sectionText": {
+      "metabolism": "Wie der Körper Nahrung in Energie, Bausteine und Signale umwandelt.",
+      "medicines": "Die am häufigsten verordneten Arzneimittel in den USA und England und was sie in Ihnen verändern.",
+      "foods": "Woraus gängige Lebensmittel bestehen und was Studien zeigen, die nicht von der Lebensmittelindustrie bezahlt wurden.",
+      "additives": "Die Zusatzstoffe, die in den meisten Lebensmitteln vorkommen, dazu Süßstoffe und Emulgatoren.",
+      "method": "Wie jede Quelle dieser Website danach eingeordnet wird, wer sie bezahlt hat."
+    },
+    "pages": "Seiten",
+    "keyTitle": "Wer die Studie bezahlt hat",
+    "keyText": {
+      "independent": "Öffentliche oder gemeinnützige Mittel, keine Rolle der Industrie",
+      "industry": "Industriegeld oder eine Rolle bei Planung, Auswertung oder Veröffentlichung",
+      "regulatory": "FDA, EMA, EFSA und vergleichbare Behörden",
+      "consensus": "Leitlinien und Expertengremien",
+      "reference": "Lehrbücher und kuratierte Datenbanken",
+      "undetermined": "Keine Angabe zur Finanzierung auffindbar"
+    },
+    "layerKeyTitle": "Wo eine Aussage steht",
+    "layerKey": ["Haupttext: unabhängige Ergebnisse", "Ergebnisse industriefinanzierter Studien", "Konsenserklärungen", "Offene Fragen"],
+    "details": "Finanzierung und Ergebnis",
+    "inEnglish": "Auf Englisch verfügbar"
+  },
+  "es": {
+    "heroTitle": "Cómo funciona tu cuerpo",
+    "heroLede": "Sigue una taza de café, una rebanada de pan o una pastilla hasta tus células, y mira quién pagó cada estudio detrás de cada dato.",
+    "heroStart": "Empezar por algo cotidiano",
+    "heroMap": "Explorar el mapa",
+    "journeysTitle": "Empieza por algo cotidiano",
+    "journeysLede": "Cada objeto cotidiano abre un recorrido breve por las moléculas con las que se encuentra.",
+    "journeys": {
+      "coffee": ["El café de la mañana", "La cafeína la elimina la enzima hepática CYP1A2, a una velocidad que depende en parte de tus genes."],
+      "bread": ["Una rebanada de pan", "El almidón se convierte en glucosa, y la glucosa en el ATP que gasta cada célula."],
+      "statin": ["Una pastilla de estatina", "Una enzima del hígado se frena, y el hígado retira de la sangre más colesterol LDL."],
+      "wine": ["Una copa de vino", "El etanol se convierte en acetaldehído, y una variante común de ALDH2 explica por qué algunas caras se enrojecen."],
+      "egg": ["Un huevo", "El colesterol de los alimentos se suma al que fabrica el hígado, y cada persona equilibra ambos de forma distinta."],
+      "drink": ["Una bebida sin azúcar", "Algunos edulcorantes atraviesan el cuerpo sin cambios; otros se descomponen en moléculas conocidas."]
+    },
+    "mapTitle": "El mapa de tu metabolismo",
+    "mapLede": "La química central de una célula humana en un solo mapa. Señala una vía para ver su nombre; selecciónala para abrir su capítulo.",
+    "mapReadout": "Señala una vía para ver su nombre. Las flechas dobles marcan pasos reversibles; las punteadas, los pasos que van en sentido inverso cuando el hígado fabrica glucosa.",
+    "legend": ["Azúcares", "Grasas y colesterol", "Energía", "Aminoácidos", "Folato y B12", "Alcohol", "Dónde actúa un medicamento"],
+    "sectionText": {
+      "metabolism": "Cómo el cuerpo convierte los alimentos en energía, componentes y señales.",
+      "medicines": "Los medicamentos más recetados en Estados Unidos e Inglaterra, y lo que cambian en tu interior.",
+      "foods": "De qué están hechos los alimentos comunes y qué muestran los estudios no pagados por la industria alimentaria.",
+      "additives": "Los aditivos presentes en más productos, además de edulcorantes y emulsionantes.",
+      "method": "Cómo se clasifica cada fuente de este sitio según quién la pagó."
+    },
+    "pages": "páginas",
+    "keyTitle": "Quién pagó el estudio",
+    "keyText": {
+      "independent": "Dinero público o benéfico, sin papel de la industria",
+      "industry": "Dinero de la industria o un papel en el diseño, el análisis o la publicación",
+      "regulatory": "FDA, EMA, EFSA y organismos similares",
+      "consensus": "Guías clínicas y paneles de expertos",
+      "reference": "Libros de texto y bases de datos revisadas",
+      "undetermined": "No se encontró declaración de financiación"
+    },
+    "layerKeyTitle": "Dónde se sitúa una afirmación",
+    "layerKey": ["Texto principal: hallazgos independientes", "Resultados financiados por la industria", "Declaraciones de consenso", "Cuestiones sin resolver"],
+    "details": "Financiación y resultado",
+    "inEnglish": "Disponible en inglés"
+  },
+  "fr": {
+    "heroTitle": "Comment fonctionne votre corps",
+    "heroLede": "Suivez une tasse de café, une tranche de pain ou un comprimé jusqu'à vos cellules, et voyez qui a financé chaque étude derrière chaque fait.",
+    "heroStart": "Commencer par le quotidien",
+    "heroMap": "Explorer la carte",
+    "journeysTitle": "Commencer par le quotidien",
+    "journeysLede": "Chaque objet du quotidien ouvre un court chemin à travers les molécules qu'il rencontre.",
+    "journeys": {
+      "coffee": ["Le café du matin", "La caféine est éliminée par l'enzyme hépatique CYP1A2, à une vitesse fixée en partie par vos gènes."],
+      "bread": ["Une tranche de pain", "L'amidon devient du glucose, et le glucose devient l'ATP que dépense chaque cellule."],
+      "statin": ["Un comprimé de statine", "Une enzyme du foie ralentit, et le foie retire davantage de cholestérol LDL du sang."],
+      "wine": ["Un verre de vin", "L'éthanol devient de l'acétaldéhyde, et une variante courante d'ALDH2 explique pourquoi certains visages rougissent."],
+      "egg": ["Un œuf", "Le cholestérol des aliments rejoint celui que fabrique le foie, et chacun équilibre les deux différemment."],
+      "drink": ["Une boisson sans sucre", "Certains édulcorants traversent le corps sans changer ; d'autres sont découpés en molécules familières."]
+    },
+    "mapTitle": "La carte de votre métabolisme",
+    "mapLede": "La chimie centrale d'une cellule humaine sur une seule carte. Pointez une voie pour voir son nom ; sélectionnez-la pour ouvrir son chapitre.",
+    "mapReadout": "Pointez une voie pour voir son nom. Les doubles flèches marquent les étapes réversibles ; les flèches pointillées, les étapes qui s'inversent quand le foie fabrique du glucose.",
+    "legend": ["Sucres", "Graisses et cholestérol", "Énergie", "Acides aminés", "Folates et B12", "Alcool", "Là où agit un médicament"],
+    "sectionText": {
+      "metabolism": "Comment le corps transforme les aliments en énergie, en matériaux et en signaux.",
+      "medicines": "Les médicaments les plus prescrits aux États-Unis et en Angleterre, et ce qu'ils changent en vous.",
+      "foods": "De quoi sont faits les aliments courants, et ce que montrent les études non financées par l'industrie alimentaire.",
+      "additives": "Les additifs présents dans le plus grand nombre de produits, ainsi que les édulcorants et les émulsifiants.",
+      "method": "Comment chaque source de ce site est classée selon qui l'a financée."
+    },
+    "pages": "pages",
+    "keyTitle": "Qui a financé l'étude",
+    "keyText": {
+      "independent": "Fonds publics ou caritatifs, sans rôle de l'industrie",
+      "industry": "Argent de l'industrie, ou rôle dans la conception, l'analyse ou la publication",
+      "regulatory": "FDA, EMA, EFSA et organismes comparables",
+      "consensus": "Recommandations et panels d'experts",
+      "reference": "Manuels et bases de données validées",
+      "undetermined": "Aucune déclaration de financement trouvée"
+    },
+    "layerKeyTitle": "Où se situe une affirmation",
+    "layerKey": ["Texte principal : résultats indépendants", "Résultats financés par l'industrie", "Déclarations de consensus", "Questions non résolues"],
+    "details": "Financement et résultat",
+    "inEnglish": "Disponible en anglais"
+  }
+}

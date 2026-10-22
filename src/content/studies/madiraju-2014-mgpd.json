@@ -1,0 +1,18 @@
+{
+  "title": "Metformin suppresses gluconeogenesis by inhibiting mitochondrial glycerophosphate dehydrogenase",
+  "authors": "Madiraju AK, Erion DM, Rahimi Y, Zhang XM, Braddock DT, Albright RA, et al.",
+  "journal": "Nature",
+  "year": 2014,
+  "doi": "10.1038/nature13270",
+  "pmid": "24847880",
+  "design": "animal",
+  "population": "Isolated rat mitochondrial lysates and purified recombinant human enzyme; primary hepatocytes of 24-hour-fasted Sprague-Dawley rats; awake 24-hour-fasted male Sprague-Dawley rats aged 9 to 12 weeks, 6 to 10 per group, randomly allocated and studied unblinded; whole-body mGPD knockout mice",
+  "funder": "This publication was supported by grants from the National Institutes of Health: R24 DK-085638, R01 DK-40936, P30 DK-45735, P30 DK-034989 and the Novo Nordisk Foundation Center for Basic Metabolic Research.",
+  "funderRole": "design",
+  "inKindSupport": "Antisense oligonucleotides carrying ISIS compound identifiers, selected from about 80 sequences pre-screened in vitro and in vivo; whole-body mGPD knockout mice from M. J. MacDonald, University of Wisconsin.",
+  "authorConflicts": "The authors declare no competing financial interests. The named grant funders are public and charitable. One of the seventeen authors is affiliated with Isis Pharmaceuticals, Carlsbad, California, and the antisense oligonucleotides used in rats carry ISIS compound identifiers and were chosen by screening a pool of about 80 pre-screened sequences, so the record is classed industry for a company role in the design and conduct of the work; funderRole records that role.",
+  "dataAccess": "unknown",
+  "result": "Metformin inhibited isolated rat mitochondrial glycerol-3-phosphate dehydrogenase non-competitively with a Ki of about 38 µM and purified recombinant human mGPD non-competitively with a Ki of about 55 µM; guanides and biguanides inhibited mGPD activity by 30 to 50% in rat mitochondrial lysates and did not alter the activity of purified recombinant cytosolic GPD. In awake 24-hour-fasted rats, intravenous metformin at 20 and 50 mg/kg lowered fasting plasma glucose and endogenous glucose production as early as 30 minutes after administration, raised the plasma lactate to pyruvate ratio and lowered the plasma beta-hydroxybutyrate to acetoacetate ratio; 30 minutes after 50 mg/kg, peak metformin averaged 74 µM in plasma and 100 µM in liver. Antisense knockdown of hepatic mGPD in rats reproduced the metformin phenotype and abolished the metformin-induced rise in cytosolic redox state, fall in plasma glucose and inhibition of endogenous glucose production; whole-body mGPD knockout mice reproduced these findings. The paper states that plasma metformin in patients taking 1 g twice daily is 10 to 40 µM, and that reported in vivo doses in animal studies range from 50 to 500 mg/kg.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4074244"
+}

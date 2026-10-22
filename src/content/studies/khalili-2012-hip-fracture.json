@@ -1,0 +1,19 @@
+{
+  "title": "Use of proton pump inhibitors and risk of hip fracture in relation to dietary and lifestyle factors: a prospective cohort study",
+  "authors": "Khalili H, Huang ES, Jacobson BC, Camargo CA Jr, Feskanich D, Chan AT",
+  "journal": "BMJ",
+  "year": 2012,
+  "doi": "10.1136/bmj.e372",
+  "pmid": "22294756",
+  "design": "cohort",
+  "participants": 79899,
+  "followUp": "565,786 person-years, 2000 to June 2008",
+  "population": "Postmenopausal women in the Nurses' Health Study reporting PPI use biennially",
+  "funder": "This study was funded by the US National Institutes of Health (grant No NIH R01 CA137178, P01 CA87969). ATC is a Damon Runyon Cancer Research Foundation clinical investigator. BCJ is supported by a grant from the National Institutes of Health (NIH R01 DK088782). HK is supported by a career development award from the IBD Working Group. ESH is supported by a career development award from the American Gastroenterological Association.",
+  "funderRole": "unknown",
+  "authorConflicts": "No financial relationships with any organisations that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "individual",
+  "result": "893 incident hip fractures. Absolute risk 2.02 per 1000 person-years among regular PPI users against 1.51 among non-users; use for at least 2 years, age-adjusted HR 1.35 (95% CI 1.13 to 1.62), multivariable HR 1.36 (1.13 to 1.63), with longer use associated with higher risk. Current and former smokers HR 1.51 (1.20 to 1.91); never smokers HR 1.06 (0.77 to 1.46). Pooled with 10 earlier studies, OR 1.30 (1.25 to 1.36).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3269660/fullTextXML"
+}

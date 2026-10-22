@@ -1,0 +1,17 @@
+{
+  "title": "Aspartame, methyleugenol, and isoeugenol",
+  "authors": "IARC Working Group on the Identification of Carcinogenic Hazards to Humans",
+  "journal": "IARC Monographs on the Identification of Carcinogenic Hazards to Humans, volume 134",
+  "year": 2024,
+  "pmid": "39715313",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK609292/",
+  "design": "other",
+  "population": "Working Group meeting in Lyon, 6 to 13 June 2023; the monograph on aspartame was first published online in April 2024",
+  "funder": "This programme has been supported since 1982 by Cooperative Agreement U01 CA33193 with the United States National Cancer Institute, Department of Health and Human Services. Additional support has been provided since 1986 by the European Commission Directorate-General for Employment, Social Affairs, and Inclusion, and since 1992 by the United States National Institute of Environmental Health Sciences. The contents of this volume are solely the responsibility of the Working Group.",
+  "funderRole": "none",
+  "authorConflicts": "One Invited Specialist, who by the Preamble takes no part in the evaluation, declared that her university unit benefits from research support from Kagome Co. Ltd, which has an agreement with the Ajinomoto Group. Observers, who did not draft text or take part in the evaluation, included consultants whose firms received fees from the American Beverage Association or the Calorie Control Council and an employee of Whole Earth Brands.",
+  "dataAccess": "summary",
+  "result": "Aspartame is possibly carcinogenic to humans (Group 2B): limited evidence in humans, from positive associations of artificially sweetened beverage consumption, used as a proxy for aspartame, with hepatocellular carcinoma in three studies including four cohorts, in which bias or confounding could not be ruled out; limited evidence in experimental animals; limited mechanistic evidence. A minority of the Working Group supported Group 2A. In humans, ingested aspartame is hydrolysed by esterases and peptidases in the gastrointestinal tract to aspartic acid, phenylalanine and methanol; phenylalanine is partly converted to tyrosine in the liver by phenylalanine hydroxylase. The Monographs assess the strength of evidence that an agent is a cancer hazard, which the Preamble distinguishes from a cancer risk, the probability of cancer at a given exposure.",
+  "class": "consensus",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/28/ad/iarcmono134_NBK609292.tar.gz"
+}

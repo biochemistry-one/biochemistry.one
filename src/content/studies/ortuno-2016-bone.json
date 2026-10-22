@@ -1,0 +1,17 @@
+{
+  "title": "Serotonin-reuptake inhibitors act centrally to cause bone loss in mice by counteracting a local anti-resorptive effect",
+  "authors": "Ortuño MJ, Robinson ST, Subramanyam P, Paone R, Huang YY, Guo XE, et al.",
+  "journal": "Nature Medicine",
+  "year": 2016,
+  "doi": "10.1038/nm.4166",
+  "pmid": "27595322",
+  "design": "animal",
+  "population": "Wild-type female mice treated with fluoxetine at plasma concentrations similar to human therapeutic levels for 3 or 6 weeks; osteoclast cultures",
+  "funder": "The National Institute of Health grant AG032959 (PD) supported this work.",
+  "funderRole": "unknown",
+  "authorConflicts": "Authors declare no competing financial interest.",
+  "dataAccess": "summary",
+  "result": "In mice, 3 weeks of fluoxetine raised bone volume through a direct, serotonin reuptake-independent inhibition of osteoclast differentiation (Ca2+-calmodulin-NFATc1), whereas 6 weeks caused net bone loss with lower bone formation, through a brain serotonin-dependent rise in sympathetic output; co-treatment with propranolol prevented the bone loss. Animal data.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5053870"
+}

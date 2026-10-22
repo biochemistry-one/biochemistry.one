@@ -1,0 +1,18 @@
+{
+  "title": "Clinical outcomes after discontinuation of thyroid hormone replacement: a systematic review and meta-analysis",
+  "authors": "Burgos N, Toloza FJK, Singh Ospina NM, Brito JP, Salloum RG, Hassett LC, et al.",
+  "journal": "Thyroid",
+  "year": 2021,
+  "doi": "10.1089/thy.2020.0679",
+  "pmid": "33161885",
+  "design": "meta-analysis",
+  "participants": 1103,
+  "population": "17 observational studies of patients aged 2 to 81 years (86% women) whose thyroid hormone replacement was discontinued; databases searched to February 2020",
+  "funder": "Dr. Maraka receives support from the Arkansas Biosciences Institute, the major research component of the Arkansas Tobacco Settlement Proceeds Act of 2000. Dr. Singh Ospina was supported by the National Cancer Institute of the National Institutes of Health under Award Number K08CA248972.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have nothing to disclose. No competing financial interests exist.",
+  "dataAccess": "summary",
+  "result": "Studies were at moderate to high risk of bias. 37.2% (95% CI 24.2% to 50.1%, I2 97.5%) remained euthyroid after discontinuation: 11.8% (0.4% to 23.2%) of those first diagnosed with overt hypothyroidism and 35.6% (8.2% to 62.9%) of those diagnosed with subclinical hypothyroidism. No study followed a framework for systematic deprescribing.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8110016/"
+}

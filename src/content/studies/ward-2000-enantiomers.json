@@ -1,0 +1,17 @@
+{
+  "title": "Enantiomeric disposition of inhaled, intravenous and oral racemic-salbutamol in man--no evidence of enantioselective lung metabolism",
+  "authors": "Ward JK, Dow J, Dallow N, Eynott P, Milleri S, Ventresca GP",
+  "journal": "British Journal of Clinical Pharmacology",
+  "year": 2000,
+  "doi": "10.1046/j.1365-2125.2000.00102.x",
+  "pmid": "10606833",
+  "design": "other",
+  "participants": 15,
+  "population": "Healthy nonsmoking volunteers aged 21-43 years, five-way randomised crossover with oral activated charcoal blocks",
+  "funder": "This work was supported by Glaxo Wellcome Research & Development Limited. All authors were employees of Glaxo Wellcome Research & Development or Glaxo Wellcome SpA; bioanalysis was carried out by Glaxo Wellcome International Bioanalysis.",
+  "funderRole": "several",
+  "dataAccess": "summary",
+  "result": "Geometric mean AUC ratio of (R)- to (S)-salbutamol was 0.32 (95% CI 0.28 to 0.36) after 500 µg intravenously, 0.29 (0.24 to 0.36) after 1200 µg inhaled with oral charcoal and 0.05 (0.03 to 0.07) after 2 mg orally (P < 0.001 against intravenous dosing). Mean terminal half-life was about 2.5 h for (R)- and 5 h for (S)-salbutamol; plasma and renal clearance were 2-3 times higher for (R)-salbutamol, and renal clearance accounted for 85% of plasma clearance of (S)-salbutamol against 50% for (R)-salbutamol. Mean apparent bioavailability of the racemate was 39% after oral dosing, 42% after inhalation and about 20% after inhalation with charcoal; about 60% of systemic availability after inhalation arose from the swallowed fraction. Charcoal prevented 92-98% of oral absorption. Each enantiomer contributed about 50% of the 24 h urinary recovery of salbutamol and its 4-O-sulphate, by every route.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2014885/"
+}

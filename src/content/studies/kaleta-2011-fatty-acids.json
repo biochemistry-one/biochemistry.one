@@ -1,0 +1,16 @@
+{
+  "title": "In silico evidence for gluconeogenesis from fatty acids in humans",
+  "authors": "Kaleta C, de Figueiredo LF, Werner S, Guthke R, Ristow M, Schuster S",
+  "journal": "PLoS Computational Biology",
+  "year": 2011,
+  "doi": "10.1371/journal.pcbi.1002116",
+  "pmid": "21814506",
+  "design": "other",
+  "funder": "Financial support from the German Ministry for Research and Education (BMBF) to CK within the framework of the Forsys Partner initiative, from the Fundação Calouste Gulbenkian, Fundação para a Ciência e a Tecnologia (FCT) and Siemens SA Portugal (PhD grant SFRH/BD/32961/2006) to LFF and by the Deutsche Forschungsgemeinschaft (DFG) within the excellence program Jena School for Microbial Communication to SW is gratefully acknowledged. Furthermore we would like to acknowledge the BMBF within the programs HepatoSys and GerontoSys. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "The authors have declared that no competing interests exist.",
+  "dataAccess": "summary",
+  "result": "Computational study. Elementary flux pattern analysis of a genome-scale human metabolic network of 5733 reactions and 3188 metabolites found pathways that convert four acetyl-CoA into one glucose and two CO2 through acetoacetate, acetone and acetol, then methylglyoxal or D-lactaldehyde, to pyruvate. The pathways consume 6 to 22 ATP per glucose and require NADPH, which the authors argue limits their capacity. Fluxes were not measured experimentally.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3140964/"
+}

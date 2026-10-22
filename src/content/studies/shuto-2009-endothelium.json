@@ -1,0 +1,20 @@
+{
+  "title": "Dietary phosphorus acutely impairs endothelial function",
+  "authors": "Shuto E, Taketani Y, Tanaka R, Harada N, Isshiki M, Sato M, et al.",
+  "journal": "Journal of the American Society of Nephrology",
+  "year": 2009,
+  "doi": "10.1681/ASN.2008101106",
+  "pmid": "19406976",
+  "registry": "UMIN000000803",
+  "design": "other",
+  "participants": 11,
+  "followUp": "2 hours after each test meal, with flow-mediated dilation also measured at 24 hours",
+  "population": "Healthy non-smoking men aged 21 to 33 years (mean 24.6) without diabetes, hypertension, kidney or cardiovascular disease; bovine aortic endothelial cells and rat aortic rings in parallel experiments",
+  "funder": "Grants-in-Aid for Scientific Research on Priority Areas (17790554), for Young Scientists (19680030, 18790567), for Scientific Research (B) (18300232), for Exploratory Research (17650225) and Knowledge Cluster Initiative from the Ministry of Education, Culture, Sports, Science, and Technology in Japan; the Uehara Memorial Foundation; the Kidney Foundation (JKFB08-22); the 21st Century COE Program 'Human Nutritional Science and Stress Control'; and the Initiatives for Attractive Education in Graduate School, University of Tokushima. The investigators and sponsors in the University of Tokushima, University of Tokyo and Hiroshima University contributed to the design and execution of the study.",
+  "funderRole": "design",
+  "authorConflicts": "Disclosures: none.",
+  "dataAccess": "individual",
+  "result": "Double-blind crossover study on two days separated by more than 1 day: breakfast meals containing 400 mg (P400) or 1200 mg (P1200) phosphorus. Mean ± SEM serum phosphorus 2 h after the meal was 3.66 ± 0.2 mg/dL after P400 and 4.56 ± 0.1 mg/dL after P1200, above the normal range in 8 of 11 men. Flow-mediated dilation of the brachial artery was 8.81 ± 0.3% before and 8.42 ± 0.5% 2 h after P400, and 9.26 ± 0.4% before and 5.02 ± 0.3% 2 h after P1200 (P < 0.0001 between meals); it was 8.60 ± 0.2% 24 h after P1200. After P1200, flow-mediated dilation correlated inversely with serum phosphorus (Spearman rs = -0.42, P = 0.006). In bovine aortic endothelial cells, raised extracellular phosphate increased reactive oxygen species production, which the sodium-phosphate transport inhibitor phosphonoformic acid reduced, and inhibited bradykinin-stimulated nitric oxide production, with protein kinase C-dependent phosphorylation of endothelial nitric oxide synthase at Thr497; preincubation in 2.4 mM against 1.2 mM phosphate reduced acetylcholine-induced relaxation of rat aortic rings by 70%.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2709683/"
+}

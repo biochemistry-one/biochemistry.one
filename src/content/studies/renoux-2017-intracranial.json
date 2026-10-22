@@ -1,0 +1,19 @@
+{
+  "title": "Association of Selective Serotonin Reuptake Inhibitors With the Risk for Spontaneous Intracranial Hemorrhage",
+  "authors": "Renoux C, Vahey S, Dell'Aniello S, Boivin JF",
+  "journal": "JAMA Neurology",
+  "year": 2017,
+  "doi": "10.1001/jamaneurol.2016.4529",
+  "pmid": "27918771",
+  "design": "cohort",
+  "participants": 1363990,
+  "followUp": "mean 5.8 years, 1995 to 2014",
+  "population": "New users of antidepressants aged 18 or older in more than 650 UK general practices of the Clinical Practice Research Datalink; nested case-control analysis of 3036 intracranial haemorrhages and 89,702 matched controls",
+  "funder": "This study was supported by operating grant MOP-133553 from the Canadian Institutes of Health Research and a Chercheur-Boursier Award from the Fonds de la Recherche en Santé du Québec. The funding sources had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "None reported.",
+  "dataAccess": "individual",
+  "result": "Overall incidence of intracranial haemorrhage 3.8 per 10,000 person-years. Current SSRI use against tricyclic use: RR 1.17 (95% CI 1.02 to 1.35), an absolute excess of 6.7 (0.2 to 13.2) per 100,000 person-years; first 30 days RR 1.44 (1.04 to 1.99). Strong against weak serotonin reuptake inhibitors RR 1.25 (1.01 to 1.54), excess 9.5 per 100,000 person-years; among users of oral anticoagulants RR 3.08 (0.89 to 10.63) with sampled controls and 1.73 (0.89 to 3.39) with all controls, neither statistically significant. Against non-use, SSRIs RR 1.35 (1.22 to 1.50).",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20260905203802/https://jamanetwork.com/journals/jamaneurology/fullarticle/2588683"
+}

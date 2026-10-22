@@ -1,0 +1,20 @@
+{
+  "title": "Gut microbiota metabolites and risk of major adverse cardiovascular disease events and death: a systematic review and meta-analysis of prospective studies",
+  "authors": "Heianza Y, Ma W, Manson JE, Rexrode KM, Qi L",
+  "journal": "Journal of the American Heart Association",
+  "year": 2017,
+  "doi": "10.1161/JAHA.116.004947",
+  "pmid": "28663251",
+  "registry": "CRD42016052185",
+  "design": "meta-analysis",
+  "participants": 19256,
+  "followUp": "1 to 8 years across the included studies",
+  "population": "19 prospective analyses from 16 publications, 19,256 participants and 3315 incident cases; all were clinical cohorts of patients with coronary, renal, peripheral arterial or heart disease, diabetes or pneumonia, and no cohort of the general population was available",
+  "funder": "Supported by grants from the National Heart, Lung, and Blood Institute (HL071981, HL034594, HL126024), the National Institute of Diabetes and Digestive and Kidney Diseases (DK091718, DK100383, DK078616), the Boston Obesity Nutrition Research Center (DK46200) and United States-Israel Binational Science Foundation grant 2011036; Qi held an American Heart Association Scientist Development Award (0730094N) and Heianza a Grant-in-Aid for Scientific Research from the Japan Society for the Promotion of Science.",
+  "funderRole": "none",
+  "authorConflicts": "Disclosures: None.",
+  "dataAccess": "summary",
+  "result": "High against low blood TMAO: pooled relative risk 1.62 (95% CI 1.45 to 1.80) for major adverse cardiovascular events, fixed effects, P heterogeneity 0.2, I2 23.5%; 1.62 (1.43 to 1.85) with random effects; 1.70 (1.52 to 1.91) after removing the one analysis in black haemodialysis patients. For all-cause mortality alone, 15 analyses from 12 articles with 2498 deaths among 11,676 participants gave 1.63 (1.36 to 1.95), random effects, I2 45.9%. Per 1 µmol/L of TMAO, adjusted 1.02 (1.01 to 1.03); per 1 SD of log TMAO, adjusted 1.21 (1.14 to 1.29). Elevated TMAO precursors: 1.26 (1.10 to 1.44) for L-carnitine or choline and 1.43 (1.19 to 1.73) for betaine. Associations did not differ significantly by age, body-mass index, smoking, kidney function, diabetes, prior cardiovascular disease or follow-up duration. The authors state that no prospective data in populations at general risk were available, that residual confounding by unmeasured factors cannot be excluded, that TMAO was measured once, and that trials lowering TMAO are needed to inform causality.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5586261"
+}

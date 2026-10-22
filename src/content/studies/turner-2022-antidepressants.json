@@ -1,0 +1,17 @@
+{
+  "title": "Selective publication of antidepressant trials and its influence on apparent efficacy: Updated comparisons and meta-analyses of newer versus older trials",
+  "authors": "Turner EH, Cipriani A, Furukawa TA, Salanti G, de Vries YA",
+  "journal": "PLoS Medicine",
+  "year": 2022,
+  "doi": "10.1371/journal.pmed.1003886",
+  "pmid": "35045113",
+  "design": "meta-analysis",
+  "population": "FDA-registered phase II and III placebo-controlled trials of 4 antidepressants approved 2008 to 2013, compared with 74 trials of 12 older antidepressants",
+  "funder": "The authors received no specific funding for this work.",
+  "funderRole": "none",
+  "authorConflicts": "Turner previously worked as an FDA medical officer. Outside the submitted work, Cipriani received research and consultancy fees from INCiPiT, CARIPLO Foundation and Angelini Pharma; Furukawa received grants and personal fees from Mitsubishi-Tanabe and Shionogi and personal fees from MSD; Salanti received fees paid to the University of Bern from Biogen and Merck.",
+  "dataAccess": "summary",
+  "result": "30 trials of newer antidepressants with 13,747 patients. Transparent publication of FDA-negative trials rose from 11% for older antidepressants to 47% (7 of 15) for newer ones; all 15 FDA-positive newer trials were published transparently. Effect size inflation (journal minus FDA Hedges g) was 0.05 (0.29 versus 0.24) for newer and 0.10 (0.41 versus 0.31) for older antidepressants.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8769343/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Ultra-processed food consumption and exposure to phthalates and bisphenols in the US National Health and Nutrition Examination Survey, 2013–2014",
+  "authors": "Buckley JP, Kim H, Wong E, Rebholz CM",
+  "journal": "Environment International",
+  "year": 2019,
+  "doi": "10.1016/j.envint.2019.105057",
+  "pmid": "31398592",
+  "design": "cross-sectional",
+  "participants": 2212,
+  "population": "NHANES 2013–2014 participants aged 6 years or older with a 24-hour dietary recall and spot urine measurements",
+  "funder": "This study was supported by grant funding from the National Institutes of Health (JPB: P30 DK072488, R01 ES030078; CMR: K01 DK107782, R21 HL143089). The findings and conclusions in this manuscript are those of the authors and do not necessarily represent the official position of the National Institutes of Health.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare they have no actual or potential competing financial interests.",
+  "dataAccess": "individual",
+  "result": "Each 10% higher share of energy from ultra-processed food was associated with 8.0% (95% CI 5.6% to 10.3%) higher creatinine-standardised urinary mono-(carboxyisoctyl) phthalate (MCOP), a metabolite of the DEHP substitute diisononyl phthalate (17% in children, 5% in adolescents, 9% in adults), and with higher MCPP and MCNP; no association with MBzP, the sum of four DEHP metabolites, or bisphenols A, F and S. Higher energy from minimally processed food was associated with lower MCPP, MCNP, MCOP and bisphenols A and F.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728187/"
+}

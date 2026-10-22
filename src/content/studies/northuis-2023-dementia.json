@@ -1,0 +1,19 @@
+{
+  "title": "Cumulative use of proton pump inhibitors and risk of dementia: the Atherosclerosis Risk in Communities Study",
+  "authors": "Northuis CA, Bell EJ, Lutsey PL, George KM, Gottesman RF, Mosley TH, et al.",
+  "journal": "Neurology",
+  "year": 2023,
+  "doi": "10.1212/WNL.0000000000207747",
+  "pmid": "37558503",
+  "design": "cohort",
+  "participants": 5712,
+  "followUp": "median 5.5 years after visit 5 (2011 to 2013), through 2017",
+  "population": "Dementia-free ARIC participants at visit 5, mean age 75.4 years, 22% Black, 58% female; PPI use from visual medication inventory since 1987 to 1989",
+  "funder": "The Atherosclerosis Risk in Communities Study is conducted as a collaborative study supported by NIH National Heart, Lung, and Blood Institute contracts; neurocognitive data are collected by NIH grants (NHLBI, NINDS, NIA, NIDCD); this work was also supported by NHLBI training grant T32 HL007779 and K24 HL159246.",
+  "funderRole": "unknown",
+  "authorConflicts": "E.J. Bell is employed by Optum and has received funding from Novartis, Incyte, AstraZeneca, EMD Serono, Sandoz, Celgene and Pfizer; other authors report NIH funding or no disclosures.",
+  "dataAccess": "individual",
+  "result": "585 incident dementia cases. Current PPI use at visit 5: HR 1.1 (95% CI 0.9 to 1.3). Cumulative use above 4.4 years before visit 5: HR 1.3 (1.0 to 1.8), described as 33% higher risk; shorter durations were not significantly associated.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10634644/fullTextXML"
+}

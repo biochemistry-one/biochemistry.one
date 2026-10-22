@@ -1,0 +1,21 @@
+{
+  "title": "Effects of coffee consumption on subclinical inflammation and other risk factors for type 2 diabetes: a clinical trial",
+  "authors": "Kempf K, Herder C, Erlund I, Kolb H, Martin S, Carstensen M, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2010,
+  "doi": "10.3945/ajcn.2009.28548",
+  "pmid": "20181814",
+  "registry": "ISRCTN12547806",
+  "design": "other",
+  "participants": 47,
+  "followUp": "Three consecutive 1-month stages: 0, 4 and 8 cups (150 ml) of paper-filtered coffee a day",
+  "population": "Habitual coffee drinkers in Finland younger than 65 years without type 2 diabetes but with a Finnish diabetes risk score of 13 or more; 77% women, most obese; 2 dropouts excluded",
+  "funder": "Supported by the Institute of Scientific Information on Coffee, which is a consortium of major European Coffee Companies. The Institute of Scientific Information had no role in drafting the design, in implementation of the study, in data analysis and interpretation. Additional support from the German Federal Ministry of Health and the Ministry of Innovation, Science, Research and Technology of North Rhine-Westphalia.",
+  "funderRole": "none",
+  "inKindSupport": "Juhla Mokka coffee provided by the Paulig Group, Helsinki.",
+  "authorConflicts": "One author (JT) has given lectures about the health effects of coffee and received travel grants and compensation for it; no other conflicts declared.",
+  "dataAccess": "individual",
+  "result": "Single-blind (investigator), single-group, non-randomised trial without placebo. After 8 against 0 cups a day, serum total cholesterol rose 12%, HDL cholesterol 7% and apolipoprotein A-I 4%, and the LDL/HDL cholesterol and apoB/apoA-I ratios fell 8% and 9%; LDL cholesterol and triglycerides did not change significantly. Interleukin-18 fell 8%, 8-isoprostane 16% and adiponectin rose 6% (medians); markers of glucose metabolism did not change. The authors concluded that coffee appears to have beneficial effects on subclinical inflammation and HDL cholesterol.",
+  "class": "industry",
+  "fundingChecked": "https://web.archive.org/web/20180129010242/http://ajcn.nutrition.org:80/content/91/4/950.full"
+}

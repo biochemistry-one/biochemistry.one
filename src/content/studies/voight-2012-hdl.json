@@ -1,0 +1,17 @@
+{
+  "title": "Plasma HDL cholesterol and risk of myocardial infarction: a mendelian randomisation study",
+  "authors": "Voight BF, Peloso GM, Orho-Melander M, Frikke-Schmidt R, Barbalic M, Jensen MK, et al.",
+  "journal": "Lancet",
+  "year": 2012,
+  "doi": "10.1016/S0140-6736(12)60312-2",
+  "pmid": "22607825",
+  "design": "mendelian-randomisation",
+  "population": "Participants of European or South Asian ancestry; LIPG Asn396Ser tested in 20 studies with 20,913 myocardial infarction cases and 95,407 controls",
+  "funder": "US National Institutes of Health, The Wellcome Trust, European Union, British Heart Foundation and the German Federal Ministry of Education and Research. The sponsors had no role in the conduct or interpretation of the study. Data collection in the contributing Dortmund Health Study was supported by the German Migraine and Headache Society and by unrestricted grants from AstraZeneca, Berlin Chemie, Boots Healthcare, GlaxoSmithKline, McNeil Pharma, MSD Sharp and Dohme and Pfizer to the University of Muenster.",
+  "funderRole": "unknown",
+  "authorConflicts": "Five authors are employees of or own stock options in deCODE Genetics and four are full-time employees of GlaxoSmithKline; S. Kathiresan and H. Schunkert declared advisory, grant or lecture relationships with manufacturers including Merck, Pfizer and AstraZeneca.",
+  "dataAccess": "individual",
+  "result": "Carriers of the LIPG 396Ser allele (2.6% frequency) had HDL cholesterol 0.14 mmol/l higher and similar other risk factors; the expected odds ratio for myocardial infarction was 0.87 (95% CI 0.84 to 0.91), but the observed odds ratio was 0.99 (0.88 to 1.11; P = 0.85). A 1 SD genetic increase in HDL cholesterol from a 14-SNP score was not associated with myocardial infarction (odds ratio 0.93, 0.68 to 1.26), whereas a 1 SD genetic increase in LDL cholesterol was (odds ratio 2.13, 1.69 to 2.69).",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419820/"
+}

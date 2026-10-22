@@ -1,0 +1,14 @@
+{
+  "title": "Scientific Opinion on Dietary Reference Values for carbohydrates and dietary fibre",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition, and Allergies (NDA)",
+  "journal": "EFSA Journal",
+  "year": 2010,
+  "doi": "10.2903/j.efsa.2010.1462",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (Question EFSA-Q-2008-467).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Dietary fibre is defined as non-digestible carbohydrates plus lignin: non-starch polysaccharides (cellulose, hemicelluloses, pectins, hydrocolloids such as gums, mucilages and beta-glucans), resistant oligosaccharides, resistant starch (physically enclosed starch, some raw starch granules, retrograded amylose, modified starches) and associated lignin. In cereals cellulose occurs with hemicelluloses; lignified outer layers are the predominant fibre source in whole-grain products; oats and barley contain high concentrations of water-soluble, viscous beta-glucan. The soluble/insoluble distinction is method-dependent and does not always predict physiological effects. Salivary and pancreatic amylase degrade starch mainly to maltose and oligosaccharides, brush-border disaccharidases release glucose, and glucose is absorbed by the sodium-coupled SGLT1; monosaccharide absorption is regarded as rate-limiting. GI: incremental area under the blood glucose curve over 1.5-3 h after a 50 g carbohydrate portion, as a percentage of the response to the same amount of carbohydrate from glucose or white bread in the same subject; GL = glycaemic carbohydrate x GI/100. Amylose/amylopectin ratio and gelatinisation affect GI; intact cereal grains, parboiled rice and the protein network of pasta lower it. Fibre enters the colon substantially unmodified and is fermented to short-chain fatty acids; acetate and propionate are absorbed and provide energy; butyrate is a main source of energy for the colonic mucosa. Inhibitory effects on iron, zinc and calcium absorption have been attributed to complexing compounds, notably phytic acid in cereals. Wheat bran fibre gives 5 to 6 g faecal bulk per g. Energy factor 8 kJ (2 kcal) per g fibre. Adequate intake: 25 g fibre per day for normal laxation in adults; 2 g per MJ for children from 1 year.",
+  "class": "regulatory",
+  "fundingChecked": "http://web.archive.org/web/20160323215625/http://www.efsa.europa.eu/sites/default/files/scientific_output/files/main_documents/1462.pdf"
+}

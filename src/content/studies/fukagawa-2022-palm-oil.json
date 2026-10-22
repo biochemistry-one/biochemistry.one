@@ -1,0 +1,17 @@
+{
+  "title": "USDA's FoodData Central: what is it and why is it needed today?",
+  "authors": "Fukagawa NK, McKillop K, Pehrsson PR, Moshfegh A, Harnly J, Finley J",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2022,
+  "doi": "10.1093/ajcn/nqab397",
+  "pmid": "34893796",
+  "url": "https://fdc.nal.usda.gov/portal-data/external/171015",
+  "design": "database",
+  "funder": "All authors are employed by the USDA Agricultural Research Service and have not received external support in the preparation of this manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "The authors report no conflicts of interest.",
+  "dataAccess": "individual",
+  "result": "FoodData Central item 171015, 'Oil, palm' (SR Legacy; Elaeis guineensis), per 100 g: energy 884 kcal; total fat 100 g; saturated fatty acids 49.3 g (12:0 0.1 g, 14:0 1.0 g, 16:0 43.5 g, 18:0 4.3 g); monounsaturated 37.0 g (16:1 0.3 g, 18:1 36.6 g, 20:1 0.1 g); polyunsaturated 9.3 g (18:2 9.1 g, 18:3 0.2 g); alpha-tocopherol 15.9 mg; beta-, gamma- and delta-tocopherol 0.0 mg; phylloquinone 8.0 µg; beta-carotene 0 µg; cholesterol 0 mg. One tablespoon weighs 13.6 g. SR Legacy, released in April 2018, is the final release of that data type.",
+  "class": "reference",
+  "fundingChecked": "http://web.archive.org/web/20250804114112/https://ajcn.nutrition.org/article/S0002-9165(22)00179-4/fulltext"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Healthy weight loss maintenance with exercise, GLP-1 receptor agonist, or both combined followed by one year without treatment: a post-treatment analysis of a randomised placebo-controlled trial",
+  "authors": "Jensen SBK, Blond MB, Sandsdal RM, Olsen LM, Juhl CR, Lundgren JR, et al.",
+  "journal": "EClinicalMedicine",
+  "year": 2024,
+  "doi": "10.1016/j.eclinm.2024.102475",
+  "pmid": "38544798",
+  "registry": "EudraCT 2015-005585-32; NCT04122716",
+  "design": "rct",
+  "participants": 109,
+  "followUp": "52 weeks of treatment and 52 weeks without treatment, to week 104",
+  "population": "Participants of the S-LiTE trial (adults aged 18 to 65 with BMI 32 to 43 and without diabetes) who had lost 13.1 kg on an 8-week low-calorie diet and were randomised to supervised exercise, liraglutide 3.0 mg, both, or placebo; 109 of 195 attended the post-treatment visit",
+  "funder": "The study was funded by the Novo Nordisk Foundation (NNF16OC0019968 and NNF15CC0018486) and Helsefonden (20-B-0389). The funders had no role in design, data collection, analysis, interpretation or writing of the report.",
+  "funderRole": "none",
+  "inKindSupport": "Novo Nordisk A/S supplied liraglutide and placebo pens; Cambridge Weight Plan supplied meal replacement products.",
+  "authorConflicts": "One author's family member owns Novo Nordisk stock; several report advisory, lecture or research grant relationships with Novo Nordisk and other companies.",
+  "dataAccess": "summary",
+  "result": "In the year after treatment ended, weight regain was 6.0 kg (95% CI 2.1 to 10.0) larger after stopping liraglutide than after stopping supervised exercise, and 2.5 kg (-1.5 to 6.5) larger than after stopping the combination. From randomisation to week 104, the former combination group had 5.1 kg (0.2 to 10.0) lower weight and 2.3 percentage points lower body fat than the former liraglutide group. Maintenance of at least 10% loss from the pre-diet weight was more likely after combination than after placebo (odds ratio 7.2, 2.4 to 21.3) or liraglutide (4.2, 1.6 to 10.8), and after exercise than after placebo (3.7, 1.2 to 11.1). Attendance at week 104 was 109 of 195 randomised.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10965408/"
+}

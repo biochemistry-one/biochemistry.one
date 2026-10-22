@@ -1,0 +1,18 @@
+{
+  "title": "Lactase persistence, milk intake, hip fracture and bone mineral density: a study of 97 811 Danish individuals and a meta-analysis",
+  "authors": "Bergholdt HKM, Larsen MK, Varbo A, Nordestgaard BG, Ellervik C",
+  "journal": "Journal of Internal Medicine",
+  "year": 2018,
+  "doi": "10.1111/joim.12753",
+  "pmid": "29537719",
+  "design": "mendelian-randomisation",
+  "participants": 97811,
+  "population": "Copenhagen City Heart Study, Copenhagen General Population Study and Danish General Suburban Population Study, white adults of Danish descent aged 20 years or more; meta-analysis with five Northern European studies",
+  "funder": "Cohorts funded by the Danish Heart Foundation, Danish Council for Independent Research, Herlev Hospital, Copenhagen County Foundation, Chief Physician Johan Boserup and Lise Boserup's Fund, Region Zealand Foundation, Naestved Hospital Foundation, Edith and Henrik Henriksen's Memorial Scholarship, TrygFonden, Johannes Fog's Foundation, Region Zealand, the National Board of Health and the Local Government Denmark Foundation. The first author's PhD project was partly funded by the Danish Dairy Research Foundation (Mejeribrugets ForskningsFond). None of the funding sources was involved in design, conduct, data handling, analysis, interpretation, manuscript preparation or the decision to submit. The foundation's 2025-2026 call (mejeri.dk) describes it as supporting pre-competitive research for the competitiveness of dairy companies, with a secretariat at Landbrug & Fødevarer and Mejeriforeningen.",
+  "funderRole": "none",
+  "authorConflicts": "HKM Bergholdt reports a grant from the Danish Dairy Research Foundation.",
+  "dataAccess": "unknown",
+  "result": "LCT-13910 C/T (rs4988235), within intron 13 of MCM6, as instrument. Each T allele: 0.58 (95% CI 0.49 to 0.68) more glasses of milk per week; hip fracture HR 1.01 (0.94 to 1.09). Observational HR for hip fracture per glass/week 1.00 (0.99 to 1.01). Meta-analysis with Northern European studies: any fracture OR 0.86 (0.61 to 1.21) for TT versus CC; femoral neck BMD standardised mean difference 0.10 (0.02 to 0.18) for TT versus CC; lumbar spine and total hip BMD did not differ.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20230605114737/https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/joim.12753"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Proton pump inhibitors therapy and risk of Clostridium difficile infection: systematic review and meta-analysis",
+  "authors": "Trifan A, Stanciu C, Girleanu I, Stoica OC, Singeap AM, Maxim R, et al.",
+  "journal": "World Journal of Gastroenterology",
+  "year": 2017,
+  "doi": "10.3748/wjg.v23.i35.6500",
+  "pmid": "29085200",
+  "design": "meta-analysis",
+  "participants": 356683,
+  "population": "56 observational studies (40 case-control, 16 cohort) in adults, searched January 1990 to March 2017",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors deny any conflict of interest.",
+  "dataAccess": "summary",
+  "result": "PPI users against non-users: pooled OR for C. difficile infection 1.99 (95% CI 1.73 to 2.30); case-control 2.00 (1.68 to 2.38), cohort 1.98 (1.51 to 2.59); adjusted 1.95 (1.67 to 2.27); age 65 or older 1.93 (1.40 to 2.68), younger 2.06 (1.11 to 3.81). Heterogeneity I2 85.4%. The abstract reports funnel-plot asymmetry (P = 0.002) indicating publication bias, whereas the results section reports a non-significant Egger test (Z = 0.3699, P = 0.711).",
+  "class": "undetermined",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5643276/fullTextXML"
+}

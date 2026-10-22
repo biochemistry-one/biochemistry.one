@@ -1,0 +1,19 @@
+{
+  "title": "Soft drinks, fructose consumption, and the risk of gout in men: prospective cohort study",
+  "authors": "Choi HK, Curhan G",
+  "journal": "BMJ",
+  "year": 2008,
+  "doi": "10.1136/bmj.39449.819271.BE",
+  "pmid": "18244959",
+  "design": "cohort",
+  "participants": 46393,
+  "followUp": "12 years",
+  "population": "Men in the Health Professionals Follow-up Study without gout at baseline",
+  "funder": "This work was supported in part by grants from the National Institutes of Health (DK58573, AA11181, HL35464, and CA55075) and TAP Pharmaceuticals. The funding sources had no role in the design, conduct, or reporting of the study or in the decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "None declared.",
+  "dataAccess": "summary",
+  "result": "755 incident cases of gout. Sugar-sweetened soft drinks, 2 or more servings per day against less than 1 per month: multivariate relative risk 1.85 (95% CI 1.08 to 3.16); 16 cases in 7392 person-years against 279 cases in 158,891 person-years. Highest against lowest fifth of free fructose intake: 2.02 (1.49 to 2.75). Diet soft drinks were not associated with gout (P for trend 0.99).",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2234536/"
+}

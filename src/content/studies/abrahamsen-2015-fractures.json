@@ -1,0 +1,18 @@
+{
+  "title": "The excess risk of major osteoporotic fractures in hypothyroidism is driven by cumulative hyperthyroid as opposed to hypothyroid time: an observational register-based time-resolved cohort analysis",
+  "authors": "Abrahamsen B, Jørgensen HL, Laulund AS, Nybo M, Bauer DC, Brix TH, et al.",
+  "journal": "Journal of Bone and Mineral Research",
+  "year": 2015,
+  "doi": "10.1002/jbmr.2416",
+  "pmid": "25431028",
+  "design": "cohort",
+  "participants": 230552,
+  "followUp": "mean 7.2 years",
+  "population": "Danish adults with a first TSH above 4.0 mIU/l (n = 8414) or a normal TSH (n = 222,138, comparator), all measured in one laboratory serving all hospitals and general practices",
+  "funder": "Funding statement not read: the publisher's full text and PDF returned HTTP 403 to automated access, and no repository copy was found.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Elevated baseline TSH was not associated with hip fracture (HR 0.90, 95% CI 0.80 to 1.02) or major osteoporotic fracture (HR 0.97, 0.90 to 1.05), and thyroxine prescription did not predict fracture. Each 6-month period with low TSH after the index date, suggesting excessive thyroxine dosing, increased the risk of hip fracture (HR 1.09, 1.04 to 1.15) and major osteoporotic fracture (HR 1.10, 1.06 to 1.14); hyperthyroid time predicted fracture in postmenopausal women and hypothyroid time in men below age 75. Results read from the PubMed abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jbmr.2416"
+}

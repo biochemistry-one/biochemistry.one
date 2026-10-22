@@ -1,0 +1,19 @@
+{
+  "title": "Long-term proton pump inhibitor-acid suppressive treatment can cause vitamin B12 deficiency in Zollinger-Ellison syndrome (ZES) patients",
+  "authors": "Ito T, Ramos-Alvarez I, Jensen RT",
+  "journal": "International Journal of Molecular Sciences",
+  "year": 2024,
+  "doi": "10.3390/ijms25137286",
+  "pmid": "39000391",
+  "design": "cohort",
+  "participants": 175,
+  "followUp": "mean 10.2 years of acid treatment, 5.6 years with PPIs",
+  "population": "Patients with Zollinger-Ellison syndrome on long-term antisecretory treatment with measured drug-controlled gastric acid output",
+  "funder": "This research was partially supported by the NIDDK intramural program (NIDDK #DK053200-26) of the NIH.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare that they have no conflicts of interest.",
+  "dataAccess": "individual",
+  "result": "21% had vitamin B12 deficiency. Deficiency was associated with a 12-fold lower drug-controlled acid output and a control pH of 6.4 against 3.7, and acid control secretory rates below those required for pepsin activation, which fails above pH 3.5; achlorhydria over 5 years in 73% against 24%. Food B12 is released from protein by pepsin, binds haptocorrin, is freed by pancreatic proteases and binds intrinsic factor for uptake in the terminal ileum. Mean PPI dose 60 mg omeprazole equivalent daily; 71% took more than one dose a day.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11242121/"
+}

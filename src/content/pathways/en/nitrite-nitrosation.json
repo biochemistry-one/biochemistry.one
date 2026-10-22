@@ -1,0 +1,51 @@
+{
+  "title": "Nitrosation of dimethylamine by nitrite and activation of NDMA",
+  "layout": "chain",
+  "compartment": "Gastric lumen, then hepatocyte endoplasmic reticulum and nucleus",
+  "steps": [
+    {
+      "from": "Nitrite (NO2−)",
+      "to": "Nitrous acid (HNO2)",
+      "enzyme": "Protonation by gastric acid, non-enzymatic",
+      "reversible": true,
+      "note": "pKa 3.3 to 3.4; about half of gastric nitrite is protonated"
+    },
+    {
+      "from": "Nitrous acid (HNO2)",
+      "to": "Dinitrogen trioxide (N2O3)",
+      "enzyme": "Acid-catalysed condensation of two HNO2, non-enzymatic",
+      "reversible": true,
+      "note": "Nitrosation rate rises with the square of nitrite; N2O3 also yields NO and NO2"
+    },
+    {
+      "from": "Dinitrogen trioxide (N2O3)",
+      "to": "N-Nitrosodimethylamine (NDMA)",
+      "enzyme": "N-Nitrosation, non-enzymatic",
+      "cofactors": ["Dimethylamine, unprotonated"],
+      "inhibitors": [
+        {"name": "Ascorbate", "page": "additives/ascorbic-acid"},
+        {"name": "Erythorbate"}
+      ],
+      "note": "Secondary amines give stable nitrosamines; primary amines decompose to N2"
+    },
+    {
+      "from": "N-Nitrosodimethylamine (NDMA)",
+      "to": "α-Hydroxydimethylnitrosamine",
+      "enzyme": "Cytochrome P450 2E1 (CYP2E1), α-hydroxylation",
+      "cofactors": ["O2", "NADPH via cytochrome P450 reductase"],
+      "note": "Mainly hepatic; competing CYP2E1 denitrosation yields methylamine"
+    },
+    {
+      "from": "α-Hydroxydimethylnitrosamine",
+      "to": "Methyldiazonium ion",
+      "enzyme": "Spontaneous decomposition",
+      "note": "Also yields formaldehyde"
+    },
+    {
+      "from": "Methyldiazonium ion",
+      "to": "O6-Methylguanine in DNA",
+      "enzyme": "Non-enzymatic methylation of guanine",
+      "note": "Unrepaired, it causes G to A transitions; MGMT removes the methyl group"
+    }
+  ]
+}

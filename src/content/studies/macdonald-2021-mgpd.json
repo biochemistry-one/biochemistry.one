@@ -1,0 +1,17 @@
+{
+  "title": "Metformin's Therapeutic Efficacy in the Treatment of Diabetes Does Not Involve Inhibition of Mitochondrial Glycerol Phosphate Dehydrogenase",
+  "authors": "MacDonald MJ, Ansari IH, Longacre MJ, Stoker SW",
+  "journal": "Diabetes",
+  "year": 2021,
+  "doi": "10.2337/db20-1143",
+  "pmid": "33849997",
+  "design": "in-vitro",
+  "population": "Whole-cell homogenates and isolated mitochondria from rat liver, the INS-1 832/13 insulinoma beta-cell line and the human liver cell line Huh 7.5",
+  "funder": "This work was supported by the Nowlin Family Trust of the InFaith Community Foundation and the estate of the late Ramona Garde.",
+  "funderRole": "none",
+  "authorConflicts": "No potential conflicts of interest relevant to this article were reported.",
+  "dataAccess": "summary",
+  "result": "Four different enzyme assays were used to retest the claim that metformin inhibits mitochondrial glycerol phosphate dehydrogenase (mGPD) by 30% to 50%. Metformin at 10 micromol/L to 1 mmol/L and phenformin at 250 micromol/L to 10 mmol/L produced no inhibition of mGPD in homogenates or mitochondria from insulin-secreting or liver cells, in a timed-and-stopped assay at a saturating glycerol phosphate concentration of 25 mmol/L, in three continuous spectrophotometric assays, or at 200 micromol/L glycerol phosphate, near the enzyme's Km of 400 micromol/L, where competitive inhibition would have been detectable. The authors set out the tissue distribution of mGPD: liver has the lowest activity and protein level of ten tissues, while the pancreatic islet level is 30- to 60-fold higher than liver, brown adipose tissue up to 250-fold, skeletal muscle up to 67-fold, brain up to 23-fold and testis 11- to 25-fold. Liver and beta cells also possess the malate-aspartate redox shuttle, which is far more active in liver and redundant with the glycerol phosphate shuttle; in their total-body mGPD knockout mouse the hepatic lactate to pyruvate and glycerol phosphate to dihydroxyacetone phosphate ratios are normal with no or minimal hepatic metabolic changes, insulin secretion is normal unless the malate-aspartate shuttle is also inhibited, and male fertility is markedly decreased. In another knockout, glycerol phosphate and the lactate to pyruvate ratio are normal in liver but threefold higher in skeletal muscle. The authors argue that if metformin did inhibit mGPD, adverse effects would be expected in tissues where mGPD is far more abundant than in liver.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240916050335/https://diabetesjournals.org/diabetes/article/70/7/1575/137852/Metformin-s-Therapeutic-Efficacy-in-the-Treatment"
+}

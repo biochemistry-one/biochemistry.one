@@ -1,0 +1,19 @@
+{
+  "title": "Use of high potency statins and rates of admission for acute kidney injury: multicenter, retrospective observational analysis of administrative databases",
+  "authors": "Dormuth CR, Hemmelgarn BR, Paterson JM, James MT, Teare GF, Raymond CB, et al.",
+  "journal": "BMJ",
+  "year": 2013,
+  "doi": "10.1136/bmj.f880",
+  "pmid": "23511950",
+  "design": "case-control",
+  "participants": 2067639,
+  "followUp": "up to two years after starting a statin",
+  "population": "Patients aged 40 or older newly treated with statins in 1997 to 2008 in six Canadian provinces, the UK General Practice Research Database and a US Medicare database (CNODES); nested case-control analyses with ten controls per case",
+  "funder": "CNODES is funded by a grant from Health Canada, the Drug Safety and Effectiveness Network, and the Canadian Institutes for Health Research that oversaw the peer review and funding process.",
+  "funderRole": "unknown",
+  "authorConflicts": "One author reported consultancy and speaker fees from AstraZeneca, Boehringer Ingelheim, Merck and Nycomed and a research grant from Boehringer Ingelheim; one reported consultancy fees from Oxford Outcomes.",
+  "dataAccess": "individual",
+  "result": "High potency statins were defined as rosuvastatin 10 mg or more, atorvastatin 20 mg or more and simvastatin 40 mg or more. In patients without chronic kidney disease, current users of high potency statins were 34% more likely to be admitted with acute kidney injury in the first 120 days than users of low potency statins (rate ratio 1.34, 95% CI 1.25 to 1.43); in patients with chronic kidney disease 1.10 (0.99 to 1.23). The authors estimate that 1700 patients without chronic kidney disease treated with a high rather than a low potency statin for 120 days cause one additional admission for acute kidney injury. Six-month risk of admission on low potency statins was 1.0 to 4.0 per 1000 in patients without chronic kidney disease and 10 to 63 per 1000 in those with it.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250706092340/https://www.bmj.com/content/346/bmj.f880"
+}

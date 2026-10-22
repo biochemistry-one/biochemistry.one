@@ -1,0 +1,15 @@
+{
+  "title": "−13915*G DNA polymorphism associated with lactase persistence in Africa interacts with Oct-1",
+  "authors": "Olds LC, Ahn JK, Sibley E",
+  "journal": "Human Genetics",
+  "year": 2011,
+  "doi": "10.1007/s00439-010-0898-0",
+  "pmid": "20960210",
+  "design": "in-vitro",
+  "funder": "National Institute of Diabetes and Digestive and Kidney Diseases grants DK60074 and DK60715.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Lactase persistence is autosomal dominant and correlated with SNPs about 14 kb upstream of LCT. In transfected cells the SNP-region DNA acts as a cis element that enhances lactase promoter activity; the -13907*G and -13910*T region sequences interact with the transcription factor Oct-1, and EMSA and supershift show that -13915*G does too. Oct-1 binding remains a candidate interaction in lactase persistence.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3044188/"
+}

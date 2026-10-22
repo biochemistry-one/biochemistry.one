@@ -1,0 +1,18 @@
+{
+  "title": "GLP-1 receptor expression within the human heart",
+  "authors": "Baggio LL, Yusta B, Mulvihill EE, Cao X, Streutker CJ, Butany J, et al.",
+  "journal": "Endocrinology",
+  "year": 2018,
+  "doi": "10.1210/en.2018-00004",
+  "pmid": "29444223",
+  "design": "mechanistic",
+  "participants": 15,
+  "population": "Fifteen human hearts, human pancreas, Brunner's glands and cultured human cardiac fibroblasts, coronary endothelial and vascular smooth muscle cells",
+  "funder": "Supported by CIHR Foundation Grant 154321, the Canada Research Chairs Program, the Banting and Best Diabetes Centre Novo Nordisk Chair in Incretin Biology, and a grant from Novo Nordisk in support of the cardiovascular mechanisms of GLP-1 action, all to D.J.D.",
+  "funderRole": "unknown",
+  "authorConflicts": "D.J.D. reported advisory or consulting roles with Arisaph, Intarcia, Merck, Novo Nordisk and Pfizer within the previous 12 months.",
+  "dataAccess": "summary",
+  "result": "Full-length GLP1R mRNA transcripts were detected in all four cardiac chambers of 15 hearts at levels approximating those in human pancreas, and by in situ hybridisation in sinoatrial node tissue; transcripts were absent from cultured cardiac fibroblasts, coronary endothelial and vascular smooth muscle cells. The ventricular cell types that translate the receptor could not be identified; validated antisera lacked sensitivity to detect endogenous receptor protein by Western blotting.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5939638/"
+}

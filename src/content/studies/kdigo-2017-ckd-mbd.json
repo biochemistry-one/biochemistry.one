@@ -1,0 +1,16 @@
+{
+  "title": "KDIGO 2017 Clinical Practice Guideline Update for the Diagnosis, Evaluation, Prevention, and Treatment of Chronic Kidney Disease–Mineral and Bone Disorder (CKD-MBD)",
+  "authors": "Kidney Disease: Improving Global Outcomes (KDIGO) CKD-MBD Update Work Group",
+  "journal": "Kidney International Supplements",
+  "year": 2017,
+  "doi": "10.1016/j.kisu.2017.04.001",
+  "pmid": "30675420",
+  "design": "guideline",
+  "funder": "not stated; the guideline was published by KDIGO, which contracted the Johns Hopkins University as Evidence Review Team.",
+  "funderRole": "unknown",
+  "authorConflicts": "Ten of the 12 Work Group members declared consultancies, speaker fees or research grants from companies including Amgen, Keryx, Fresenius Medical Care, Shire, AbbVie, Sanofi, Bayer Japan and Kyowa Hakko Kirin; two declared no competing interests.",
+  "dataAccess": "summary",
+  "result": "Recommendation 4.1.8: 'In patients with CKD G3a–G5D, we suggest limiting dietary phosphate intake in the treatment of hyperphosphatemia alone or in combination with other treatments (2D). It is reasonable to consider phosphate source (e.g., animal, vegetable, additives) in making dietary recommendations (Not Graded).' The rationale states that food additives contain inorganic phosphate, which is more readily absorbed and likely to be underreported in nutrient databases, and that efforts to restrict dietary phosphate must not compromise adequate protein intake. A 2017 erratum (doi 10.1016/j.kisu.2017.10.001) corrected Supplementary Table S21 only.",
+  "class": "consensus",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6340919/fullTextXML"
+}

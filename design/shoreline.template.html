@@ -1,0 +1,524 @@
+<title>Atlas of Human Biochemistry</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700;800&family=Manrope:wght@400..800&family=Sofia+Sans:ital,wght@0,300..900;1,400..600&family=Noto+Sans+SC:wght@400;500;700&display=swap">
+<style>
+/* layout: a sky-to-sand hero, a lagoon panel for the map, familiar-object entry cards, then one friendly reading column */
+/*TOKENS*/
+
+:root {
+  --f-display: "M PLUS Rounded 1c", var(--cjk-sans), system-ui, sans-serif;
+  --f-text: "Manrope", var(--cjk-sans), system-ui, sans-serif;
+  --f-label: "Manrope", var(--cjk-sans), system-ui, sans-serif;
+  --f-map: "M PLUS Rounded 1c", var(--cjk-sans), system-ui, sans-serif;
+  --cjk-sans: "M PLUS Rounded 1c";
+  --display-weight: 800;
+  --radius: 22px;
+  --measure: 66ch;
+}
+
+:root[data-type="sofia"] {
+  --f-display: "Sofia Sans", var(--cjk-sans), system-ui, sans-serif;
+  --f-text: "Sofia Sans", var(--cjk-sans), system-ui, sans-serif;
+  --f-label: "Sofia Sans", var(--cjk-sans), system-ui, sans-serif;
+  --f-map: "Sofia Sans", var(--cjk-sans), system-ui, sans-serif;
+  --display-weight: 800;
+}
+:root[data-type="manrope"] {
+  --f-display: "Manrope", var(--cjk-sans), system-ui, sans-serif;
+  --f-map: "Manrope", var(--cjk-sans), system-ui, sans-serif;
+  --display-weight: 800;
+}
+
+:lang(ja) { --cjk-sans: "M PLUS Rounded 1c"; }
+:lang(zh-Hans) { --cjk-sans: "Noto Sans SC"; }
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 400 1.0625rem/1.65 var(--f-text);
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent); text-underline-offset: .2em; text-decoration-thickness: 1.5px; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; border-radius: 6px; }
+h1, h2, h3 { font-family: var(--f-display); font-weight: var(--display-weight); line-height: 1.12; text-wrap: balance; margin: 0; }
+.wrap { max-width: 1320px; margin-inline: auto; padding-inline: 16px; }
+@media (min-width: 720px) { .wrap { padding-inline: 32px; } }
+
+.studio { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 30; background: var(--tool-bg); color: var(--tool-fg); font: 600 .8125rem/1.2 system-ui, sans-serif; }
+.studio-inner { display: flex; flex-wrap: wrap; gap: 8px 22px; align-items: center; padding-block: 9px; }
+.studio fieldset { border: 0; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 4px; align-items: center; }
+.studio legend { float: left; margin-right: 8px; opacity: .75; }
+.studio input { position: absolute; opacity: 0; pointer-events: none; }
+.studio label { padding: 5px 11px; border-radius: 999px; cursor: pointer; border: 1px solid color-mix(in srgb, var(--tool-fg) 30%, transparent); }
+.studio input:checked + label { background: var(--tool-active); color: var(--tool-active-fg); border-color: var(--tool-active); }
+.studio input:focus-visible + label { outline: 2px solid var(--tool-fg); outline-offset: 2px; }
+
+.hero { position: relative; color: var(--hero-text); background: linear-gradient(180deg, var(--sky-top) 0%, var(--sky) 20%, var(--horizon) 56%, var(--sea) 56.6%, var(--sea-2) 66%, var(--lagoon) 73%, var(--shallow) 82%, var(--shallow-2) 88%, var(--foam) 95%, var(--paper) 100%); overflow: hidden; }
+.hero-clouds { position: absolute; inset: 0; pointer-events: none; }
+.hero-clouds svg { position: absolute; fill: #ffffff; opacity: .92; }
+.cloud-a { width: 260px; left: 6%; top: 74px; }
+.cloud-b { width: 180px; right: 10%; top: 40px; opacity: .7 !important; }
+.cloud-c { width: 120px; right: 34%; top: 150px; opacity: .6 !important; }
+.site-header { position: relative; z-index: 2; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px 28px; padding-block: 18px; align-items: center; }
+.site-name { display: inline-flex; align-items: center; gap: 10px; font: 800 1.15rem/1.1 var(--f-display); color: inherit; text-decoration: none; }
+.site-name svg { width: 30px; height: 30px; }
+.site-nav ul, .languages ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 4px 6px; }
+.site-nav a { display: inline-block; padding: 6px 12px; border-radius: 999px; font: 700 .92rem var(--f-label); color: inherit; text-decoration: none; }
+.site-nav a:hover { background: rgba(255, 255, 255, .34); }
+.languages { width: 100%; }
+.languages a, .languages span { display: inline-block; padding: 3px 9px; border-radius: 999px; font: 600 .82rem var(--f-label); color: inherit; text-decoration: none; opacity: .88; }
+.languages [aria-current] { background: rgba(255, 255, 255, .42); opacity: 1; }
+@media (min-width: 1000px) { .languages { width: auto; } }
+
+.hero-body { position: relative; z-index: 2; padding-block: 48px 230px; display: grid; gap: 22px; max-width: 900px; }
+.hero h1 { font-size: clamp(2.6rem, 7vw, 5.4rem); letter-spacing: -.01em; }
+.hero-lede { font: 600 clamp(1.1rem, 2.2vw, 1.4rem)/1.45 var(--f-text); max-width: 40ch; margin: 0; }
+.hero-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 6px; }
+.button { display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; border-radius: 999px; font: 800 1rem var(--f-label); text-decoration: none; }
+.button-primary { background: #ffffff; color: #003a4d; box-shadow: 0 6px 18px rgba(0, 90, 140, .22); }
+.button-quiet { background: rgba(255, 255, 255, .3); color: inherit; border: 2px solid rgba(255, 255, 255, .85); }
+.hero-wave { position: absolute; left: 0; right: 0; bottom: -1px; height: 90px; width: 100%; }
+.hero-wave path { fill: var(--paper); }
+.hero-foam path { fill: none; stroke: rgba(255, 255, 255, .7); stroke-width: 3; }
+@media (prefers-reduced-motion: no-preference) {
+  .hero-foam { animation: drift 9s ease-in-out infinite alternate; }
+  @keyframes drift { from { transform: translateX(-24px); } to { transform: translateX(24px); } }
+}
+
+.journeys { padding-block: 26px 10px; }
+.section-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 8px 24px; margin-bottom: 18px; }
+.section-head h2 { font-size: clamp(1.7rem, 3.4vw, 2.4rem); }
+.section-head p { margin: 0; color: var(--ink-2); max-width: 52ch; }
+.journey-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); }
+.journey { position: relative; display: grid; grid-template-columns: 76px minmax(0, 1fr); gap: 14px; padding: 18px 18px 18px 16px; border-radius: var(--radius); color: var(--card-ink); text-decoration: none; background: var(--card-sky); transition: transform .18s ease, box-shadow .18s ease; }
+.journey:nth-child(4n+2) { background: var(--card-sand); }
+.journey:nth-child(4n+3) { background: var(--card-lagoon); }
+.journey:nth-child(4n) { background: var(--card-shallow); }
+.journey:hover { transform: translateY(-3px); box-shadow: 0 10px 24px rgba(0, 110, 150, .2); }
+.journey svg { width: 76px; height: 76px; padding: 6px; border-radius: 18px; background: rgba(255, 255, 255, .55); }
+.journey h3 { font-size: 1.12rem; margin-bottom: 4px; }
+.journey p { margin: 0; font-size: .95rem; color: var(--card-ink); line-height: 1.5; }
+.journey-path { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 10px !important; }
+.journey-path span { padding: 2px 9px; border-radius: 999px; background: color-mix(in srgb, var(--paper) 72%, transparent); font: 700 .78rem var(--f-label); color: var(--card-ink); }
+@media (prefers-reduced-motion: reduce) { .journey { transition: none; } .journey:hover { transform: none; } }
+
+.map-section { padding-block: 48px 10px; }
+.map-band { padding-block: 34px; border-image: linear-gradient(180deg, var(--band-top), var(--band-bottom)) fill 0 / / 0 100vw; }
+.map-panel { border-radius: calc(var(--radius) + 6px); background: var(--map-bg); overflow: hidden; box-shadow: 0 14px 36px rgba(20, 70, 100, .1); }
+.map-panel-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 20px; padding: 14px 20px; font: 600 .92rem var(--f-label); color: var(--ink-2); }
+.metabolic-map { overflow-x: auto; overscroll-behavior-x: contain; }
+.metabolic-map-svg { display: block; width: 100%; min-width: 980px; height: auto; }
+.map-readout { margin: 0; min-height: 1.6em; padding: 12px 20px; font: 600 .95rem var(--f-label); color: var(--ink-2); border-top: 1.5px solid var(--rule); }
+.map-readout b { color: var(--ink); }
+.legend { list-style: none; margin: 0; padding: 0 20px 18px; display: flex; flex-wrap: wrap; gap: 8px 10px; font: 600 .82rem var(--f-label); color: var(--ink-2); }
+.legend li { display: inline-flex; align-items: center; gap: 7px; padding: 4px 10px 4px 8px; border-radius: 999px; background: var(--paper-2); }
+.legend svg { width: 24px; height: 10px; overflow: visible; }
+
+.map-grid-ref { font: 700 11px var(--f-map); fill: var(--ink-3); }
+.map-grid-tick { stroke: var(--rule); }
+.map-compartment-outer { fill: var(--mito-fill); stroke: var(--mito-line); stroke-width: 2; }
+.map-compartment-inner { fill: none; stroke: var(--mito-line); stroke-width: 1; stroke-dasharray: 2 4; stroke-linecap: round; }
+.map-compartment-er .map-compartment-outer { fill: var(--er-fill); stroke: var(--er-line); }
+.map-compartment-er .map-compartment-inner { stroke: var(--er-line); }
+.map-compartment-label { font: 800 13px var(--f-map); fill: var(--ink-3); }
+.map-family-carbohydrate { --family: var(--c-carbohydrate); }
+.map-family-lipid { --family: var(--c-lipid); }
+.map-family-energy { --family: var(--c-energy); }
+.map-family-amino { --family: var(--c-amino); }
+.map-family-one-carbon { --family: var(--c-one-carbon); }
+.map-family-xenobiotic { --family: var(--c-xenobiotic); }
+.map-arrowhead-carbohydrate { fill: var(--c-carbohydrate); }
+.map-arrowhead-lipid { fill: var(--c-lipid); }
+.map-arrowhead-energy { fill: var(--c-energy); }
+.map-arrowhead-amino { fill: var(--c-amino); }
+.map-arrowhead-one-carbon { fill: var(--c-one-carbon); }
+.map-arrowhead-xenobiotic { fill: var(--c-xenobiotic); }
+.map-edge { stroke: var(--family); stroke-width: 2.2; stroke-linecap: round; fill: none; transition: stroke-width .15s; }
+.map-edge-back { stroke-dasharray: 1 5; stroke-width: 2.4; }
+.map-edge-label { font: 700 10.5px var(--f-map); fill: var(--ink-2); }
+.map-pathway-title { font: 800 14px var(--f-map); fill: var(--family); }
+.map-node-label { font: 500 13px var(--f-map); fill: var(--ink); paint-order: stroke; stroke: var(--map-bg); stroke-width: 5px; stroke-linejoin: round; }
+.map-compartment-mitochondrion ~ * .map-node-label { stroke: var(--mito-fill); }
+.map-node-dot { fill: var(--c-energy); }
+.map-complex { fill: var(--map-bg); stroke: var(--c-energy); stroke-width: 1.6; }
+.map-inhibitor-bar { stroke: var(--inhibitor); stroke-width: 4; stroke-linecap: round; }
+.map-inhibitor-label { font: 800 12px var(--f-map); fill: var(--inhibitor); }
+.map-inhibitor-debated .map-inhibitor-bar { stroke-dasharray: 2 3; }
+.map-pathway { transition: opacity .15s; }
+.map-pathway:focus-visible { outline: none; }
+.metabolic-map:has(.map-pathway:is(:hover, :focus-visible)) .map-pathway:not(:hover, :focus-visible) { opacity: .16; }
+.map-pathway:is(:hover, :focus-visible) .map-edge { stroke-width: 3.6; }
+
+.sections { padding-block: 52px 6px; display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); }
+.section-tile { padding: 22px 22px 18px; border-radius: var(--radius); background: var(--map-bg); border-top: 8px solid var(--card-sky); box-shadow: 0 8px 22px rgba(120, 80, 30, .08); }
+.section-tile:nth-child(2) { border-top-color: var(--card-lagoon); }
+.section-tile:nth-child(3) { border-top-color: var(--sand-deep); }
+.section-tile:nth-child(4) { border-top-color: var(--card-shallow); }
+.section-tile h2 { font-size: 1.45rem; margin-bottom: 4px; }
+.section-tile h2 a { color: var(--ink); text-decoration: none; }
+.section-tile h2 a:hover { color: var(--accent); }
+.section-tile > p { margin: 0 0 12px; color: var(--ink-2); font-size: .95rem; line-height: 1.5; }
+.section-tile ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.section-tile li a { display: inline-block; padding: 4px 11px; border-radius: 999px; background: var(--paper-2); font: 600 .86rem var(--f-label); color: var(--ink); text-decoration: none; }
+.section-tile li a:hover { border-color: var(--accent); color: var(--accent); }
+.section-tile .count { font: 800 .8rem var(--f-label); color: var(--accent); margin-bottom: 8px; }
+
+.reading { display: grid; gap: 0 56px; padding-block: 64px 24px; }
+@media (min-width: 1100px) { .reading { grid-template-columns: minmax(0, 1fr) 300px; } }
+.crumb { display: inline-block; font: 800 .85rem var(--f-label); color: var(--accent); text-decoration: none; margin-bottom: 10px; }
+.reading h1 { font-size: clamp(2.1rem, 4.4vw, 3.3rem); margin-bottom: 22px; max-width: 18ch; }
+.summary { position: relative; max-width: var(--measure); margin-bottom: 34px; padding: 20px 24px; border-radius: var(--radius); background: var(--card-sky); color: var(--card-ink); }
+.summary-label { font: 800 .85rem var(--f-label); color: var(--card-ink); margin: 0 0 4px; }
+.summary p:last-child { margin: 0; font: 600 1.15rem/1.55 var(--f-text); }
+.article-body { max-width: var(--measure); }
+.article-body h2 { font-size: 1.6rem; margin: 2.1em 0 .55em; }
+.article-body p { margin: 0 0 1em; }
+.article-body table { display: block; overflow-x: auto; border-collapse: separate; border-spacing: 0; margin: 1.2em 0 1.6em; font: 400 .92rem/1.45 var(--f-label); border: 1.5px solid var(--rule); border-radius: 16px; }
+.article-body th, .article-body td { text-align: left; vertical-align: top; padding: 10px 14px; border-bottom: 1px solid var(--rule); }
+.article-body tr:last-child td { border-bottom: 0; }
+.article-body th { font-weight: 800; background: var(--paper-2); }
+.article-body td:first-child { font-weight: 700; white-space: nowrap; }
+
+.cites { font: 800 .66em/0 var(--f-label); vertical-align: .6em; margin-left: .15em; white-space: nowrap; }
+.cite { display: inline-flex; align-items: center; gap: .3em; margin-right: .18em; padding: .32em .55em .32em .45em; border-radius: 999px; background: color-mix(in srgb, var(--k) 14%, var(--paper)); color: var(--ink); text-decoration: none; line-height: 1; }
+.cite:hover { background: color-mix(in srgb, var(--k) 28%, var(--paper)); }
+.cite::before, .class-marker, .layer-label::before { content: ""; display: inline-block; width: .8em; height: .8em; background: var(--k); flex: none; }
+.cite-independent, .class-independent, .reference-independent { --k: var(--k-independent); }
+.cite-industry, .class-industry, .reference-industry, .layer-industry { --k: var(--k-industry); }
+.cite-regulatory, .class-regulatory, .reference-regulatory { --k: var(--k-regulatory); }
+.cite-consensus, .class-consensus, .reference-consensus, .layer-consensus { --k: var(--k-consensus); }
+.cite-reference, .class-reference, .reference-reference { --k: var(--k-reference); }
+.cite-undetermined, .class-undetermined, .reference-undetermined, .layer-unresolved { --k: var(--k-undetermined); }
+.cite-independent::before, .class-independent { border-radius: 50%; }
+.cite-industry::before, .class-industry, .layer-industry .layer-label::before { border-radius: 2px; }
+.cite-regulatory::before, .class-regulatory { transform: rotate(45deg) scale(.8); border-radius: 1px; }
+.cite-consensus::before, .class-consensus, .layer-consensus .layer-label::before { clip-path: polygon(50% 4%, 100% 96%, 0 96%); }
+.cite-reference::before, .class-reference { background: transparent; border: 2px solid var(--k); border-radius: 50%; }
+.cite-undetermined::before, .class-undetermined, .layer-unresolved .layer-label::before { background: transparent; border: 2px dashed var(--k); border-radius: 50%; }
+
+.layer { margin: 1.9em 0; padding: 18px 22px 6px; border-radius: var(--radius); background: color-mix(in srgb, var(--k) 10%, var(--paper)); border: 1.5px solid color-mix(in srgb, var(--k) 34%, transparent); }
+.layer-industry { background-image: repeating-linear-gradient(135deg, color-mix(in srgb, var(--k) 7%, transparent) 0 8px, transparent 8px 16px); }
+.layer-consensus { border-style: double; border-width: 4px; }
+.layer-unresolved { border-style: dashed; }
+.layer-label { display: flex; align-items: center; gap: 9px; font: 800 .9rem var(--f-label); color: var(--ink); margin: 0 0 8px !important; }
+.layer p { font-size: .99rem; }
+
+.side { font: 500 .92rem/1.5 var(--f-label); color: var(--ink-2); }
+@media (min-width: 1100px) { .side-inner { position: sticky; top: 70px; } }
+.side-card { padding: 18px 20px; border-radius: var(--radius); background: var(--paper-2); border: 1.5px solid var(--rule); margin-bottom: 14px; }
+.side h2 { font: 800 1rem var(--f-display); color: var(--ink); margin: 0 0 12px; }
+.key { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.key li { display: grid; grid-template-columns: 20px minmax(0, 1fr); gap: 0 8px; }
+.key .class-marker { width: 12px; height: 12px; margin-top: 4px; }
+.key b { color: var(--ink); }
+.key span:last-child { grid-column: 2; }
+.layer-key { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.layer-key li { padding: 7px 12px; border-radius: 12px; background: var(--paper); border: 1.5px solid var(--rule); color: var(--ink); font-weight: 700; }
+.layer-key .k-industry { border-color: color-mix(in srgb, var(--k-industry) 40%, transparent); background-image: repeating-linear-gradient(135deg, color-mix(in srgb, var(--k-industry) 10%, transparent) 0 6px, transparent 6px 12px); }
+.layer-key .k-consensus { border: 4px double color-mix(in srgb, var(--k-consensus) 50%, transparent); }
+.layer-key .k-unresolved { border-style: dashed; border-color: var(--k-undetermined); }
+
+.references { max-width: var(--measure); margin-top: 52px; }
+.references h2 { font-size: 1.55rem; margin: 0 0 14px; }
+.reference-list { list-style: none; padding: 0; margin: 0; counter-reset: ref; display: grid; gap: 10px; }
+.reference { counter-increment: ref; position: relative; padding: 14px 18px 12px 54px; border-radius: 18px; background: var(--paper-2); font-size: .95rem; }
+.reference::before { content: counter(ref); position: absolute; left: 14px; top: 14px; width: 28px; height: 28px; display: grid; place-items: center; border-radius: 50%; background: var(--paper); font: 800 .82rem var(--f-label); color: var(--ink-2); }
+.reference p { margin: 0 0 3px; }
+.reference-class { display: flex; align-items: center; gap: 7px; font: 800 .8rem var(--f-label); color: var(--ink); }
+.reference-class .class-marker { width: 10px; height: 10px; }
+.reference-authors { color: var(--ink-2); }
+.reference-title { font-style: normal; font-weight: 700; }
+.reference-links { display: flex; flex-wrap: wrap; gap: 4px 14px; font: 600 .85rem var(--f-label); }
+.reference-details summary { cursor: pointer; font: 700 .85rem var(--f-label); color: var(--accent); margin-top: 6px; }
+.reference-facts { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 4px 14px; margin: 8px 0 4px; font: 400 .88rem/1.45 var(--f-label); }
+.reference-facts dt { color: var(--ink-3); font-weight: 700; }
+.reference-facts dd { margin: 0; }
+
+.figure-row { padding-block: 48px; display: grid; gap: 24px 48px; }
+@media (min-width: 1100px) { .figure-row { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
+.figure-row > section > h2 { font-size: 1.55rem; margin-bottom: 6px; }
+.figure-row > section > p { color: var(--ink-2); margin: 0 0 16px; max-width: 56ch; }
+
+.pathway { margin: 0; padding: 20px 22px 22px; border-radius: var(--radius); background: var(--card-sand); color: var(--ink); --family: var(--c-lipid); }
+.pathway-title { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 16px; font: 800 1.05rem var(--f-display); margin-bottom: 14px; }
+.pathway-compartment { font: 600 .85rem var(--f-label); color: var(--ink-2); }
+.pathway-sequence { list-style: none; margin: 0; padding: 0; }
+.pathway-metabolite { display: inline-block; padding: 5px 14px; border-radius: 999px; background: var(--paper); border: 2px solid var(--family); font: 700 .95rem/1.3 var(--f-label); }
+.pathway-reaction { position: relative; display: flex; flex-wrap: wrap; gap: 0 10px; align-items: baseline; padding: 8px 0 10px 34px; margin-left: 16px; font: 500 .85rem/1.35 var(--f-label); color: var(--ink-2); }
+.pathway-reaction::before { content: ""; position: absolute; left: 0; top: 0; bottom: 7px; border-left: 3px solid var(--family); border-radius: 2px; }
+.pathway-reaction::after { content: ""; position: absolute; left: -5px; bottom: 0; border: 6.5px solid transparent; border-top: 8px solid var(--family); border-bottom: 0; }
+.pathway-enzyme { color: var(--ink); font-weight: 700; }
+.pathway-inhibitors { display: inline-flex; gap: 8px; }
+.pathway-inhibitor { display: inline-flex; align-items: center; gap: 6px; padding: 1px 10px; border-radius: 999px; background: var(--inhibitor); color: #ffffff; font-weight: 800; text-decoration: none; }
+.pathway-reaction-inhibited::before { border-left-color: var(--inhibitor); }
+.pathway-note { flex-basis: 100%; color: var(--ink-3); font-style: italic; }
+
+.scripts { display: grid; gap: 12px; }
+.script { padding: 16px 20px; border-radius: var(--radius); background: var(--card-lagoon); color: var(--card-ink); }
+.script .script-meta { color: var(--card-ink) !important; }
+.script:nth-child(2) { background: var(--card-sky); }
+.script:nth-child(3) { background: var(--card-sand); }
+.script h3 { font-size: 1.3rem; margin: 0 0 6px; }
+.script p { margin: 0; }
+.script:lang(ja) p, .script:lang(zh-Hans) p { line-height: 1.9; letter-spacing: .02em; }
+.script-meta { font: 800 .78rem var(--f-label); color: var(--ink-2); margin-bottom: 4px !important; }
+
+.site-footer { margin-top: 40px; padding-block: 40px 56px; background: var(--sand); color: var(--ink); }
+.site-footer .wrap { display: flex; flex-wrap: wrap; gap: 8px 32px; font: 600 .92rem var(--f-label); }
+.site-footer p { margin: 0; }
+</style>
+
+<div class="studio" aria-label="Design controls">
+  <div class="wrap studio-inner">
+    <fieldset>
+      <legend>Colour</legend>
+      <input type="radio" name="scheme" id="scheme-shore" value="shore" checked><label for="scheme-shore">Shoreline</label>
+      <input type="radio" name="scheme" id="scheme-lagoon" value="lagoon"><label for="scheme-lagoon">Lagoon</label>
+      <input type="radio" name="scheme" id="scheme-sky" value="sky"><label for="scheme-sky">Open sky</label>
+    </fieldset>
+    <fieldset>
+      <legend>Type</legend>
+      <input type="radio" name="type" id="type-rounded" value="rounded" checked><label for="type-rounded">M PLUS Rounded and Manrope</label>
+      <input type="radio" name="type" id="type-sofia" value="sofia"><label for="type-sofia">Sofia Sans</label>
+      <input type="radio" name="type" id="type-manrope" value="manrope"><label for="type-manrope">Manrope</label>
+    </fieldset>
+  </div>
+</div>
+
+<div class="hero" id="top">
+  <div class="hero-clouds" aria-hidden="true">
+    <svg class="cloud-a" viewBox="0 0 260 90"><path d="M38 78c-20 0-34-11-34-26 0-14 12-25 28-26 4-15 19-26 37-26 13 0 24 5 31 14 6-4 13-6 21-6 21 0 38 14 40 32 3-1 6-1 9-1 22 0 40 13 40 30 0 5-2 9-5 13z"/></svg>
+    <svg class="cloud-b" viewBox="0 0 180 64"><path d="M26 58C12 58 2 50 2 39s9-19 21-19c3-11 14-19 27-19 10 0 18 4 23 11 4-2 9-3 14-3 15 0 27 10 29 23h4c17 0 30 9 30 21 0 2 0 3-1 5z"/></svg>
+    <svg class="cloud-c" viewBox="0 0 120 44"><path d="M18 40C8 40 1 35 1 27s7-13 16-13c2-7 9-13 18-13 7 0 12 3 15 8 3-1 6-2 9-2 10 0 18 7 19 15h3c11 0 20 6 20 14v4z"/></svg>
+  </div>
+  <div class="wrap">
+    <header class="site-header">
+      <a class="site-name" href="#top"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="10" fill="none" stroke="currentColor" stroke-width="3"/><circle cx="16" cy="6" r="4" fill="#fee5c7"/><circle cx="24.7" cy="21" r="4" fill="#5fc2c1"/><circle cx="7.3" cy="21" r="4" fill="#ffffff"/></svg>Atlas of Human Biochemistry</a>
+      <nav class="site-nav" aria-label="Sections">
+        <ul>
+          <li><a href="#map">Map</a></li>
+          <li><a href="#sections">Metabolism</a></li>
+          <li><a href="#sections">Medicines</a></li>
+          <li><a href="#sections">Foods</a></li>
+          <li><a href="#sections">Additives</a></li>
+          <li><a href="#article">How we grade evidence</a></li>
+        </ul>
+      </nav>
+      <nav class="languages" aria-label="Language">
+        <ul>
+          <li><span lang="en" aria-current="page">English</span></li>
+          <li><a href="#scripts" lang="ja">日本語</a></li>
+          <li><a href="#scripts" lang="zh-Hans">简体中文</a></li>
+          <li><a href="#scripts" lang="ru">Русский</a></li>
+          <li><a href="#scripts" lang="de">Deutsch</a></li>
+          <li><a href="#scripts" lang="es">Español</a></li>
+          <li><a href="#scripts" lang="fr">Français</a></li>
+        </ul>
+      </nav>
+    </header>
+    <div class="hero-body">
+      <h1>How your body works</h1>
+      <p class="hero-lede">Follow a cup of coffee, a slice of bread or a tablet into your cells, and see who paid for every study behind each fact.</p>
+      <div class="hero-actions">
+        <a class="button button-primary" href="#start">Start with something familiar</a>
+        <a class="button button-quiet" href="#map">Explore the map</a>
+      </div>
+    </div>
+  </div>
+  <svg class="hero-wave" viewBox="0 0 1440 90" preserveAspectRatio="none" aria-hidden="true">
+    <g class="hero-foam"><path d="M-40 40 C 160 10, 320 70, 520 42 S 880 12, 1080 44 S 1380 70, 1500 38"/></g>
+    <path d="M0 58 C 200 30, 360 86, 560 60 S 920 28, 1120 58 S 1360 86, 1440 56 L 1440 90 L 0 90 Z"/>
+  </svg>
+</div>
+
+<main>
+  <div class="wrap">
+    <section class="journeys" id="start">
+      <div class="section-head">
+        <h2>Start with something familiar</h2>
+        <p>Each everyday thing below opens a short route through the molecules it meets, from the mouth to the mitochondrion.</p>
+      </div>
+      <div class="journey-grid">
+        <a class="journey" href="#sections">
+          <svg viewBox="0 0 76 76" aria-hidden="true"><path d="M18 30h34v18a15 15 0 0 1-15 15h-4a15 15 0 0 1-15-15z" fill="#ffffff" stroke="#0d3a50" stroke-width="2.5"/><path d="M52 34h4a7 7 0 0 1 0 14h-4" fill="none" stroke="#0d3a50" stroke-width="2.5"/><path d="M22 34h26v10a11 11 0 0 1-11 11h-4a11 11 0 0 1-11-11z" fill="#8a5a33"/><path d="M28 12c-3 4 3 7 0 11M36 10c-3 4 3 7 0 11M44 12c-3 4 3 7 0 11" fill="none" stroke="#36afc9" stroke-width="2.5" stroke-linecap="round"/></svg>
+          <div><h3>Your morning coffee</h3><p>Caffeine is cleared by the liver enzyme CYP1A2, at a speed set partly by your genes.</p><p class="journey-path"><span>Coffee</span><span>Medicines in the body</span></p></div>
+        </a>
+        <a class="journey" href="#sections">
+          <svg viewBox="0 0 76 76" aria-hidden="true"><path d="M14 30c0-10 10-16 24-16s24 6 24 16c0 4-3 6-5 7v25H19V37c-2-1-5-3-5-7z" fill="#fee5c7" stroke="#0d3a50" stroke-width="2.5" stroke-linejoin="round"/><path d="M24 40h28v18H24z" fill="#f2c48f"/><circle cx="31" cy="46" r="1.8" fill="#0d3a50"/><circle cx="41" cy="51" r="1.8" fill="#0d3a50"/><circle cx="46" cy="44" r="1.8" fill="#0d3a50"/></svg>
+          <div><h3>A slice of bread</h3><p>Starch becomes glucose, and glucose becomes the ATP that every cell spends.</p><p class="journey-path"><span>Grains and fibre</span><span>Glucose</span><span>Energy and ATP</span></p></div>
+        </a>
+        <a class="journey" href="#sections">
+          <svg viewBox="0 0 76 76" aria-hidden="true"><g transform="rotate(-35 38 38)"><rect x="14" y="27" width="48" height="22" rx="11" fill="#ffffff" stroke="#0d3a50" stroke-width="2.5"/><path d="M38 27h13a11 11 0 0 1 0 22H38z" fill="#5fc2c1" stroke="#0d3a50" stroke-width="2.5"/></g></svg>
+          <div><h3>A statin tablet</h3><p>One enzyme in the liver slows, and the liver pulls more LDL cholesterol out of the blood.</p><p class="journey-path"><span>Statins</span><span>Cholesterol</span></p></div>
+        </a>
+        <a class="journey" href="#sections">
+          <svg viewBox="0 0 76 76" aria-hidden="true"><path d="M24 10h28l-2 18a12 12 0 0 1-24 0z" fill="#ffffff" stroke="#0d3a50" stroke-width="2.5"/><path d="M26.2 22h23.6l-.8 6a11 11 0 0 1-22 0z" fill="#c0395a"/><path d="M38 40v20M28 62h20" fill="none" stroke="#0d3a50" stroke-width="2.5" stroke-linecap="round"/></svg>
+          <div><h3>A glass of wine</h3><p>Ethanol becomes acetaldehyde, and a common ALDH2 variant explains why some faces flush.</p><p class="journey-path"><span>Alcohol</span><span>From genes to proteins</span></p></div>
+        </a>
+        <a class="journey" href="#sections">
+          <svg viewBox="0 0 76 76" aria-hidden="true"><path d="M38 10c12 0 22 18 22 32a22 22 0 0 1-44 0c0-14 10-32 22-32z" fill="#ffffff" stroke="#0d3a50" stroke-width="2.5"/><circle cx="38" cy="44" r="9" fill="#ffc94d"/></svg>
+          <div><h3>An egg</h3><p>Cholesterol from food meets the cholesterol your liver makes, and the two are balanced differently in different people.</p><p class="journey-path"><span>Eggs</span><span>Cholesterol</span></p></div>
+        </a>
+        <a class="journey" href="#sections">
+          <svg viewBox="0 0 76 76" aria-hidden="true"><rect x="16" y="30" width="22" height="22" rx="4" fill="#ffffff" stroke="#0d3a50" stroke-width="2.5"/><rect x="38" y="38" width="22" height="22" rx="4" fill="#ffffff" stroke="#0d3a50" stroke-width="2.5"/><rect x="28" y="12" width="20" height="20" rx="4" fill="#a6d2f0" stroke="#0d3a50" stroke-width="2.5" transform="rotate(12 38 22)"/></svg>
+          <div><h3>A sugar-free drink</h3><p>Some sweeteners pass straight through the body; others are taken apart into familiar molecules.</p><p class="journey-path"><span>Sweeteners</span><span>Sugar and fructose</span></p></div>
+        </a>
+      </div>
+    </section>
+
+    <section class="map-section" id="map">
+      <div class="section-head">
+        <h2>The map of your metabolism</h2>
+        <p>The central chemistry of a human cell on one chart. Point at a pathway to name it, select it to open its chapter.</p>
+      </div>
+      <div class="map-band">
+      <figure class="map-panel" style="margin:0">
+        <div class="metabolic-map" data-map>
+          <!--MAP-->
+        </div>
+        <p class="map-readout" aria-live="polite" data-map-readout>Point at a pathway to see its name. Double arrows mark reversible steps; dotted arrows mark the steps that run backwards when the liver makes glucose.</p>
+        <ul class="legend">
+          <li><svg viewBox="0 0 24 10" aria-hidden="true"><line x1="0" y1="5" x2="24" y2="5" stroke="var(--c-carbohydrate)" stroke-width="3" stroke-linecap="round"/></svg>Sugars</li>
+          <li><svg viewBox="0 0 24 10" aria-hidden="true"><line x1="0" y1="5" x2="24" y2="5" stroke="var(--c-lipid)" stroke-width="3" stroke-linecap="round"/></svg>Fats and cholesterol</li>
+          <li><svg viewBox="0 0 24 10" aria-hidden="true"><line x1="0" y1="5" x2="24" y2="5" stroke="var(--c-energy)" stroke-width="3" stroke-linecap="round"/></svg>Energy</li>
+          <li><svg viewBox="0 0 24 10" aria-hidden="true"><line x1="0" y1="5" x2="24" y2="5" stroke="var(--c-amino)" stroke-width="3" stroke-linecap="round"/></svg>Amino acids</li>
+          <li><svg viewBox="0 0 24 10" aria-hidden="true"><line x1="0" y1="5" x2="24" y2="5" stroke="var(--c-one-carbon)" stroke-width="3" stroke-linecap="round"/></svg>Folate and B12</li>
+          <li><svg viewBox="0 0 24 10" aria-hidden="true"><line x1="0" y1="5" x2="24" y2="5" stroke="var(--c-xenobiotic)" stroke-width="3" stroke-linecap="round"/></svg>Alcohol</li>
+          <li><svg viewBox="0 0 24 10" aria-hidden="true"><line x1="0" y1="5" x2="24" y2="5" stroke="var(--ink-3)" stroke-width="2"/><line x1="12" y1="0" x2="12" y2="10" stroke="var(--inhibitor)" stroke-width="4" stroke-linecap="round"/></svg>Where a medicine acts</li>
+        </ul>
+      </figure>
+      </div>
+    </section>
+
+    <section class="sections" id="sections" aria-label="Sections">
+      <div class="section-tile">
+        <p class="count">10 chapters</p>
+        <h2><a href="#sections">Metabolism</a></h2>
+        <p>How the body turns food into energy, building blocks and signals.</p>
+        <ul><li><a href="#sections">Energy and ATP</a></li><li><a href="#sections">Glucose</a></li><li><a href="#sections">Fed and fasting</a></li><li><a href="#sections">Fats</a></li><li><a href="#sections">Cholesterol</a></li><li><a href="#sections">Amino acids</a></li><li><a href="#sections">Folate and B12</a></li><li><a href="#sections">Medicines in the body</a></li><li><a href="#sections">Genes to proteins</a></li><li><a href="#sections">The cell</a></li></ul>
+      </div>
+      <div class="section-tile">
+        <p class="count">11 medicines</p>
+        <h2><a href="#sections">Medicines</a></h2>
+        <p>The most prescribed medicines in the United States and England, and what they change inside you.</p>
+        <ul><li><a href="#sections">Statins</a></li><li><a href="#sections">Proton-pump inhibitors</a></li><li><a href="#sections">Levothyroxine</a></li><li><a href="#sections">Metformin</a></li><li><a href="#sections">Amlodipine</a></li><li><a href="#sections">ACE inhibitors and ARBs</a></li><li><a href="#sections">Beta-blockers</a></li><li><a href="#sections">Salbutamol</a></li><li><a href="#sections">Vitamin D₃</a></li><li><a href="#sections">Sertraline</a></li><li><a href="#sections">Folic acid</a></li></ul>
+      </div>
+      <div class="section-tile">
+        <p class="count">12 foods</p>
+        <h2><a href="#sections">Foods</a></h2>
+        <p>What common foods are made of, and what the studies that were not paid for by the food industry show.</p>
+        <ul><li><a href="#sections">Palm oil</a></li><li><a href="#sections">Seed oils</a></li><li><a href="#sections">Sugar and fructose</a></li><li><a href="#sections">Ultra-processed food</a></li><li><a href="#sections">Meat</a></li><li><a href="#sections">Eggs</a></li><li><a href="#sections">Dairy</a></li><li><a href="#sections">Olive oil</a></li><li><a href="#sections">Coffee</a></li><li><a href="#sections">Alcohol</a></li><li><a href="#sections">Salt</a></li><li><a href="#sections">Grains and fibre</a></li></ul>
+      </div>
+      <div class="section-tile">
+        <p class="count">12 pages</p>
+        <h2><a href="#sections">Food additives</a></h2>
+        <p>The ten additives found in the most food products, plus sweeteners and emulsifiers.</p>
+        <ul><li><a href="#sections">Sweeteners</a></li><li><a href="#sections">Emulsifiers and the gut</a></li></ul>
+      </div>
+    </section>
+
+    <div class="reading" id="article">
+      <article>
+        <a class="crumb" href="#sections">Method</a>
+        <h1>How evidence is graded</h1>
+        <aside class="summary">
+          <p class="summary-label">In brief</p>
+          <p>Each study cited on this site is assigned a class according to who paid for it and what part the payer played. Findings of independent research, regulators and reference works form the main text. Results of industry-funded studies, expert statements and open questions appear in separate labelled blocks.</p>
+        </aside>
+        <div class="article-body">
+          <!--ARTICLE-->
+        </div>
+        <!--REFERENCES-->
+      </article>
+      <aside class="side" aria-label="Key to evidence">
+        <div class="side-inner">
+          <div class="side-card">
+            <h2>Who paid for the study</h2>
+            <ul class="key">
+              <li><span class="class-marker class-independent" aria-hidden="true"></span><b>Independent research</b><span>Public or charitable money, no industry role</span></li>
+              <li><span class="class-marker class-industry" aria-hidden="true"></span><b>Industry-funded</b><span>Any industry money, or a role in design, analysis or publication</span></li>
+              <li><span class="class-marker class-regulatory" aria-hidden="true"></span><b>Regulator</b><span>FDA, EMA, EFSA and similar bodies</span></li>
+              <li><span class="class-marker class-consensus" aria-hidden="true"></span><b>Expert consensus</b><span>Guidelines and expert panels</span></li>
+              <li><span class="class-marker class-reference" aria-hidden="true"></span><b>Textbook or database</b><span>Reference works</span></li>
+              <li><span class="class-marker class-undetermined" aria-hidden="true"></span><b>Funding unknown</b><span>No funding statement could be read</span></li>
+            </ul>
+          </div>
+          <div class="side-card">
+            <h2>Where a statement sits</h2>
+            <ul class="layer-key">
+              <li>Main text: independent findings</li>
+              <li class="k-industry">Industry-funded results</li>
+              <li class="k-consensus">Consensus statements</li>
+              <li class="k-unresolved">Unresolved questions</li>
+            </ul>
+          </div>
+        </div>
+      </aside>
+    </div>
+
+    <div class="figure-row">
+      <section>
+        <h2>Inside a chapter</h2>
+        <p>From the chapter on cholesterol: each step names its enzyme, and the statin marker opens the medicine page.</p>
+        <!--PATHWAY-->
+      </section>
+      <section id="scripts">
+        <h2>In seven languages</h2>
+        <p>The statins summary in Japanese, Simplified Chinese and Russian.</p>
+        <div class="scripts">
+          <div class="script" lang="ja"><p class="script-meta">日本語</p><h3>スタチン</h3><p>スタチンは肝臓でのコレステロール合成を抑える。その結果、肝細胞は血液中のLDLコレステロールをより多く取り込む。</p></div>
+          <div class="script" lang="zh-Hans"><p class="script-meta">简体中文</p><h3>他汀类药物</h3><p>他汀类药物减缓肝脏自身合成胆固醇。肝细胞随后从血液中摄取更多的低密度脂蛋白胆固醇。</p></div>
+          <div class="script" lang="ru"><p class="script-meta">Русский</p><h3>Статины</h3><p>Статины замедляют синтез холестерина в печени. Клетки печени затем захватывают из крови больше холестерина ЛПНП.</p></div>
+        </div>
+      </section>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p><a href="#article">How we grade evidence</a></p>
+    <p>This site is for education. A prescription is changed only together with the prescriber.</p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  var root = document.documentElement;
+  var defaults = { scheme: "shore", type: "rounded" };
+  var neutral = defaults;
+  function read(name) { try { return localStorage.getItem("shore-" + name); } catch (error) { return null; } }
+  function write(name, value) { try { localStorage.setItem("shore-" + name, value); } catch (error) {} }
+  function apply(name, value) {
+    if (value === neutral[name]) {
+      delete root.dataset[name];
+    } else {
+      root.dataset[name] = value;
+    }
+  }
+  Object.keys(defaults).forEach(function (name) {
+    var value = read(name) || defaults[name];
+    var input = document.getElementById(name + "-" + value);
+    if (input) input.checked = true;
+    apply(name, value);
+    document.querySelectorAll('input[name="' + name + '"]').forEach(function (radio) {
+      radio.addEventListener("change", function () { apply(name, radio.value); write(name, radio.value); });
+    });
+  });
+  var map = document.querySelector("[data-map]");
+  var readout = document.querySelector("[data-map-readout]");
+  var resting = readout.textContent;
+  function show(event) {
+    var pathway = event.target.closest(".map-pathway");
+    if (pathway) readout.innerHTML = "<b>" + pathway.getAttribute("aria-label") + "</b>";
+    else readout.textContent = resting;
+  }
+  map.addEventListener("pointerover", show);
+  map.addEventListener("focusin", show);
+  map.addEventListener("pointerleave", function () { readout.textContent = resting; });
+})();
+</script>

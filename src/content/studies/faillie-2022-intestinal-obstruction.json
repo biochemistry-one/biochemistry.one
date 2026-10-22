@@ -1,0 +1,18 @@
+{
+  "title": "Incretin-based drugs and risk of intestinal obstruction among patients with type 2 diabetes",
+  "authors": "Faillie JL, Yin H, Yu OHY, Herrero A, Altwegg R, Renoux C, et al.",
+  "journal": "Clinical Pharmacology and Therapeutics",
+  "year": 2022,
+  "doi": "10.1002/cpt.2430",
+  "pmid": "34587280",
+  "design": "cohort",
+  "followUp": "2013 to 2019",
+  "population": "New users of GLP-1 receptor agonists (25,617) against SGLT2 inhibitors (67,261) in the UK Clinical Practice Research Datalink with linked hospital data; a second cohort compared DPP-4 inhibitors with SGLT2 inhibitors",
+  "funder": "This study was funded by a Foundation Scheme grant (FDN-143328) from the Canadian Institutes of Health Research. No statement on funder role was given.",
+  "funderRole": "unknown",
+  "authorConflicts": "One author served as a consultant for Janssen and Pfizer for work unrelated to this study; all other authors declared no competing interests.",
+  "dataAccess": "summary",
+  "result": "Intestinal obstruction requiring hospitalisation occurred at 1.9 per 1000 person-years with GLP-1 receptor agonists against 1.1 with SGLT2 inhibitors (hazard ratio 1.69, 95% CI 1.04 to 2.74), highest after 1.6 years of use (3.48, 1.79 to 6.79); number needed to harm after 1 year 1223. DPP-4 inhibitors: 2.7 against 1.0 per 1000 person-years (2.59, 1.52 to 4.42). Semaglutide users generated no events; with the outcome restricted to the diagnostic codes most related to intestinal obstruction, GLP-1 receptor agonists were no longer associated with it.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240214085957/https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.2430"
+}

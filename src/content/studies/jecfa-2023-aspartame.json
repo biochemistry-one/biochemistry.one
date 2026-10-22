@@ -1,0 +1,15 @@
+{
+  "title": "Evaluation of certain food additives: ninety-sixth report of the Joint FAO/WHO Expert Committee on Food Additives",
+  "authors": "Joint FAO/WHO Expert Committee on Food Additives (JECFA)",
+  "journal": "World Health Organization and Food and Agriculture Organization of the United Nations, Geneva; WHO Technical Report Series, No. 1050",
+  "year": 2023,
+  "url": "https://www.who.int/publications/i/item/9789240083059",
+  "design": "regulatory",
+  "population": "Ninety-sixth meeting of the Committee, Geneva, 27 June to 6 July 2023; re-evaluation of aspartame requested by the Codex Committee on Food Additives",
+  "funder": "Not stated. The Joint Secretariat states that all experts participating in the meeting completed declaration-of-interest forms and that no conflicts of interest were identified. Sponsors submitted unpublished toxicity study reports and dietary exposure information.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Aspartame, approximately 200 times sweeter than sucrose, is fully hydrolysed in the gastrointestinal tract by esterases and peptidases to phenylalanine, aspartic acid and methanol (approximately 50, 40 and 10% by weight); no aspartame enters the systemic circulation. Cohort associations with hepatocellular, breast and haematological cancers were inconsistent, reverse causality, chance, bias and confounding could not be ruled out, and the Committee concluded that the evidence of an association between aspartame consumption and cancer in humans is not convincing; the same conclusion was reached for type 2 diabetes and other non-cancer end-points. The ADI of 0 to 40 mg/kg bw, based on the NOAEL of 4000 mg/kg bw per day in a 104-week rat study and a 100-fold uncertainty factor, was reaffirmed. Dietary exposure estimates of up to 10 mg/kg bw per day for children and 5 mg/kg bw per day for adults at the mean, and up to 20 and 12 mg/kg bw per day for high consumers, do not exceed the ADI.",
+  "class": "regulatory",
+  "fundingChecked": "https://iris.who.int/server/api/core/bitstreams/387e1f6c-f758-4c75-9c91-6202c31a24fe/content"
+}

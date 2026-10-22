@@ -1,0 +1,18 @@
+{
+  "title": "Association Between Low-Density Lipoprotein Cholesterol-Lowering Genetic Variants and Risk of Type 2 Diabetes: A Meta-analysis",
+  "authors": "Lotta LA, Sharp SJ, Burgess S, Perry JRB, Stewart ID, Willems SM, et al.",
+  "journal": "JAMA",
+  "year": 2016,
+  "doi": "10.1001/jama.2016.14568",
+  "pmid": "27701660",
+  "design": "mendelian-randomisation",
+  "participants": 321044,
+  "population": "50,775 individuals with type 2 diabetes and 270,269 controls in Europe and the United States; 60,801 coronary artery disease cases and 123,504 controls from a published meta-analysis",
+  "funder": "United Kingdom Medical Research Council (MC_UU_12015/1, MC_PC_13046, MC_PC_13048, MR/L00002/1); EU FP6 programme for EPIC-InterAct (LSHM_CT_2006_037197); Wellcome Trust grants to individual authors. The funding bodies had no role in the design or conduct of the study; collection, management, analysis or interpretation of the data; preparation, review or approval of the manuscript or the decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Several authors reported grants or personal fees from pharmaceutical companies, including Amgen, Sanofi, Merck, Pfizer and AstraZeneca, outside the submitted work; one author and spouse own stock in GlaxoSmithKline and Incyte.",
+  "dataAccess": "summary",
+  "result": "LDL-lowering alleles at HMGCR were associated with type 2 diabetes and coronary artery disease in opposite directions; per LDL-lowering T allele of rs12916 the odds ratio for type 2 diabetes was 1.029 (95% CI 1.012 to 1.046), and HMGCR alleles were associated with higher body mass index and waist-to-hip ratio. Per genetically predicted 1 mmol/L lower LDL cholesterol, the odds ratio for type 2 diabetes was 2.42 (1.70 to 3.43) for NPC1L1 variants and 1.19 (1.02 to 1.38) for PCSK9 variants, while coronary risk fell similarly for each gene. Associations with diabetes were heterogeneous across genes (I-squared 77.2%).",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5386134"
+}

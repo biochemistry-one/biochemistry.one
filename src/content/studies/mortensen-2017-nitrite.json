@@ -1,0 +1,15 @@
+{
+  "title": "Re-evaluation of potassium nitrite (E 249) and sodium nitrite (E 250) as food additives",
+  "authors": "EFSA Panel on Food Additives and Nutrient Sources added to Food (ANS), Mortensen A, Aguilar F, Crebelli R, Di Domenico A, Dusemund B, et al.",
+  "journal": "EFSA Journal",
+  "year": 2017,
+  "doi": "10.2903/j.efsa.2017.4786",
+  "pmid": "32625504",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission (Question numbers EFSA-Q-2011-00460 and EFSA-Q-2011-00461).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Sodium and potassium nitrite are used in curing mixtures to develop and fix the colour of meat, to inhibit microbial growth and to develop characteristic flavours. Acceptable daily intake 0.07 mg nitrite ion/kg body weight per day, based on methaemoglobin formation. Use as food additives supplied about 17% (range 1.5 to 36.0%) of overall nitrite exposure. Margin of exposure for endogenous NDMA formed from nitrite at the ADI 4.2 × 10^5; for preformed NDMA plus NDEA in processed food, below 10,000 in all age groups at high exposure. Nitrosamines formed from nitrite added at authorised levels could not be clearly distinguished from those present without added nitrite. There was evidence linking preformed NDMA with colorectal cancer and some evidence linking nitrite plus nitrate from processed meat with colorectal cancer.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7009987/fullTextXML"
+}

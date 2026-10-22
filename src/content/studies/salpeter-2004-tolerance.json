@@ -1,0 +1,17 @@
+{
+  "title": "Meta-analysis: respiratory tolerance to regular beta2-agonist use in patients with asthma",
+  "authors": "Salpeter SR, Ormiston TM, Salpeter EE",
+  "journal": "Annals of Internal Medicine",
+  "year": 2004,
+  "doi": "10.7326/0003-4819-140-10-200405180-00010",
+  "pmid": "15148067",
+  "design": "meta-analysis",
+  "population": "22 randomised placebo-controlled trials of at least 1 week of regular short- or long-acting beta2-agonist in asthma, without as-needed beta2-agonist in the placebo group; searches 1966 to June 2003",
+  "funder": "not stated; the article lists 'Disclosures: None disclosed' and no grant support.",
+  "funderRole": "unknown",
+  "authorConflicts": "None disclosed.",
+  "dataAccess": "summary",
+  "result": "Against placebo, regular beta2-agonist use did not change mean FEV1 after treatment or the net FEV1 treatment effect, but reduced the peak FEV1 response to subsequent beta2-agonist by 17.8% (95% CI 8.5% to 27.2%), the FEV1 dose response by 34.8% (24% to 45.7%), the PC20 to bronchoconstrictor stimuli by 26% (11% to 37%), leukocyte beta2-receptor density by 18.3% (5.1% to 31.6%), binding affinity by 23.1% (6.8% to 39.4%) and the in vitro response to isoproterenol by 32.7% (9.0% to 56.5%).",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20231028002650/https://www.acpjournals.org/doi/10.7326/0003-4819-140-10-200405180-00010"
+}

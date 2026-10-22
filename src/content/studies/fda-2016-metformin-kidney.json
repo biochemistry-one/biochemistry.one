@@ -1,0 +1,14 @@
+{
+  "title": "FDA Drug Safety Communication: FDA revises warnings regarding use of the diabetes medicine metformin in certain patients with reduced kidney function",
+  "authors": "US Food and Drug Administration",
+  "journal": "US Food and Drug Administration, Drug Safety Communication, 8 April 2016",
+  "year": 2016,
+  "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-fda-revises-warnings-regarding-use-diabetes-medicine-metformin-certain",
+  "design": "regulatory",
+  "funder": "US Food and Drug Administration",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Dated 8 April 2016. FDA required labelling changes for all metformin-containing medicines after being asked, in citizen petitions from Yale University (filed 3 April 2013) and from Flory and colleagues at New York Presbyterian Hospital, Weill Cornell (filed 11 October 2012), to review studies of metformin in mild to moderate kidney impairment and to change the measure of kidney function used in the label. FDA concluded from published studies that metformin can be used safely in mild impairment and in some patients with moderate impairment, and replaced blood creatinine concentration with the estimated glomerular filtration rate. Required recommendations: obtain eGFR before starting; contraindicated below 30 mL/min/1.73 m2; starting not recommended at 30 to 45; obtain eGFR at least annually and more often in patients at increased risk such as the elderly; assess benefits and risks if eGFR later falls below 45 and discontinue below 30; discontinue at the time of or before iodinated contrast imaging when eGFR is 30 to 60, in patients with a history of liver disease, alcoholism or heart failure, or when intra-arterial contrast will be given, re-evaluating eGFR 48 hours afterwards. The communication states that since approval in 1995 the label had contraindicated use in some patients with renal disease, and that published clinical trials, population-based studies and retrospective case series in the United States and abroad indicate metformin is often prescribed outside the then-current labelling to patients with mild to moderate chronic kidney disease.",
+  "class": "regulatory",
+  "fundingChecked": "http://web.archive.org/web/20191017115739/https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-fda-revises-warnings-regarding-use-diabetes-medicine-metformin-certain"
+}

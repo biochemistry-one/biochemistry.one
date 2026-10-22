@@ -1,0 +1,20 @@
+{
+  "title": "Eating rate has sustained effects on energy intake from ultraprocessed diets: a 2-week ad libitum dietary randomized controlled crossover trial",
+  "authors": "Forde CG, Heuven LA, van Bruinessen M, Liu Z, Stieger M, de Graaf K, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2026,
+  "doi": "10.1016/j.ajcnut.2025.11.012",
+  "pmid": "41314613",
+  "registry": "NCT06113146",
+  "design": "rct",
+  "participants": 41,
+  "followUp": "14 days on each diet with a 14-day washout",
+  "population": "Adults with habitual ultra-processed food intake of 50% or less, 21 of 41 men, aged 27 ± 5 years, BMI 23.4 ± 1.9 kg/m2 (mean ± SD), studied semiresidentially at Wageningen University and Research, the Netherlands",
+  "funder": "This research is supported by the Dutch Top-Consortium for Knowledge and Innovation Agri & Food (TKI-Agri-food) Project Restructure (TKI 22.150). The Restructure project is a public–private partnership on precompetitive research on the influence of food texture and eating rate on energy intake.",
+  "funderRole": "unknown",
+  "authorConflicts": "CG Forde is a member of the Global Independent Nutrition Advisory Board of Lesaffre and reports speaking and lecture fees from Ferrero, PepsiCo, General Mills, Mondelez, the World Sugar Research Organization and the Northern Irish Dairy Council; MP Lasschuijt reports fees from Nestlé Nutrition; K de Graaf is a member of the Global Independent Nutrition Advisory Board of Mars.",
+  "dataAccess": "individual",
+  "result": "Single-blind crossover of two diets with about 95% of energy from ultra-processed food, matched for palatability, portion size, energy served, non-beverage energy density and meal variety, differing in texture-derived eating rate. Daily energy intake was 369 kcal/day (95% CI 221 to 517) lower on the slow-eating-rate diet, consistently across the 14 days; body weight did not differ between diets; fat mass decreased by 0.43 kg on the slow-eating-rate diet.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13084570/"
+}

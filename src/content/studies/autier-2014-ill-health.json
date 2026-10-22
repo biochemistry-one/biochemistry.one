@@ -1,0 +1,16 @@
+{
+  "title": "Vitamin D status and ill health: a systematic review",
+  "authors": "Autier P, Boniol M, Pizot C, Mullie P",
+  "journal": "The Lancet Diabetes & Endocrinology",
+  "year": 2014,
+  "doi": "10.1016/S2213-8587(13)70165-7",
+  "pmid": "24622671",
+  "design": "systematic-review",
+  "population": "290 prospective cohort studies and 172 randomised trials of non-skeletal outcomes in adults",
+  "funder": "not stated in the abstract; the full text was not accessible (HTTP 403 at the publisher), so the funding statement was not read.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Most prospective studies reported moderate to strong inverse associations between 25-hydroxyvitamin D and cardiovascular disease, lipids, inflammation, glucose metabolism, weight gain, infections, multiple sclerosis, mood, cognition, physical function and all-cause mortality, whereas intervention studies showed no effect of supplementation on disease occurrence; in 34 trials with 2805 individuals with mean baseline 25-hydroxyvitamin D below 50 nmol/L, 50 µg/day or more did not show better results. The authors propose that low 25-hydroxyvitamin D is a marker of ill health, lowered by inflammatory processes, rather than a cause.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/24622671/"
+}

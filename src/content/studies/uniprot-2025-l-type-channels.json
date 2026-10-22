@@ -1,0 +1,16 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "design": "database",
+  "funder": "National Human Genome Research Institute [HG002273]; Office of the Director, NIH OD [U24HG007822]; NIAID; NIA; NIGMS [R35GM141873]; NIDDK; NEI; NCI; NHLBI; Biotechnology and Biological Sciences Research Council [BB/T015608/1]; National Science Foundation's Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 [825575]; State Secretariat for Education, Research and Innovation; EMBL Australia. Funding for open access charge: National Institutes of Health.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed UniProtKB entries read on 2026-10-22 through rest.uniprot.org, annotation update 2026-09-02. CACNA1C (Q13936, entry version 255): pore-forming alpha-1C subunit giving rise to L-type calcium currents; plays an important role in excitation-contraction coupling in the heart and is required for normal heart development and regulation of heart rhythm; required for normal contraction of smooth muscle in blood vessels and in the intestine; essential for blood pressure regulation through arterial smooth muscle contraction; inhibited by dihydropyridines such as isradipine and by nifedipine; shear stress and pressure increase channel activity. Tissue specificity: detected throughout the brain (hippocampus, cerebellum, amygdala), heart and vascular system including the ductus arteriosus, urinary bladder, retina and sclera; expressed in brain, heart, jejunum, ovary, pancreatic beta cells and vascular smooth muscle, with reduced expression in atherosclerotic vascular smooth muscle. Variants cause Timothy syndrome (multiorgan dysfunction with lethal arrhythmias, webbing of fingers and toes, congenital heart disease, immune deficiency, intermittent hypoglycaemia, cognitive abnormalities and autism), long QT syndrome 8 and a neurodevelopmental disorder with hypotonia, language delay and skeletal defects with or without seizures, and may be involved in Brugada syndrome 3. CACNA1D (Q01668, entry version 232): alpha-1D subunit giving rise to L-type calcium currents, which are blocked by dihydropyridines, phenylalkylamines and benzothiazepines; voltage-sensitive calcium channels take part in muscle contraction, hormone or neurotransmitter release, gene expression, cell motility, cell division and cell death; expressed in pancreatic islets and in brain (cerebral cortex, hippocampus, basal ganglia, habenula, thalamus), not in skeletal muscle. CACNA1D variants cause sinoatrial node dysfunction and deafness (congenital deafness with episodic syncope from intermittent pronounced bradycardia) and primary aldosteronism with seizures and neurological abnormalities (hypertension, hypokalaemia, high aldosterone with low renin).",
+  "class": "reference",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11701636/"
+}

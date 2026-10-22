@@ -1,0 +1,94 @@
+---
+import LanguageSwitcher from "../components/LanguageSwitcher.astro";
+import { SECTIONS, hreflangOf, localePath, type Lang } from "../i18n/languages";
+import { stringsFor } from "../i18n/strings";
+import "../styles/site.css";
+
+interface Props {
+  lang: Lang;
+  title: string;
+  description: string;
+  path: string;
+  alternates: Lang[];
+  home?: boolean;
+}
+
+const { lang, title, description, path, alternates, home = false } = Astro.props;
+const strings = stringsFor(lang);
+const fullTitle = path === "" ? strings.siteName : `${title} | ${strings.siteName}`;
+const absolute = (href: string) => (Astro.site ? new URL(href, Astro.site).href : href);
+const built = new Date().toISOString().slice(0, 10);
+const section = path.split("/")[0];
+const fonts = "https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700;800&family=Manrope:wght@400..800&family=Noto+Sans+SC:wght@400;500;700&display=swap";
+---
+<!doctype html>
+<html lang={hreflangOf(lang)}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    {alternates.length > 0 && <link rel="canonical" href={absolute(localePath(lang, path))} />}
+    {alternates.map((alternate) => <link rel="alternate" hreflang={hreflangOf(alternate)} href={absolute(localePath(alternate, path))} />)}
+    {alternates.includes("en") && <link rel="alternate" hreflang="x-default" href={absolute(localePath("en", path))} />}
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={path.includes("/") ? "article" : "website"} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href={fonts} />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">{strings.skip}</a>
+    <div class:list={["masthead", { "masthead-home": home }]}>
+      <div class="clouds" aria-hidden="true">
+        <svg class="cloud-a" viewBox="0 0 260 90"><path d="M38 78c-20 0-34-11-34-26 0-14 12-25 28-26 4-15 19-26 37-26 13 0 24 5 31 14 6-4 13-6 21-6 21 0 38 14 40 32 3-1 6-1 9-1 22 0 40 13 40 30 0 5-2 9-5 13z"/></svg>
+        <svg class="cloud-b" viewBox="0 0 180 64"><path d="M26 58C12 58 2 50 2 39s9-19 21-19c3-11 14-19 27-19 10 0 18 4 23 11 4-2 9-3 14-3 15 0 27 10 29 23h4c17 0 30 9 30 21 0 2 0 3-1 5z"/></svg>
+        <svg class="cloud-c" viewBox="0 0 120 44"><path d="M18 40C8 40 1 35 1 27s7-13 16-13c2-7 9-13 18-13 7 0 12 3 15 8 3-1 6-2 9-2 10 0 18 7 19 15h3c11 0 20 6 20 14v4z"/></svg>
+      </div>
+      <div class="masthead-sky">
+        <div class="wrap">
+          <header class="site-header">
+            <a class="site-name" href={localePath(lang)}>
+              <svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="10" fill="none" stroke="currentColor" stroke-width="3"/><circle cx="16" cy="6" r="4" fill="#fde2c3"/><circle cx="24.7" cy="21" r="4" fill="#9fe8f0"/><circle cx="7.3" cy="21" r="4" fill="#ffffff"/></svg>
+              {strings.siteName}
+            </a>
+            <nav class="site-nav" aria-label={strings.home}>
+              <ul>
+                <li><a href={localePath(lang, "map")} aria-current={path === "map" ? "page" : undefined}>{strings.map}</a></li>
+                {SECTIONS.map((name) => <li><a href={localePath(lang, name)} aria-current={section === name ? "page" : undefined}>{strings.sections[name]}</a></li>)}
+              </ul>
+            </nav>
+            <LanguageSwitcher lang={lang} path={path} alternates={alternates} />
+          </header>
+          <slot name="hero" />
+          {!home && <div class="masthead-spacer"></div>}
+        </div>
+      </div>
+      {Astro.slots.has("hero-sea") && (
+        <div class="masthead-sea">
+          <div class="wrap">
+            <slot name="hero-sea" />
+          </div>
+        </div>
+      )}
+      <svg class="wave" viewBox="0 0 1440 90" preserveAspectRatio="none" aria-hidden="true">
+        <g class="foam-line"><path d="M-40 40 C 160 10, 320 70, 520 42 S 880 12, 1080 44 S 1380 70, 1500 38"/></g>
+        <path d="M0 58 C 200 30, 360 86, 560 60 S 920 28, 1120 58 S 1360 86, 1440 56 L 1440 90 L 0 90 Z"/>
+      </svg>
+    </div>
+    <main id="main">
+      <div class="wrap">
+        <slot />
+      </div>
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p><a href={localePath(lang, "method/evidence")}>{strings.methodLink}</a></p>
+        <p>{strings.footerNote}</p>
+        <p>{strings.updated} <time datetime={built}>{built}</time></p>
+      </div>
+    </footer>
+  </body>
+</html>

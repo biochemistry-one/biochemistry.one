@@ -1,0 +1,18 @@
+{
+  "title": "Health outcomes associated with calcium antagonists compared with other first-line antihypertensive therapies: a meta-analysis of randomised controlled trials",
+  "authors": "Pahor M, Psaty BM, Alderman MH, Applegate WB, Williamson JD, Cavazzini C, et al.",
+  "journal": "Lancet",
+  "year": 2000,
+  "doi": "10.1016/S0140-6736(00)03306-7",
+  "pmid": "11130522",
+  "design": "meta-analysis",
+  "participants": 27743,
+  "followUp": "trials with at least 2 years of follow-up",
+  "population": "Nine randomised trials in hypertension with at least 100 patients assigned intermediate-acting or long-acting calcium antagonists (n=12,699) or diuretics, beta blockers, ACE inhibitors or clonidine (n=15,044)",
+  "funder": "not read: the archived publisher page shows only the summary and the full text requires a subscription.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "With similar control of systolic and diastolic pressure, calcium antagonists against other drugs gave higher risks of acute myocardial infarction (odds ratio 1.26, 95% CI 1.11 to 1.43), congestive heart failure (1.25, 1.07 to 1.46) and major cardiovascular events (1.10, 1.02 to 1.18); differences in stroke (0.90, 0.80 to 1.02) and all-cause mortality (1.03, 0.94 to 1.13) were within chance. The authors concluded that longer-acting calcium antagonists could not be recommended as first-line therapy for hypertension.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20240211005758/https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)03306-7/fulltext"
+}

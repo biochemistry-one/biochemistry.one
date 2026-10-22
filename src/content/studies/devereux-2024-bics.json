@@ -1,0 +1,20 @@
+{
+  "title": "Bisoprolol in Patients With Chronic Obstructive Pulmonary Disease at High Risk of Exacerbation: The BICS Randomized Clinical Trial",
+  "authors": "Devereux G, Cotton S, Nath M, McMeekin N, Campbell K, Chaudhuri R, et al.",
+  "journal": "JAMA",
+  "year": 2024,
+  "doi": "10.1001/jama.2024.8771",
+  "pmid": "38762800",
+  "registry": "ISRCTN10497306",
+  "design": "rct",
+  "participants": 515,
+  "followUp": "1 year",
+  "population": "People with COPD, at least moderate airflow obstruction and at least 2 treated exacerbations in the prior 12 months, at 76 UK sites (45 primary care and 31 secondary care clinics), enrolled October 2018 to May 2022; mean age 68 years, 53% men, mean FEV1 50.1% of predicted; recruitment of the planned 1574 was cut short by suspension during the COVID-19 pandemic",
+  "funder": "Funded by the NIHR Health Technology Assessment Programme (project 11/58/15); one author supported by the NIHR Manchester Biomedical Research Centre; the Health Services Research Unit is core funded by the Chief Scientist Office of the Scottish Government. The funder had input into trial design through peer review of the proposal but no role in data collection, analysis or manuscript preparation.",
+  "funderRole": "design",
+  "authorConflicts": "Several authors report grants or fees from AstraZeneca, GSK, Chiesi, Teva, Sanofi, Bayer and Pfizer outside the submitted work.",
+  "dataAccess": "unknown",
+  "result": "Bisoprolol 1.25 mg daily titrated to at most 5 mg (n = 261) against placebo (n = 258), two per group excluded after randomisation; primary outcome data for 514 (99.8%) and 371 (72.0%) continued the study drug. Patient-reported exacerbations treated with oral corticosteroids, antibiotics or both: 526 (mean 2.03 per year) against 513 (2.01 per year), adjusted incidence rate ratio 0.97 (95% CI 0.84 to 1.13). Serious adverse events: 37 of 255 (14.5%) against 36 of 251 (14.3%), relative risk 1.01 (0.62 to 1.66).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11322848/"
+}

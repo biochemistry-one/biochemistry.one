@@ -1,0 +1,18 @@
+{
+  "title": "Calcium supplements with or without vitamin D and risk of cardiovascular events: reanalysis of the Women's Health Initiative limited access dataset and meta-analysis",
+  "authors": "Bolland MJ, Grey A, Avenell A, Gamble GD, Reid IR",
+  "journal": "BMJ",
+  "year": 2011,
+  "doi": "10.1136/bmj.d2040",
+  "pmid": "21505219",
+  "design": "meta-analysis",
+  "participants": 28072,
+  "population": "Women's Health Initiative Calcium/Vitamin D Supplementation Study participants, analysed by personal calcium supplement use at randomisation (54% took personal calcium supplements), and placebo-controlled trials of calcium or calcium with vitamin D",
+  "funder": "Funded by the Health Research Council of New Zealand and the University of Auckland School of Medicine Foundation. AA is funded by a Career Scientist award of the Chief Scientist Office of the Scottish Government Health Directorates. No statement on the role of the funders was found.",
+  "funderRole": "unknown",
+  "authorConflicts": "No author has support from companies for the submitted work; IRR has received research support from and acted as a consultant for Fonterra and had study medications for calcium trials supplied by Mission Pharmacal; AA had study medications for calcium trials supplied by Shire Pharmaceuticals and Nycomed.",
+  "dataAccess": "individual",
+  "result": "In the 16,718 WHI women (46%) not taking personal calcium supplements at randomisation, hazard ratios for cardiovascular events with calcium and vitamin D ranged from 1.13 to 1.22; in women taking them, risk was unaltered. Meta-analysis of three placebo-controlled trials of calcium with vitamin D: myocardial infarction RR 1.21 (95% CI 1.01 to 1.44), stroke 1.20 (1.00 to 1.43), myocardial infarction or stroke 1.16 (1.02 to 1.32). Calcium or calcium with vitamin D, trial-level data for 28,072 participants: myocardial infarction RR 1.24 (1.07 to 1.45), myocardial infarction or stroke 1.15 (1.03 to 1.27), death 1.04 (0.95 to 1.13). Patient-level analysis: number needed to treat for five years to cause one myocardial infarction 240, one stroke 283, one myocardial infarction or stroke 178; to prevent one fracture 302.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3079822/fullTextXML"
+}

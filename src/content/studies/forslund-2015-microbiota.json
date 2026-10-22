@@ -1,0 +1,17 @@
+{
+  "title": "Disentangling type 2 diabetes and metformin treatment signatures in the human gut microbiota",
+  "authors": "Forslund K, Hildebrand F, Nielsen T, Falony G, Le Chatelier E, Sunagawa S, et al.",
+  "journal": "Nature",
+  "year": 2015,
+  "doi": "10.1038/nature15766",
+  "pmid": "26633628",
+  "design": "cross-sectional",
+  "participants": 784,
+  "population": "784 human gut metagenomes from Danish, Chinese and Swedish cohorts, comprising non-diabetic controls, 93 metformin-treated and 106 metformin-untreated patients with type 2 diabetes, with an independent validation cohort of 30 Danish patients of whom 21 took metformin",
+  "funder": "Funding from the European Community's Seventh Framework Programme (MetaHIT HEALTH-F4-2007-201052, MetaCardis HEALTH-2012-305312, International Human Microbiome Standards HEALTH-2010-261376), the Metagenopolis grant ANR-11-DPBS-0001, the European Research Council CancerBiome project, the European Union Horizon 2020 programme, the Lundbeck Foundation, the European Molecular Biology Laboratory and the Innovation Fund Denmark. The Novo Nordisk Foundation Center for Basic Metabolic Research is stated to be an independent research centre at the University of Copenhagen partially funded by an unrestricted donation from the Novo Nordisk Foundation.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Antidiabetic medication confounds reported gut microbial signatures of type 2 diabetes. Comparing metformin-treated with untreated patients, metformin was associated with a significant increase in Escherichia species and a reduced abundance of Intestinibacter, the latter consistent across country datasets; fasting serum metformin concentrations correlated significantly with the abundance of both genera, and an independent amplicon-based cohort reproduced both changes, Intestinibacter being detected only in the 9 of 30 untreated samples. Functional analysis showed enrichment of virulence factors and gas metabolism genes, attributable to the increase in Escherichia, which the authors describe as consistent with the known gastrointestinal side effects of metformin; they note that at least 30% of patients report adverse effects including diarrhoea, nausea, vomiting and bloating, with mechanisms poorly understood. Multivariate contrasts between treated and untreated patients were significant only at bacterial family level.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4681099/fullTextXML"
+}

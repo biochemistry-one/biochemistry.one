@@ -1,0 +1,18 @@
+{
+  "title": "Effects of vitamin D supplementation on musculoskeletal health: a systematic review, meta-analysis, and trial sequential analysis",
+  "authors": "Bolland MJ, Grey A, Avenell A",
+  "journal": "The Lancet Diabetes & Endocrinology",
+  "year": 2018,
+  "doi": "10.1016/S2213-8587(18)30265-1",
+  "pmid": "30293909",
+  "design": "meta-analysis",
+  "participants": 53537,
+  "population": "81 randomised controlled trials in adults comparing vitamin D with untreated controls, placebo or lower doses; hydroxylated analogues excluded; searches to February 2018",
+  "funder": "Accepted manuscript: Funding support from the Health Research Council of New Zealand. The Health Services Research Unit is funded by the Chief Scientist Office of the Scottish Government Health and Social Care Directorates. The HRC had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "AG is a shareholder in Auckland Bone Density, a company that provides bone mineral density measurements. All authors have co-authored publications on the efficacy of vitamin D supplementation.",
+  "dataAccess": "summary",
+  "result": "Vitamin D had no effect on total fracture (36 trials, 44,790 participants; RR 1.00, 95% CI 0.93 to 1.07), hip fracture (20 trials, 36,655; RR 1.11, 0.97 to 1.26) or falls (37 trials, 34,144; RR 0.97, 0.93 to 1.02); results were similar in trials of high against low doses and with doses above 800 IU per day. No clinically relevant differences in bone mineral density (-0.16% to 0.76% over 1 to 5 years). Trial sequential analysis placed total fracture and falls within the futility boundary for relative risk reductions of 15%, 10% and 7.5%; for hip fracture, uncertainty remains as to whether vitamin D might increase risk. The authors conclude there is little justification to use vitamin D supplements to maintain or improve musculoskeletal health.",
+  "class": "independent",
+  "fundingChecked": "https://aura.abdn.ac.uk/items/2ada430d-7643-46a2-b5cb-c33048ba8335/full"
+}

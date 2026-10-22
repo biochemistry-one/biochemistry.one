@@ -1,0 +1,21 @@
+{
+  "title": "Vitamins E and C in the prevention of cardiovascular disease in men: the Physicians' Health Study II randomized controlled trial",
+  "authors": "Sesso HD, Buring JE, Christen WG, Kurth T, Belanger C, MacFadyen J, et al.",
+  "journal": "JAMA",
+  "year": 2008,
+  "doi": "10.1001/jama.2008.600",
+  "pmid": "18997197",
+  "registry": "NCT00270647",
+  "design": "rct",
+  "participants": 14641,
+  "followUp": "mean 8.0 years",
+  "population": "US male physicians aged 50 years or older, 754 (5.1%) with prevalent cardiovascular disease, in a 2x2x2x2 factorial trial of vitamin E, vitamin C, beta-carotene and a multivitamin",
+  "funder": "Supported by NIH grants CA 97193, CA 34944, CA 40360, HL 26490 and HL 34595 and an investigator-initiated grant from BASF Corporation. BASF, Wyeth Pharmaceuticals and DSM Nutritional Products had no role in the study design; conduct of the study; collection, management, analysis and interpretation of the data; or preparation, review or approval of the manuscript.",
+  "funderRole": "none",
+  "inKindSupport": "Study agents and packaging provided by BASF Corporation (vitamin C, vitamin E, beta-carotene), Wyeth Pharmaceuticals (multivitamin) and DSM Nutritional Products.",
+  "authorConflicts": "Sesso reported investigator-initiated funding from Roche Vitamins (now DSM Nutritional Products) and others; Christen from DSM Nutritional Products (Roche); Kurth from Bayer, McNeil, Merck and Wyeth Consumer Healthcare; Manson assistance with study pills and packaging from BASF and Cognis; Buring study agents from Bayer Healthcare and the Natural Source Vitamin E Association; Glynn funding from Bristol-Myers Squibb and AstraZeneca; Gaziano funding from Veroscience and Amgen and consultancy or honoraria from Bayer and Pfizer.",
+  "dataAccess": "summary",
+  "result": "Vitamin C 500 mg daily versus placebo, mean follow-up 8.0 years: major cardiovascular events in 619 of 7329 versus 626 of 7312 men (10.8 and 10.9 per 1000 person-years; HR 0.99, 95% CI 0.89 to 1.11); total mortality 857 versus 804 (HR 1.07, 0.97 to 1.18).",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=2586922&retmode=xml"
+}

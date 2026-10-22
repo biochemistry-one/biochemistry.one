@@ -1,0 +1,20 @@
+{
+  "title": "Cardiovascular Risk Reduction with Icosapent Ethyl for Hypertriglyceridemia",
+  "authors": "Bhatt DL, Steg PG, Miller M, Brinton EA, Jacobson TA, Ketchum SB, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2019,
+  "doi": "10.1056/NEJMoa1812792",
+  "pmid": "30415628",
+  "registry": "NCT01492361",
+  "design": "rct",
+  "participants": 8179,
+  "followUp": "median 4.9 years",
+  "population": "Statin-treated patients aged 45 years or older with established cardiovascular disease (70.7%) or aged 50 years or older with diabetes and at least one further risk factor, fasting triglycerides 135 to 499 mg/dl and LDL cholesterol 41 to 100 mg/dl; 473 sites in 11 countries",
+  "funder": "Supported by Amarin Pharma. The steering committee of academic physicians and representatives of the sponsor developed the protocol and were responsible for the conduct and oversight of the study and interpretation of the data. The sponsor was responsible for the collection and management of the data, and all the data analyses were performed by the sponsor; the adjudicated end-point analyses were validated by an independent statistician from the data and safety monitoring committee.",
+  "funderRole": "several",
+  "authorConflicts": "Five authors (Ketchum, Doyle, Juliano, Jiao, Granowitz) were affiliated with Amarin Pharma; disclosure forms at NEJM.org not read.",
+  "dataAccess": "unknown",
+  "result": "Icosapent ethyl 2 g twice daily versus a placebo containing mineral oil. Primary composite (cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, coronary revascularisation or unstable angina) 17.2% versus 22.0% (HR 0.75, 95% CI 0.68 to 0.83), absolute difference 4.8 percentage points (3.1 to 6.5), number needed to treat 21 (15 to 33) over a median 4.9 years; cardiovascular death, nonfatal myocardial infarction or nonfatal stroke 11.2% versus 14.8% (HR 0.74, 0.65 to 0.83), number needed to treat 28; cardiovascular death 4.3% versus 5.2% (HR 0.80, 0.66 to 0.98); death from any cause 6.7% versus 7.6% (HR 0.87, 0.74 to 1.02). Median change from baseline in triglycerides -18.3% versus +2.2% (to 1 year) and in LDL cholesterol +3.1% versus +10.2%. Hospitalisation for atrial fibrillation or flutter 3.1% versus 2.1%; atrial fibrillation adverse events 5.3% versus 3.9%; serious bleeding 2.7% versus 2.1% (P=0.06). The authors state that if mineral oil in the placebo affected statin absorption in some patients, this might have contributed to the differences in outcomes, but that the relatively small differences in LDL cholesterol between the groups would not be likely to explain the 25% lower risk; a post hoc analysis suggested a similar lower risk whether or not LDL cholesterol rose in the placebo group.",
+  "class": "industry",
+  "fundingChecked": "https://web.archive.org/web/20181207004641/https://www.nejm.org/doi/full/10.1056/NEJMoa1812792"
+}

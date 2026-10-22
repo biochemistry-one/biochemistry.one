@@ -1,0 +1,17 @@
+{
+  "title": "Overcoming beta-agonist tolerance: high dose salbutamol and ipratropium bromide. Two randomised controlled trials",
+  "authors": "Haney S, Hancox RJ",
+  "journal": "Respiratory Research",
+  "year": 2007,
+  "doi": "10.1186/1465-9921-8-19",
+  "pmid": "17341317",
+  "design": "rct",
+  "participants": 22,
+  "population": "Adults with asthma in New Zealand; two double-blind, placebo-controlled crossover studies of 11 subjects each, with inhaled formoterol 12 µg twice daily for one week",
+  "funder": "The study was funded by the Waikato Respiratory Research Fund. Competing interests: the authors declare that they have no competing interests.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Thirty-six hours after the last dose of one week of formoterol 12 µg twice daily or placebo, bronchoconstriction was induced and a bronchodilator given. The response to 5 mg nebulised salbutamol after methacholine challenge was 15% lower after formoterol than after placebo (95% CI 5 to 25%, p = 0.008) in 11 subjects. In a second group of 11 subjects challenged with 4.5% saline, the response to ipratropium bromide 40 µg was unchanged.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1821019/"
+}

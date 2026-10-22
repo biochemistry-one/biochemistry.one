@@ -1,0 +1,68 @@
+{
+  "title": "Citric acid cycle",
+  "layout": "cycle",
+  "compartment": "Mitochondrial matrix; succinate dehydrogenase in the inner membrane",
+  "steps": [
+    {
+      "from": "Oxaloacetate",
+      "to": "Citrate",
+      "enzyme": "Citrate synthase (CS)",
+      "cofactors": ["Acetyl-CoA", "H2O"],
+      "note": "Irreversible entry of the acetyl group; releases CoA"
+    },
+    {
+      "from": "Citrate",
+      "to": "Isocitrate",
+      "enzyme": "Aconitase 2 (ACO2)",
+      "cofactors": ["[4Fe-4S] cluster"],
+      "reversible": true,
+      "note": "Via cis-aconitate"
+    },
+    {
+      "from": "Isocitrate",
+      "to": "2-Oxoglutarate",
+      "enzyme": "Isocitrate dehydrogenase 3 (IDH3A, IDH3B, IDH3G)",
+      "cofactors": ["NAD+ to NADH", "Mg2+ or Mn2+"],
+      "inhibitors": [{"name": "NADH"}, {"name": "ATP (high concentrations)"}],
+      "note": "Releases CO2; ADP and citrate activate"
+    },
+    {
+      "from": "2-Oxoglutarate",
+      "to": "Succinyl-CoA",
+      "enzyme": "2-Oxoglutarate dehydrogenase complex (OGDH, DLST, DLD)",
+      "cofactors": ["Thiamine pyrophosphate", "Lipoate", "CoA", "FAD", "NAD+ to NADH"],
+      "inhibitors": [{"name": "NADH"}, {"name": "ATP"}],
+      "note": "Releases CO2; Ca2+ and ADP stimulate"
+    },
+    {
+      "from": "Succinyl-CoA",
+      "to": "Succinate",
+      "enzyme": "Succinyl-CoA synthetase (SUCLG1 with SUCLG2 or SUCLA2)",
+      "cofactors": ["GDP to GTP or ADP to ATP", "Phosphate"],
+      "reversible": true,
+      "note": "Releases CoA; the only substrate-level phosphorylation of the cycle"
+    },
+    {
+      "from": "Succinate",
+      "to": "Fumarate",
+      "enzyme": "Succinate dehydrogenase, complex II (SDHA, SDHB, SDHC, SDHD)",
+      "cofactors": ["FAD, covalently bound", "Ubiquinone to ubiquinol"],
+      "note": "Passes electrons directly to the respiratory chain"
+    },
+    {
+      "from": "Fumarate",
+      "to": "Malate",
+      "enzyme": "Fumarate hydratase (FH)",
+      "cofactors": ["H2O"],
+      "reversible": true
+    },
+    {
+      "from": "Malate",
+      "to": "Oxaloacetate",
+      "enzyme": "Malate dehydrogenase 2 (MDH2)",
+      "cofactors": ["NAD+ to NADH"],
+      "reversible": true,
+      "note": "Endergonic; pulled forward when the cycle runs"
+    }
+  ]
+}

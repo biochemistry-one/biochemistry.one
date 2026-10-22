@@ -1,0 +1,17 @@
+{
+  "title": "Vitamin D, Calcium, or Combined Supplementation for the Primary Prevention of Fractures in Community-Dwelling Adults: US Preventive Services Task Force Recommendation Statement",
+  "authors": "US Preventive Services Task Force, Grossman DC, Curry SJ, Owens DK, Barry MJ, Caughey AB, et al.",
+  "journal": "JAMA",
+  "year": 2018,
+  "doi": "10.1001/jama.2018.3185",
+  "pmid": "29677309",
+  "design": "guideline",
+  "population": "Community-dwelling adults",
+  "funder": "The USPSTF is an independent, voluntary body; the US Congress mandates that the Agency for Healthcare Research and Quality (AHRQ) support its operations.",
+  "funderRole": "unknown",
+  "authorConflicts": "All authors completed the ICMJE disclosure form; all USPSTF members receive travel reimbursement and an honorarium for participating in meetings.",
+  "dataAccess": "summary",
+  "result": "Recommends against daily supplementation with 400 IU or less of vitamin D and 1000 mg or less of calcium for primary prevention of fractures in community-dwelling postmenopausal women (D); evidence insufficient for higher doses in postmenopausal women and for men and premenopausal women (I). Harm: adequate evidence that vitamin D with calcium increases kidney stones, judged small; in WHI, 1 urinary tract stone was diagnosed for every 273 women supplemented over 7 years; pooled vitamin D plus calcium for 4 to 7 years, absolute risk difference 0.33% (95% CI 0.06% to 0.60%), RR 1.18 (1.04 to 1.35). Released 17 April 2018; the USPSTF web page marks the topic as being updated.",
+  "class": "consensus",
+  "fundingChecked": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-d-calcium-or-combined-supplementation-for-the-primary-prevention-of-fractures-in-adults-preventive-medication"
+}

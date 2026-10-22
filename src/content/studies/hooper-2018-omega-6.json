@@ -1,0 +1,19 @@
+{
+  "title": "Omega-6 fats for the primary and secondary prevention of cardiovascular disease",
+  "authors": "Hooper L, Al-Khudairy L, Abdelhamid AS, Rees K, Brainard JS, Brown TJ, et al.",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2018,
+  "doi": "10.1002/14651858.CD011094.pub4",
+  "pmid": "30488422",
+  "design": "systematic-review",
+  "participants": 6461,
+  "followUp": "1 to 8 years",
+  "population": "19 randomised trials of higher versus lower omega-6 fat intake in adults with or without cardiovascular disease, at least 12 months",
+  "funder": "Internal sources: University of East Anglia; Warwick Medical School, University of Warwick. External sources: the World Health Organization funded this update, commissioned to underpin WHO guidance on polyunsaturated fats; the original version was supported by a NIHR Cochrane Programme Grant; NIHR CLAHRC West Midlands; NIHR Cochrane Infrastructure funding to the Heart Group.",
+  "funderRole": "none",
+  "authorConflicts": "WHO funding to the University of East Anglia paid the employment of several authors; no other conflicts declared.",
+  "dataAccess": "summary",
+  "result": "Increasing omega-6 fat: all-cause mortality RR 1.00 (95% CI 0.88 to 1.12; 740 deaths, 4506 randomised, 10 trials, low quality), 167 per 1000 with lower and 167 per 1000 with higher omega-6 fat; myocardial infarction RR 0.88 (0.76 to 1.02; 609 events, 4606 participants, 7 trials, low quality), 53 people to increase omega-6 fat to prevent one infarction; total serum cholesterol -0.33 mmol/L (-0.50 to -0.16; 10 trials, high quality); LDL cholesterol -0.04 mmol/L (-0.21 to 0.14; 2 trials, low quality). All-cause mortality in trials without commercial funding RR 1.19 (0.84 to 1.69; 4 trials, 1208 participants). The Minnesota Coronary trial was excluded because most participants were not in the study continuously for at least one year.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6516799/"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Digestion of starch and absorption of glucose",
+  "layout": "chain",
+  "compartment": "Mouth and small-intestinal lumen; brush border, cytosol and basolateral membrane of enterocytes",
+  "steps": [
+    {
+      "from": "Starch (amylose and amylopectin)",
+      "to": "Maltose, maltotriose and α-limit dextrins",
+      "enzyme": "α-Amylase (salivary AMY1, pancreatic AMY2A)",
+      "note": "Hydrolyses internal α-1,4 links and bypasses α-1,6 branch points"
+    },
+    {
+      "from": "Maltose, maltotriose and α-limit dextrins",
+      "to": "Glucose (intestinal lumen)",
+      "enzyme": "Maltase-glucoamylase (MGAM) and sucrase-isomaltase (SI)",
+      "note": "Brush-border exohydrolases; SI supplies almost all α-1,6 activity"
+    },
+    {
+      "from": "Glucose (intestinal lumen)",
+      "to": "Glucose (enterocyte)",
+      "enzyme": "SGLT1 (SLC5A1)",
+      "cofactors": ["2 Na⁺"],
+      "note": "Secondary active transport across the apical membrane"
+    },
+    {
+      "from": "Glucose (enterocyte)",
+      "to": "Glucose (portal blood)",
+      "enzyme": "GLUT2 (SLC2A2)",
+      "note": "Facilitated diffusion across the basolateral membrane"
+    }
+  ]
+}

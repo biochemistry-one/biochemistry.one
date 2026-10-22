@@ -1,0 +1,28 @@
+{
+  "title": "Hydrolysis of aspartame and hydroxylation of its phenylalanine",
+  "layout": "chain",
+  "compartment": "Small-intestinal brush border and mucosa, then liver",
+  "steps": [
+    {
+      "from": "Aspartame",
+      "to": "L-Phenylalanine methyl ester",
+      "enzyme": "Glutamyl aminopeptidase, aminopeptidase A (ENPEP)",
+      "cofactors": ["Zn2+", "H2O"],
+      "note": "Releases L-aspartate; esterases can act first, forming aspartylphenylalanine"
+    },
+    {
+      "from": "L-Phenylalanine methyl ester",
+      "to": "L-Phenylalanine",
+      "enzyme": "Esterases of intestinal mucosa and blood",
+      "cofactors": ["H2O"],
+      "note": "Releases methanol, at most 10% of aspartame by weight"
+    },
+    {
+      "from": "L-Phenylalanine",
+      "to": "L-Tyrosine",
+      "enzyme": "Phenylalanine hydroxylase (PAH)",
+      "cofactors": ["Tetrahydrobiopterin to 4a-hydroxytetrahydrobiopterin", "O2", "Fe2+"],
+      "note": "Deficient in phenylketonuria"
+    }
+  ]
+}

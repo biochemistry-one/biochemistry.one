@@ -1,0 +1,15 @@
+{
+  "title": "Structure and function of mitochondrial membrane protein complexes",
+  "authors": "Kühlbrandt W",
+  "journal": "BMC Biology",
+  "year": 2015,
+  "doi": "10.1186/s12915-015-0201-x",
+  "pmid": "26515107",
+  "design": "other",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Review. States, without a reference or a method, that ATP is produced in the human body at 50 kg per day in a healthy adult and considerably more in a long-distance runner. The article has acknowledgements but no funding or competing-interests statement.",
+  "class": "undetermined",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4625866"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Effect of levothyroxine on left ventricular ejection fraction in patients with subclinical hypothyroidism and acute myocardial infarction: a randomized clinical trial",
+  "authors": "Jabbar A, Ingoe L, Junejo S, Carey P, Addison C, Thomas H, et al.",
+  "journal": "JAMA",
+  "year": 2020,
+  "doi": "10.1001/jama.2020.9389",
+  "pmid": "32692386",
+  "registry": "ISRCTN52505169",
+  "design": "rct",
+  "participants": 95,
+  "followUp": "52 weeks",
+  "population": "Patients with acute myocardial infarction and persistent mild subclinical hypothyroidism in 6 UK hospitals; mean age 63.5 years, 76.6% men, median TSH 5.7 mU/l",
+  "funder": "Dr Razvi was funded by an NIHR Career Development Fellowship (CDF-2012-05-231). The research was supported in part by the NIHR infrastructure at the University of Leeds. The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "inKindSupport": "Levothyroxine was provided free of cost by Amdipharm Pharmaceuticals UK Ltd.",
+  "authorConflicts": "Dr Razvi reported nonfinancial support from Amdipharm during the study and personal fees from Merck and Abbott outside it; other authors reported fees from Abbott Vascular, AstraZeneca, Quidel, Sanofi and Berlin Chemie outside the submitted work.",
+  "dataAccess": "unknown",
+  "result": "Levothyroxine from 25 µg titrated to TSH 0.4 to 2.5 mU/l (n = 46) against placebo (n = 49). Left ventricular ejection fraction by MRI rose from 51.3% to 53.8% on levothyroxine and from 54.0% to 56.1% on placebo; adjusted difference 0.76% (95% CI -0.93% to 2.46%). None of 6 secondary outcomes differed. Cardiovascular adverse events: 15 (33.3%) on levothyroxine, 18 (36.7%) on placebo.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12068826/"
+}

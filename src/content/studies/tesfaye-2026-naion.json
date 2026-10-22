@@ -1,0 +1,19 @@
+{
+  "title": "GLP-1RA and the risk of non-arteritic anterior ischaemic optic neuropathy in patients with type 2 diabetes: a population-based study",
+  "authors": "Tesfaye H, Paik JM, Wexler DJ, Hathaway JT, Yu EW, Freedman A, et al.",
+  "journal": "Diabetes, Obesity and Metabolism",
+  "year": 2026,
+  "doi": "10.1111/dom.70200",
+  "pmid": "41104517",
+  "design": "cohort",
+  "participants": 965824,
+  "followUp": "median 6.7 months on treatment; January 2016 to August 2024",
+  "population": "482,912 propensity-matched pairs of adults with type 2 diabetes initiating a GLP-1 receptor agonist or an SGLT2 inhibitor in Optum, MarketScan and Medicare fee-for-service claims",
+  "funder": "Funded by a research grant from the National Institute of Diabetes and Digestive and Kidney Diseases (R01DK138036); authors were also supported by PCORI, FDA and NIH grants. The funders had no role in design, conduct, collection, analysis, interpretation, preparation, review or approval of the manuscript, or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "One author leads a Boehringer Ingelheim grant and one an Amgen grant, both unrelated; one serves on Novo Nordisk data monitoring committees.",
+  "dataAccess": "summary",
+  "result": "Presumed NAION was more frequent after GLP-1 receptor agonist than SGLT2 inhibitor initiation: hazard ratio 1.85 (95% CI 1.51 to 2.27); rate difference 0.29 (0.19 to 0.39) per 1000 person-years. A meta-analysis of the authors' semaglutide analysis with published results gave a hazard ratio of 2.78 (1.39 to 5.56).",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12718077"
+}

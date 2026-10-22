@@ -1,0 +1,16 @@
+{
+  "title": "Multi-dimensional roles of ketone bodies in fuel metabolism, signaling, and therapeutics",
+  "authors": "Puchalska P, Crawford PA",
+  "journal": "Cell Metabolism",
+  "year": 2017,
+  "doi": "10.1016/j.cmet.2016.12.022",
+  "pmid": "28178565",
+  "design": "other",
+  "funder": "P.A.C. is supported in part by NIH DK091538.",
+  "funderRole": "none",
+  "authorConflicts": "Not stated in the author manuscript.",
+  "dataAccess": "summary",
+  "result": "Review. Total ketone bodies in healthy adults oscillate between about 100 and 250 µM, rise to about 1 mM after 24 h of fasting or prolonged exercise and reach as high as 20 mM in diabetic ketoacidosis; the human liver produces up to 300 g per day. HMGCS2 catalyses the fate-committing condensation of acetoacetyl-CoA and acetyl-CoA; HMGCL releases acetyl-CoA and acetoacetate; BDH1 interconverts acetoacetate and D-3-hydroxybutyrate in a near-equilibrium NAD+/NADH-coupled reaction; acetoacetate decarboxylates spontaneously to acetone; MCT1 and MCT2 (SLC16A1, SLC16A7) release ketone bodies from cells. SCOT (OXCT1) is expressed in all mammalian cells with mitochondria except hepatocytes and activates acetoacetate without ATP; mitochondrial thiolases (ACAA2, ACAT1, HADHA or HADHB) yield two acetyl-CoA. Heart, skeletal muscle and brain oxidise ketone bodies, including during adherence to low-carbohydrate diets. Acetyl-CoA allosterically activates pyruvate carboxylase; malonyl-CoA inhibits CPT1. Hmgcs2 transcription is stimulated by FOXA2, which insulin inhibits through PI3K and Akt, induced by glucagon-cAMP-p300 signalling and induced by PPAR-alpha and FGF21 in starvation; these shifts have not been linked mechanistically to HMGCS2 protein abundance or ketogenic rate. Loss-of-function HMGCS2 mutations cause bouts of hypoketotic hypoglycaemia.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5313038"
+}

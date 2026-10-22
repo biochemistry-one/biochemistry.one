@@ -1,0 +1,44 @@
+{
+  "title": "Butyratsynthese durch Dickdarmbakterien (Acetyl-CoA-Weg)",
+  "layout": "chain",
+  "compartment": "Lumen des Dickdarms; Zytosol butyratbildender Bakterien",
+  "steps": [
+    {
+      "from": "Fermentierbare Polysaccharide",
+      "to": "Acetyl-CoA",
+      "enzyme": "mehrere Schritte",
+      "note": "Stärke, Xylan und andere nicht verdaute Polysaccharide; über Pyruvat"
+    },
+    {
+      "from": "Acetyl-CoA",
+      "to": "Acetoacetyl-CoA",
+      "enzyme": "Thiolase (Thl)",
+      "cofactors": ["Acetyl-CoA"],
+      "note": "Kondensiert zwei Acetyl-CoA und setzt CoA frei"
+    },
+    {
+      "from": "Acetoacetyl-CoA",
+      "to": "3-Hydroxybutyryl-CoA",
+      "enzyme": "β-Hydroxybutyryl-CoA-Dehydrogenase (Hbd)"
+    },
+    {
+      "from": "3-Hydroxybutyryl-CoA",
+      "to": "Crotonyl-CoA",
+      "enzyme": "Crotonase (Cro)"
+    },
+    {
+      "from": "Crotonyl-CoA",
+      "to": "Butyryl-CoA",
+      "enzyme": "Komplex aus Butyryl-CoA-Dehydrogenase und elektronentransferierendem Flavoprotein (Bcd-Etfαβ)",
+      "cofactors": ["Ferredoxin"],
+      "note": "Allen vier Butyratsynthesewegen gemeinsam; postulierte Energiekonservierung"
+    },
+    {
+      "from": "Butyryl-CoA",
+      "to": "Butyrat",
+      "enzyme": "Butyryl-CoA:Acetat-CoA-Transferase (But)",
+      "cofactors": ["Acetat → Acetyl-CoA"],
+      "note": "Alternativ: Phosphatbutyryltransferase (Ptb) und Butyratkinase (Buk)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Role of epinephrine-mediated beta-adrenergic mechanisms in hypoglycemic glucose counterregulation and posthypoglycemic hyperglycemia in insulin-dependent diabetes mellitus",
+  "authors": "Popp DA, Shah SD, Cryer PE",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1982,
+  "doi": "10.1172/jci110455",
+  "pmid": "6120181",
+  "design": "mechanistic",
+  "participants": 15,
+  "followUp": "two study days per subject",
+  "population": "Eight patients with insulin-dependent diabetes (mean age 28 years, without symptomatic autonomic neuropathy) and seven non-diabetic controls at the Washington University Clinical Research Center",
+  "funder": "This study was supported by U.S. Public Health Service grants AM 27085, RR 00036 and AM 20579.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "After intravenous regular insulin 0.075 U/kg, glucose recovery from hypoglycaemia during propranolol infusion was compared with saline. In non-diabetic controls beta-adrenergic blockade left glucose counterregulation unaffected. In patients with insulin-dependent diabetes, whose glucagon responses to hypoglycaemia were markedly diminished, glucose recovery was significantly impaired during blockade, and posthypoglycaemic hyperglycaemia was prevented; the dependence on adrenaline-mediated beta-adrenergic mechanisms varied inversely with residual glucagon secretion.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/110455/pdf/render"
+}

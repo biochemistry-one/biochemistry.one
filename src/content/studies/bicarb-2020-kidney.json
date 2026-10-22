@@ -1,0 +1,20 @@
+{
+  "title": "Clinical and cost-effectiveness of oral sodium bicarbonate therapy for older patients with chronic kidney disease and low-grade acidosis (BiCARB): a pragmatic randomised, double-blind, placebo-controlled trial",
+  "authors": "BiCARB study group, Witham MD, Band M, Ahmed A, Almond MK, Balasubramaniam G, et al.",
+  "journal": "BMC Medicine",
+  "year": 2020,
+  "doi": "10.1186/s12916-020-01542-9",
+  "pmid": "32268897",
+  "registry": "ISRCTN09486651; EudraCT 2011-005271-16",
+  "design": "rct",
+  "participants": 300,
+  "followUp": "up to 2 years; mean 16.4 months (median 24 months in both arms); primary outcome at 12 months",
+  "population": "Adults aged 60 years or older at 27 UK hospitals with eGFR below 30 mL/min/1.73 m2, not receiving dialysis, with serum bicarbonate below 22 mmol/L; mean age 74 years, 29% women",
+  "funder": "National Institute for Health Research Health Technology Assessment programme (project reference 10/71/01). The funder had input into the study design via the original commissioning call specification and no other role in study design, data collection, data analysis, data interpretation or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "Donnan is a member of the New Drugs Committee of the Scottish Medicines Consortium and has received recent grants from Gilead Sciences and Shire Pharmaceuticals; Basnayake works for Fresenius Medical Care UK; Kirk works as a clinical director for MyMHealth; the other authors declare no competing interests.",
+  "dataAccess": "individual",
+  "result": "Sodium bicarbonate 500 mg three times daily, raised to 1 g three times daily if serum bicarbonate remained below 22 mmol/L at 3 months, or matching placebo. Short Physical Performance Battery at 12 months 8.3 (SD 2.5) against 8.8 (SD 2.2) points; adjusted treatment effect -0.4 (95% CI -0.9 to 0.1, p = 0.15), with primary outcome data for 187 participants. eGFR effect 0.6 mL/min/1.73 m2 (-0.8 to 2.0); systolic blood pressure effect 0 mmHg (-4 to 3); serum bicarbonate 1.7 mmol/L higher at 3 months (1.0 to 2.4). 457 adverse events with bicarbonate against 400 with placebo; at least one adverse event in 131 of 152 (86.1%) against 132 of 148 (89.1%); deaths 15 against 11 (HR 1.30, 0.60 to 2.83). Placebo dominated bicarbonate in cost-effectiveness analyses.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7144058/fullTextXML"
+}

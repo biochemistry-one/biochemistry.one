@@ -1,0 +1,18 @@
+{
+  "title": "Thyroxine-triiodothyronine combination therapy versus thyroxine monotherapy for clinical hypothyroidism: meta-analysis of randomized controlled trials",
+  "authors": "Grozinsky-Glasberg S, Fraser A, Nahshoni E, Weizman A, Leibovici L",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2006,
+  "doi": "10.1210/jc.2006-0448",
+  "pmid": "16670166",
+  "design": "meta-analysis",
+  "participants": 1216,
+  "population": "11 randomised trials (6 crossover) performed between 1999 and 2005 in adults with clinical hypothyroidism",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have no conflict of interest to declare.",
+  "dataAccess": "summary",
+  "result": "No difference between combination therapy and T4 alone in bodily pain (SMD 0.00, 95% CI -0.34 to 0.35), depression (0.07, -0.20 to 0.34), anxiety (0.00, -0.12 to 0.11), fatigue (-0.12, -0.33 to 0.09), quality of life (0.03, -0.09 to 0.15), body weight or lipids. Adverse effects were similar (relative risk 1.19, 0.63 to 2.24). The authors concluded that T4 monotherapy should remain the treatment of choice and doubted that further trials were needed.",
+  "class": "undetermined",
+  "fundingChecked": "https://web.archive.org/web/2024/http://jcem.endojournals.org/content/91/7/2592.full"
+}

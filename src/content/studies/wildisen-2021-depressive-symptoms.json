@@ -1,0 +1,20 @@
+{
+  "title": "Effect of levothyroxine therapy on the development of depressive symptoms in older adults with subclinical hypothyroidism: an ancillary study of a randomized clinical trial",
+  "authors": "Wildisen L, Feller M, Del Giovane C, Moutzouri E, Du Puy RS, Mooijaart SP, et al.",
+  "journal": "JAMA Network Open",
+  "year": 2021,
+  "doi": "10.1001/jamanetworkopen.2020.36645",
+  "pmid": "33566107",
+  "registry": "NCT01660126",
+  "design": "rct",
+  "participants": 427,
+  "followUp": "12 months",
+  "population": "TRUST participants aged 65 or older with subclinical hypothyroidism and Geriatric Depression Scale data; mean age 74.5 years, 56% women",
+  "funder": "This ancillary study on depressive symptoms was funded by the Swiss National Science Foundation (SNSF 320030-172676). The TRUST trial was supported by a research grant (278148) from the European Union FP7-HEALTH-2011 program and by grants from the Swiss National Science Foundation, the Swiss Heart Foundation and the Velux Stiftung. Supplies of levothyroxine and matching placebo were provided free of charge by Merck. The trial sponsors and Merck played no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "inKindSupport": "Levothyroxine and matching placebo provided free of charge by Merck (Darmstadt, Germany).",
+  "dataAccess": "individual",
+  "result": "At 12 months the GDS-15 score was 1.39 on levothyroxine and 1.07 on placebo; adjusted difference 0.15 (95% CI -0.15 to 0.46). In those with baseline GDS-15 of at least 2 the difference was 0.61 (-0.32 to 1.53). An updated meta-analysis of levothyroxine and depressive symptoms gave a standardised mean difference of 0.09 (-0.05 to 0.22).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7876592/"
+}

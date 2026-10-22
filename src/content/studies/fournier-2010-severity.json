@@ -1,0 +1,18 @@
+{
+  "title": "Antidepressant drug effects and depression severity: a patient-level meta-analysis",
+  "authors": "Fournier JC, DeRubeis RJ, Hollon SD, Dimidjian S, Amsterdam JD, Shelton RC, et al.",
+  "journal": "JAMA",
+  "year": 2010,
+  "doi": "10.1001/jama.2009.1943",
+  "pmid": "20051569",
+  "design": "meta-analysis",
+  "participants": 718,
+  "followUp": "at least 6 weeks",
+  "population": "Adult outpatients with major or minor depression in 6 placebo-controlled trials without placebo washout exclusion, 3 of paroxetine and 3 of imipramine, with individual data from the authors",
+  "funder": "This research was supported by grants MH50129, MH55875, MH01697, MH01741 and MH060998 from the National Institute of Mental Health. No funding source had direct oversight of the design or conduct of the study; collection, management, analysis, or interpretation of the data; or preparation, review, or approval of the manuscript.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "The drug-placebo difference grew with baseline Hamilton score (severity by treatment interaction p=0.002). Below a baseline score of 23 the effect size was under 0.20. The difference reached the NICE threshold of 3 points at a baseline of 25 and an effect size of 0.50 at 27 (NNT 4); effect size 0.53 (95% CI 0.36 to 0.70) at 25 or more and 0.81 (0.55 to 1.07) at 27 or more.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3712503"
+}

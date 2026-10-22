@@ -1,0 +1,18 @@
+{
+  "title": "Limb girdle muscular disease caused by HMGCR mutation and statin myopathy treatable with mevalonolactone",
+  "authors": "Yogev Y, Shorer Z, Koifman A, Wormser O, Drabkin M, Halperin D, et al.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 2023,
+  "doi": "10.1073/pnas.2217831120",
+  "pmid": "36745799",
+  "design": "genetic",
+  "participants": 6,
+  "population": "Six affected members of one consanguineous Bedouin kindred; mevalonolactone tested in mice and in one patient; murine model of statin myopathy",
+  "funder": "Israel Science Foundation (grant 2034/18) to O.S.B.; scholarship to Y.Y. from the Foulkes Foundation; National Knowledge Center for Rare/Orphan Diseases of the Israel Ministry of Science, Technology and Space, Ben-Gurion University of the Negev.",
+  "funderRole": "unknown",
+  "authorConflicts": "A patent has been filed by Y.Y. and O.S.B.; otherwise no conflicts declared.",
+  "dataAccess": "summary",
+  "result": "A homozygous loss-of-function missense mutation in HMGCR caused autosomal recessive limb-girdle muscle disease in six individuals of one kindred: onset in the fourth decade with pain on exertion, then fatigue and weakness of proximal and axial muscles, culminating in respiratory muscle involvement; the three oldest (aged 49, 58 and 51) were wheelchair-bound or bedridden with respiratory insufficiency, one ventilated by tracheostomy. Imaging showed fatty replacement of proximal and axial muscles that the authors describe as highly reminiscent of end-stage statin myopathy and immune-mediated necrotising myopathy. Oral mevalonolactone, the product of the enzyme, was given to one patient without significant adverse effects and resolved statin-induced myopathy in mice. The paper states that up to 30% of statin users report muscle symptoms, while reports differ.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9963716"
+}

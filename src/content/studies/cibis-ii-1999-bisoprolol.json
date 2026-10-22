@@ -1,0 +1,18 @@
+{
+  "title": "The Cardiac Insufficiency Bisoprolol Study II (CIBIS-II): a randomised trial",
+  "authors": "CIBIS-II Investigators and Committees",
+  "journal": "Lancet",
+  "year": 1999,
+  "doi": "10.1016/S0140-6736(98)11181-9",
+  "pmid": "10023943",
+  "design": "rct",
+  "participants": 2647,
+  "followUp": "mean 1.3 years; stopped early at the second interim analysis",
+  "population": "Symptomatic patients in New York Heart Association class III or IV with a left ventricular ejection fraction of 35% or less, receiving standard therapy with diuretics and ACE inhibitors, in a multicentre European trial",
+  "funder": "The funding statement of the trial report could not be read: the publisher page is behind a subscription, the archived copy stops at the abstract and the article is absent from PubMed Central. The design paper of the Beta-Blockers in Heart Failure Collaborative Group, which lists this trial among those proposed for pooling, states that of those trials only BEST was principally sponsored by public bodies and that all the others were funded by pharmaceutical companies.",
+  "funderRole": "unknown",
+  "dataAccess": "unavailable",
+  "result": "Double-blind randomisation to bisoprolol 1.25 mg daily, increased progressively to a maximum of 10 mg (n = 1327), or placebo (n = 1320), analysed by intention to treat. All-cause mortality, the primary endpoint, occurred in 156 patients (11.8%) against 228 (17.3%), hazard ratio 0.66 (95% CI 0.54 to 0.81; p below 0.0001): an absolute difference of 5.5 percentage points over a mean 1.3 years, so 18 patients treated avoid one death. Sudden death occurred in 48 patients (3.6%) against 83 (6.3%), hazard ratio 0.56 (0.39 to 0.80; p = 0.0011). Treatment effects were independent of the severity or cause of heart failure, and the authors caution that the results should not be extrapolated to patients with severe class IV symptoms and recent instability, in whom safety and efficacy were not established.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3564787/"
+}

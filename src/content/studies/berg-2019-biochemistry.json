@@ -1,0 +1,14 @@
+{
+  "title": "Biochemistry",
+  "authors": "Berg JM, Tymoczko JL, Gatto GJ Jr, Stryer L",
+  "journal": "W. H. Freeman, 9th edition",
+  "year": 2019,
+  "url": "https://isbnsearch.org/isbn/9781319114671",
+  "design": "textbook",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Textbook, ISBN 978-1-319-11467-1. Pepsin begins proteolysis in the stomach and pancreatic proteases are secreted as zymogens. Nine amino acids are essential for humans: histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan and valine; tyrosine is formed from phenylalanine and the sulfur of cysteine comes from methionine. Aminotransferases transfer alpha-amino groups to 2-oxoglutarate through a pyridoxal phosphate Schiff base, an external aldimine and pyridoxamine phosphate in a ping-pong mechanism. One nitrogen of urea comes from ammonium and the other from aspartate; one urea costs four phosphoanhydride bonds. Benzoate is excreted as hippurate after conjugation with glycine and phenylacetate as phenylacetylglutamine after conjugation with glutamine. The carbon skeletons of the 20 amino acids are converted into pyruvate, 2-oxoglutarate, succinyl-CoA, fumarate, oxaloacetate, acetyl-CoA and acetoacetyl-CoA; mammals make no net glucose from acetyl-CoA or acetoacetyl-CoA; leucine and lysine are solely ketogenic, and isoleucine, phenylalanine, tryptophan and tyrosine are both ketogenic and glucogenic. Alanine formed by transamination in muscle reaches the liver, where its carbon forms glucose and its nitrogen urea, in the glucose-alanine cycle.",
+  "class": "reference",
+  "fundingChecked": "https://openlibrary.org/isbn/9781319114671"
+}

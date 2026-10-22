@@ -1,0 +1,17 @@
+{
+  "title": "Drug-induced atrioventricular block: prognosis after discontinuation of the culprit drug",
+  "authors": "Zeltser D, Justo D, Halkin A, Rosso R, Ish-Shalom M, Hochenberg M, et al.",
+  "journal": "Journal of the American College of Cardiology",
+  "year": 2004,
+  "doi": "10.1016/j.jacc.2004.03.057",
+  "pmid": "15234417",
+  "design": "cohort",
+  "participants": 169,
+  "population": "Consecutive patients with second- or third-degree atrioventricular block not related to acute myocardial infarction, digitalis toxicity or vasovagal syncope, at Tel Aviv-Sourasky Medical Center",
+  "funder": "not read: the full text requires a subscription and is absent from PubMed Central.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Of 169 patients, 92 (54%) were taking beta-blockers, verapamil or diltiazem, with clinical and electrocardiographic characteristics similar to those without such drugs. Stopping the drug was followed by resolution of the block in 41%, against spontaneous improvement in 23% of patients without drugs, but block recurred without therapy in 56% of those whose block had resolved. Block truly caused by the drugs was found in only 15% of patients who developed second- or third-degree block on these drugs.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/15234417/"
+}

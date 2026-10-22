@@ -1,0 +1,156 @@
+---
+import { render } from "astro:content";
+import Base from "../layouts/Base.astro";
+import MetabolicMap from "../components/MetabolicMap.astro";
+import Journeys from "../components/Journeys.astro";
+import ReferenceList from "../components/ReferenceList.astro";
+import EvidenceKey from "../components/EvidenceKey.astro";
+import { SECTIONS, localePath } from "../i18n/languages";
+import { stringsFor, uiFor } from "../i18n/strings";
+import { allPages, keyOf, pagesIn, studiesById, type Study } from "../lib/content";
+import { allRoutes, routeParam, type Route } from "../lib/routes";
+
+export async function getStaticPaths() {
+  const routes = await allRoutes();
+  return routes.map((route) => ({ params: { route: routeParam(route.lang, route.path) }, props: { route } }));
+}
+
+interface Props {
+  route: Route;
+}
+
+const { route } = Astro.props;
+const { lang, path, alternates, view } = route;
+const strings = stringsFor(lang);
+const ui = uiFor(lang);
+const pages = await allPages();
+const pagePath = (page: (typeof pages)[number]) => `${keyOf(page).section}/${keyOf(page).slug}`;
+const englishOnly = (section: (typeof SECTIONS)[number]) => lang === "en"
+  ? []
+  : pagesIn(pages, "en", section).filter((page) => !pages.some((other) => other.id === `${lang}/${pagePath(page)}`));
+const sectionPages = SECTIONS.map((section) => ({ section, pages: pagesIn(pages, lang, section), english: englishOnly(section) }))
+  .filter((group) => group.pages.length + group.english.length > 0);
+
+const article = view.kind === "article" ? await render(view.page) : undefined;
+const studies = await studiesById();
+const cited: Study[] = (article?.remarkPluginFrontmatter.citations ?? []).map((id: string) => studies.get(id)).filter((study): study is Study => study !== undefined);
+const related = view.kind === "article"
+  ? view.page.data.related.map((target) => pages.find((page) => page.id === `${lang}/${target}`)).filter((page) => page !== undefined)
+  : [];
+
+const title = view.kind === "article" ? view.page.data.title : view.kind === "section" ? strings.sections[view.section] : view.kind === "map" ? strings.map : strings.siteName;
+const description = view.kind === "article" ? view.page.data.description : view.kind === "section" ? ui.sectionText[view.section] : view.kind === "map" ? ui.mapLede : strings.tagline;
+const ArticleContent = article?.Content;
+const headlineEm = (text: string) => [...text].reduce((width, character) => width + (/[　-鿿＀-￯]/.test(character) ? 1 : 0.56), 0);
+---
+<Base lang={lang} title={title} description={description} path={path} alternates={alternates} home={view.kind === "home"}>
+  {view.kind === "home" && (
+    <div class="hero-body" slot="hero">
+      <h1 style={`--hero-em: ${headlineEm(ui.heroTitle).toFixed(2)}`}>{ui.heroTitle}</h1>
+      <p class="hero-lede">{ui.heroLede}</p>
+    </div>
+  )}
+  {view.kind === "home" && (
+    <div class="hero-actions" slot="hero-sea">
+      <a class="button button-primary" href="#start">{ui.heroStart}</a>
+      <a class="button button-quiet" href="#map">{ui.heroMap}</a>
+    </div>
+  )}
+
+  {view.kind === "home" && (
+    <>
+      <Journeys lang={lang} pages={pages} />
+      <section class="map-section" id="map">
+        <div class="section-head">
+          <h2>{ui.mapTitle}</h2>
+          <p>{ui.mapLede}</p>
+        </div>
+        <div class="map-band">
+          <MetabolicMap lang={lang} variant="hero" />
+        </div>
+      </section>
+      <section class="home-sections" aria-label={strings.home}>
+        {sectionPages.map((group) => (
+          <div class="section-tile">
+            <p class="count">{group.pages.length + group.english.length} {ui.pages}</p>
+            <h2><a href={localePath(lang, group.section)}>{strings.sections[group.section]}</a></h2>
+            <p>{ui.sectionText[group.section]}</p>
+            <ul class="chip-list">
+              {group.pages.map((page) => <li><a href={localePath(lang, pagePath(page))}>{page.data.title}</a></li>)}
+              {group.english.map((page) => <li><a class="chip-english" href={localePath("en", pagePath(page))} lang="en">{page.data.title}</a></li>)}
+            </ul>
+          </div>
+        ))}
+      </section>
+    </>
+  )}
+
+  {view.kind === "section" && (
+    <section class="page-main">
+      <h1 class="page-title">{strings.sections[view.section]}</h1>
+      <p class="page-lede">{ui.sectionText[view.section]}</p>
+      {view.pages.length > 0 && (
+        <ol class="section-pages">
+          {view.pages.map((page) => (
+            <li>
+              <a href={localePath(lang, pagePath(page))}>
+                <h2>{page.data.title}</h2>
+                <p>{page.data.description}</p>
+              </a>
+            </li>
+          ))}
+        </ol>
+      )}
+      {englishOnly(view.section).length > 0 && (
+        <>
+          <h2 class="section-subhead">{ui.inEnglish}</h2>
+          <ol class="section-pages" lang="en">
+            {englishOnly(view.section).map((page) => (
+              <li>
+                <a href={localePath("en", pagePath(page))}>
+                  <h2>{page.data.title}</h2>
+                  <p>{page.data.description}</p>
+                </a>
+              </li>
+            ))}
+          </ol>
+        </>
+      )}
+    </section>
+  )}
+
+  {view.kind === "article" && ArticleContent && (
+    <div class="reading">
+      <article>
+        <a class="crumb" href={localePath(lang, view.page.data.section)}>{strings.sections[view.page.data.section]}</a>
+        <h1>{view.page.data.title}</h1>
+        <aside class="summary">
+          <p class="summary-label">{strings.summary}</p>
+          <p>{view.page.data.summary}</p>
+        </aside>
+        <div class="article-body">
+          <ArticleContent />
+        </div>
+        <ReferenceList lang={lang} studies={cited} />
+        {related.length > 0 && (
+          <nav class="related" aria-labelledby="related-heading">
+            <h2 id="related-heading">{strings.related}</h2>
+            <ul class="chip-list">
+              {related.map((page) => <li><a href={localePath(lang, pagePath(page))}>{page.data.title}</a></li>)}
+            </ul>
+          </nav>
+        )}
+        <p class="article-updated">{strings.updated} <time datetime={view.page.data.updated.toISOString().slice(0, 10)}>{view.page.data.updated.toISOString().slice(0, 10)}</time></p>
+      </article>
+      <EvidenceKey lang={lang} />
+    </div>
+  )}
+
+  {view.kind === "map" && (
+    <section class="map-page">
+      <h1 class="page-title">{ui.mapTitle}</h1>
+      <p class="page-lede">{ui.mapLede}</p>
+      <MetabolicMap lang={lang} variant="full" />
+    </section>
+  )}
+</Base>

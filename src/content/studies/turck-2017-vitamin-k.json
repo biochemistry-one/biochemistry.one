@@ -1,0 +1,15 @@
+{
+  "title": "Dietary reference values for vitamin K",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA), Turck D, Bresson JL, Burlingame B, Dean T, Fairweather-Tait S, et al.",
+  "journal": "EFSA Journal",
+  "year": 2017,
+  "doi": "10.2903/j.efsa.2017.4780",
+  "pmid": "32625486",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (question EFSA-Q-2011-01232).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Vitamin K is the cofactor of gamma-glutamyl carboxylase (GGCX), which converts glutamic acid residues of vitamin K-dependent proteins, including coagulation factors II, VII, IX and X and the anticoagulant proteins C, S and Z, into calcium-binding gamma-carboxyglutamic acid residues; vitamin K hydroquinone is converted to vitamin K epoxide and reduced back by vitamin K epoxide reductase (VKOR), the step of the cycle blocked by warfarin. In adults, deficiency causes a bleeding tendency with a vitamin K-responsive increase in prothrombin time. In infants not given vitamin K prophylaxis, late vitamin K deficiency bleeding occurred in 4.4 to 7.2 per 100,000 births in Western European countries; its relative risk without prophylaxis is estimated at 81.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7010012/fullTextXML"
+}

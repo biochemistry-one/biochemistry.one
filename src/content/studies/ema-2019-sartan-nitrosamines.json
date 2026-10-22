@@ -1,0 +1,14 @@
+{
+  "title": "Sartan medicines: companies to review manufacturing processes to avoid presence of nitrosamine impurities",
+  "authors": "European Medicines Agency",
+  "journal": "European Medicines Agency, EMA/248364/2019 Rev 1, 17 April 2019; Article 31 referral EMEA/H/A-31/1471",
+  "year": 2019,
+  "url": "https://www.ema.europa.eu/en/documents/referral/angiotensin-ii-receptor-antagonists-sartans-article-31-referral-sartan-medicines-companies-review-manufacturing-processes-avoid-presence-nitrosamine-impurities_en.pdf",
+  "design": "regulatory",
+  "funder": "European Medicines Agency",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "N-nitrosodimethylamine (NDMA) and N-nitrosodiethylamine (NDEA), classified as probable human carcinogens, were detected in some sartan medicines; before June 2018 they were not among the impurities identified in sartans and were not detected by routine tests. They can form during synthesis of sartans containing a tetrazole ring (candesartan, irbesartan, losartan, olmesartan, valsartan), NDMA from dimethylamine in the presence of nitrites under acidic conditions, or from contaminated equipment or reagents. The highest possible risk was estimated from animal studies: if 100,000 patients took valsartan from Zhejiang Huahai at the highest dose every day for 6 years, NDMA could cause 22 extra cancers over their lifetimes, and NDEA 8 extra cancers per 100,000 over 4 years. Interim limits of 96.0 ng/day for NDMA and 26.5 ng/day for NDEA applied for a 2-year transition, after which products must contain less than 0.03 ppm. Some medicines were recalled. The EMA page for the referral states that in November 2020 limits were aligned with those for other medicines so that excess lifetime cancer risk stays below 1 in 100,000.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ema.europa.eu/en/medicines/human/referrals/angiotensin-ii-receptor-antagonists-sartans-containing-tetrazole-group"
+}

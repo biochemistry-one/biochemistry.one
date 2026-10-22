@@ -1,0 +1,17 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "url": "https://www.uniprot.org/",
+  "design": "database",
+  "funder": "National Human Genome Research Institute (NHGRI) [HG002273]; Office of the Director, NIH OD [U24HG007822]; National Institute of Allergy and Infectious Diseases (NIAID); National Institute on Aging (NIA); National Institute of General Medical Sciences (NIGMS) [R35GM141873]; National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK); National Eye Institute (NEI); National Cancer Institute (NCI); National Heart, Lung, and Blood Institute (NHLBI); Biotechnology and Biological Sciences Research Council (BBSRC) [BB/T015608/1]; National Science Foundation's Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 - Research and Innovation Framework Programme [825575]; State Secretariat for Education, Research and Innovation (SERI); European Molecular Biology Laboratory (EMBL) Australia. Funding for open access charge: National Institutes of Health.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed bacterial UniProtKB entries, release 2026_03, read through rest.uniprot.org on 2026-10-21. Pectinesterase A, PemA (P0C1A9, Dickeya dadantii), secreted, EC 3.1.1.11: [(1->4)-alpha-D-galacturonosyl methyl ester](n) + n H2O = [(1->4)-alpha-D-galacturonosyl](n) + n methanol + n H+. Endo-polygalacturonase PehA (P26509, Pectobacterium parmentieri), secreted, EC 3.2.1.15: (1,4-alpha-D-galacturonosyl)n+m + H2O = (1,4-alpha-D-galacturonosyl)n + (1,4-alpha-D-galacturonosyl)m. Alpha-galacturonidase LplD (P39130, Bacillus subtilis), EC 3.2.1.67: [(1->4)-alpha-D-galacturonosyl](n) + H2O = alpha-D-galacturonate + [(1->4)-alpha-D-galacturonosyl](n-1). Escherichia coli K-12: uronate isomerase UxaC (P0A8G3, EC 5.3.1.12), aldehydo-D-galacturonate = keto-D-tagaturonate; altronate oxidoreductase UxaB (P0A6L7, EC 1.1.1.58), D-altronate + NAD+ = keto-D-tagaturonate + NADH + H+; altronate dehydratase UxaA (P42604, EC 4.2.1.7), D-altronate = 2-dehydro-3-deoxy-D-gluconate + H2O, cofactor Fe2+ (Mn2+ can substitute); 2-dehydro-3-deoxygluconokinase KdgK (P37647, EC 2.7.1.45), 2-dehydro-3-deoxy-D-gluconate + ATP = 2-dehydro-3-deoxy-6-phospho-D-gluconate + ADP + H+; KDPG aldolase Eda (P0A955, EC 4.1.2.14), cytoplasmic, 2-dehydro-3-deoxy-6-phospho-D-gluconate = D-glyceraldehyde 3-phosphate + pyruvate.",
+  "class": "reference",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11701636/fullTextXML"
+}

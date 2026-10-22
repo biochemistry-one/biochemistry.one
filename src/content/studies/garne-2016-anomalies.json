@@ -1,0 +1,17 @@
+{
+  "title": "Risk of congenital anomalies after exposure to asthma medication in the first trimester of pregnancy - a cohort linkage study",
+  "authors": "Garne E, Vinkel Hansen A, Morris J, Jordan S, Klungsøyr K, Engeland A, et al.",
+  "journal": "BJOG: An International Journal of Obstetrics and Gynaecology",
+  "year": 2016,
+  "doi": "10.1111/1471-0528.14026",
+  "pmid": "27172856",
+  "design": "cohort",
+  "participants": 519242,
+  "population": "Infants and fetuses in population-based cohorts in Norway (2004 to 2010), Wales and Funen, Denmark (2000 to 2010) linking prescription records with congenital anomaly registries; exposure was a prescription from 91 days before to 91 days after pregnancy start",
+  "funder": "Financial support for this study was provided by the European Union under the Seventh Framework Programme (grant agreement HEALTH-F5-2011-260598). The funding source had no involvement in the study.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "19,513 mothers (3.76%) had an asthma medication prescription in the exposure window; inhaled beta2-agonists were the most frequent (2.93%). For any asthma medication, the adjusted OR for a major congenital anomaly was 1.21 (99% CI 1.09 to 1.34). Short-acting beta2-agonists were associated with renal dysplasia (OR 2.37, 99% CI 1.20 to 4.67), limb reduction defects and syndactyly, at ORs of 2.00 to 2.37; the discussion states that these associations weakened and lost significance when exposure was restricted to at least two prescriptions, while the sensitivity analysis reports that the renal dysplasia association remained significant under a stricter exposure definition. Previously reported associations of inhaled beta2-agonists with cleft palate (OR 1.05, 0.44 to 2.51) and gastroschisis (1.08, 0.37 to 3.15) were not confirmed. The authors caution that many comparisons were made.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5084768/"
+}

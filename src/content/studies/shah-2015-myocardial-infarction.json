@@ -1,0 +1,17 @@
+{
+  "title": "Proton pump inhibitor usage and the risk of myocardial infarction in the general population",
+  "authors": "Shah NH, LePendu P, Bauer-Mehren A, Ghebremariam YT, Iyer SV, Marcus J, et al.",
+  "journal": "PLoS One",
+  "year": 2015,
+  "doi": "10.1371/journal.pone.0124653",
+  "pmid": "26061035",
+  "design": "cohort",
+  "population": "Text mining of over 16 million clinical documents on 2.9 million individuals in Stanford and Practice Fusion records; patients with gastro-oesophageal reflux disease",
+  "funder": "NIH grants U54HG004028, R01 LM011369 and R01 GM101430; research gift support from Apixio, Inc.; NIH, AHA and Stanford SPARK grants to JPC; Practice Fusion provided support in the form of salaries for author JM, but did not have any additional role in the study design, and analysis, decision to publish, or preparation of the manuscript. Apixio, Inc., supported the project by providing an unrestricted research gift to Stanford University, but had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "Authors hold Stanford patents on clinical-text analytics and on DDAH inhibitors; YTG and JPC founded Altitude Pharma, developing PPI-based products for airway diseases; JM is employed by Practice Fusion.",
+  "dataAccess": "individual",
+  "result": "Patients with gastro-oesophageal reflux disease exposed to PPIs had a 1.16-fold association with myocardial infarction (95% CI 1.09 to 1.24), regardless of clopidogrel use; in a prospective cohort, cardiovascular mortality HR 2.00 (1.07 to 3.78). H2-receptor antagonists were not associated with cardiovascular risk.",
+  "class": "industry",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4462578/fullTextXML"
+}

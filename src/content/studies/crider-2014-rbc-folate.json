@@ -1,0 +1,18 @@
+{
+  "title": "Population red blood cell folate concentrations for prevention of neural tube defects: Bayesian model",
+  "authors": "Crider KS, Devine O, Hao L, Dowling NF, Li S, Molloy AM, et al.",
+  "journal": "BMJ",
+  "year": 2014,
+  "doi": "10.1136/bmj.g4554",
+  "pmid": "25073783",
+  "design": "other",
+  "participants": 249025,
+  "population": "Data from the China community intervention project with 400 µg/day folic acid (247,831 women, 1993-1995) and a randomised dosing trial in Chinese women of reproductive age (1194 women, 2003-2005)",
+  "funder": "Funding for salaries of CDC employees was provided by the Centers for Disease Control and Prevention. No specific funding was provided for this project.",
+  "funderRole": "unknown",
+  "authorConflicts": "No financial relationships with organisations that might have an interest in the work.",
+  "dataAccess": "summary",
+  "result": "Modelled neural tube defect risk fell as estimated red cell folate at neural tube closure (day 28 of gestation) rose: 25.4 (95% uncertainty interval 20.8 to 31.2) per 10,000 births at 500 nmol/L, and about 6 per 10,000 at 1180 (1050 to 1340) nmol/L, with risk substantially attenuated above about 1000 nmol/L. The authors propose about 1000 nmol/L as an optimal population red cell folate threshold. Model parameters are in the appendix; no additional data available.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4115151/"
+}

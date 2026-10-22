@@ -1,0 +1,16 @@
+{
+  "title": "Metabolism and biomarkers of heterocyclic aromatic amines in humans",
+  "authors": "Bellamri M, Walmsley SJ, Turesky RJ",
+  "journal": "Genes and Environment",
+  "year": 2021,
+  "doi": "10.1186/s41021-021-00200-7",
+  "pmid": "34271992",
+  "design": "other",
+  "funder": "R01CA122320 and the National Cancer Institute Cancer Center Support Grant CA077598 supported a portion of the research conducted in the Turesky Laboratory.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare that they have no competing interests.",
+  "dataAccess": "summary",
+  "result": "Narrative review. Heterocyclic aromatic amines form during high-temperature cooking of meat, poultry and fish, in amounts that increase with cooking time and temperature; PhIP and AαC can reach 50 ppb or more in well-done meat and poultry. In model systems with amino acids and sugars, creatine or creatinine is the precursor of the imidazo moieties of the aminoimidazoarenes, which are more potent mutagens than the amino acid pyrolysates. Hepatic CYP1A2 accounts for an estimated 70% of PhIP metabolism in humans, mainly by N-oxidation to genotoxic N-hydroxy-PhIP. Most N-hydroxy-heterocyclic amines are bioactivated by human NAT2 to reactive esters; N-acetoxy-PhIP is stable enough to isolate; SULT1A1 and SULT1A2 catalyse binding of N-hydroxy-PhIP to DNA. The proposed reactive intermediate is the heteroaryl nitrenium ion; N-hydroxy-PhIP forms the adduct N-(2′-deoxyguanosin-8-yl)-PhIP (dG-C8-PhIP).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8284014/fullTextXML"
+}

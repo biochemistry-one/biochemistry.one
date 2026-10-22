@@ -1,0 +1,19 @@
+{
+  "title": "Non-arteritic anterior ischaemic optic neuropathy incidence in placebo-controlled clinical trials of liraglutide or semaglutide",
+  "authors": "Vilsbøll T, Arun Kumar D, Aiello LP, Rönnbäck C, Stellfeld M, Larsen LM",
+  "journal": "British Journal of Ophthalmology",
+  "year": 2026,
+  "doi": "10.1136/bjo-2025-328729",
+  "pmid": "42049287",
+  "design": "meta-analysis",
+  "participants": 96829,
+  "followUp": "205,777 participant-years of observation",
+  "population": "Pooled completed phase II to IV placebo-controlled trials of the six Novo Nordisk liraglutide and semaglutide products in type 2 diabetes and/or overweight or obesity; 64,917 treated and 31,912 on placebo",
+  "funder": "This study was funded by Novo Nordisk A/S. Representatives of Novo Nordisk were involved in the design and conduct of the trial, data collection, data management, data analysis, data interpretation and the preparation, review and approval of the manuscript; medical writing support was funded by Novo Nordisk A/S.",
+  "funderRole": "several",
+  "authorConflicts": "Three authors are Novo Nordisk employees, two holding its stock; the first author has been employed by Novo Nordisk since February 2026; one co-chairs the FOCUS trial; the others report fees or research support from Novo Nordisk and other companies.",
+  "dataAccess": "summary",
+  "result": "Three confirmed NAION cases occurred in three treated participants (about 3 per 100,000 participant-years of observation), all on semaglutide, and five in four placebo participants (about 6 per 100,000); Fisher's exact P = 0.12; all ophthalmologist-confirmed cases had one or more risk factors such as age over 50, obesity, smoking, dyslipidaemia or hypertension. Cases were identified only when investigators named NAION or narratives matched search terms, and the authors state that the trials were not powered to detect NAION. The authors conclude that the trial data do not suggest a relationship between GLP-1 receptor agonist use and NAION.",
+  "class": "industry",
+  "fundingChecked": "https://bjo.bmj.com/content/early/2026/04/28/bjo-2025-328729"
+}

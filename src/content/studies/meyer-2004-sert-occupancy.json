@@ -1,0 +1,18 @@
+{
+  "title": "Serotonin transporter occupancy of five selective serotonin reuptake inhibitors at different doses: an [11C]DASB positron emission tomography study",
+  "authors": "Meyer JH, Wilson AA, Sagrati S, Hussey D, Carella A, Potter WZ, et al.",
+  "journal": "American Journal of Psychiatry",
+  "year": 2004,
+  "doi": "10.1176/appi.ajp.161.5.826",
+  "pmid": "15121647",
+  "design": "mechanistic",
+  "participants": 77,
+  "followUp": "4 weeks of treatment",
+  "population": "Healthy volunteers given subtherapeutic doses and patients with mood or anxiety disorders given therapeutic doses of citalopram, fluoxetine, sertraline (14 subjects), paroxetine or extended-release venlafaxine, Toronto",
+  "funder": "Supported by the National Alliance for Research on Schizophrenia and Depression, Eli Lilly Canada, and the Canadian Institutes of Health Research. One author's affiliation is Eli Lilly and Company, Indianapolis.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Striatal serotonin transporter occupancy after 4 weeks rose with dose and plasma level along a saturating curve, f(x)=a(x/[b+x]), with substantial occupancy at subtherapeutic doses and a plateau at higher doses; for sertraline the dose fit was f(x)=94(x/[b+x]). Mean occupancy at minimum therapeutic doses (sertraline 50 mg) was 76% to 85%. In 36 depressed subjects occupancy was not related to change in Hamilton score (r=0.20, p=0.24).",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20250128224602/https://psychiatryonline.org/doi/full/10.1176/appi.ajp.161.5.826"
+}

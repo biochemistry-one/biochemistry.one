@@ -1,0 +1,20 @@
+{
+  "title": "MRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20,536 high-risk individuals: a randomised placebo-controlled trial",
+  "authors": "Heart Protection Study Collaborative Group",
+  "journal": "Lancet",
+  "year": 2002,
+  "doi": "10.1016/S0140-6736(02)09327-3",
+  "pmid": "12114036",
+  "registry": "ISRCTN48489393",
+  "design": "rct",
+  "participants": 20536,
+  "followUp": "scheduled treatment period 5 years",
+  "population": "UK adults aged 40 to 80 years with coronary disease, other occlusive arterial disease or diabetes",
+  "funder": "The funding statement of the 2002 report could not be read: the publisher page shows only the abstract. The 2011 report of extended follow-up of the same trial (Lancet 2011;378:2013-20) lists funding from the UK Medical Research Council, British Heart Foundation, Merck & Co and Roche Vitamins, and states that the trial was designed, conducted, analysed, and interpreted by the investigators, independently of all funding sources.",
+  "funderRole": "none",
+  "authorConflicts": "The 2011 report states that the Clinical Trial Service Unit does not accept honoraria or other payments from the pharmaceutical industry, except reimbursement of the costs of scientific meetings.",
+  "dataAccess": "individual",
+  "result": "Results read from the abstract. Simvastatin 40 mg daily (average compliance 85%) against matching placebo (average non-study statin use 17%), giving an average LDL cholesterol difference of 1.0 mmol/L. All-cause mortality 1328 (12.9%) of 10,269 allocated simvastatin against 1507 (14.7%) of 10,267 allocated placebo (p = 0.0003); coronary deaths 587 (5.7%) against 707 (6.9%). First major vascular event 2033 (19.8%) against 2585 (25.2%), a 24% reduction (95% CI 19 to 28). Annual excess risk of myopathy about 0.01%. Authors' estimate: 5 years of simvastatin would prevent about 70 to 100 people per 1000 from suffering at least one major vascular event.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3242163/"
+}

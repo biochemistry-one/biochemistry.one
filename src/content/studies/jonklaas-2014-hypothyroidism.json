@@ -1,0 +1,16 @@
+{
+  "title": "Guidelines for the treatment of hypothyroidism: prepared by the American Thyroid Association Task Force on Thyroid Hormone Replacement",
+  "authors": "Jonklaas J, Bianco AC, Bauer AJ, Burman KD, Cappola AR, Celi FS, et al.",
+  "journal": "Thyroid",
+  "year": 2014,
+  "doi": "10.1089/thy.2014.0028",
+  "pmid": "25266247",
+  "design": "guideline",
+  "funder": "The task force members volunteered their time and expertise and did not receive funds from the ATA. No funds were received from commercial sources for the development of this document. J.J. is partially supported by federal funds (Grant no. UL1TR000101) from the National Center for Advancing Translational Science, NIH, through the Clinical and Translational Science Awards Program. A.S. holds a Health Services Research Chair, funded by Cancer Care Ontario.",
+  "funderRole": "none",
+  "authorConflicts": "J.J. and K.D.B. have conducted research on a triiodothyronine product (BCT303) funded by ITL Pharma and were planning a research project using levothyroxine gel capsules funded by Institut Biochimique S.A.; they have no financial interests in either product. All other authors have no conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "Recommendation 1a: levothyroxine is recommended as the preparation of choice for treating hypothyroidism (strong recommendation, moderate-quality evidence); the rationale is peripheral conversion of the prohormone T4 into T3 by type 1 and type 2 deiodinases. Recommendation 1b: the goals include normalisation of serum thyrotropin; the discussion states that TSH is the most reliable marker of adequate replacement and that a value within the reference range (0.4-4.0 mIU/L) should be considered the therapeutic target. Recommendation 4b: the dose is titrated using serum thyrotropin as the goal, with thyrotropin assessment 4-6 weeks after any dosage change (strong recommendation, moderate-quality evidence).",
+  "class": "consensus",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4267409/"
+}

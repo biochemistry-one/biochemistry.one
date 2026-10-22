@@ -1,0 +1,17 @@
+{
+  "title": "Secreted PCSK9 decreases the number of LDL receptors in hepatocytes and in livers of parabiotic mice",
+  "authors": "Lagace TA, Curtis DE, Garuti R, McNutt MC, Park SW, Prather HB, et al.",
+  "journal": "Journal of Clinical Investigation",
+  "year": 2006,
+  "doi": "10.1172/JCI29383",
+  "pmid": "17080197",
+  "design": "mechanistic",
+  "population": "HepG2 cells, mouse embryonic fibroblasts, transgenic and parabiotic mice; plasma from 72 human volunteers",
+  "funder": "Grants from the Perot Family Foundation and the NIH (HL-20948 and HL-38049); T.A. Lagace held a fellowship from the Natural Sciences and Engineering Research Council of Canada; D.E. Curtis was supported by the UT Southwestern Physician Scientist Training Program.",
+  "funderRole": "none",
+  "authorConflicts": "J.D. Horton is a consultant for Alnylam Pharmaceuticals, Aegerion Pharmaceuticals, Metabasis, Merck and Pfizer, and is on the Speakers' Bureau of Merck, Merck/Schering-Plough Pharmaceuticals and Schering-Plough.",
+  "dataAccess": "individual",
+  "result": "PCSK9 undergoes autocatalytic cleavage in the ER; the cleaved prodomain stays associated with the catalytic domain and the complex is secreted. PCSK9 was independently identified as an SREBP-regulated gene. Plasma PCSK9 in 72 volunteers ranged from about 50 to about 600 ng/ml. In HepG2 cells, 0.5 micrograms per ml purified PCSK9 for 4 hours reduced cell-surface LDL receptors by about 50%; the gain-of-function mutant D374Y was at least 10-fold more active. Uptake of PCSK9 depended largely on LDL receptors; PCSK9 and the receptor associated directly and colocalised in late endocytic compartments. In parabiosed mice, PCSK9 from transgenic partners reduced hepatic LDL receptors of wild-type mice to nearly undetectable levels.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1626117/"
+}

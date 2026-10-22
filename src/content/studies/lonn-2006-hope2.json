@@ -1,0 +1,21 @@
+{
+  "title": "Homocysteine lowering with folic acid and B vitamins in vascular disease",
+  "authors": "Lonn E, Yusuf S, Arnold MJ, Sheridan P, Pogue J, Micks M, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2006,
+  "doi": "10.1056/NEJMoa060900",
+  "pmid": "16531613",
+  "registry": "NCT00106886",
+  "design": "rct",
+  "participants": 5522,
+  "followUp": "mean 5 years",
+  "population": "Patients aged 55 years or older with vascular disease or diabetes in Canada and the USA (with fortification) and Brazil, western Europe and Slovakia (without); supplements above 0.2 mg folic acid excluded",
+  "funder": "Supported by a Canadian Institutes of Health Research Grant (MT-15418) and in-kind contributions by Jamieson Laboratories, Canada. The study sponsors were not involved in the design, execution, analysis, or reporting of the trial results.",
+  "funderRole": "none",
+  "inKindSupport": "Study drug and matching placebo were provided by Jamieson Laboratories, Canada.",
+  "authorConflicts": "No potential conflict of interest relevant to this article was reported.",
+  "dataAccess": "summary",
+  "result": "Folic acid 2.5 mg, vitamin B6 50 mg and B12 1 mg daily against placebo. Homocysteine fell by 2.4 µmol/L against a rise of 0.8. Cardiovascular death, myocardial infarction or stroke in 519 (18.8%) against 547 (19.8%): RR 0.95 (95% CI 0.84 to 1.07). Stroke RR 0.75 (0.59 to 0.97). Hospitalisation for unstable angina RR 1.24 (1.04 to 1.49).",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250715073636/https://www.nejm.org/doi/full/10.1056/NEJMoa060900"
+}

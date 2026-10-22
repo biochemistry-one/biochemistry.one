@@ -1,0 +1,16 @@
+{
+  "title": "Urea Cycle Disorders Overview",
+  "authors": "Simpson KL, MacLeod EL, Kakajiwala A, Gropman AL, Ah Mew N",
+  "journal": "GeneReviews, University of Washington, Seattle",
+  "year": 2025,
+  "pmid": "20301396",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK1217/",
+  "design": "database",
+  "funder": "not stated in the chapter",
+  "funderRole": "unknown",
+  "authorConflicts": "not stated in the chapter",
+  "dataAccess": "summary",
+  "result": "Expert-authored, peer-reviewed chapter, first posted 2003, comprehensive update 3 July 2025. The urea cycle comprises CPS1, OTC, ASS1, ASL and ARG1, the cofactor-producing enzyme NAGS and the transporters ORNT1 (SLC25A15) and citrin (SLC25A13); CPS1, NAGS and OTC act in mitochondria, ASS1, ASL and ARG1 in the cytosol. Incidence of urea cycle disorders at least 1 in 35,000 to 1 in 51,946 live births; OTC deficiency, the most common, about 1 in 56,500, X-linked; all others autosomal recessive. Urinary orotic acid is markedly raised in OTC deficiency and normal or low in CPS1 and NAGS deficiency; excess carbamoyl phosphate enters pyrimidine synthesis. N-carbamylglutamate (carglumic acid), an analogue of N-acetylglutamate, essentially normalises urea cycle function in NAGS deficiency. Sodium phenylacetate, sodium benzoate and sodium phenylbutyrate allow alternative-pathway excretion of nitrogen.",
+  "class": "reference",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/ca/84/gene_NBK1116.tar.gz"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers for adults with early (stage 1 to 3) non-diabetic chronic kidney disease",
+  "authors": "Cooper TE, Teng C, Tunnicliffe DJ, Cashmore BA, Strippoli GF",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2023,
+  "doi": "10.1002/14651858.CD007751.pub3",
+  "pmid": "37466151",
+  "design": "meta-analysis",
+  "participants": 9379,
+  "followUp": "12 weeks to 3 years",
+  "population": "Six randomised studies in adults with hypertension and stage 1 to 3 chronic kidney disease without diabetes, 79% men, from China, Europe, Japan and the USA",
+  "funder": "not read: the full-text records available in PubMed Central and Europe PMC contain only the abstract, and the Cochrane Library page is not accessible.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "All six studies were at high risk of bias; five were funded by the drug manufacturer or an agency with a commercial interest and one did not declare its funding. ACE inhibitors (benazepril 10 mg or trandolapril 2 mg) against placebo, 2 studies, 8873 participants, low certainty: death RR 2.00 (95% CI 0.26 to 15.37), total cardiovascular events 0.97 (0.90 to 1.05), stroke 0.76 (0.56 to 1.03), myocardial infarction 1.00 (0.84 to 1.20), adverse events 1.33 (1.26 to 1.41); congestive heart failure 0.75 (0.59 to 0.95) in 1 study of 8290, very low certainty. The authors conclude that evidence is insufficient to determine the effectiveness of ACE inhibitors or angiotensin receptor blockers in this group, which accounts for most people diagnosed with chronic kidney disease.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10355090/"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Thyroid hormone regulation of metabolism",
+  "authors": "Mullur R, Liu YY, Brent GA",
+  "journal": "Physiological Reviews",
+  "year": 2014,
+  "doi": "10.1152/physrev.00030.2013",
+  "pmid": "24692351",
+  "design": "other",
+  "funder": "This work was supported by Veterans Affairs Merit Review Funds and National Institute of Diabetes and Digestive and Kidney Diseases Grant RO1 DK98576.",
+  "funderRole": "unknown",
+  "authorConflicts": "No conflicts of interest, financial or otherwise, are declared by the authors.",
+  "dataAccess": "summary",
+  "result": "Review. Thyroid hormone receptor isoforms alpha and beta are differentially expressed in tissues and have distinct roles; local activation of T4 to T3 by D2, expressed in hypothalamus, white fat, brown fat and skeletal muscle, is a key mechanism of metabolic regulation and is required for adaptive thermogenesis. Thyroid hormone acts on metabolism mainly through brain, white fat, brown fat, skeletal muscle, liver and pancreas. Excess raises resting energy expenditure and lipolysis and lowers cholesterol; deficiency does the reverse. In liver T3 stimulates transcription of the LDL receptor gene, SREBP-2, HMG-CoA reductase and CYP7A1, which TR stimulates directly in human liver; LDL receptor induction is a major pathway of cholesterol lowering after T4 treatment of hypothyroid patients. T3 stimulates SERCA in muscle, which hydrolyses ATP and increases energy expenditure, and modulates hepatic insulin sensitivity and gluconeogenesis. Many mechanisms are drawn from rodent models, such as SREBP-2 suppression in hypothyroid rats and pancreatic beta-cell maturation in rats; the importance of brown fat in adult humans is stated to remain controversial.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4044302/"
+}

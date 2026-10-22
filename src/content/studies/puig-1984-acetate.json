@@ -1,0 +1,17 @@
+{
+  "title": "Ethanol-induced activation of adenine nucleotide turnover. Evidence for a role of acetate",
+  "authors": "Puig JG, Fox IH",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1984,
+  "doi": "10.1172/JCI111512",
+  "pmid": "6470146",
+  "design": "mechanistic",
+  "participants": 5,
+  "population": "Five healthy volunteers aged 21 to 32 years on a purine-free diet in a clinical research centre",
+  "funder": "This work was supported by grants from U. S. Public Health Service 2 R01AM 19674, 5MORR42, and 5P60AM20572 and the Social Security Investigational Program of Spain.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "Intravenous ethanol, 0.1 mmol/kg per min for 1 h, raised plasma acetate from 0.04 to 0.08 mM and urinary oxypurines to 316% of baseline; urinary radioactivity from the [8-14C]adenine-labelled nucleotide pool rose to 128%. Activation of acetate to acetyl-CoA (acetate + ATP to acetyl-AMP + PPi; acetyl-AMP + CoA to acetyl-CoA + AMP) consumes 2 high-energy phosphates per acetate; the authors conclude that acetate metabolism contributes to the increased urate production after ethanol, a small part of the AMP entering purine degradation.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/111512/version/1/pdf/render.pdf"
+}

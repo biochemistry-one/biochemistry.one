@@ -1,0 +1,20 @@
+{
+  "title": "Calcium-channel blocker-clarithromycin drug interactions and acute kidney injury",
+  "authors": "Gandhi S, Fleet JL, Bailey DG, McArthur E, Wald R, Rehman F, et al.",
+  "journal": "JAMA",
+  "year": 2013,
+  "doi": "10.1001/jama.2013.282426",
+  "pmid": "24346990",
+  "design": "cohort",
+  "participants": 190309,
+  "followUp": "30 days after a new antibiotic prescription, 2003 to 2012",
+  "population": "Adults aged 66 or older in Ontario, Canada (mean age 76 years) taking amlodipine, felodipine, nifedipine, diltiazem or verapamil and newly co-prescribed clarithromycin (n=96,226) or azithromycin (n=94,083); amlodipine in 52.7% and 54.1%",
+  "funder": "This project was conducted at the Institute for Clinical Evaluative Sciences (ICES) Western Site. ICES is funded by an annual grant from the Ontario Ministry of Health and Long-term Care. ICES Western is funded by an operating grant from the Academic Medical Organization of Southwestern Ontario. The project was conducted with members of the ICES Kidney, Dialysis, and Transplantation Research Program, which receives programmatic grant funding from the Canadian Institutes of Health Research. The sponsors had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "inKindSupport": "Brogan Inc provided its drug product and therapeutic class database; Gamma Dynacare its outpatient laboratory database.",
+  "authorConflicts": "Wald reports research funding and speaking fees from Alere and honoraria from Thrasos; Garg reports an investigator-initiated grant from Astellas and Roche, and his institution received unrestricted research funding from Pfizer.",
+  "dataAccess": "individual",
+  "result": "Within 30 days, hospitalisation with acute kidney injury occurred in 420 of 96,226 (0.44%) given clarithromycin against 208 of 94,083 (0.22%) given azithromycin: absolute risk increase 0.22% (95% CI 0.16% to 0.27%), odds ratio 1.98 (1.68 to 2.34). Hospitalisation with hypotension 111 (0.12%) against 68 (0.07%), absolute increase 0.04%, OR 1.60 (1.18 to 2.16); all-cause mortality 984 (1.02%) against 555 (0.59%), absolute increase 0.43% (0.35% to 0.51%), OR 1.74 (1.57 to 1.93). By calcium channel blocker, the risk of acute kidney injury was highest with nifedipine (OR 5.33, 3.39 to 8.38; absolute increase 0.63%; number needed to harm 160). The number needed to harm for acute kidney injury was 95 with chronic kidney disease against 723 without. Clarithromycin is a CYP3A4 inhibitor and azithromycin is not.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20261005001326/https://jamanetwork.com/journals/jama/fullarticle/1769739"
+}

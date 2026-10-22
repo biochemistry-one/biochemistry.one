@@ -1,0 +1,18 @@
+{
+  "title": "Is a normal TSH synonymous with \"euthyroidism\" in levothyroxine monotherapy?",
+  "authors": "Peterson SJ, McAninch EA, Bianco AC",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2016,
+  "doi": "10.1210/jc.2016-2660",
+  "pmid": "27700539",
+  "design": "cross-sectional",
+  "participants": 9981,
+  "population": "NHANES 2001 to 2012 participants with normal TSH, of whom 469 were treated with levothyroxine, compared with healthy controls and controls matched for age, sex, race and TSH",
+  "funder": "not stated. The acknowledgments thank NHANES for public access to its data.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have nothing to disclose.",
+  "dataAccess": "summary",
+  "result": "Levothyroxine users had 10% to 15% higher free and total T4, 5% to 10% lower free and total T3 and 15% to 20% lower T3 to T4 ratios than matched controls. They had higher body mass index despite reporting fewer calories per kg, were more likely to take beta-blockers, statins and antidepressants, reported lower total metabolic equivalents, and differed in 12 of 52 measures. Few of these differences correlated with free T3, free T4 or their ratio after multivariate analysis; the authors list comorbidities, the psychological effect of chronic illness, autoimmunity and selective testing of unwell patients as possible explanations.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6287526/"
+}

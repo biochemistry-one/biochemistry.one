@@ -1,0 +1,18 @@
+{
+  "title": "Risk of lactic acidosis or elevated lactate concentrations in metformin users with renal impairment: a population-based cohort study",
+  "authors": "Eppenga WL, Lalmohamed A, Geerts AF, Derijks HJ, Wensing M, Egberts A, et al.",
+  "journal": "Diabetes Care",
+  "year": 2014,
+  "doi": "10.2337/dc13-3023",
+  "pmid": "24842984",
+  "design": "cohort",
+  "participants": 258539,
+  "followUp": "mean 4.3 years in metformin users and 4.9 years in non-users",
+  "population": "223,968 metformin users and 34,571 users of other non-insulin antidiabetic drugs who had never used metformin, identified in the UK Clinical Practice Research Datalink between 2004 and 2012; mean age 60.1 years in metformin users and 67.8 years in non-users",
+  "funder": "Funding and Duality of Interest: the Division of Pharmacoepidemiology and Clinical Pharmacology, Utrecht Institute for Pharmaceutical Sciences, employing five of the authors, has received unrestricted research funding from the Netherlands Organisation for Health Research and Development, the Dutch Health Care Insurance Board, the Royal Dutch Pharmacists Association, the private-public funded Top Institute Pharma, the EU Innovative Medicines Initiative, EU 7th Framework Program, the Dutch Medicines Evaluation Board, the Dutch Ministry of Health, and industry (including GlaxoSmithKline, Pfizer, and others). No study-specific funding is stated and no separation of this study from the industry funding of the employing division is given, so the record is classed industry. No other potential conflicts of interest were reported.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "The outcome was lactic acidosis by clinical code or a recorded plasma lactate above 5 mmol/L. Of 68 events, 50 (74%) came from a code for lactic acidosis and 18 (26%) from a laboratory value. The crude incidence was 7.4 events per 100,000 person-years in current metformin users against 2.2 per 100,000 person-years in non-users; the adjusted hazard ratio for current use overall was 4.03 (95% CI 0.97 to 16.8). Among current users, risk was significantly raised at a most recent renal function below 60 mL/min/1.73 m2 (adjusted hazard ratio 6.37, 1.48 to 27.5) but not at 60 or above (2.87, 0.67 to 12.3); using a cut-point of 45 the ratios were 6.74 (1.34 to 33.8) below and 3.16 (0.75 to 13.3) above. Risk in impaired renal function rose further with a cumulative dose of 730 g or more in the preceding year (11.8, 2.27 to 61.5) and with a recent daily dose above 2 g (13.0, 2.36 to 72.0). Renal function data were missing for 27.4% of current users and 34.6% of non-users; the proportion with eGFR below 30 was 0.3% of metformin users against 2.8% of non-users, and heart failure was less prevalent in metformin users (3.9% against 8.3%). The authors state that including patients with lactate above 5 mmol/L may overestimate lactic acidosis and that acute falls in GFR could not be analysed.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20220518132006/https://diabetesjournals.org/care/article/37/8/2218/29605/Risk-of-Lactic-Acidosis-or-Elevated-Lactate"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Association between overuse of short-acting β2-agonists and the risk of major adverse cardiovascular events among patients with asthma",
+  "authors": "Lai CC, Chen CH, Wang YH, Wang CY, Wang HC",
+  "journal": "Thorax",
+  "year": 2026,
+  "doi": "10.1136/thorax-2024-222204",
+  "pmid": "41986159",
+  "design": "cohort",
+  "participants": 231970,
+  "followUp": "1 year",
+  "population": "Patients with asthma in the Taiwan asthma pay-for-performance database, 2011 to 2019",
+  "funder": "not read: the full text requires a subscription and is absent from PubMed Central. The Europe PMC grant list for the article names Cardinal Tien Hospital grants and 'AstraZeneca Taiwan' grant ESR-18-13978.",
+  "funderRole": "unknown",
+  "authorConflicts": "Competing interests: none declared (PubMed record).",
+  "dataAccess": "unknown",
+  "result": "28,500 patients with overuse (3 or more canisters a year) and 203,470 with 0 to 2 canisters. After inverse probability of treatment weighting, 1-year major adverse cardiovascular events were 2.82 against 0.99 per 100 person-years (adjusted HR 1.25, 95% CI 1.12 to 1.39); non-fatal myocardial infarction HR 1.28 (1.09 to 1.50), ischaemic stroke 1.26 (1.08 to 1.46) and mortality 1.40 (1.24 to 1.58); haemorrhagic stroke was not significantly increased. The dose-response was non-linear, with risk peaking at 6 to 8 canisters a year.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41986159%20AND%20SRC:MED&resultType=core&format=json"
+}

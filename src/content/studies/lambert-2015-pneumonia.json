@@ -1,0 +1,18 @@
+{
+  "title": "Risk of community-acquired pneumonia with outpatient proton-pump inhibitor therapy: a systematic review and meta-analysis",
+  "authors": "Lambert AA, Lam JO, Paik JJ, Ugarte-Gil C, Drummond MB, Crowell TA",
+  "journal": "PLoS One",
+  "year": 2015,
+  "doi": "10.1371/journal.pone.0128004",
+  "pmid": "26042842",
+  "design": "meta-analysis",
+  "participants": 6351656,
+  "population": "26 studies (case-control, case-crossover, cohort and randomised) of outpatient PPI exposure in adults, 226,769 pneumonia cases, searched to February 2014",
+  "funder": "No funding was provided specifically for the conduct of this review. Dr. Lambert is supported by NIH Grant T32 HL007534 31A1, Dr. Drummond by NIH Grant K23 HL103192 04 and Dr. Crowell by NIH Grant T32 AI007291 23. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "Drummond serves as a consultant for Lupin Pharmaceuticals and Boehringer Ingelheim; others none.",
+  "dataAccess": "summary",
+  "result": "Pooled relative risk of community-acquired pneumonia with ambulatory PPI therapy RR 1.49 (95% CI 1.16 to 1.92; I2 99.2%); during the first month of therapy OR 2.10 (1.39 to 3.16), regardless of dose or age, which the authors state may partly reflect protopathic bias from PPI initiation around the onset of respiratory symptoms; hospitalisation for pneumonia OR 1.61 (1.12 to 2.31).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4456166/fullTextXML"
+}

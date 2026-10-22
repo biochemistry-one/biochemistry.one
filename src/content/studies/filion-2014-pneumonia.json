@@ -1,0 +1,19 @@
+{
+  "title": "Proton pump inhibitors and the risk of hospitalisation for community-acquired pneumonia: replicated cohort studies with meta-analysis",
+  "authors": "Filion KB, Chateau D, Targownik LE, Gershon A, Durand M, Tamim H, et al.",
+  "journal": "Gut",
+  "year": 2014,
+  "doi": "10.1136/gutjnl-2013-304738",
+  "pmid": "23856153",
+  "design": "cohort",
+  "participants": 4238504,
+  "followUp": "6 months",
+  "population": "New users of NSAIDs aged 40 years or older in eight databases (six Canadian provinces, US MarketScan, UK General Practice Research Database); 2.3% also started a PPI",
+  "funder": "CNODES is a collaborating center of the Drug Safety and Effectiveness Network (DSEN), funded by the Canadian Institutes of Health Research (Grant Number DSE-111845). The funding source was not involved in the writing of the manuscript or the decision to submit it for publication.",
+  "funderRole": "unknown",
+  "authorConflicts": "PE received speaker fees and sat on advisory boards for AstraZeneca, Boehringer Ingelheim, GlaxoSmithKline, Merck, Novartis and Nycomed before January 2012; LET received speakers' fees from Pfizer Canada and sat on advisory boards for AstraZeneca Canada, Janssen Canada and Merck Canada.",
+  "dataAccess": "individual",
+  "result": "Cumulative 6-month incidence of hospitalisation for community-acquired pneumonia 0.17% among patients prescribed a PPI and 0.12% among unexposed patients; after high-dimensional propensity score adjustment, aOR 1.05 (95% CI 0.89 to 1.25); H2-receptor antagonists aOR 0.95 (0.75 to 1.21).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3963530/fullTextXML"
+}

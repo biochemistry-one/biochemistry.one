@@ -1,0 +1,15 @@
+{
+  "title": "Ion channels versus ion pumps: the principal difference, in principle",
+  "authors": "Gadsby DC",
+  "journal": "Nature Reviews Molecular Cell Biology",
+  "year": 2009,
+  "doi": "10.1038/nrm2668",
+  "pmid": "19339978",
+  "design": "other",
+  "funder": "NIH grants HL36783, HL49907 and DK51767.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Review. Each Na,K-ATPase pump exports 3 Na+ and imports 2 K+ for each ATP hydrolysed and can repeat this cycle up to a hundred times a second; the net charge movement generates a current of about 20 attoamperes per pump.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2742554/"
+}

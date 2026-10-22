@@ -1,0 +1,33 @@
+{
+  "title": "Ciclo del timidilato",
+  "layout": "cycle",
+  "compartment": "Citosol, núcleo y mitocondrias",
+  "steps": [
+    {
+      "from": "Tetrahidrofolato (THF)",
+      "to": "5,10-Metilen-THF",
+      "enzyme": "Serina hidroximetiltransferasa (SHMT1, SHMT2)",
+      "cofactors": ["L-Serina → glicina", "5′-Fosfato de piridoxal"],
+      "reversible": true
+    },
+    {
+      "from": "5,10-Metilen-THF",
+      "to": "Dihidrofolato (DHF)",
+      "enzyme": "Timidilato sintasa (TYMS)",
+      "cofactors": ["dUMP → dTMP"],
+      "inhibitors": [
+        {"name": "Fluorouracilo", "page": "medicines/fluorouracil"},
+        {"name": "Pemetrexed", "page": "medicines/pemetrexed"}
+      ],
+      "note": "El folato aporta el carbono y los dos electrones que lo reducen a metilo"
+    },
+    {
+      "from": "Dihidrofolato (DHF)",
+      "to": "Tetrahidrofolato (THF)",
+      "enzyme": "Dihidrofolato reductasa (DHFR)",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "Metotrexato", "page": "medicines/methotrexate"}],
+      "note": "Reduce también el ácido fólico a DHF, con lentitud en el hígado humano"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Opinion on the re-evaluation of lecithins (E 322) as a food additive in foods for infants below 16 weeks of age and follow-up of its re-evaluation as food additive for uses in foods for all population groups",
+  "authors": "EFSA Panel on Food Additives and Flavourings (FAF), Younes M, Aquilina G, Castle L, Engel KH, Fowler P, et al.",
+  "journal": "EFSA Journal",
+  "year": 2020,
+  "doi": "10.2903/j.efsa.2020.6266",
+  "pmid": "33204307",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission (question number EFSA-Q-2018-00094). Technical and toxicological data were submitted in response to a public call by the European Lecithin Manufacturers Association and Specialised Nutrition Europe.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Lecithins (E 322) are permitted at up to 1,000 mg/L in infant formulae (food category 13.1.1) and in dietary foods for infants for special medical purposes (13.1.5.1), and business operators reported use at up to that level. For infants below 16 weeks of age, mean exposure in the maximum level scenario was 200 mg/kg body weight per day and the high level 260 mg/kg bw per day; using mean reported levels, 62 mg/kg bw per day (95th percentile 81) for 13.1.1 and 180 mg/kg bw per day (234) for 13.1.5.1. Because choline is a precursor of acetylcholine and the 2017 opinion had found the neurodevelopmental data inadequate, the Panel compared choline in formula with that in human milk: mean total choline in formula was 225 mg/L, about 62% higher than the 138 mg/L in mature human milk, while choline released from lecithins contributed 12 mg/L, 8.7% of the human-milk content, and 21 mg/L at the maximum permitted level; nearly 75% of formula choline comes from added choline as a nutrient. The Panel concluded that intake of lecithins (E 322) in infant formula of category 13.1.1 or food for special medical purposes of 13.1.5.1 does not raise safety concerns up to the maximum permitted level, and recommended revised specifications: lower limits for arsenic, lead and mercury, a new limit for cadmium and microbiological criteria. Studies submitted did not address neurodevelopment, and post-marketing surveillance data did not allow firm conclusions. The exposure of infants to arsenic and lead from the additive left a very low margin of safety or exposure. The opinion does not mention trimethylamine, trimethylamine N-oxide or cardiovascular outcomes.",
+  "class": "regulatory",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7654424"
+}

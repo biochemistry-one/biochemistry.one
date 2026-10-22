@@ -1,0 +1,15 @@
+{
+  "title": "The human L-threonine 3-dehydrogenase gene is an expressed pseudogene",
+  "authors": "Edgar AJ",
+  "journal": "BMC Genetics",
+  "year": 2002,
+  "doi": "10.1186/1471-2156-3-18",
+  "pmid": "12361482",
+  "design": "genetic",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Threonine is degraded either by L-threonine 3-dehydrogenase to 2-amino-3-ketobutyrate, which with CoA yields glycine and acetyl-CoA, or by serine/threonine dehydratase to NH4+ and 2-ketobutyrate. The human TDH gene at 8p23-22 has a premature stop codon in exon 6 (codon of arginine-214) and lacks the splice acceptor before exon 6 in all individuals examined (23 genotyped, 20 sequenced); its transcripts encode truncated proteins of 157 to 230 residues. The author suggests that the dehydratase pathway may be the only route of threonine catabolism in humans, asks which enzyme forms the small fraction of glycine from threonine, and notes that absence of threonine dehydrogenase activity in human liver has not been demonstrated directly.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC131051/fullTextXML"
+}

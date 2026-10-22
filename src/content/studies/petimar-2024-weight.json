@@ -1,0 +1,18 @@
+{
+  "title": "Medication-Induced Weight Change Across Common Antidepressant Treatments: A Target Trial Emulation Study",
+  "authors": "Petimar J, Young JG, Yu H, Rifas-Shiman SL, Daley MF, Heerman WJ, et al.",
+  "journal": "Annals of Internal Medicine",
+  "year": 2024,
+  "doi": "10.7326/M23-2742",
+  "pmid": "38950403",
+  "design": "cohort",
+  "participants": 183118,
+  "followUp": "6 months (primary), 12 and 24 months",
+  "population": "Adults aged 20 to 79 years initiating one of eight antidepressants in US health systems of the PCORnet network, 2010 to 2019; 37,351 started sertraline",
+  "funder": "National Institutes of Health. The National Institutes of Health had no role in the design of the study; collection, analysis, or interpretation of the data; writing of the report; or decision to submit the report for publication.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "Against sertraline, 6-month weight gain was greater with escitalopram (0.41 kg, 95% CI 0.31 to 0.52), paroxetine (0.37 kg), duloxetine (0.34 kg), venlafaxine (0.17 kg) and citalopram (0.12 kg), similar with fluoxetine and lower with bupropion (-0.22 kg); risk of gaining at least 5% of weight 10% to 15% higher with escitalopram, paroxetine and duloxetine. Six-month adherence was 28% to 41%. The comparator was sertraline, with no untreated group.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11819980"
+}

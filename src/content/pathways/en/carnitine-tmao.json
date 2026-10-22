@@ -1,0 +1,21 @@
+{
+  "title": "Carnitine to trimethylamine N-oxide",
+  "layout": "chain",
+  "compartment": "Gut lumen (bacteria), then hepatocyte endoplasmic reticulum",
+  "steps": [
+    {
+      "from": "L-Carnitine",
+      "to": "Trimethylamine",
+      "enzyme": "Carnitine oxygenase CntA with reductase CntB (gut bacteria)",
+      "cofactors": ["NADH"],
+      "note": "Cleaves the C–N bond; another microbial route passes through γ-butyrobetaine"
+    },
+    {
+      "from": "Trimethylamine",
+      "to": "Trimethylamine N-oxide",
+      "enzyme": "Flavin-containing monooxygenase 3 (FMO3)",
+      "cofactors": ["FAD", "NADPH", "O2"],
+      "note": "FMO3 deficiency causes trimethylaminuria"
+    }
+  ]
+}

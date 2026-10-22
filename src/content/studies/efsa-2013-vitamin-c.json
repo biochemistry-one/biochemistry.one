@@ -1,0 +1,14 @@
+{
+  "title": "Scientific Opinion on Dietary Reference Values for vitamin C",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA)",
+  "journal": "EFSA Journal",
+  "year": 2013,
+  "doi": "10.2903/j.efsa.2013.3418",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (question EFSA-Q-2011-01229).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Vitamin C is an essential component of the diet, as humans and other primates have lost the ability to synthesise it. It is a cofactor of monooxygenases, dioxygenases and mixed function oxygenases, reducing the active-centre metal ion and maintaining it in a reduced state. Procollagen-proline dioxygenase and procollagen-lysine 5-dioxygenase require vitamin C for maximal activity, and deficiency impairs the synthesis of collagen, the principal protein of skin, bones, teeth and connective tissues. Scurvy occurs in adults at a plasma ascorbate below 10 umol/L and a body pool below 300 mg, with tooth loss, joint pain, poor wound healing, petechiae, bruising and inflamed, bleeding gums; an intake of 10 mg/day prevents it.",
+  "class": "regulatory",
+  "fundingChecked": "https://web.archive.org/web/20240303003700/https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2013.3418"
+}

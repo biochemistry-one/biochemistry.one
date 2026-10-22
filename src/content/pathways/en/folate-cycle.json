@@ -1,0 +1,30 @@
+{
+  "title": "Folate cycle, methyl branch",
+  "layout": "cycle",
+  "compartment": "Cytosol",
+  "steps": [
+    {
+      "from": "Tetrahydrofolate (THF)",
+      "to": "5,10-Methylene-THF",
+      "enzyme": "Serine hydroxymethyltransferase 1 (SHMT1)",
+      "cofactors": ["L-Serine → glycine", "Pyridoxal 5′-phosphate"],
+      "reversible": true,
+      "note": "SHMT2 catalyses the same reaction in mitochondria"
+    },
+    {
+      "from": "5,10-Methylene-THF",
+      "to": "5-Methyl-THF",
+      "enzyme": "Methylenetetrahydrofolate reductase (MTHFR)",
+      "cofactors": ["NADPH", "FAD"],
+      "note": "Irreversible in vivo; inhibited by SAM; Ala222Val (677C>T) loses FAD faster"
+    },
+    {
+      "from": "5-Methyl-THF",
+      "to": "Tetrahydrofolate (THF)",
+      "enzyme": "Methionine synthase (MTR)",
+      "cofactors": ["Homocysteine → methionine", "Methylcobalamin"],
+      "inhibitors": [{"name": "Nitrous oxide", "page": "medicines/nitrous-oxide"}],
+      "note": "Only exit from 5-methyl-THF; slowed in B12 deficiency (methyl-folate trap)"
+    }
+  ]
+}

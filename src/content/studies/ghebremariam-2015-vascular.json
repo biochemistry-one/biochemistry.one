@@ -1,0 +1,19 @@
+{
+  "title": "Proton pump inhibitors and vascular function: a prospective cross-over pilot study",
+  "authors": "Ghebremariam YT, Cooke JP, Khan F, Thakker RN, Chang P, Shah NH, et al.",
+  "journal": "Vascular Medicine",
+  "year": 2015,
+  "doi": "10.1177/1358863X14568444",
+  "pmid": "25835348",
+  "design": "other",
+  "participants": 21,
+  "followUp": "two 4-week treatment periods separated by a 2-week washout",
+  "population": "Adults aged 18 or older, 11 healthy and 10 with established cardiovascular disease; open-label crossover of lansoprazole 30 mg or placebo once daily",
+  "funder": "This pilot study was funded by grants from the Translational Research and Applied Medicine (TRAM) Program in the Department of Medicine at Stanford University; also supported in part by NIH grants (1R01 EY02060901, 1U01 HL100397) and internal funding from the Houston Methodist Research Institute; YTG by Stanford, the Tobacco-Related Disease Research Program, NHLBI (1K01 HL118683-01) and HMRI.",
+  "funderRole": "unknown",
+  "authorConflicts": "YTG and JPC are inventors on Stanford patents protecting agents that modulate the NOS/DDAH pathway and co-founders of Altitude Pharma Inc, a biotech developing products that regulate the NOS/DDAH pathway.",
+  "dataAccess": "unknown",
+  "result": "Plasma ADMA rose more on lansoprazole than on placebo, more so in participants with vascular disease, but the differences were not statistically significant; PPI use did not impair flow-mediated vasodilation (EndoPAT). The authors call for larger, long-term blinded trials.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4572842/fullTextXML"
+}

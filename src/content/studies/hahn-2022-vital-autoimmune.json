@@ -1,0 +1,21 @@
+{
+  "title": "Vitamin D and marine omega 3 fatty acid supplementation and incident autoimmune disease: VITAL randomized controlled trial",
+  "authors": "Hahn J, Cook NR, Alexander EK, Friedman S, Walter J, Bubes V, et al.",
+  "journal": "BMJ",
+  "year": 2022,
+  "doi": "10.1136/bmj-2021-066452",
+  "pmid": "35082139",
+  "registry": "NCT01169259; NCT01351805",
+  "design": "rct",
+  "participants": 25871,
+  "followUp": "median 5.3 years",
+  "population": "US men aged 50 years or older and women aged 55 years or older in VITAL, not selected for vitamin D deficiency; mean baseline 25-hydroxyvitamin D 29.8 ng/ml in a subgroup of 1644",
+  "funder": "This study was funded by the National Institutes of Health grants R01 AR059086, U01 CA138962 and R01 CA138962. The funders had no role in considering the study design or in the collection, analysis, interpretation of data, writing of the report, or decision to submit the article for publication.",
+  "funderRole": "none",
+  "inKindSupport": "The vitamin D pill and its matching placebo were prepared by Pharmavite LLC; the omega 3 fatty acid pill and its placebo by Pronova BioPharma.",
+  "authorConflicts": "Authors declare support from the NIH for the submitted work and no financial relationships with organisations that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "individual",
+  "result": "Vitamin D3 2000 IU/day against placebo: confirmed autoimmune disease in 123 of 12,927 against 155 of 12,944 participants, HR 0.78 (95% CI 0.61 to 0.99); confirmed plus probable 210 against 247, HR 0.85 (0.70 to 1.02); excluding the first two years, HR 0.61 (0.43 to 0.86). Benefit varied with body mass index (P for interaction 0.02): HR 0.62 (0.42 to 0.93) below 25 kg/m2, 0.92 (0.61 to 1.38) at 25 to 30 and 0.88 (0.54 to 1.44) at 30 or more. Potential side effects were collected by questionnaire.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8791065/"
+}

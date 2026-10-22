@@ -1,0 +1,18 @@
+{
+  "title": "Thyroid hormone treatment and breast cancer risk in women: a systematic review and meta-analysis of observational studies",
+  "authors": "Kopanos S, Feldkamp JD, Tyssen J, Li X, Sundquist K, Pape-Köhler C, et al.",
+  "journal": "Metabolites",
+  "year": 2026,
+  "doi": "10.3390/metabo16070465",
+  "pmid": "42506418",
+  "registry": "PROSPERO CRD42022348966",
+  "design": "meta-analysis",
+  "population": "Observational studies of adult women receiving thyroid hormone against non-users, searched January 1976 to February 2025; primary analysis of 4 studies with 221,254 treated women and 4,385,666 controls: adjusted odds ratios from 3 case-control studies (Kapdi, Shapiro, Wu) and a crude odds ratio calculated from author-provided counts of the Swedish register cohort of Wändell 2020 (4,271,551 people), whose authors Wändell, Li and Sundquist co-authored this meta-analysis",
+  "funder": "This research received no external funding.",
+  "funderRole": "none",
+  "authorConflicts": "All authors declare that they have no conflicts of interest related to this work.",
+  "dataAccess": "summary",
+  "result": "Pooled odds ratio for breast cancer with thyroid hormone treatment 1.43 (95% CI 0.90 to 2.28; I2 94.3%) in the abstract and 1.45 (0.93 to 2.27) in the results text; 95% prediction interval 0.43 to 4.92; without the Wändell cohort 1.40 (0.59 to 3.28). Certainty of evidence low because of heterogeneity, inconsistency and imprecision. The authors describe the result as a possible, hypothesis-generating signal with residual confounding.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13413771/"
+}

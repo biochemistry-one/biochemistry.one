@@ -1,0 +1,15 @@
+{
+  "title": "Scientific Opinion on the safety of caffeine",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA)",
+  "journal": "EFSA Journal",
+  "year": 2015,
+  "doi": "10.2903/j.efsa.2015.4102",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (Question No EFSA-Q-2013-00220), adopted on 23 April 2015.",
+  "funderRole": "none",
+  "authorConflicts": "Declarations of interest of panel members are held by EFSA; not read.",
+  "dataAccess": "summary",
+  "result": "Caffeine is rapidly (tmax 30-120 minutes) and completely absorbed and crosses the blood-brain and placental barriers. N-3 demethylation to paraxanthine by hepatic CYP1A2 is the main route (70-80%); CYP1A2 accounts for about 95% of caffeine clearance. Plasma half-life about 4 hours (range about 2 to 8). In a study of saliva caffeine clearance, smoking increased clearance 1.22-, 1.47-, 1.66- and 1.72-fold for 1-5, 6-10, 11-20 and more than 20 cigarettes a day, and each litre of daily coffee 1.45-fold; CYP1A2 induction in smokers is reported; CYP1A2 activity was higher in smokers with the -163AA genotype (CYP1A2*1F, rs762551) than with AC or CC, without differences in non-smokers. In pregnancy the half-life increased to 6-16 hours, and at the end of pregnancy is three to four times longer than in the non-pregnant state; CYP1A2 activity was progressively lower than post partum, by 65.2% at weeks 36-40. The fetus and placenta cannot metabolise caffeine. Caffeine acts as an antagonist at adenosine A1 and A2A receptors and is a non-specific phosphodiesterase inhibitor with a Ki of 48 µM, the peak concentration after a 450 mg dose. Habitual intake up to 400 mg a day raises no safety concern for non-pregnant adults; up to 200 mg a day in pregnancy raises no safety concern for the fetus, based on two prospective cohorts (CARE Study Group 2008; Sengpiel 2013) showing a dose-dependent association with fetal growth restriction and small for gestational age, observed at all levels of intake with no threshold and judged clinically relevant at about 200 mg; the Panel noted that cohorts cannot provide evidence of causation but assumed the relationship causal for the assessment.",
+  "class": "regulatory",
+  "fundingChecked": "https://web.archive.org/web/20231219173404/https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2015.4102"
+}

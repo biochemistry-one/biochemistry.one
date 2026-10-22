@@ -1,0 +1,16 @@
+{
+  "title": "Metabolism",
+  "authors": "Judge A, Dodd MS",
+  "journal": "Essays in Biochemistry",
+  "year": 2020,
+  "doi": "10.1042/EBC20190041",
+  "pmid": "32830223",
+  "design": "other",
+  "funder": "Ayesha Judge is funded by a PhD studentship from Coventry University with additional funding and support from the University Alliance Doctoral Training Alliance. Michael Dodd is funded by Coventry University and the Centre for Sport, Exercise and Life Sciences.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare that there are no competing interests associated with the manuscript.",
+  "dataAccess": "summary",
+  "result": "Educational review. Insulin, released after eating, binds the insulin receptor, a tyrosine kinase that autophosphorylates and recruits insulin receptor substrate, leading to phosphorylation of AKT; in skeletal muscle, heart and adipose tissue insulin signalling translocates GLUT4 from internal vesicles to the plasma membrane; insulin inhibits hormone-sensitive lipase in adipose tissue; glucagon, released as blood glucose falls, acts mainly on the liver through a G-protein-coupled receptor that raises cAMP. Gluconeogenesis bypasses the irreversible steps of glycolysis with pyruvate carboxylase, activated by acetyl-CoA, phosphoenolpyruvate carboxykinase, fructose-1,6-bisphosphatase and glucose-6-phosphatase. Because pyruvate dehydrogenase is irreversible and the carbon entering the citric acid cycle as acetyl-CoA is lost in its decarboxylation steps, fats cannot produce glucose at a net rate; the glyoxylate cycle, which bypasses these steps in plants, bacteria, fungi, algae and protozoa, is stated not to exist in animals.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7545035/fullTextXML"
+}

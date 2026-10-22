@@ -1,0 +1,18 @@
+{
+  "title": "A 19-base pair deletion polymorphism in dihydrofolate reductase is associated with increased unmetabolized folic acid in plasma and decreased red blood cell folate",
+  "authors": "Kalmbach RD, Choumenkovitch SF, Troen AP, Jacques PF, D'Agostino R, Selhub J",
+  "journal": "Journal of Nutrition",
+  "year": 2008,
+  "doi": "10.3945/jn.108.096404",
+  "pmid": "19022952",
+  "design": "genetic",
+  "participants": 1215,
+  "population": "Adults in the Framingham Offspring Study, USA; genotypes WT/WT 396, WT/del 646, del/del 216 in the characteristics table",
+  "funder": "Supported in part by the USDA under agreement no. 1950-51520-008-00D, USDA grant 2006-35200-17198 and the Framingham Heart Study of the National Heart Lung and Blood Institute of the NIH (contract no. N01-HC-25195).",
+  "funderRole": "none",
+  "authorConflicts": "No conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "With folic acid intake of 500 µg/day or more, high circulating unmetabolised folic acid (above the 85th percentile) was present in 47.0% of del/del carriers against 21.4% of WT/del and 24.4% of WT/WT (interaction P = 0.03). With intake below 250 µg/day, red cell folate was 732.3 nmol/L in del/del against 844.4 nmol/L in WT/WT. The authors conclude that the deletion limits assimilation of folic acid into cellular folate at high and low intakes.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2855991/"
+}

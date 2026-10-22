@@ -1,0 +1,16 @@
+{
+  "title": "USDA's FoodData Central: what is it and why is it needed today?",
+  "authors": "Fukagawa NK, McKillop K, Pehrsson PR, Moshfegh A, Harnly J, Finley J",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2022,
+  "doi": "10.1093/ajcn/nqab397",
+  "pmid": "34893796",
+  "url": "https://fdc.nal.usda.gov/food-details/746775/nutrients",
+  "design": "database",
+  "funder": "All authors are employed by the USDA Agricultural Research Service and have not received external support in the preparation of this manuscript.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "FoodData Central is the USDA food-composition data system; Foundation Foods carry analytical values with sample metadata. Foundation Foods entry read on 2026-10-21: Salt, table, iodized (FDC 746775, 24 samples purchased from 2018), per 100 g: water 0.42 g, ash 99.0 g, sodium 38,700 mg (range 37,200 to 40,700), iodine 5,080 µg (3,410 to 7,430), calcium 50 mg (0 to 125), potassium 2 mg (0 to 53), energy 0 kcal; 1 teaspoon = 6.1 g.",
+  "class": "reference",
+  "fundingChecked": "http://web.archive.org/web/20241212091816/https://www.sciencedirect.com/science/article/pii/S0002916522001794"
+}

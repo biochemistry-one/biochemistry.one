@@ -1,0 +1,17 @@
+{
+  "title": "Ultra-processed foods: how functional is the NOVA system?",
+  "authors": "Braesco V, Souchon I, Sauvant P, Haurogné T, Maillot M, Féart C, et al.",
+  "journal": "European Journal of Clinical Nutrition",
+  "year": 2022,
+  "doi": "10.1038/s41430-022-01099-1",
+  "pmid": "35314769",
+  "design": "cross-sectional",
+  "population": "French food and nutrition specialists, including researchers, health professionals and food-industry research and development staff, assigning foods to NOVA groups in an online survey",
+  "funder": "This work received minimal funding (less than 5% of the study's total cost) from the French Fund for Food and Health (FFA), an organization partially sponsored by the food industry; these funds paid for the development of the online survey tool and the statistical analysis. The funders had no role in study design; data collection, analysis, or interpretation; the manuscript's drafting and finalization; or the decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "V Braesco reports grants and other support from VAB-nutrition, a nutrition consultancy; I Souchon reports grants from Roquette Frères; T Haurogné and M Maillot report grants from the FFA during the study and from Danone Nutricia Research and Neste outside it; C Féart reports personal fees from Laboratoire Lescuyer and Synadiet.",
+  "dataAccess": "unknown",
+  "result": "Fleiss' κ for agreement on NOVA group was 0.32 for 120 marketed foods with ingredient lists (159 evaluators) and 0.34 for 111 generic foods without ingredient lists (177 evaluators). One cluster of 90 marketed foods received 91% NOVA 4 assignments; a cluster of 28 generic foods had assignments spread across all four groups.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9436773/"
+}

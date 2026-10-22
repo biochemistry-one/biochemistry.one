@@ -1,0 +1,20 @@
+{
+  "title": "Impact of chronic dietary red meat, white meat, or non-meat protein on trimethylamine N-oxide metabolism and renal excretion in healthy men and women",
+  "authors": "Wang Z, Bergeron N, Levison BS, Li XS, Chiu S, Jia X, et al.",
+  "journal": "European Heart Journal",
+  "year": 2019,
+  "doi": "10.1093/eurheartj/ehy799",
+  "pmid": "30535398",
+  "registry": "NCT01427855",
+  "design": "rct",
+  "participants": 113,
+  "followUp": "4 weeks on each of three isocaloric diets",
+  "population": "Healthy omnivorous adults with normal renal function, 44 men and 69 women, median age 45 years; randomised crossover of red meat, white meat and non-meat protein diets within high- or low-saturated fat arms",
+  "funder": "This work was supported by the National Institutes of Health and the Office of Dietary Supplements [R01 HL103866 to S.L.H., R01 HL126827 and R01 DK106000 to W.H.W.T. and S.L.H., RO1 HL106003 to R.M.K. and N.B., R01 HL130819 to Z.W. S.L.H. is also partially supported by an award from the Leducq Foundation.] and The University of California, San Francisco (UCSF) Clinical and Translational Science Unit.",
+  "funderRole": "none",
+  "authorConflicts": "Z.W., B.S.L. and S.L.H. are named as co-inventors on Cleveland Clinic patents relating to cardiovascular diagnostics and therapeutics and have the right to receive royalties from Cleveland Heart Lab, Quest Diagnostics and Procter & Gamble; S.L.H. reports consultancy for and research funds from Procter & Gamble and research funds from Roche.",
+  "dataAccess": "individual",
+  "result": "Carnitine is enriched in red meat; the red meat diet contained 3.8-fold and 7.9-fold more carnitine than the white meat and non-meat diets. After 4 weeks, plasma TMAO rose about threefold on the red meat diet against the white meat or non-meat diets (P < 0.0001), with median absolute increases of 5.9 and 5.7 μM against non-meat and white meat; urine TMAO also rose. Red meat reduced the fractional renal excretion of TMAO (P < 0.05) and increased that of carnitine, γ-butyrobetaine and crotonobetaine. Isotope tracers (n = 13) showed more TMA and TMAO formed from carnitine, not choline, on the red or white meat diet than on the non-meat diet. Saturated fat did not affect TMAO. Plasma TMAO fell within 4 weeks of stopping red meat. The authors state that the direct contribution of TMAO to cardiovascular disease pathogenesis in humans is unclear.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6374688/"
+}

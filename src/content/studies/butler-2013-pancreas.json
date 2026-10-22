@@ -1,0 +1,18 @@
+{
+  "title": "Marked expansion of exocrine and endocrine pancreas with incretin therapy in humans with increased exocrine pancreas dysplasia and the potential for glucagon-producing neuroendocrine tumors",
+  "authors": "Butler AE, Campbell-Thompson M, Gurlo T, Dawson DW, Atkinson M, Butler PC",
+  "journal": "Diabetes",
+  "year": 2013,
+  "doi": "10.2337/db12-1686",
+  "pmid": "23524641",
+  "design": "cross-sectional",
+  "participants": 34,
+  "population": "Pancreata of age-matched organ donors: 8 with type 2 diabetes treated with incretin therapy, 12 with diabetes on other therapy and 14 without diabetes, from the JDRF nPOD programme",
+  "funder": "Supported by NIDDK grants DK-059579, DK-061539 and DK-077967, the Larry L. Hillblom Foundation and the Peter and Valerie Kompaniez Foundation; performed with the support of nPOD, sponsored by JDRF.",
+  "funderRole": "unknown",
+  "authorConflicts": "No potential conflicts of interest relevant to this article were reported.",
+  "dataAccess": "summary",
+  "result": "Incretin-treated diabetic pancreata had about 40% greater mass, increased exocrine proliferation (P < 0.0001) and dysplasia (pancreatic intraepithelial neoplasia, P < 0.01), alpha-cell hyperplasia with glucagon-expressing microadenomas in 3 of 8 and one neuroendocrine tumour. Of the 8 incretin-treated donors, treated for 1 year or more, 7 received the DPP-4 inhibitor sitagliptin and 1 the GLP-1 receptor agonist exenatide; the neuroendocrine tumour occurred in a sitagliptin-treated donor; semaglutide was not studied. FDA and EMA later judged causal claims inconsistent with the totality of data.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3712065/"
+}

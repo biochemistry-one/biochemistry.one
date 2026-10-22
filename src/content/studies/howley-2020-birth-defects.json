@@ -1,0 +1,17 @@
+{
+  "title": "Asthma Medication Use and Risk of Birth Defects: National Birth Defects Prevention Study, 1997-2011",
+  "authors": "Howley MM, Papadopoulos EA, Van Bennekom CM, Van Zutphen AR, Carmichael SL, Munsie JW, et al.",
+  "journal": "Journal of Allergy and Clinical Immunology: In Practice",
+  "year": 2020,
+  "doi": "10.1016/j.jaip.2020.07.033",
+  "pmid": "32745701",
+  "design": "case-control",
+  "participants": 39375,
+  "population": "28,481 birth defect cases and 10,894 non-malformed controls in the US National Birth Defects Prevention Study, 1997 to 2011; maternal self-report of asthma medication from the month before conception to the third month of pregnancy",
+  "funder": "This project was supported through Centers for Disease Control and Prevention (CDC) cooperative agreements to the Centers for Birth Defects Research and Prevention participating in the NBDPS and/or BD-STEPS.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "1304 case mothers (4.6%) and 449 control mothers (4.1%) reported early-pregnancy asthma medication; albuterol was the most commonly reported bronchodilator. Bronchodilator-only use was associated with cleft palate (adjusted OR 1.50, 95% CI 1.11 to 2.02), cleft lip (1.58, 1.12 to 2.23), longitudinal limb deficiency (2.35, 1.55 to 3.54) and truncus arteriosus (2.48, 1.13 to 5.42); any bronchodilator use with cerebellar hypoplasia (2.70, 1.06 to 6.85) and tricuspid atresia (2.03, 1.06 to 3.90). Most of the 52 defects examined showed no association. Compared with bronchodilator use only in late pregnancy, early use remained associated with cleft palate, cleft lip with palate, longitudinal limb deficiency, gastroschisis and secundum atrial septal defect. Severity data were lacking, and the authors could not fully separate medication from maternal asthma.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8958515/"
+}

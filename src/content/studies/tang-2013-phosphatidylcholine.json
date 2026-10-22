@@ -1,0 +1,20 @@
+{
+  "title": "Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk",
+  "authors": "Tang WH, Wang Z, Levison BS, Koeth RA, Britt EB, Fu X, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2013,
+  "doi": "10.1056/NEJMoa1109400",
+  "pmid": "23614584",
+  "design": "cohort",
+  "participants": 4007,
+  "followUp": "3 years",
+  "population": "Challenge study: 40 healthy adults given two hard-boiled eggs (about 250 mg total choline each) and 250 mg d9-phosphatidylcholine; 6 of them repeated the challenge after 1 week of metronidazole 500 mg twice daily and ciprofloxacin 500 mg once daily, and again at least 1 month after withdrawal. Outcome study: 4007 adults undergoing elective diagnostic cardiac catheterisation at the Cleveland Clinic (GeneBank), mean age 63 years, 64% men.",
+  "funder": "Supported by grants from the National Institutes of Health and its Office of Dietary Supplements (R01HL103866 and 1P20HL113452). The clinical study GeneBank was supported by grants from the National Institutes of Health (P01HL098055, P01HL076491, R01HL103931, and R01DK080732) and a Cleveland Clinic/Case Western Reserve University Clinical and Translational Science Award (UL1TR000439). Dr. Hazen was supported by a gift from the Leonard Krieger Fund. The two studies were funded by the National Institutes of Health.",
+  "funderRole": "none",
+  "inKindSupport": "Mass spectrometry instrumentation was housed within the Cleveland Clinic Mass Spectrometry Facility, with partial support through a Center of Innovation by AB SCIEX. In the ICMJE forms, all eight authors answered No to third-party provision of writing assistance, medicines, equipment or administrative support for the submitted work, and Hazen and Tang named only the National Institutes of Health as a grant source for it.",
+  "authorConflicts": "ICMJE forms of 8 February 2013: Hazen reported board membership of Cleveland Heart Lab; consultancy for Abbott, Cleveland Heart Lab, Esperion, Lilly, Liposcience, Merck and Pfizer; grants from Liposcience, Esperion, the Leducq Fondation and the National Institutes of Health; Cleveland Clinic patents; and royalties from Abbott, Cleveland Heart Lab, Esperion, Frantz Biomarkers, Liposcience and Siemens. Tang reported consultancy for Medtronic and St. Jude Medical and grants from Abbott Laboratories, St. Jude Medical, Medtronic and FoldRx. Wang and Levison reported Cleveland Clinic patents and royalties from Liposcience. Britt, Fu, Koeth and Wu reported none. The forms were read at https://web.archive.org/web/20141026031025id_/http://www.nejm.org/doi/suppl/10.1056/NEJMoa1109400/suppl_file/nejmoa1109400_disclosures.pdf, a capture of the file linked from the article at NEJM.org.",
+  "dataAccess": "individual",
+  "result": "After the challenge, plasma TMAO and d9-TMAO rose over time; in the 6 participants given antibiotics, TMAO and d9-TMAO in plasma and urine were almost completely suppressed, and both were again readily detectable at least 1 month after withdrawal. In the outcome study, 513 of 4007 participants had a major adverse cardiovascular event (death from any cause, non-fatal myocardial infarction or non-fatal stroke) within 3 years. Highest (above 6.18 µM) against lowest (below 2.43 µM) TMAO quartile: unadjusted hazard ratio 2.54 (95% CI 1.96 to 3.28); adjusted for traditional risk factors and hs-CRP 1.88 (1.44 to 2.44); further adjusted for myeloperoxidase, eGFR, white-cell count, body-mass index and medications 1.49 (1.10 to 2.03); further adjusted for angiographic extent of coronary disease 1.43 (1.05 to 1.94). Per 1 SD of TMAO: unadjusted 1.40 (1.29 to 1.51), adjusted 1.30 (1.20 to 1.41). Event counts by quartile are not given in the text. Intestinal microbiota convert the choline moiety of dietary phosphatidylcholine into trimethylamine, which hepatic flavin-containing monooxygenases convert into TMAO, which is excreted in urine.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3701945"
+}

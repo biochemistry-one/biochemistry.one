@@ -1,0 +1,42 @@
+{
+  "title": "Synthesis of oleic acid",
+  "layout": "chain",
+  "compartment": "Cytosol, then endoplasmic reticulum membrane",
+  "steps": [
+    {
+      "from": "Acetyl-CoA",
+      "to": "Malonyl-CoA",
+      "enzyme": "Acetyl-CoA carboxylase 1 (ACACA)",
+      "cofactors": ["ATP", "HCO3−", "Biotin"],
+      "note": "First and rate-limiting step of de novo fatty acid synthesis"
+    },
+    {
+      "from": "Malonyl-CoA",
+      "to": "Palmitate (16:0)",
+      "enzyme": "Fatty acid synthase (FASN)",
+      "cofactors": ["Acetyl-CoA", "14 NADPH"],
+      "note": "7 malonyl-CoA per palmitate; releases 7 CO2; thioesterase domain frees 16:0"
+    },
+    {
+      "from": "Palmitate (16:0)",
+      "to": "Palmitoyl-CoA",
+      "enzyme": "Long-chain-fatty-acid–CoA ligases (ACSL)",
+      "cofactors": ["ATP", "CoA", "Mg2+"],
+      "note": "Releases AMP and diphosphate"
+    },
+    {
+      "from": "Palmitoyl-CoA",
+      "to": "Stearoyl-CoA (18:0)",
+      "enzyme": "several steps",
+      "cofactors": ["Malonyl-CoA", "2 NADPH"],
+      "note": "Elongation cycle: ELOVL6, HSD17B12, HACD, TECR; releases CO2"
+    },
+    {
+      "from": "Stearoyl-CoA (18:0)",
+      "to": "Oleoyl-CoA (18:1 cis-Δ9)",
+      "enzyme": "Stearoyl-CoA desaturase (SCD)",
+      "cofactors": ["O2", "2 reduced cytochrome b5"],
+      "note": "NADH-cytochrome b5 reductase (CYB5R3) supplies the electrons"
+    }
+  ]
+}

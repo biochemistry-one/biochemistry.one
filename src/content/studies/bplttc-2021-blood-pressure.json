@@ -1,0 +1,19 @@
+{
+  "title": "Pharmacological blood pressure lowering for primary and secondary prevention of cardiovascular disease across different levels of blood pressure: an individual participant-level data meta-analysis",
+  "authors": "Blood Pressure Lowering Treatment Trialists' Collaboration; writing committee Rahimi K, Bidel Z, Nazarzadeh M, Copland E, Canoy D, Ramakrishnan R, et al.",
+  "journal": "Lancet",
+  "year": 2021,
+  "doi": "10.1016/S0140-6736(21)00590-0",
+  "pmid": "33933205",
+  "design": "meta-analysis",
+  "participants": 344716,
+  "followUp": "median 4.15 years (Q1 to Q3 2.97 to 4.96)",
+  "population": "Participants of 48 randomised trials of blood-pressure-lowering drugs against placebo, other drug classes or less intensive regimens, 157,728 with and 186,988 without previous cardiovascular disease",
+  "funder": "British Heart Foundation (PG/18/65/33872, FS/19/36/34346), the UK National Institute for Health Research Oxford Biomedical Research Centre and the Oxford Martin School. The funders of the study had no role in study design, data collection, data analysis, data interpretation, writing of the report, or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "Woodward reports personal fees from Amgen, Kyowa Kirin and Freeline; Rahimi reports grants from the British Heart Foundation, UK Research and Innovation, the Oxford Martin School and the NIHR, and personal fees from BMJ Heart and PLoS Medicine; Chalmers reports grants from the Australian NHMRC; Nazarzadeh and Canoy report British Heart Foundation grants; the other writing-committee members declare no competing interests.",
+  "dataAccess": "individual",
+  "result": "Per 5 mm Hg lower systolic blood pressure, the hazard ratio for a major cardiovascular event was 0.91 (95% CI 0.89 to 0.94) in participants without and 0.89 (0.86 to 0.92) in those with previous cardiovascular disease. Incidence per 1000 person-years was 31.9 (95% CI 31.3 to 32.5) in the comparator and 25.9 (25.4 to 26.4) in the intervention group without previous disease, and 39.7 (39.0 to 40.5) versus 36.0 (35.3 to 36.7) with previous disease. Proportional reductions were 13% for stroke, 13% for heart failure, 8% for ischaemic heart disease and 5% for cardiovascular death, with no reliable heterogeneity across baseline systolic categories from below 120 to 170 mm Hg or more (all adjusted p for interaction above 0.28).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8102467/"
+}

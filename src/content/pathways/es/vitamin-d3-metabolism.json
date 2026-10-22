@@ -1,0 +1,32 @@
+{
+  "title": "Activación e inactivación de la vitamina D3",
+  "layout": "chain",
+  "compartment": "Epidermis, retículo endoplasmático hepático y mitocondrias del túbulo proximal renal",
+  "steps": [
+    {
+      "from": "7-Deshidrocolesterol",
+      "to": "Colecalciferol (vitamina D3)",
+      "enzyme": "varios pasos",
+      "note": "La radiación UVB abre el anillo B y forma previtamina D3; el calor la isomeriza"
+    },
+    {
+      "from": "Colecalciferol (vitamina D3)",
+      "to": "Calcifediol (25-hidroxivitamina D3)",
+      "enzyme": "25-Hidroxilasa de la vitamina D (CYP2R1)",
+      "note": "Microsómica y hepática; el producto se fija a la proteína de unión a vitamina D"
+    },
+    {
+      "from": "Calcifediol (25-hidroxivitamina D3)",
+      "to": "Calcitriol (1,25-dihidroxivitamina D3)",
+      "enzyme": "1α-Hidroxilasa de la 25-hidroxivitamina D (CYP27B1)",
+      "cofactors": ["Ferredoxina", "Ferredoxina reductasa"],
+      "note": "Mitocondrial; la PTH la induce; el FGF23 y el calcitriol la suprimen"
+    },
+    {
+      "from": "Calcitriol (1,25-dihidroxivitamina D3)",
+      "to": "Ácido calcitroico",
+      "enzyme": "24-Hidroxilasa de la vitamina D (CYP24A1)",
+      "note": "Oxida el C-24 por etapas; el calcitriol y el FGF23 la inducen; la PTH la suprime"
+    }
+  ]
+}

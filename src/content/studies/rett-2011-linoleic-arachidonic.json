@@ -1,0 +1,17 @@
+{
+  "title": "Increasing dietary linoleic acid does not increase tissue arachidonic acid content in adults consuming Western-type diets: a systematic review",
+  "authors": "Rett BS, Whelan J",
+  "journal": "Nutrition & Metabolism",
+  "year": 2011,
+  "doi": "10.1186/1743-7075-8-36",
+  "pmid": "21663641",
+  "design": "systematic-review",
+  "population": "36 published human studies in adults on Western-type diets reporting dietary linoleic acid and plasma, serum or erythrocyte phospholipid arachidonic acid",
+  "funder": "This research was associated with the USDA Multistate Regional Research Project NC1039, and funded in part by the Tennessee Agricultural Experiment Station.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare that they have no competing interests.",
+  "dataAccess": "summary",
+  "result": "Decreasing dietary linoleic acid by up to 90% was not significantly correlated with changes in plasma or serum phospholipid arachidonic acid (p = 0.39); increasing it up to sixfold showed no significant correlation (p = 0.72). Dietary gamma-linolenic and arachidonic acid were positively related to changes in arachidonic acid.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3132704/fullTextXML"
+}

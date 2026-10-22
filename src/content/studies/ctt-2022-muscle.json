@@ -1,0 +1,19 @@
+{
+  "title": "Effect of statin therapy on muscle symptoms: an individual participant data meta-analysis of large-scale, randomised, double-blind trials",
+  "authors": "Cholesterol Treatment Trialists' Collaboration",
+  "journal": "Lancet",
+  "year": 2022,
+  "doi": "10.1016/S0140-6736(22)01545-8",
+  "pmid": "36049498",
+  "design": "meta-analysis",
+  "participants": 154664,
+  "followUp": "weighted average median 4.3 years in the placebo-controlled trials",
+  "population": "Individual participant data from 19 double-blind trials of statin against placebo (123,940 participants) and 4 double-blind trials of more against less intensive statin regimens (30,724 participants)",
+  "funder": "The work of the Cholesterol Treatment Trialists' Collaboration was funded by the British Heart Foundation (PG/18/16/33570 and CH/1996001/9454), UK Medical Research Council (MC_UU_00017/4), and Australian National Health and Medical Research Council (GNT1037786 and GNT1150467). Although individual trials that were contributing data to the analyses were funded by the pharmaceutical industry, as well as by charities and government organisations, the Cholesterol Treatment Trialists' Collaboration has not received grant funding from industry. The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "Two authors report an institutional grant from Novartis for the ORION 4 trial; one reports institutional grants from Abbott, Amgen and Mylan, consulting fees from AstraZeneca and honoraria from Sanofi and Pfizer; one reports institutional grants from AbbVie, AstraZeneca, Bayer, Bristol Myers Squibb, Pfizer and Roche; one holds a patent for a statin-myopathy genetic test licensed to the University of Oxford, with personal reward waived.",
+  "dataAccess": "individual",
+  "result": "In the 19 placebo-controlled trials, 16,835 (27.1%) allocated statin and 16,446 (26.6%) allocated placebo reported muscle pain or weakness (rate ratio 1.03, 95% CI 1.01 to 1.06). In year 1 the rate ratio was 1.07 (1.04 to 1.10), an absolute excess of 11 (6 to 16) events per 1000 person-years, so about 1 in 15 such reports by statin-allocated participants was due to the statin; after year 1 the rate ratio was 0.99 (0.96 to 1.02). More intensive regimens gave a rate ratio of 1.08 (1.04 to 1.13) against 1.03 (1.00 to 1.05) for less intensive or moderate-intensity regimens. Myopathy was reported by 0.08% allocated any statin against 0.04% allocated placebo (rate ratio 1.74, 1.11 to 2.74), an excess of 0.08 (0.01 to 0.18) per 1000 person-years. The authors estimate that, for 1000 people with LDL cholesterol lowered by about 1 mmol/L for 5 years, statins might cause 11 episodes of muscle pain or weakness but prevent 50 major vascular events in those with pre-existing vascular disease and 25 in those without.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7613583/"
+}

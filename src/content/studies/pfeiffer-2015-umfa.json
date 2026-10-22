@@ -1,0 +1,18 @@
+{
+  "title": "Unmetabolized folic acid is detected in nearly all serum samples from US children, adolescents, and adults",
+  "authors": "Pfeiffer CM, Sternberg MR, Fazili Z, Yetley EA, Lacher DA, Bailey RL, et al.",
+  "journal": "Journal of Nutrition",
+  "year": 2015,
+  "doi": "10.3945/jn.114.201210",
+  "pmid": "25733468",
+  "design": "cross-sectional",
+  "participants": 2707,
+  "population": "US population aged 1 year and over in NHANES 2007-2008, under mandatory fortification",
+  "funder": "The authors reported no funding received for this study. All authors were employed by the CDC or the NIH Office of Dietary Supplements.",
+  "funderRole": "none",
+  "authorConflicts": "No conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "Unmetabolised folic acid was detectable (above 0.3 nmol/L) in more than 95% of both users and non-users of folic acid-containing supplements, regardless of demographic group or fasting. Geometric mean UMFA 1.54 nmol/L in users and 0.794 nmol/L in non-users; 5-methyl-THF 48.4 and 30.7 nmol/L. UMFA above 1 nmol/L in 33.2% overall and 21.0% of fasting adults, associated with older age, non-Hispanic black ethnicity, non-fasting, smaller body surface area, higher total folic acid intake and higher red cell folate.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4336532/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Cardiovascular outcomes with tirzepatide versus dulaglutide in type 2 diabetes",
+  "authors": "Nicholls SJ, Pavo I, Bhatt DL, Buse JB, Del Prato S, Kahn SE, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2025,
+  "doi": "10.1056/NEJMoa2505928",
+  "pmid": "41406444",
+  "registry": "NCT04255433",
+  "design": "rct",
+  "participants": 13165,
+  "population": "Modified intention-to-treat population of adults with type 2 diabetes and atherosclerotic cardiovascular disease, after exclusion of 134 of 13,299 randomised who did not meet inclusion criteria; mean age 64.1 years, 29.0% women, mean BMI 32.6, mean HbA1c 8.4%",
+  "funder": "Funded by Eli Lilly, as stated in the abstract; the sponsor's role was not read.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Active-comparator non-inferiority trial against dulaglutide 1.5 mg. Cardiovascular death, myocardial infarction or stroke occurred in 801 of 6586 (12.2%) on tirzepatide up to 15 mg against 862 of 6579 (13.1%) on dulaglutide (hazard ratio 0.92, 95.3% CI 0.83 to 1.01; non-inferiority P = 0.003, superiority P = 0.09). Adverse events appeared similar, with more gastrointestinal events on tirzepatide. The trial had no placebo group.",
+  "class": "industry",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/41406444/"
+}

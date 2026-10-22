@@ -1,0 +1,18 @@
+{
+  "title": "The effect of thyroid hormone therapy on muscle function, strength and mass in older adults with subclinical hypothyroidism-an ancillary study within two randomized placebo controlled trials",
+  "authors": "Netzer S, Chocano-Bedoya P, Feller M, Janett-Pellegri C, Wildisen L, Büchi AE, et al.",
+  "journal": "Age and Ageing",
+  "year": 2023,
+  "doi": "10.1093/ageing/afac326",
+  "pmid": "36721961",
+  "design": "rct",
+  "participants": 267,
+  "followUp": "median 18 months",
+  "population": "Swiss and Dutch participants of TRUST and IEMO 80-plus aged 65 or older with TSH 4.60 to 19.99 mIU/l and normal free T4; mean age 77.5 years, 48.3% women",
+  "funder": "Funding statement not read: the publisher's full text returned HTTP 403 to automated access and repository copies were restricted.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "At the final visit mean TSH was 3.8 mIU/l on levothyroxine and 5.1 on placebo. Gait speed did not differ (adjusted mean difference 0.01 m/s, 95% CI -0.06 to 0.09), nor handgrip strength at 1 year (-1.22 kg, -2.60 to 0.15) or yearly change in muscle mass (-0.15 m2, -0.49 to 0.18). Results read from the PubMed abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://archive-ouverte.unige.ch/unige:172357"
+}

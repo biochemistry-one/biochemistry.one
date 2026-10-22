@@ -1,0 +1,15 @@
+{
+  "title": "Re-evaluation of saccharin and its sodium, potassium and calcium salts (E 954) as food additives",
+  "authors": "EFSA Panel on Food Additives and Flavourings (FAF), Castle L, Andreassen M, Aquilina G, Bastos ML, Boon P, et al.",
+  "journal": "EFSA Journal",
+  "year": 2024,
+  "doi": "10.2903/j.efsa.2024.9044",
+  "pmid": "39553702",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission (question numbers EFSA-Q-2011-00736, EFSA-Q-2011-00737, EFSA-Q-2011-00738 and EFSA-Q-2011-00739). Adopted 24 September 2024.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Saccharin is 1,2-benzisothiazol-3(2H)-one-1,1-dioxide, approximately 300 to 500 times as sweet as sucrose. Most, if not all, of oral doses of 2.2 to 69.3 mg is absorbed; saccharin is not metabolised, has a half-life of approximately 4 h and is excreted primarily in urine; it crosses the placenta and passes into breast milk. ADI 9 mg/kg bw per day expressed as saccharin free imide, with decreased body weight in animal studies as the relevant endpoint; it replaces the SCF ADI of 5 mg/kg bw per day expressed as sodium saccharin, corresponding to 3.8 mg/kg bw per day as free imide. The 95th percentile chronic exposure estimates were below the ADI in all population groups.",
+  "class": "regulatory",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11565076"
+}

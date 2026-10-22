@@ -1,0 +1,18 @@
+{
+  "title": "Statins inhibit Rho kinase activity in patients with atherosclerosis",
+  "authors": "Nohria A, Prsic A, Liu PY, Okamoto R, Creager MA, Selwyn A, et al.",
+  "journal": "Atherosclerosis",
+  "year": 2009,
+  "doi": "10.1016/j.atherosclerosis.2008.12.023",
+  "pmid": "19167712",
+  "design": "rct",
+  "participants": 35,
+  "followUp": "28 days",
+  "population": "Patients with stable atherosclerosis randomised to atorvastatin 80 mg, atorvastatin 10 mg or placebo",
+  "funder": "This work was supported by grants from the National Institutes of Health (HL052233, PO1 HL-48743); Doris Duke Charitable Foundation; and Pfizer, Inc. (Morristown, NJ). One author received a National Health Research Institute grant from Taiwan.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Atorvastatin 80 mg reduced leukocyte Rho kinase (ROCK) activity against placebo (p = 0.002), significantly within 2 weeks, and the reduction remained after controlling for changes in LDL cholesterol and triglycerides (p = 0.01); changes in ROCK activity did not correlate with changes in LDL cholesterol (r = 0.2, p = 0.25). Rho activation requires isoprenoid intermediates of the mevalonate pathway. The authors describe these as first-in-man findings.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=2717178"
+}

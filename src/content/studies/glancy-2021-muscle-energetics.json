@@ -1,0 +1,16 @@
+{
+  "title": "Energy metabolism design of the striated muscle cell",
+  "authors": "Glancy B, Balaban RS",
+  "journal": "Physiological Reviews",
+  "year": 2021,
+  "doi": "10.1152/physrev.00040.2020",
+  "pmid": "33733879",
+  "design": "other",
+  "funder": "This work was supported by funding from the Division of Intramural Research of the National Heart, Lung, and Blood Institute and the Intramural Research Program of the National Institute of Arthritis and Musculoskeletal and Skin Disease.",
+  "funderRole": "none",
+  "authorConflicts": "No conflicts of interest, financial or otherwise, are declared by the authors.",
+  "dataAccess": "summary",
+  "result": "Narrative review. Creatine kinase catalyses MgADP + PCr + H+ = MgATP + Cr (Keq 100 at 1 mM Mg2+, pH 7.0) and is believed to operate near equilibrium in heart and skeletal muscle. The PCr pool serves as a short-term buffer for ATP, of small capacity because PCr exceeds ATP only twofold in heart and fourfold in muscle; creatine kinase can transiently maintain ATP using PCr for a few seconds. Bessman and co-workers proposed a creatine kinase shuttle carrying high-energy phosphate from mitochondria to myofibrils; many have questioned it, creatine kinase knockout mice show very modest changes, and the authors conclude the shuttle has a potentially secondary role.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8576364/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Reduction in neural-tube defects after folic acid fortification in Canada",
+  "authors": "De Wals P, Tairou F, Van Allen MI, Uh SH, Lowry RB, Sibbald B, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2007,
+  "doi": "10.1056/NEJMoa067103",
+  "pmid": "17625125",
+  "design": "other",
+  "followUp": "Births from 1993 to 2002, divided into prefortification, partial-fortification and full-fortification periods",
+  "population": "Live births, stillbirths and terminations of pregnancy for fetal anomalies among women resident in seven Canadian provinces; 2446 neural tube defects among 1.9 million births",
+  "funder": "Supported by a grant (MOP-57904) from the Canadian Institutes of Health Research.",
+  "funderRole": "none",
+  "authorConflicts": "No potential conflict of interest relevant to this article was reported.",
+  "dataAccess": "summary",
+  "result": "Population-based comparison before and after mandatory folic acid fortification of cereal products from 1998, at 0.15 mg per 100 g of flour or cornmeal. Prevalence of neural tube defects 1.58 per 1000 births before fortification and 0.86 per 1000 during full fortification, a 46% reduction (95% CI 40 to 51); calculated from these rates, 0.72 fewer per 1000 births. Reductions of 53% for spina bifida, 38% for anencephaly and 31% for encephalocele; the decrease was proportional to the baseline rate in each province.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20180916031009/https://www.nejm.org/doi/full/10.1056/NEJMoa067103"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Low-dose metformin targets the lysosomal AMPK pathway through PEN2",
+  "authors": "Ma T, Tian X, Zhang B, Li M, Wang Y, Yang C, et al.",
+  "journal": "Nature",
+  "year": 2022,
+  "doi": "10.1038/s41586-022-04431-8",
+  "pmid": "35197629",
+  "design": "mechanistic",
+  "population": "Mouse primary hepatocytes, mouse embryonic fibroblasts, HEK293T cells, liver-specific and intestine-specific Pen2 knockout mice, and Caenorhabditis elegans",
+  "funder": "This work was supported by grants from the National Natural Science Foundation of China, the Natural Science Foundation of Fujian Province of China, the Fundamental Research Funds for the Central Universities, the Programme of Introducing Talents of Discipline to Universities and a university training programme for undergraduates.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing interests.",
+  "dataAccess": "summary",
+  "result": "The authors state that plasma metformin concentrations in patients taking standard clinical doses of 1.5 to 2 g per day have been reported at only 5 to 30 micromolar, whereas the fall in cellular energy charge invoked for complex I inhibition is observed only at peak concentrations after high doses in mice of 250 mg/kg or more, which give peak plasma concentrations of 125 to 150 micromolar. At 5 micromolar, metformin deacidified lysosomes in mouse primary hepatocytes and activated AMPK without raising AMP, ADP or their ratios to ATP. A photoactive metformin probe identified PEN2, a subunit of gamma-secretase, as a binding partner with a dissociation constant at micromolar levels; metformin-bound PEN2 forms a complex with ATP6AP1, a subunit of the lysosomal v-ATPase, inhibiting the pump and activating AMPK on the lysosome. Knockout of PEN2, or a PEN2 mutant that cannot bind ATP6AP1, blunted AMPK activation. Liver-specific knockout of Pen2 abolished the metformin-mediated reduction in hepatic fat content, intestine-specific knockout impaired its glucose-lowering effect, and knockdown of pen-2 in C. elegans abolished metformin-induced extension of lifespan. Activation required AXIN, Ragulator and the v0c subunit of the v-ATPase, while high concentrations of metformin bypassed the requirement for AXIN and Ragulator.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8891018/fullTextXML"
+}

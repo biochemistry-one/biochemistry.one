@@ -1,0 +1,18 @@
+{
+  "title": "Comparative peripheral edema for dihydropyridines calcium channel blockers treatment: a systematic review and network meta-analysis",
+  "authors": "Liang L, Kung JY, Mitchelmore B, Cave A, Banh HL",
+  "journal": "Journal of Clinical Hypertension",
+  "year": 2022,
+  "doi": "10.1111/jch.14436",
+  "pmid": "35234349",
+  "design": "meta-analysis",
+  "participants": 56283,
+  "population": "Participants of 71 randomised controlled trials of dihydropyridine calcium channel blockers used for cardiovascular indications",
+  "funder": "not stated: the publication carries no funding statement, so the class is undetermined.",
+  "funderRole": "unknown",
+  "authorConflicts": "All authors have no conflict of interest to declare.",
+  "dataAccess": "summary",
+  "result": "Reported rates of peripheral oedema with dihydropyridine calcium channel blockers range from 5% to 60% with high doses, and the review states the mechanism as increased capillary hydrostatic pressure arising from an imbalance of dilatation between precapillary and postcapillary vessels. Across 71 trials with 56,283 patients, nifedipine ranked first for inducing peripheral oedema (surface under the cumulative ranking curve 81.8%), followed by nisoldipine (78.6%), nicardipine (77.2%), amlodipine (58.5%), darodipine (52.4%), isradipine (48.8%), felodipine (47.3%), lercanidipine (26.2%) and lacidipine (12.8%); all of these agents except lacidipine carried a higher relative risk of peripheral oedema than placebo. Among combinations, amlodipine with an angiotensin-converting enzyme inhibitor ranked lowest for peripheral oedema (16%) and nifedipine with an angiotensin receptor blocker highest (92.3%), with amlodipine alone at 52.9%; the relative risks of the individual combinations against placebo were imprecise and not statistically significant.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106091/"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Assessing the association between the methylenetetrahydrofolate reductase (MTHFR) 677C>T polymorphism and blood folate concentrations: a systematic review and meta-analysis of trials and observational studies",
+  "authors": "Tsang BL, Devine OJ, Cordero AM, Marchetta CM, Mulinare J, Mersereau P, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2015,
+  "doi": "10.3945/ajcn.114.099994",
+  "pmid": "25788000",
+  "design": "meta-analysis",
+  "population": "40 trials and observational studies, 1992 to March 2014, reporting blood folate by MTHFR 677C>T genotype in healthy women aged 12 to 49 years",
+  "funder": "Three authors were supported by the CDC and in part by an appointment to the Research Participation Program at CDC administered by the Oak Ridge Institute for Science and Education through an interagency agreement between the US Department of Energy and CDC.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Results read from the published abstract. In the 6 studies using the microbiological assay, folate followed CC > CT > TT: TT had 13% (95% credible interval 7% to 18%) lower serum or plasma folate and 16% (12% to 20%) lower red cell folate than CC; CT had 7% (1% to 12%) lower serum or plasma folate than CC. The authors suggest that lower blood folate with this variant could have implications for population risk of neural tube defects.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250114205652/https://www.sciencedirect.com/science/article/pii/S0002916523274237"
+}

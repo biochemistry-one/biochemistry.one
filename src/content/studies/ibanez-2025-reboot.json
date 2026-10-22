@@ -1,0 +1,20 @@
+{
+  "title": "Beta-blockers after myocardial infarction without reduced ejection fraction",
+  "authors": "Ibanez B, Latini R, Rossello X, Dominguez-Rodriguez A, Fernandez-Vazquez F, Pelizzoni V, et al.; REBOOT-CNIC Investigators",
+  "journal": "New England Journal of Medicine",
+  "year": 2025,
+  "doi": "10.1056/NEJMoa2504735",
+  "pmid": "40888702",
+  "registry": "NCT03596385",
+  "design": "rct",
+  "participants": 8438,
+  "followUp": "median 3.7 years",
+  "population": "Type 1 or type 2 myocardial infarction, with or without ST-segment elevation, after invasive care during the index hospitalisation and with a left ventricular ejection fraction above 40% before discharge, excluding a history of heart failure, a contraindication to beta-blockers or another indication for them; 109 centres in Spain and Italy; mean age 61.3 years, 19.3% women, mean ejection fraction 57%",
+  "funder": "Supported by Centro Nacional de Investigaciones Cardiovasculares Carlos III (CNIC) and Centro de Investigacion Biomedica en Red en Enfermedades Cardiovasculares. CNIC is supported by Instituto de Salud Carlos III; Ministerio de Ciencia, Innovacion y Universidades; the Pro CNIC Foundation; and a grant (CEX2020-001041-S funded by MICIU/AEI/10.13039/501100011033) from the Severo Ochoa Center of Excellence. The paper states that this investigator-initiated trial was financed by CNIC, that the authors vouch for the accuracy and completeness of the data and the fidelity of the trial to the protocol, that the first author wrote the first draft, and that all the authors made the decision to submit the manuscript. Registry NCT03596385 names Fundacion Centro Nacional de Investigaciones Cardiovasculares Carlos III as lead sponsor and lists no collaborator.",
+  "funderRole": "none",
+  "authorConflicts": "Disclosure forms are published with the full text at NEJM.org; not read.",
+  "dataAccess": "unknown",
+  "result": "Open-label, with blinded central adjudication of outcomes. Of 8505 patients randomised, 8438 entered the intention-to-treat analysis, 4207 assigned a beta-blocker and 4231 none; bisoprolol was prescribed to 85.9% of the treated group and metoprolol to 7.5%. Death from any cause, reinfarction or hospitalisation for heart failure occurred in 316 patients (22.5 events per 1000 patient-years) against 307 (21.7 per 1000 patient-years), rate difference 0.84 per 1000 patient-years (95% CI -2.63 to 4.32), hazard ratio 1.04 (0.89 to 1.22), P = 0.63, over a median 3.7 years. Death from any cause 161 against 153 (hazard ratio 1.06, 0.85 to 1.33), reinfarction 143 against 143 (1.01, 0.80 to 1.27), hospitalisation for heart failure 39 against 44 (0.89, 0.58 to 1.38), hospitalisation for symptomatic advanced atrioventricular block 7 against 6 (1.18, 0.40 to 3.50) and hospitalisation for stroke 37 against 25 (1.50, 0.90 to 2.49). Among 1627 women, events occurred in 83 of 816 (30.4 per 1000 patient-years) against 57 of 811 (21.0 per 1000 patient-years), hazard ratio 1.45 (1.04 to 2.03), and among 4296 patients with ST-segment elevation infarction in 149 of 2146 against 119 of 2150, hazard ratio 1.27 (1.00 to 1.62); the authors call these possible signals of harm hypothesis-generating. Among 979 patients with an ejection fraction below 50%, events occurred in 39 of 515 against 48 of 464, hazard ratio 0.75 (0.49 to 1.14). At 15 months 12.9% of the beta-blocker group had stopped treatment and 17.6% of the no-beta-blocker group had started it; a per-protocol analysis censored at crossover agreed with the intention-to-treat result.",
+  "class": "independent",
+  "fundingChecked": "https://researchonline.lshtm.ac.uk/id/eprint/4683030/1/Ibanez-etal-2026-Beta-blockers.pdf"
+}

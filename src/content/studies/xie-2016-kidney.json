@@ -1,0 +1,18 @@
+{
+  "title": "Proton pump inhibitors and risk of incident CKD and progression to ESRD",
+  "authors": "Xie Y, Bowe B, Li T, Xian H, Balasubramanian S, Al-Aly Z",
+  "journal": "Journal of the American Society of Nephrology",
+  "year": 2016,
+  "doi": "10.1681/ASN.2015121377",
+  "pmid": "27080976",
+  "design": "cohort",
+  "participants": 193591,
+  "followUp": "5 years",
+  "population": "US Department of Veterans Affairs new users of PPIs (n = 173,321) or H2-receptor antagonists (n = 20,270)",
+  "funder": "Not read: the PubMed Central record holds a PDF only, which could not be retrieved, and the publisher page refused access.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Against H2-receptor antagonist users, PPI users had higher risk of incident eGFR below 60 mL/min/1.73 m2 (HR 1.22, 95% CI 1.18 to 1.26), incident CKD (1.28, 1.23 to 1.34), doubling of serum creatinine (1.53, 1.42 to 1.65), eGFR decline above 30% (1.32, 1.28 to 1.37) and end-stage renal disease (1.96, 1.21 to 3.18), with graded association by duration of exposure from 31 to 720 days.",
+  "class": "undetermined",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5042677"
+}

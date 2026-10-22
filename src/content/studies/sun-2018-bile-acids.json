@@ -1,0 +1,19 @@
+{
+  "title": "Gut microbiota and intestinal FXR mediate the clinical benefits of metformin",
+  "authors": "Sun L, Xie C, Wang G, Wu Y, Wu Q, Wang X, et al.",
+  "journal": "Nature Medicine",
+  "year": 2018,
+  "doi": "10.1038/s41591-018-0222-4",
+  "pmid": "30397356",
+  "design": "mechanistic",
+  "participants": 22,
+  "followUp": "3 days of treatment",
+  "population": "22 people with newly diagnosed type 2 diabetes treated naively with metformin 1000 mg twice daily for three days, with mouse and cell experiments",
+  "funder": "This work was supported by the National Key Research and Development Program of China, the National Natural Science Foundation of China, the National Program for Support of Top-notch Young Professionals, the Fundamental Research Funds for the Central Universities of Peking University and the National Cancer Institute Intramural Research Program.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing interests.",
+  "dataAccess": "summary",
+  "result": "Metagenomic and metabolomic analysis of stool and serum before and after three days of metformin showed that the gut microbiota composition was substantially reshaped, with the genus Bacteroides most reduced and the species Bacteroides fragilis among the top discriminating species, and the bile acid glycoursodeoxycholic acid (GUDCA) increased. Serum FGF19 fell markedly and 7-alpha-hydroxy-4-cholesten-3-one rose, indicating suppression of intestinal farnesoid X receptor (FXR) signalling and increased hepatic CYP7A1 activity. In mice, colonisation with B. fragilis worsened glucose intolerance on a high-fat diet and abolished the metabolic benefit of metformin, and GUDCA was identified as an antagonist of intestinal FXR that improved several metabolic endpoints in established obesity. The authors note that metformin reaches high concentrations in the small intestine with much lower serum concentrations, so part of its benefit may arise from actions in the gut.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6479226"
+}

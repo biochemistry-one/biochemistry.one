@@ -1,0 +1,33 @@
+{
+  "title": "Thymidylate cycle",
+  "layout": "cycle",
+  "compartment": "Cytosol, nucleus and mitochondria",
+  "steps": [
+    {
+      "from": "Tetrahydrofolate (THF)",
+      "to": "5,10-Methylene-THF",
+      "enzyme": "Serine hydroxymethyltransferase (SHMT1, SHMT2)",
+      "cofactors": ["L-Serine → glycine", "Pyridoxal 5′-phosphate"],
+      "reversible": true
+    },
+    {
+      "from": "5,10-Methylene-THF",
+      "to": "Dihydrofolate (DHF)",
+      "enzyme": "Thymidylate synthase (TYMS)",
+      "cofactors": ["dUMP → dTMP"],
+      "inhibitors": [
+        {"name": "Fluorouracil", "page": "medicines/fluorouracil"},
+        {"name": "Pemetrexed", "page": "medicines/pemetrexed"}
+      ],
+      "note": "Folate supplies the carbon and the two electrons that reduce it to methyl"
+    },
+    {
+      "from": "Dihydrofolate (DHF)",
+      "to": "Tetrahydrofolate (THF)",
+      "enzyme": "Dihydrofolate reductase (DHFR)",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "Methotrexate", "page": "medicines/methotrexate"}],
+      "note": "Also reduces folic acid to DHF, slowly in human liver"
+    }
+  ]
+}

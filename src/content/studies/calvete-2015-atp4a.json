@@ -1,0 +1,17 @@
+{
+  "title": "Exome sequencing identifies ATP4A gene as responsible of an atypical familial type I gastric neuroendocrine tumour",
+  "authors": "Calvete O, Reyes J, Zuñiga S, Paumard-Hernández B, Fernández V, Bujanda L, et al.",
+  "journal": "Human Molecular Genetics",
+  "year": 2015,
+  "doi": "10.1093/hmg/ddv054",
+  "pmid": "25678551",
+  "design": "genetic",
+  "participants": 10,
+  "population": "Consanguineous family with 10 children, 5 affected by type I gastric neuroendocrine tumour; sporadic gastric neuroendocrine tumour patients as comparison",
+  "funder": "Not read: the publisher page shows the abstract only and the article is not in PubMed Central.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "A homozygous ATP4A missense mutation (c.2107C>T, p.Arg703Cys) in a transmembrane domain prevents proton release by the parietal-cell pump and caused achlorhydria. Five of 10 siblings developed type I gastric neuroendocrine tumours from about 30 years of age, three with nodal infiltration requiring total gastrectomy and one with adenocarcinoma, with iron-deficiency rather than megaloblastic anaemia. No ATP4A mutations were found in sporadic gastric neuroendocrine tumours.",
+  "class": "undetermined",
+  "fundingChecked": "https://academic.oup.com/hmg/article/24/10/2914/2900891"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Update on folic acid",
+  "authors": "Scientific Advisory Committee on Nutrition",
+  "journal": "Public Health England, London; report to Food Standards Scotland, published 12 July 2017",
+  "year": 2017,
+  "url": "https://assets.publishing.service.gov.uk/media/5a82c5e240f0b62305b94444/SACN_Update_on_folic_acid.pdf",
+  "design": "guideline",
+  "funder": "UK Government; secretariat provided by Public Health England",
+  "funderRole": "none",
+  "authorConflicts": "The working group on folic acid was chaired by Dr David Mela, Science Leader, Unilever R&D Vlaardingen; the other two members were university academics. Declarations of interest are not reproduced in the report; not read.",
+  "dataAccess": "summary",
+  "result": "SACN reaffirmed its 2006 and 2009 recommendation for mandatory fortification of flour with folic acid, stipulating that it be introduced only alongside restrictions on voluntary fortification and guidance on supplements so that the numbers with intakes above the guidance or upper level of 1 mg/day do not rise, with monitoring of intakes and blood folate. In the UK the Expert Group on Vitamins and Minerals (2003) set no safe upper level, judging the evidence on adverse effects not sufficiently robust, but a guidance level of 1 mg/day because higher intakes may mask B12 deficiency. No systematic review has evaluated masking or exacerbation of B12 deficiency in adults; evidence comes mainly from interventions above 1 mg/day; in the USA the prevalence of B12 deficiency with or without anaemia did not increase after mandatory fortification. Cancer evidence was judged heterogeneous and of low statistical power, overall not suggesting a detrimental effect; for prostate cancer, observational studies of blood folate and MTHFR genetic studies suggested higher risk with higher folate. Unmetabolised folic acid formed 1-3% of total folate regardless of age, intake or fasting. Women with a previous NTD-affected pregnancy are advised 5 mg/day; others 400 µg/day before conception to week 12.",
+  "class": "consensus",
+  "fundingChecked": "https://assets.publishing.service.gov.uk/media/5a82c5e240f0b62305b94444/SACN_Update_on_folic_acid.pdf"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Dietary Cholesterol and Cardiovascular Risk: A Science Advisory From the American Heart Association",
+  "authors": "Carson JAS, Lichtenstein AH, Anderson CAM, Appel LJ, Kris-Etherton PM, Meyer KA, et al.",
+  "journal": "Circulation",
+  "year": 2020,
+  "doi": "10.1161/CIR.0000000000000743",
+  "pmid": "31838890",
+  "design": "guideline",
+  "funder": "not stated; the advisory was approved by the American Heart Association Science Advisory and Coordinating Committee and Executive Committee",
+  "funderRole": "unknown",
+  "authorConflicts": "All nine writing-group members and all four reviewers reported no relationships.",
+  "dataAccess": "summary",
+  "result": "Observational studies generally do not indicate a significant association of dietary cholesterol with cardiovascular risk; most meta-analyses of intervention studies associate intakes above current averages with higher total or LDL cholesterol. In the AHA meta-regression of 11 controlled feeding studies (25 comparisons) with similar polyunsaturated-to-saturated fat ratios in the compared diets, dietary cholesterol significantly increased total cholesterol, but the findings were not significant for LDL or HDL cholesterol. Given the cholesterol content of egg yolks, it remains advisable to limit intake to current levels; healthy individuals can include up to a whole egg or equivalent daily; lacto-ovo vegetarians may include more; patients with dyslipidaemia, particularly those with diabetes mellitus or at risk for heart failure, should be cautious with cholesterol-rich foods; for older normocholesterolaemic patients up to 2 eggs per day is acceptable within a heart-healthy dietary pattern. A large egg contains about 186 mg cholesterol.",
+  "class": "consensus",
+  "fundingChecked": "https://web.archive.org/web/20250816024338/https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000743"
+}

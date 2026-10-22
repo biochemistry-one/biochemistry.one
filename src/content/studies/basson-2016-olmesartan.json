@@ -1,0 +1,18 @@
+{
+  "title": "Severe intestinal malabsorption associated with olmesartan: a French nationwide observational cohort study",
+  "authors": "Basson M, Mezzarobba M, Weill A, Ricordeau P, Allemand H, Alla F, et al.",
+  "journal": "Gut",
+  "year": 2016,
+  "doi": "10.1136/gutjnl-2015-309690",
+  "pmid": "26250345",
+  "design": "cohort",
+  "participants": 4546680,
+  "followUp": "9,010,303 person-years; initiations from 1 January 2007 to 31 December 2012",
+  "population": "All adults in the French National Health Insurance claims database starting an angiotensin receptor blocker or ACE inhibitor, without prior hospitalisation for intestinal malabsorption, coeliac serology or gluten-free diet prescription; six of seven authors work at the French National Health Insurance Fund",
+  "funder": "not read: the full text is available only by subscription, and the PubMed abstract carries no funding statement.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "218 hospitalisations with a discharge diagnosis of intestinal malabsorption. Against ACE inhibitors, the adjusted rate ratio with olmesartan was 2.49 (95% CI 1.73 to 3.57): 0.76 (0.39 to 1.49) for use shorter than 1 year, 3.66 (1.84 to 7.29) for 1 to 2 years and 10.65 (5.05 to 22.46) beyond 2 years. The adjusted rate ratio for hospitalisation for coeliac disease was 4.39 (2.77 to 6.96) and rose with duration. Hospital stays were longer with olmesartan.",
+  "class": "undetermined",
+  "fundingChecked": "https://doi.org/10.1136/gutjnl-2015-309690"
+}

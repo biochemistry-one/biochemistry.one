@@ -1,0 +1,20 @@
+{
+  "title": "HMG-coenzyme A reductase inhibition, type 2 diabetes, and bodyweight: evidence from genetic analysis and randomised trials",
+  "authors": "Swerdlow DI, Preiss D, Kuchenbaecker KB, Holmes MV, Engmann JE, Shah T, et al.",
+  "journal": "Lancet",
+  "year": 2015,
+  "doi": "10.1016/S0140-6736(14)61183-1",
+  "pmid": "25262344",
+  "design": "mendelian-randomisation",
+  "participants": 223463,
+  "followUp": "trials: mean 4.2 years (range 1.9 to 6.7)",
+  "population": "Up to 223,463 individuals in 43 genetic studies; 129,170 participants in randomised statin trials",
+  "funder": "Individual author support from the Medical Research Council, Rosetrees Trust, National Institutes of Health, British Heart Foundation, Wellcome Trust, National Institute on Aging, MacArthur Foundation, Danish MRC, Czech Ministry of Health, NIHR UCL Biomedical Research Centre, Diabetes UK and the EU/EFPIA Innovative Medicines Initiative (EMIF grant 115372), among others. The funding sources had no role in study design, data collection, data analysis, data interpretation, the writing of the report, or the decision to submit for publication.",
+  "funderRole": "none",
+  "inKindSupport": "Merck and Novartis contributed data to the statin trials analysis.",
+  "authorConflicts": "J.C. Whittaker is an employee of and holds stock in GlaxoSmithKline and contributed to data collection, interpretation of findings and manuscript preparation. Several other authors declared grants, honoraria or consultancy from manufacturers of lipid-lowering and other drugs, including Merck, Pfizer, AstraZeneca, Amgen and Sanofi.",
+  "dataAccess": "summary",
+  "result": "Each additional rs17238484-G allele in HMGCR was associated with 0.06 mmol/L (95% CI 0.05 to 0.07) lower LDL cholesterol and higher bodyweight (0.30 kg, 0.18 to 0.43), waist circumference (0.32 cm, 0.16 to 0.47), plasma insulin (1.62%, 0.53 to 2.72) and plasma glucose (0.23%, 0.02 to 0.44), and with type 2 diabetes (odds ratio per allele 1.02, 1.00 to 1.05); the rs12916-T allele gave 1.06 (1.03 to 1.09). In 129,170 trial participants, statins increased bodyweight by 0.24 kg (0.10 to 0.38) at a mean 4.2 years and the odds of new-onset type 2 diabetes by 1.12 (1.06 to 1.18). The authors conclude that the increased diabetes risk with statins is at least partially explained by HMGCR inhibition. Classed industry because an employee of GlaxoSmithKline took part in interpretation and manuscript preparation.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4322187"
+}

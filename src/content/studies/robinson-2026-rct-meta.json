@@ -1,0 +1,16 @@
+{
+  "title": "A systematic review and meta-analysis of randomized controlled trials examining the effect of ultra-processed food on energy intake and weight gain",
+  "authors": "Robinson E, Jones A, Evans R, Finlay A, Brealey J, Gough T, et al.",
+  "journal": "Critical Reviews in Food Science and Nutrition",
+  "year": 2026,
+  "doi": "10.1080/10408398.2026.2731838",
+  "pmid": "42746678",
+  "design": "meta-analysis",
+  "population": "10 randomised trials comparing ultra-processed with less processed food",
+  "funder": "Funding statement not read: the publisher's full text returned HTTP 403 to automated access, and the article is absent from PubMed Central and Europe PMC full text. Crossref metadata list no funder.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Pre-registered. Standardised mean differences for energy intake 0.18 to 0.44 in ultra-processed arms, with statistical significance varying between models; weight gain SMD 0.65 and eating rate SMD 0.96, both significant; palatability and appetite did not differ. Diets were not matched for nutrient profile. Energy intake SMD 0.71 when ultra-processed diets were more energy dense and 0.02 when energy density was similar. Certainty of evidence low. Results read from the PubMed abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://api.crossref.org/works/10.1080/10408398.2026.2731838"
+}

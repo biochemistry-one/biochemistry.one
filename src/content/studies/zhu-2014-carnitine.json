@@ -1,0 +1,17 @@
+{
+  "title": "Carnitine metabolism to trimethylamine by an unusual Rieske-type oxygenase from human microbiota",
+  "authors": "Zhu Y, Jameson E, Crosatti M, Schäfer H, Rajakumar K, Bugg TD, et al.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 2014,
+  "doi": "10.1073/pnas.1316569111",
+  "pmid": "24591617",
+  "design": "in-vitro",
+  "population": "Human Microbiome Project reference genomes; Acinetobacter baumannii ATCC 19606 mutants; recombinant Escherichia coli",
+  "funder": "This work is supported by the Royal Society (RG2011/R1) and partially by the Natural Environment Research Council (NE/I027061/1).",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no conflict of interest.",
+  "dataAccess": "individual",
+  "result": "A two-component Rieske-type oxygenase/reductase, CntA and CntB, encoded in a carnitine utilisation gene cluster in 39 human microbiota reference genomes, cleaves the C-N bond of carnitine to trimethylamine and a four-carbon compound. Deletion of cntA or cntB abolished trimethylamine formation from carnitine in A. baumannii; purified CntA and CntB with NADH were necessary and sufficient in vitro. CntB is a predicted NAD(P)-dependent reductase with flavin and plant-type [2Fe-2S] ferredoxin domains; CntA carries a Rieske [2Fe-2S] centre and a mononuclear iron centre, and its glutamate 205 is essential for catalysis.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3964110/"
+}

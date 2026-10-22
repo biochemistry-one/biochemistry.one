@@ -1,0 +1,18 @@
+{
+  "title": "Randomized Trial of Icatibant for Angiotensin-Converting Enzyme Inhibitor-Induced Upper Airway Angioedema",
+  "authors": "Sinert R, Levy P, Bernstein JA, Body R, Sivilotti MLA, Moellman J, et al.; CAMEO study group",
+  "journal": "Journal of Allergy and Clinical Immunology: In Practice",
+  "year": 2017,
+  "doi": "10.1016/j.jaip.2017.03.003",
+  "pmid": "28552382",
+  "registry": "NCT01919801",
+  "design": "rct",
+  "participants": 121,
+  "population": "Adults taking ACE inhibitors presenting within 12 hours of at least moderately severe upper-airway angio-oedema at 31 centres in 4 countries",
+  "funder": "The registry entry names Shire as lead sponsor, with PPD Development as collaborator; four authors are Shire employees in clinical development and biostatistics. The funding statement of the article was not read.",
+  "funderRole": "several",
+  "dataAccess": "unknown",
+  "result": "Icatibant 30 mg (n=61) against placebo (n=60), given a median 7.8 hours after symptom onset. Median time to meeting discharge criteria 4.0 hours in each group (P=0.63); median time to onset of symptom relief 2.0 against 1.6 hours (P=0.57); no difference in any secondary end point or subgroup.",
+  "class": "industry",
+  "fundingChecked": "https://clinicaltrials.gov/study/NCT01919801"
+}

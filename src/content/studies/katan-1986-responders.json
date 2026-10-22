@@ -1,0 +1,19 @@
+{
+  "title": "Existence of consistent hypo- and hyperresponders to dietary cholesterol in man",
+  "authors": "Katan MB, Beynen AC, de Vries JH, Nobels A",
+  "journal": "American Journal of Epidemiology",
+  "year": 1986,
+  "doi": "10.1093/oxfordjournals.aje.a114231",
+  "pmid": "3946372",
+  "design": "other",
+  "participants": 94,
+  "followUp": "Three controlled feeding experiments in 1982, each a low-cholesterol period followed by a high-cholesterol period of 13 to 28 days",
+  "population": "Healthy volunteers living in or near Wageningen, the Netherlands",
+  "funder": "Supported by the Netherlands Heart Foundation, grants no. 31.013, 78.093, 79.045 and 26.003. M. B. Katan is an established investigator of the Netherlands Heart Foundation.",
+  "funderRole": "none",
+  "inKindSupport": "The methods name a special bread from Crock-Laan and a special margarine from Van den Bergh & Jurgens B.V.; the paper does not state whether they were donated.",
+  "dataAccess": "individual",
+  "result": "Egg yolk supplied the added cholesterol, the only dietary variable. In experiment 1, 94 adults whose intake rose from 121 to 625 mg/day showed a rise in serum cholesterol of 0.50 ± 0.39 mmol/L. Seventeen putative hyperresponders and 15 hyporesponders selected in experiment 1 showed responses of 0.28 ± 0.38 and 0.06 ± 0.35 mmol/L in experiment 2 (106 to 673 mg/day) and 0.82 ± 0.35 and 0.47 ± 0.26 mmol/L in experiment 3 (129 to 989 mg/day). After correction for within-person fluctuation, the between-subject standard deviation of true responsiveness was about 0.29 mmol/L; mean individual responses formed a unimodal distribution without discrete subgroups. The authors conclude that modest differences in responsiveness exist and that the wide scatter of responses in single experiments is largely due to chance fluctuations.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20251127225608/https://edepot.wur.nl/49465"
+}

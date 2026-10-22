@@ -1,0 +1,94 @@
+{
+  "title": "Néoglucogenèse à partir du pyruvate",
+  "layout": "chain",
+  "compartment": "Matrice mitochondriale, cytosol et réticulum endoplasmique du foie et du cortex rénal",
+  "steps": [
+    {
+      "from": "Pyruvate",
+      "to": "Oxaloacétate",
+      "enzyme": "Pyruvate carboxylase (PC), mitochondriale",
+      "cofactors": ["ATP en ADP", "HCO3−", "Biotine"],
+      "note": "Activation allostérique par l'acétyl-CoA ; deux pyruvates par glucose formé"
+    },
+    {
+      "from": "Oxaloacétate",
+      "to": "Malate",
+      "enzyme": "Malate déshydrogénase 2 (MDH2), mitochondriale",
+      "cofactors": ["NADH en NAD+"],
+      "reversible": true,
+      "note": "Le malate traverse ensuite la membrane mitochondriale interne"
+    },
+    {
+      "from": "Malate",
+      "to": "Oxaloacétate",
+      "enzyme": "Malate déshydrogénase 1 (MDH1), cytosolique",
+      "cofactors": ["NAD+ en NADH"],
+      "reversible": true,
+      "note": "Fournit le NADH cytosolique utilisé par la GAPDH"
+    },
+    {
+      "from": "Oxaloacétate",
+      "to": "Phosphoénolpyruvate",
+      "enzyme": "Phosphoénolpyruvate carboxykinase 1 (PCK1), cytosolique",
+      "cofactors": ["GTP en GDP"],
+      "note": "Libère du CO2 ; PCK2 catalyse la même réaction dans les mitochondries"
+    },
+    {
+      "from": "Phosphoénolpyruvate",
+      "to": "2-Phosphoglycérate",
+      "enzyme": "Énolase 1 (ENO1)",
+      "cofactors": ["H2O"],
+      "reversible": true
+    },
+    {
+      "from": "2-Phosphoglycérate",
+      "to": "3-Phosphoglycérate",
+      "enzyme": "Phosphoglycérate mutase 1 (PGAM1)",
+      "reversible": true
+    },
+    {
+      "from": "3-Phosphoglycérate",
+      "to": "1,3-Bisphosphoglycérate",
+      "enzyme": "Phosphoglycérate kinase 1 (PGK1)",
+      "cofactors": ["ATP en ADP"],
+      "reversible": true
+    },
+    {
+      "from": "1,3-Bisphosphoglycérate",
+      "to": "Glycéraldéhyde-3-phosphate",
+      "enzyme": "Glycéraldéhyde-3-phosphate déshydrogénase (GAPDH)",
+      "cofactors": ["NADH en NAD+"],
+      "reversible": true,
+      "note": "Libère du phosphate"
+    },
+    {
+      "from": "Glycéraldéhyde-3-phosphate",
+      "to": "Fructose-1,6-bisphosphate",
+      "enzyme": "Aldolase B (ALDOB)",
+      "cofactors": ["Dihydroxyacétone phosphate"],
+      "reversible": true,
+      "note": "La DHAP provient d'un second triose, via la triose-phosphate isomérase (TPI1)"
+    },
+    {
+      "from": "Fructose-1,6-bisphosphate",
+      "to": "Fructose-6-phosphate",
+      "enzyme": "Fructose-1,6-bisphosphatase 1 (FBP1)",
+      "cofactors": ["H2O"],
+      "inhibitors": [{"name": "Fructose-2,6-bisphosphate"}, {"name": "AMP"}],
+      "note": "Libère du phosphate ; le glucagon abaisse le taux de fructose-2,6-bisphosphate"
+    },
+    {
+      "from": "Fructose-6-phosphate",
+      "to": "Glucose-6-phosphate",
+      "enzyme": "Glucose-6-phosphate isomérase (GPI)",
+      "reversible": true
+    },
+    {
+      "from": "Glucose-6-phosphate",
+      "to": "Glucose",
+      "enzyme": "Glucose-6-phosphatase (G6PC1), du réticulum endoplasmique",
+      "cofactors": ["H2O"],
+      "note": "SLC37A4 transporte le substrat dans la lumière du RE ; libère du phosphate"
+    }
+  ]
+}

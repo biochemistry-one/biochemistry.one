@@ -1,0 +1,17 @@
+{
+  "title": "Differences in Associations of Antidepressants and Hospitalization Due to Hyponatremia",
+  "authors": "Farmand S, Lindh JD, Calissendorff J, Skov J, Falhammar H, Nathanson D, et al.",
+  "journal": "American Journal of Medicine",
+  "year": 2018,
+  "doi": "10.1016/j.amjmed.2017.07.025",
+  "pmid": "28803926",
+  "design": "case-control",
+  "population": "Swedish national registers: after a 2021 corrigendum, 11,213 patients admitted with a primary diagnosis of hyponatraemia and 44,801 matched controls",
+  "funder": "The cost for retrieval of the data was funded by a clinical trial investigating the effect of c-peptide for the Development of Diabetic Neuropathy sponsored by Cebix Incorporated (Grant Number: CBX12980-DN201X).",
+  "funderRole": "unknown",
+  "authorConflicts": "Skov and Mannheimer reported personal fees from Otsuka Pharma Scandinavia AB outside the submitted work.",
+  "dataAccess": "summary",
+  "result": "Corrected adjusted odds ratios (corrigendum, Am J Med 2021;134:554) for hospitalisation with hyponatraemia: newly initiated sertraline 6.79 (95% CI 5.02 to 9.26), citalopram 6.5, venlafaxine 6.63, escitalopram 3.02, mirtazapine 1.63, tricyclics 1.30 (0.85 to 1.96); ongoing sertraline 0.82 (0.69 to 0.97). The originally published sertraline estimate for new use was 4.96 (3.81 to 6.48). The risk is concentrated after starting treatment.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20221005091549/https://www.amjmed.com/article/S0002-9343(17)30809-4/fulltext"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "A nationwide nested case-control study indicates an increased risk of acute interstitial nephritis with proton pump inhibitor use",
+  "authors": "Blank ML, Parkin L, Paul C, Herbison P",
+  "journal": "Kidney International",
+  "year": 2014,
+  "doi": "10.1038/ki.2014.74",
+  "pmid": "24646856",
+  "design": "case-control",
+  "participants": 572661,
+  "followUp": "new episodes of PPI use 2005 to 2009",
+  "population": "New Zealand cohort of 572,661 patients starting a new episode of PPI use without prior interstitial nephritis or renal disease; 72 cases of acute interstitial nephritis (46 confirmed by histology) with 10 matched controls each",
+  "funder": "Primary financial support was provided by the Health Research Council of New Zealand and Medsafe (grant number 10/031). Additional support was provided to M-LB through a University of Otago Masters' scholarship. The funders had no role in the design of the study, or in the collection, analysis, or interpretation of the data.",
+  "funderRole": "none",
+  "authorConflicts": "All the authors declared no competing interests.",
+  "dataAccess": "individual",
+  "result": "Acute interstitial nephritis resulting in hospitalisation or death: crude incidence 11.98 (95% CI 9.11 to 15.47) per 100,000 person-years during current PPI use against 1.68 (0.91 to 2.86) during past use; matched OR for current against past use 5.16 (2.21 to 12.05) among histologically confirmed cases, similar after adjustment and with probable cases included.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4184187/fullTextXML"
+}

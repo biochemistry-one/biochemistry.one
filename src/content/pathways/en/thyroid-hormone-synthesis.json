@@ -1,0 +1,47 @@
+{
+  "title": "Thyroid hormone synthesis and activation",
+  "layout": "chain",
+  "compartment": "Thyroid follicle, then target tissues",
+  "steps": [
+    {
+      "from": "Iodide in plasma",
+      "to": "Iodide in the thyroid follicle",
+      "enzyme": "Sodium–iodide symporter (SLC5A5)",
+      "cofactors": ["2 Na+"],
+      "inhibitors": [{"name": "Perchlorate"}],
+      "note": "Thyrotropin (TSH) up-regulates the symporter"
+    },
+    {
+      "from": "Iodide in the thyroid follicle",
+      "to": "Iodotyrosyl residues of thyroglobulin",
+      "enzyme": "Thyroid peroxidase (TPO)",
+      "cofactors": ["Haem b", "H2O2 from dual oxidase 2 (DUOX2)"],
+      "note": "Mono- and diiodotyrosyl residues form in the follicle lumen"
+    },
+    {
+      "from": "Iodotyrosyl residues of thyroglobulin",
+      "to": "Thyroxine residues of thyroglobulin",
+      "enzyme": "Thyroid peroxidase (TPO)",
+      "cofactors": ["H2O2"],
+      "note": "Two diiodotyrosyls couple and leave dehydroalanine; some T3 also forms"
+    },
+    {
+      "from": "Thyroxine residues of thyroglobulin",
+      "to": "Thyroxine (T4)",
+      "enzyme": "Cathepsins B, K and L",
+      "note": "Thyroglobulin proteolysis in the lumen and after endocytosis"
+    },
+    {
+      "from": "Thyroxine (T4)",
+      "to": "Triiodothyronine (T3)",
+      "enzyme": "Iodothyronine deiodinases 1 and 2 (DIO1, DIO2)",
+      "note": "Outer-ring deiodination; in humans DIO2 supplies most circulating T3"
+    },
+    {
+      "from": "Triiodothyronine (T3)",
+      "to": "3,3′-Diiodothyronine",
+      "enzyme": "Iodothyronine deiodinase 3 (DIO3)",
+      "note": "Inner-ring deiodination inactivates T3; DIO3 also forms reverse T3 from T4"
+    }
+  ]
+}

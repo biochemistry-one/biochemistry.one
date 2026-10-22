@@ -1,0 +1,19 @@
+{
+  "title": "Effects of folic acid supplementation on overall and site-specific cancer incidence during the randomised trials: meta-analyses of data on 50,000 individuals",
+  "authors": "Vollset SE, Clarke R, Lewington S, Ebbing M, Halsey J, Lonn E, et al.",
+  "journal": "Lancet",
+  "year": 2013,
+  "doi": "10.1016/S0140-6736(12)62001-7",
+  "pmid": "23352552",
+  "design": "meta-analysis",
+  "participants": 49621,
+  "followUp": "Scheduled treatment period only, 2.0 to 7.7 years, weighted mean 5.5 years; post-trial follow-up not included",
+  "population": "Individual participant data from 13 placebo-controlled trials of folic acid with at least 500 participants and 1 year of treatment: 10 cardiovascular trials (46,969) and 3 colorectal adenoma trials (2652); two-thirds men, mean age 64 years; folic acid 0.5 to 5 mg daily, 40 mg in one trial",
+  "funder": "British Heart Foundation, Medical Research Council, Cancer Research UK, Food Standards Agency. CTSU receives its core funding from the British Heart Foundation, UK Medical Research Council and Cancer Research UK; support for this project was also provided by a grant from the UK Food Standards Agency (N05072). Sources of funding for individual trials are described in their separate publications. The funders of the individual trials had no role in study design, data collection, data analysis, data interpretation, or writing or submission of the report.",
+  "funderRole": "none",
+  "authorConflicts": "CTSU has a policy of not accepting fees, honoraria or paid consultancies from any industry; no other conflicts listed.",
+  "dataAccess": "individual",
+  "result": "Folic acid quadrupled median plasma folate (57.3 against 13.5 nmol/L). First cancers 1904 of 24,799 (7.7%) on folic acid against 1809 of 24,822 (7.3%) on control: RR 1.06 (95% CI 0.99 to 1.13), P = 0.10; adenoma trials 96 against 72 cancers (RR 1.33, 0.98 to 1.80), vascular trials RR 1.04 (0.98 to 1.11). Colorectal RR 1.07 (99% CI 0.83 to 1.37), lung 1.08 (0.86 to 1.35), breast 0.89 (0.66 to 1.20), prostate 1.15 (0.94 to 1.41). The authors state that they do not address effects emerging years or decades after the trials ended.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3836669/"
+}

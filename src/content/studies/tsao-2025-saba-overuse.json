@@ -1,0 +1,17 @@
+{
+  "title": "Adverse Outcomes Associated With Short-Acting Beta-Agonist Overuse in Asthma: A Systematic Review and Meta-Analysis",
+  "authors": "Tsao CL, Chan SY, Lee MH, Hsieh TYJ, Phipatanakul W, Ruran HB, et al.",
+  "journal": "Allergy",
+  "year": 2025,
+  "doi": "10.1111/all.16538",
+  "pmid": "40491263",
+  "design": "meta-analysis",
+  "population": "27 studies (2 RCTs, 1 prospective cohort, 12 retrospective cohorts, 12 cross-sectional studies) of people with asthma using 3 or more short-acting beta2-agonist canisters a year against fewer, published 1981 to November 2023",
+  "funder": "The authors received no specific funding for this work.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "All-cause mortality was pooled from three studies: 2743 deaths among 130,629 people with overuse against 3534 among 300,451 controls, RR 2.04 (95% CI 1.37 to 3.04), I² 98.3%. The three were Nwaru 2020 (Sweden, SABINA, 1199 of 110,824 against 1365 of 254,500), To 2022 (Ontario, aged 65 years and over, 1255 of 8465 against 1942 of 17,736) and Molina 2023 (Spain, SABINA, 289 of 11,340 against 227 of 28,215). Acute exacerbations: 60,320 of 165,271 against 84,439 of 376,845, RR 1.93 (1.24 to 3.03). The authors list residual and unmeasured confounding by asthma control, environment and adherence, and variation in definitions and eras, as limitations, and state that randomised trials of overuse are impractical.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12186600/"
+}

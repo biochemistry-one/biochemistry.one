@@ -1,0 +1,20 @@
+{
+  "title": "Food additive mixtures and type 2 diabetes incidence: Results from the NutriNet-Santé prospective cohort",
+  "authors": "Payen de la Garanderie M, Hasenbohler A, Dechamp N, Javaux G, Szabo de Edelenyi F, Agaësse C, et al.",
+  "journal": "PLoS Medicine",
+  "year": 2025,
+  "doi": "10.1371/journal.pmed.1004570",
+  "pmid": "40198579",
+  "registry": "NCT03335644",
+  "design": "cohort",
+  "participants": 108643,
+  "followUp": "mean 7.7 years (SD 4.6)",
+  "population": "French adults of the NutriNet-Santé cohort, 2009 to 2023; 79.2% women; mean age 42.5 years (SD 14.6)",
+  "funder": "NutriNet-Santé public institutions: Ministère de la Santé, Santé Publique France, INSERM, INRAE, Conservatoire National des Arts et Métiers and University Sorbonne Paris Nord; European Research Council (grant agreement 864219, ADDITIVES); French National Cancer Institute (INCa_14059); French Ministry of Health (arrêté 29.11.19); IdEx Université de Paris (ANR-18-IDEX-0001); Bettencourt-Schueller Foundation Research Prize 2021; the laboratory of one author is supported by a European Research Council Starting Grant (ERC-2018-StG-804135 INVADERS) and the INSERM programme Microbiote. Researchers were independent from funders. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "The authors have declared that no competing interests exist.",
+  "dataAccess": "individual",
+  "result": "1,131 participants were diagnosed with type 2 diabetes. Nonnegative matrix factorisation identified five additive mixtures. Mixture 2, characterised by modified starches, pectin, guar gum, carrageenan, polyphosphates, potassium sorbates, curcumin and xanthan gum (E415 loading 0.16), was associated with type 2 diabetes incidence: hazard ratio 1.08 (95% CI 1.02 to 1.15) per increment of one standard deviation of the mixture score (SD 8.0), p = 0.006. Mixture 5, dominated by additives of sweetened drinks, gave a hazard ratio of 1.13 (1.08 to 1.18), p < 0.001. Mixtures 1, 3 and 4 showed no association. Associations persisted after adjustment for each emblematic additive in turn, so no single additive drove them, and did not differ by overall diet quality. Of 28 two-by-two interactions among the eight additives of mixture 2, three suggested synergism and four antagonism at p < 0.1. Absolute risks are not reported, but S1 Appendix Table H gives cases by tertile of the mixture 2 score (column labelled participants / incident cases; the values, summing to 1,131, are cases / participants): 260 / 36,215, 406 / 36,214 and 465 / 36,214, hazard ratios 1.28 (1.09 to 1.49) and 1.26 (1.08 to 1.48) against the lowest tertile, p-trend 0.007. With the mixture 2 score residualised on modified-starch intake (Table J), the hazard ratio was 1.06 (1.00 to 1.12). The authors state that residual confounding and exposure or outcome misclassification cannot be excluded and that causality cannot be established from this single observational study.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11977966/"
+}

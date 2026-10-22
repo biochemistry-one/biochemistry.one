@@ -1,0 +1,50 @@
+---
+import { localePath, type Lang } from "../i18n/languages";
+import { uiFor } from "../i18n/strings";
+import type { Page } from "../lib/content";
+
+interface Props {
+  lang: Lang;
+  pages: Page[];
+}
+
+const { lang, pages } = Astro.props;
+const ui = uiFor(lang);
+
+const JOURNEYS = [
+  { key: "coffee", links: ["foods/coffee", "metabolism/drug-metabolism"], icon: `<path d="M18 30h34v18a15 15 0 0 1-15 15h-4a15 15 0 0 1-15-15z" fill="#ffffff" stroke="#24485a" stroke-width="2.5"/><path d="M52 34h4a7 7 0 0 1 0 14h-4" fill="none" stroke="#24485a" stroke-width="2.5"/><path d="M22 34h26v10a11 11 0 0 1-11 11h-4a11 11 0 0 1-11-11z" fill="#9a6a44"/><path d="M28 12c-3 4 3 7 0 11M36 10c-3 4 3 7 0 11M44 12c-3 4 3 7 0 11" fill="none" stroke="#5fb4d6" stroke-width="2.5" stroke-linecap="round"/>` },
+  { key: "bread", links: ["foods/grains", "metabolism/glucose", "metabolism/energy"], icon: `<path d="M14 30c0-10 10-16 24-16s24 6 24 16c0 4-3 6-5 7v25H19V37c-2-1-5-3-5-7z" fill="#fde2c3" stroke="#24485a" stroke-width="2.5" stroke-linejoin="round"/><path d="M24 40h28v18H24z" fill="#f6cf9e"/><circle cx="31" cy="46" r="1.8" fill="#24485a"/><circle cx="41" cy="51" r="1.8" fill="#24485a"/><circle cx="46" cy="44" r="1.8" fill="#24485a"/>` },
+  { key: "statin", links: ["medicines/statins", "metabolism/cholesterol"], icon: `<g transform="rotate(-35 38 38)"><rect x="14" y="27" width="48" height="22" rx="11" fill="#ffffff" stroke="#24485a" stroke-width="2.5"/><path d="M38 27h13a11 11 0 0 1 0 22H38z" fill="#7fd6dc" stroke="#24485a" stroke-width="2.5"/></g>` },
+  { key: "wine", links: ["foods/alcohol", "metabolism/genes"], icon: `<path d="M24 10h28l-2 18a12 12 0 0 1-24 0z" fill="#ffffff" stroke="#24485a" stroke-width="2.5"/><path d="M26.2 22h23.6l-.8 6a11 11 0 0 1-22 0z" fill="#c4577a"/><path d="M38 40v20M28 62h20" fill="none" stroke="#24485a" stroke-width="2.5" stroke-linecap="round"/>` },
+  { key: "egg", links: ["foods/eggs", "metabolism/cholesterol"], icon: `<path d="M38 10c12 0 22 18 22 32a22 22 0 0 1-44 0c0-14 10-32 22-32z" fill="#ffffff" stroke="#24485a" stroke-width="2.5"/><circle cx="38" cy="44" r="9" fill="#ffc94d"/>` },
+  { key: "drink", links: ["additives/sweeteners", "foods/sugar-and-fructose"], icon: `<rect x="16" y="30" width="22" height="22" rx="4" fill="#ffffff" stroke="#24485a" stroke-width="2.5"/><rect x="38" y="38" width="22" height="22" rx="4" fill="#ffffff" stroke="#24485a" stroke-width="2.5"/><rect x="28" y="12" width="20" height="20" rx="4" fill="#bfe6f7" stroke="#24485a" stroke-width="2.5" transform="rotate(12 38 22)"/>` },
+] as const;
+
+const titleOf = (path: string) => pages.find((page) => page.id === `${lang}/${path}`)?.data.title;
+---
+<section class="journeys" id="start">
+  <div class="section-head">
+    <h2>{ui.journeysTitle}</h2>
+    <p>{ui.journeysLede}</p>
+  </div>
+  <div class="journey-grid">
+    {JOURNEYS.map(({ key, links, icon }) => {
+      const [title, text] = ui.journeys[key];
+      const available = links.filter((path) => titleOf(path));
+      return (
+        <article class="journey">
+          <svg viewBox="0 0 76 76" aria-hidden="true" set:html={icon} />
+          <div>
+            <h3>{title}</h3>
+            <p>{text}</p>
+            {available.length > 0 && (
+              <ul class="journey-links">
+                {available.map((path) => <li><a href={localePath(lang, path)}>{titleOf(path)}</a></li>)}
+              </ul>
+            )}
+          </div>
+        </article>
+      );
+    })}
+  </div>
+</section>

@@ -1,0 +1,16 @@
+{
+  "title": "Nonsyndromic Genetic Hyperinsulinism Overview",
+  "authors": "Gillis D",
+  "journal": "GeneReviews, University of Washington, Seattle",
+  "year": 2024,
+  "pmid": "20301549",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK1375/",
+  "design": "database",
+  "funder": "not stated in the chapter",
+  "funderRole": "unknown",
+  "authorConflicts": "not stated in the chapter",
+  "dataAccess": "summary",
+  "result": "Expert-authored, peer-reviewed overview, first posted 2003, comprehensive update 31 October 2024. GLUD1 hyperinsulinism is autosomal dominant and accounts for 42% of diazoxide-responsive hyperinsulinism with a molecular diagnosis; plasma ammonia is 1.5 to 4 times the upper limit of normal and unrelated to glucose or fasting; leucine sensitivity may occur; most patients respond to diazoxide. Diazoxide binds the ABCC8 subunit of the KATP channel, increases its probability of being open and inhibits insulin release.",
+  "class": "reference",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/ca/84/gene_NBK1116.tar.gz"
+}

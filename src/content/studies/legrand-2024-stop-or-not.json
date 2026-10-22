@@ -1,0 +1,20 @@
+{
+  "title": "Continuation vs Discontinuation of Renin-Angiotensin System Inhibitors Before Major Noncardiac Surgery: The Stop-or-Not Randomized Clinical Trial",
+  "authors": "Legrand M, Falcone J, Cholley B, Charbonneau H, Delaporte A, Lemoine A, et al.; Stop-or-Not Trial Group",
+  "journal": "JAMA",
+  "year": 2024,
+  "doi": "10.1001/jama.2024.17123",
+  "pmid": "39212270",
+  "registry": "NCT03374449",
+  "design": "rct",
+  "participants": 2222,
+  "followUp": "28 days after surgery",
+  "population": "Patients treated with an ACE inhibitor (46%) or angiotensin receptor blocker (54%) for at least 3 months and scheduled for major noncardiac surgery at 40 hospitals in France, 2018 to 2023; mean age 67 years, 65% men",
+  "funder": "This study was supported by a grant from the French Ministry of Health (Programme Hospitalier de Recherche Clinique National). The French Ministry of Health had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Several authors report personal fees from device and drug companies, among them Viatris, Alexion, La Jolla, Edwards Lifesciences, Becton Dickinson, Vifor Pharma, Pfizer, Medtronic, Baxter, Abbott and General Electric.",
+  "dataAccess": "individual",
+  "result": "Continuation until the day of surgery (n=1107) against discontinuation 48 hours before surgery (n=1115). Death from any cause or major postoperative complications within 28 days: 247 of 1107 (22%) with continuation against 245 of 1115 (22%) with discontinuation (risk ratio 1.02, 95% CI 0.87 to 1.19). Intraoperative hypotension occurred in 54% with continuation against 41% with discontinuation (risk ratio 1.31, 1.19 to 1.44). Acute kidney injury, organ failure and length of stay did not differ.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11365013/"
+}

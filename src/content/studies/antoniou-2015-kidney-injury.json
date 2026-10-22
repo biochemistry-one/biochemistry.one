@@ -1,0 +1,19 @@
+{
+  "title": "Proton pump inhibitors and the risk of acute kidney injury in older patients: a population-based cohort study",
+  "authors": "Antoniou T, Macdonald EM, Hollands S, Gomes T, Mamdani MM, Garg AX, et al.",
+  "journal": "CMAJ Open",
+  "year": 2015,
+  "doi": "10.9778/cmajo.20140074",
+  "pmid": "26389094",
+  "design": "cohort",
+  "participants": 581184,
+  "followUp": "120 days after starting therapy",
+  "population": "Ontario residents aged 66 years or older starting a PPI between April 2002 and November 2011 (n = 290,592) and propensity-score-matched controls (n = 290,592)",
+  "funder": "Tony Antoniou is supported by a Canadian Institutes of Health Research/Ontario HIV Treatment Network New Investigator Award. This project was supported by research funds from Drug Safety and Effectiveness Research Network and by the Institute for Clinical Evaluative Sciences, which is funded by a grant from the Ontario Ministry of Health and Long-Term Care. The sponsors had no role in the design and conduct of the study; in the collection, analysis, and interpretation of the data; or in the preparation, review, or approval of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "Mamdani has been on advisory boards or received honoraria from AstraZeneca, Bristol-Myers Squibb, Eli Lilly, GlaxoSmithKline, Hoffmann-La Roche, Novartis, Novo Nordisk and Pfizer; Garg's institution received an unrestricted educational grant from Pfizer.",
+  "dataAccess": "individual",
+  "result": "Hospital admission with acute kidney injury within 120 days: 13.49 against 5.46 per 1000 person-years (HR 2.52, 95% CI 2.27 to 2.79); acute interstitial nephritis 0.32 against 0.11 per 1000 person-years (HR 3.00, 1.47 to 6.14).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4571830/fullTextXML"
+}

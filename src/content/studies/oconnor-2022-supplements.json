@@ -1,0 +1,17 @@
+{
+  "title": "Vitamin, Mineral, and Multivitamin Supplementation for the Primary Prevention of Cardiovascular Disease and Cancer: A Systematic Evidence Review for the U.S. Preventive Services Task Force",
+  "authors": "O'Connor EA, Evans CV, Ivlev I, Rushkin MC, Thomas RG, Martin A, et al.",
+  "journal": "Agency for Healthcare Research and Quality, Evidence Synthesis No. 209",
+  "year": 2022,
+  "pmid": "35767665",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK581642/",
+  "design": "systematic-review",
+  "participants": 739803,
+  "population": "84 studies: randomised trials of vitamin or mineral supplements in adults without cardiovascular disease or cancer and with no known vitamin or mineral deficiency, and cohort studies of serious harms",
+  "funder": "Prepared by the Kaiser Permanente Research Affiliates Evidence-based Practice Center under contract to the Agency for Healthcare Research and Quality (Contract No. HHSA-290-2015-00007-I, Task Order No. 75Q80118F32006). USPSTF liaisons were consulted on the analytic framework and key questions, and an AHRQ Medical Officer provided project oversight and reviewed the drafts; the USPSTF and AHRQ had no role in study selection, quality assessment or writing.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Vitamin and mineral supplementation provided little to no benefit in preventing cancer, cardiovascular disease and death, except a possible small benefit of multivitamins for any cancer (OR 0.93, 95% CI 0.87 to 0.99; 4 RCTs, n=48,859; absolute risk difference among adequately powered trials -0.2% to -1.2%); the multivitamin evidence rested on only three adequately powered trials, one with a median of 3.6 years of use and another limited to antioxidants. Two vitamin C trials (n=15,031) of 500 mg/day for 3 to 8 years suggested no benefit for mortality, cardiovascular disease or cancer. The report's suggested citation gives 2022; PubMed lists June 2021.",
+  "class": "independent",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/c4/9a/es209_NBK581642.tar.gz"
+}

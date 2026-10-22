@@ -1,0 +1,19 @@
+{
+  "title": "Regular short-acting β2-agonist use over two weeks does not increase diurnal variation or induce tolerance during home PEF monitoring",
+  "authors": "Csonka LL, Vähätalo I, Ilmarinen P, Tuomisto LE, Kankaanranta H, Lehtimäki L",
+  "journal": "Heart & Lung",
+  "year": 2026,
+  "doi": "10.1016/j.hrtlng.2026.102789",
+  "pmid": "41985294",
+  "design": "cohort",
+  "participants": 108,
+  "followUp": "2 weeks of home peak expiratory flow monitoring",
+  "population": "Steroid-naive Finnish patients completing two-week home PEF monitoring with bronchodilator response tests twice daily, salbutamol 200 µg or terbutaline 500 µg used in the second week only or in both weeks; retrospective",
+  "funder": "not read: the full text requires a subscription and is absent from PubMed Central. The Europe PMC grant list names Finnish foundations (Tampereen Tuberkuloosisäätiö, Filha, Väinö and Laina Kivi Foundation, Suomen Tuberkuloosin Vastustamisyhdistyksen Säätiö).",
+  "funderRole": "unknown",
+  "authorConflicts": "One author is employed by GSK as medical advisor; two report personal fees from AstraZeneca, GSK, Boehringer Ingelheim, Chiesi, Orion, Sanofi and others outside the submitted work.",
+  "dataAccess": "unknown",
+  "result": "Mean PEF, relative and absolute diurnal variation, the number of days with significant diurnal variation, and the bronchodilator response did not differ between the week without and the week with twice-daily SABA use, in either protocol. The authors state that adverse effects of longer use cannot be ruled out.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41985294%20AND%20SRC:MED&resultType=core&format=json"
+}

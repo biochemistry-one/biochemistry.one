@@ -1,0 +1,15 @@
+{
+  "title": "β2 Agonists",
+  "authors": "Billington CK, Penn RB, Hall IP",
+  "journal": "Handbook of Experimental Pharmacology",
+  "year": 2017,
+  "doi": "10.1007/164_2016_64",
+  "pmid": "27878470",
+  "design": "textbook",
+  "funder": "The authors are funded by grants HL58506 and A110007 (RBP) and MRC grant G1000861 (IPH).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Beta2 adrenoceptors are expressed on airway smooth muscle and also on airway epithelial cells, submucosal glands, vascular endothelium, vascular smooth muscle, mast cells, macrophages and eosinophils; the main adverse effects of the class, among them anxiety, tachycardia, tremor and sweating, are ascribed to cross-activation of beta1 adrenoceptors, and the accumulated evidence does not indicate anti-inflammatory effects of current therapeutic beta2 agonists. Loss of the bronchoprotective effect with chronic use has been observed in patients, consistent with receptor desensitisation in cell, tissue and mouse models. Salbutamol, the first β2-selective agonist, was synthesised in 1968 at Glaxo. Inhaled doses are 100-200 µg as required up to four times per day, with onset under 5 min, duration of effect 3-6 h and β2/β1 selectivity 27, against 63 for terbutaline, 150 for formoterol and 3000 for salmeterol. The β2 adrenoceptor was the first G-protein-coupled receptor to be cloned, has seven transmembrane domains and couples to Gs; adenylyl cyclase then catalyses formation of cAMP from ATP and cAMP activates protein kinase A, whose substrates in airway smooth muscle include myosin light chain kinase, KCa channels, heat shock protein 20, Gq-coupled receptors, Gq, phospholipase C and IP3 receptors. G-protein-coupled receptor kinases phosphorylate the receptor and promote β-arrestin binding, which uncouples it from Gs and diminishes cAMP production. Of the four coding variants of ADRB2, Arg16Gly and Gln27Glu are common, with allele frequencies between 0.3 and 0.7 and in linkage disequilibrium; Thr164Ile has an allele frequency of about 2% and alters catechol ligand binding and receptor trafficking in transfected cells; Val34Met is very rare and appears not to alter receptor function. Several studies found that frequent or regular administration of short-acting agonists impairs asthma control in Arg16Arg homozygotes, while most larger retrospective and prospective studies did not confirm these results and large genome-wide association studies of asthma identified no signal at the ADRB2 locus. Short-acting agonists are recommended on an as-required rather than a regular basis, and escalation of use should prompt review of management; widespread use of genetic profiles to dictate treatment with this drug class does not seem warranted.",
+  "class": "reference",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480238/"
+}

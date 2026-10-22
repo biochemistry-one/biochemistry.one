@@ -1,0 +1,19 @@
+{
+  "title": "Antidepressant use and risk of adverse outcomes in older people: population based cohort study",
+  "authors": "Coupland C, Dhiman P, Morriss R, Arthur A, Barton G, Hippisley-Cox J",
+  "journal": "BMJ",
+  "year": 2011,
+  "doi": "10.1136/bmj.d4551",
+  "pmid": "21810886",
+  "design": "cohort",
+  "participants": 60746,
+  "followUp": "new depression diagnoses from 1996 to 2007, followed to 31 December 2008; absolute risks estimated at 1 year",
+  "population": "Patients aged 65 to 100 years with a new diagnosis of depression in 570 UK general practices contributing to the QResearch database",
+  "funder": "This project was funded by the NIHR Health Technology Assessment Programme (project number 06/42/01).",
+  "funderRole": "unknown",
+  "authorConflicts": "JH-C is director of QResearch, a not-for-profit venture between the University of Nottingham and EMIS, and director of ClinRisk Ltd; RM received support for speaking at pharmaceutical-sponsored meetings about non-drug treatment of depression and bipolar disorder.",
+  "dataAccess": "individual",
+  "result": "Adjusted hazard ratios for SSRIs against no antidepressant use: falls 1.66 (95% CI 1.58 to 1.73; 3575 events), fracture 1.58 (1.48 to 1.68), all-cause mortality 1.54 (1.48 to 1.59), attempted suicide or self-harm 2.16 (1.71 to 2.71), stroke or TIA 1.17 (1.10 to 1.26), epilepsy or seizures 1.83 (1.49 to 2.26). Adjusted absolute risks over 1 year without antidepressants against sertraline: falls 3.46% against 5.57%, fracture 1.76% against 2.80%, all-cause mortality 7.04% against 10.20%, seizures 0.21% against 0.55%, stroke or TIA 2.23% against 2.70%, adverse drug reactions 0.26% against 0.42%. For most outcomes, risks were highest in the first 28 days of use and the first 28 days after stopping; the authors suggest that the rise after stopping may reflect illness or admission to hospital or a residential home that prompted stopping. Observational design susceptible to confounding by indication, channelling bias and residual confounding.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3149102"
+}

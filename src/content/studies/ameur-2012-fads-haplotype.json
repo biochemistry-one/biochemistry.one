@@ -1,0 +1,17 @@
+{
+  "title": "Genetic adaptation of fatty-acid metabolism: a human-specific haplotype increasing the biosynthesis of long-chain omega-3 and omega-6 fatty acids",
+  "authors": "Ameur A, Enroth S, Johansson A, Zaboli G, Igl W, Johansson AC, et al.",
+  "journal": "American Journal of Human Genetics",
+  "year": 2012,
+  "doi": "10.1016/j.ajhg.2012.03.014",
+  "pmid": "22503634",
+  "design": "genetic",
+  "participants": 5652,
+  "population": "Five European population cohorts (genome-wide genotyping of 5,652 and targeted resequencing of 960 individuals); Human Genome Diversity Panel, HapMap and 1000 Genomes populations; archaic hominin and primate genomes",
+  "funder": "The study was supported by grants from the Swedish Research Council. Sequencing and genotyping were performed by the Uppsala Genome Center, funded by the Knut and Alice Wallenberg foundation, the Swedish Research Council and Science for Life Laboratory Uppsala.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "Two common FADS haplotypes, A and D, defined by 28 SNPs across 38.9 kb. Haplotype D homozygotes had 43% higher arachidonic acid and 24% higher docosahexaenoic acid than haplotype A homozygotes, and higher hepatic FADS1 expression. Haplotype A frequency: 1% of chromosomes in African HGDP populations, 25% to 50% in Europe, West, South and East Asia and Oceania, 97% in 126 Native Americans. Haplotype D appeared on the lineage leading to modern humans and shows evidence of positive selection.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3376635/"
+}

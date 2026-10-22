@@ -1,0 +1,20 @@
+{
+  "title": "Effect of food additives on hyperphosphatemia among patients with end-stage renal disease: a randomized controlled trial",
+  "authors": "Sullivan C, Sayre SS, Leon JB, Machekano R, Love TE, Porter D, et al.",
+  "journal": "JAMA",
+  "year": 2009,
+  "doi": "10.1001/jama.2009.96",
+  "pmid": "19211470",
+  "registry": "NCT00583570",
+  "design": "rct",
+  "participants": 279,
+  "followUp": "3 months",
+  "population": "Adults receiving long-term haemodialysis for at least 6 months at 14 facilities in Cleveland, Ohio, with a most recent and a 3-month mean serum phosphorus above 5.5 mg/dL; recruited May to October 2007",
+  "funder": "This work was supported by grant DK51472 from the National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, Maryland, and by the Leonard C. Rosenberg Renal Research Foundation, Cleveland, Ohio. The funding organizations had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; or preparation, review, or approval of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "Financial disclosures: none reported.",
+  "dataAccess": "individual",
+  "result": "Cluster randomisation by dialysis shift (or by facility for 2 single-shift facilities). Intervention participants (n = 145) received about 30 minutes of education on avoiding phosphorus-containing additives, with a magnifier case listing them (among them pyrophosphate and sodium acid pyrophosphate) and fast-food handouts; control participants (n = 134) continued usual care. Baseline mean serum phosphorus was 7.2 and 7.1 mg/dL. After 3 months serum phosphorus fell by 1.0 mg/dL in the intervention group (P < .001) and 0.4 mg/dL in the control group (P = .02); the difference was 0.6 mg/dL larger with the intervention (95% CI -1.0 to -0.1 mg/dL). Missing data from 28 participants were multiply imputed. No adverse events were associated with the intervention; dietary intake and adherence were not measured.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20111118052439/http://jama.ama-assn.org/content/301/6/629.full"
+}

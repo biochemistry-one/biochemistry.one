@@ -1,0 +1,14 @@
+{
+  "title": "Ascorbic acid, 21 CFR 182.3013 and 182.8013: substances generally recognized as safe",
+  "authors": "US Food and Drug Administration",
+  "journal": "Code of Federal Regulations, title 21, part 182, subpart D (Chemical Preservatives) and subpart I (Nutrients), read in the electronic Code of Federal Regulations, up to date as of 20 October 2026",
+  "year": 2026,
+  "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-182",
+  "design": "regulatory",
+  "funder": "US Food and Drug Administration; the text is federal regulation codified by the Office of the Federal Register.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Sections 182.3013 (chemical preservatives) and 182.8013 (nutrients) each list ascorbic acid and state: 'This substance is generally recognized as safe when used in accordance with good manufacturing practice.'",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-20/title-21.xml?part=182&section=182.3013"
+}

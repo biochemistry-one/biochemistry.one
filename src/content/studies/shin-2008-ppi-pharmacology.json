@@ -1,0 +1,16 @@
+{
+  "title": "Pharmacology of proton pump inhibitors",
+  "authors": "Shin JM, Sachs G",
+  "journal": "Current Gastroenterology Reports",
+  "year": 2008,
+  "doi": "10.1007/s11894-008-0098-4",
+  "pmid": "19006606",
+  "design": "other",
+  "funder": "This work was supported by a US Veterans Administration Merit Grant and grants DK053642 and DK58333 from the National Institute of Diabetes and Digestive and Kidney Diseases.",
+  "funderRole": "none",
+  "authorConflicts": "No potential conflicts of interest relevant to this article were reported.",
+  "dataAccess": "summary",
+  "result": "Narrative review. PPIs are acid-activated prodrugs: a pyridine with pKa about 4 (3.8 to 4.9) concentrates them about 1000-fold in the secretory canaliculus at pH about 1; a second protonation (benzimidazole pKa about 1) yields a sulfenic acid or tetracyclic sulfenamide that forms disulfides with luminal cysteines: Cys813 and Cys892 for omeprazole, Cys813 and Cys321 for lansoprazole, Cys813 and Cys822 for pantoprazole; pantoprazole binding resists glutathione reduction. The pump exchanges 2 H+ and 2 K+ per ATP at pH 6.1 and 1 of each below luminal pH 3.0. Plasma half-life about 1 hour; acid inhibition lasts about 48 hours; steady state after 2 to 3 days; once-daily dosing 30 to 60 minutes before breakfast inhibits about 66% of maximal acid output, twice-daily about 80%. Pump half-life about 54 hours in rats; half-time of recovery of acid secretion in humans about 24 hours after omeprazole and 46 hours after pantoprazole. Bioavailability 77% for pantoprazole, 80% to 90% for lansoprazole, 89% for esomeprazole; hepatic metabolism mainly by CYP2C19 and CYP3A4; hepatic impairment raises AUC sevenfold. CYP2C19 poor metabolisers are 3% of Caucasians and 15% to 20% of Asians; their AUC is about 7.5-fold that of homozygous extensive metabolisers for omeprazole and 4.5-fold for lansoprazole, with median intragastric pH about 6 against 3 to 4. Oesophagitis heals well when intragastric pH exceeds 4 for 16 hours a day, peptic ulcer when it exceeds 3 for 16 hours. Esomeprazole is the S-enantiomer of omeprazole.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855237/"
+}

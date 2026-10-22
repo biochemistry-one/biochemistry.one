@@ -1,0 +1,19 @@
+{
+  "title": "Confounding in the association of proton pump inhibitor use with risk of community-acquired pneumonia",
+  "authors": "Jena AB, Sun E, Goldman DP",
+  "journal": "Journal of General Internal Medicine",
+  "year": 2013,
+  "doi": "10.1007/s11606-012-2211-5",
+  "pmid": "22956446",
+  "design": "cohort",
+  "participants": 54490,
+  "followUp": "11 years of quarterly claims",
+  "population": "Members of six private US health plans: 26,436 who filled at least one PPI prescription and 28,054 who never did",
+  "funder": "National Institute on Aging. The design, conduct, analysis, interpretation, and presentation of the data are the responsibility of the investigators, with no involvement from the funding sources.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare that they do not have a conflict of interest.",
+  "dataAccess": "individual",
+  "result": "Falsification analysis. Among PPI users, quarters with a filled PPI prescription had higher adjusted rates than quarters without of community-acquired pneumonia (111 against 68 per 10,000), chest pain (597 against 336) and urinary tract infection (186 against 151), all p<0.001; PPI users also had higher rates than non-users in quarters without a prescription (pneumonia 68 against 61 per 10,000). Associations with conditions without a known pathophysiological link indicate that the association with pneumonia may be confounded.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614140/"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Dietary Reference Values for choline",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA)",
+  "journal": "EFSA Journal",
+  "year": 2016,
+  "doi": "10.2903/j.efsa.2016.4484",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission (question number EFSA-Q-2011-01208).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "For all adults the Panel set an Adequate Intake of 400 mg choline per day, with 480 mg in pregnancy and 520 mg in lactation; Average Requirements could not be derived. Dietary phosphatidylcholine, glycerophosphocholine and sphingomyelin are hydrolysed by phospholipases to liberate choline. Choline is an integral part of some phospholipids, a precursor of the neurotransmitter acetylcholine and of betaine, to which it is irreversibly oxidised in liver and kidney; betaine is the methyl-group donor in the betaine-homocysteine methyltransferase (BHMT) reaction, which converts homocysteine to methionine. Dietary choline deficiency can cause fatty liver and liver and muscle damage. Total choline content is highest in eggs.",
+  "class": "regulatory",
+  "fundingChecked": "https://web.archive.org/web/20221212222141/https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2016.4484"
+}

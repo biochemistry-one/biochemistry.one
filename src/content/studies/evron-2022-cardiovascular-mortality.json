@@ -1,0 +1,19 @@
+{
+  "title": "Association of thyroid hormone treatment intensity with cardiovascular mortality among US veterans",
+  "authors": "Evron JM, Hummel SL, Reyes-Gastelum D, Haymart MR, Banerjee M, Papaleontiou M",
+  "journal": "JAMA Network Open",
+  "year": 2022,
+  "doi": "10.1001/jamanetworkopen.2022.11863",
+  "pmid": "35552725",
+  "design": "cohort",
+  "participants": 705307,
+  "followUp": "median 4 years (IQR 2 to 9)",
+  "population": "Adults treated with thyroid hormone in the Veterans Health Administration, 2004 to 2017; 88.7% men, median age 67 years; TSH and free T4 analysed as time-varying covariates",
+  "funder": "This work was supported by the National Institute on Aging of the National Institutes of Health under award K08 AG049684 and by a pilot grant cofunded by the Claude D. Pepper Older Americans Independence Center, the Michigan Institute for Clinical and Health Research, and the Michigan Biology of Cardiovascular Aging (Dr Papaleontiou).",
+  "funderRole": "none",
+  "authorConflicts": "Dr Hummel reported serving as a clinical trial site principal investigator for Pfizer, Corvia Medical and Axon Therapeutics and as a site coinvestigator for Novartis; no other disclosures.",
+  "dataAccess": "individual",
+  "result": "75,963 patients (10.8%) died of cardiovascular causes. Against euthyroidism (TSH 0.5 to 5.5 mIU/l, free T4 0.7 to 1.9 ng/dl), adjusted hazard ratios for cardiovascular mortality were 1.39 (95% CI 1.32 to 1.47) for TSH below 0.1 mIU/l and 1.29 (1.20 to 1.40) for free T4 above 1.9 ng/dl, and 2.67 (2.55 to 2.80) for TSH above 20 mIU/l and 1.56 (1.50 to 1.63) for free T4 below 0.7 ng/dl.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9099430/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Comparative benefits and harms of second generation antidepressants and cognitive behavioral therapies in initial treatment of major depressive disorder: systematic review and meta-analysis",
+  "authors": "Amick HR, Gartlehner G, Gaynes BN, Forneris C, Asher GN, Morgan LC, et al.",
+  "journal": "BMJ",
+  "year": 2015,
+  "doi": "10.1136/bmj.h6019",
+  "pmid": "26645251",
+  "design": "meta-analysis",
+  "population": "11 randomised trials in adults with major depressive disorder comparing a second-generation antidepressant (including sertraline) with cognitive behavioural therapy or with the combination, searched January 1990 to January 2015",
+  "funder": "This project was funded under contract 290-2012-00008i from the Agency for Healthcare Research and Quality by the RTI-UNC Evidence-based Practice Center.",
+  "funderRole": "unknown",
+  "authorConflicts": "No support from any organisation other than the funding agency and no relevant financial relationships declared.",
+  "dataAccess": "summary",
+  "result": "Antidepressants against CBT: response RR 0.91 (95% CI 0.77 to 1.07), remission 0.98 (0.73 to 1.32), Hamilton score difference -0.38 (-2.87 to 2.10); withdrawal for adverse events RR 3.29 (0.42 to 25.72) with antidepressants. Strength of evidence low for most outcomes; small numbers may preclude detection of small differences.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4673103"
+}

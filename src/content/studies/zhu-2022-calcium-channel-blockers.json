@@ -1,0 +1,18 @@
+{
+  "title": "Calcium channel blockers versus other classes of drugs for hypertension",
+  "authors": "Zhu J, Chen N, Zhou M, Guo J, Zhu C, Zhou J, et al.",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2022,
+  "doi": "10.1002/14651858.CD003654.pub6",
+  "pmid": "35000192",
+  "design": "meta-analysis",
+  "participants": 153849,
+  "followUp": "2 to 5.3 years across the included trials",
+  "population": "Participants of 23 randomised trials, 18 of dihydropyridines, 4 of non-dihydropyridines and 1 unspecified, comparing a first-line calcium channel blocker with another first-line antihypertensive class in adults with a blood pressure of at least 140/90 mm Hg, or above 135/85 mm Hg with diabetes, in Europe, North America, Oceania, Israel and Japan",
+  "funder": "Internal sources: West China Hospital, Sichuan University, China; the project was supported by the National Key R&D program of China (2018YFC1311400 and 2018YFC1311401). External sources: none. All eight authors declare no competing interests.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "All-cause mortality did not differ between first-line calcium channel blockers and any other class. Against diuretics: major cardiovascular events risk ratio 1.05 (95% CI 1.00 to 1.09, P = 0.03) and congestive heart failure 1.37 (1.25 to 1.51), 62 per 1000 against 45 per 1000 over 3 to 5 years, one additional case per 107 treated (71 to 213), 34,072 participants in 5 trials, moderate certainty; all-cause mortality 0.98 (0.92 to 1.04) and stroke 0.94 (0.84 to 1.05). Against beta blockers: major cardiovascular events 0.84 (0.77 to 0.92), stroke 0.77 (0.67 to 0.88), 32 against 41 per 1000, one stroke avoided per 104 treated (69 to 210), 22,249 participants in 3 trials, moderate certainty, and cardiovascular mortality 0.90 (0.81 to 0.99), low certainty. Against ACE inhibitors: stroke 0.90 (0.81 to 0.99), 47 against 52 per 1000, and congestive heart failure 1.16 (1.06 to 1.28), 73 against 63 per 1000, both low certainty. Against angiotensin receptor blockers: myocardial infarction 0.82 (0.72 to 0.94), 29 against 36 per 1000, moderate certainty, and congestive heart failure 1.20 (1.06 to 1.36), 45 against 38 per 1000, low certainty. The authors state that many of the differences are not robust and that further trials might change the conclusions.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8742884/"
+}

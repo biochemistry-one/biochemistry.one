@@ -1,0 +1,16 @@
+{
+  "title": "Thyroid hormones treatment for subclinical hypothyroidism: a clinical practice guideline",
+  "authors": "Bekkering GE, Agoritsas T, Lytvyn L, Heen AF, Feller M, Moutzouri E, et al.",
+  "journal": "BMJ",
+  "year": 2019,
+  "doi": "10.1136/bmj.l2006",
+  "pmid": "31088853",
+  "design": "guideline",
+  "funder": "This guideline was not funded.",
+  "funderRole": "none",
+  "authorConflicts": "The BMJ Rapid Recommendations executive team and The BMJ judged that no panel member had any relevant financial conflict of interest. M Feller, M Snel, E Moutzouri and N Rodondi wrote the systematic review on which the guideline rests; JP Brito and N Singh Ospina wrote an editorial about the overuse of levothyroxine.",
+  "dataAccess": "summary",
+  "result": "BMJ Rapid Recommendation (MAGIC group, GRADE): strong recommendation against thyroid hormones for adults with subclinical hypothyroidism (raised TSH, normal free T4). Not applicable to women trying to become pregnant or to TSH above 20 mIU/l; may not apply to severe symptoms or adults aged 30 or under. Based on a systematic review of 21 trials with 2192 participants: no clinically relevant benefit for quality of life or thyroid-related symptoms (moderate to high quality evidence). Deaths at 2 years 14 against 27 per 1000 without and with thyroid hormones (95% CI 5 fewer to 62 more per 1000; low quality, one trial). The evidence addresses starting treatment and only indirectly informs stopping it.",
+  "class": "consensus",
+  "fundingChecked": "https://lirias.kuleuven.be/retrieve/43975d44-c5cd-4043-b066-65aca82bb4df"
+}

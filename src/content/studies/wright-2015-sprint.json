@@ -1,0 +1,20 @@
+{
+  "title": "A randomized trial of intensive versus standard blood-pressure control",
+  "authors": "SPRINT Research Group, Wright JT Jr, Williamson JD, Whelton PK, Snyder JK, Sink KM, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2015,
+  "doi": "10.1056/NEJMoa1511939",
+  "pmid": "26551272",
+  "registry": "NCT01206062",
+  "design": "rct",
+  "participants": 9361,
+  "followUp": "median 3.26 years; intervention stopped early for benefit",
+  "population": "Adults with systolic blood pressure of 130 mm Hg or higher and increased cardiovascular risk, without diabetes",
+  "funder": "NIH contracts and an inter-agency agreement (National Heart, Lung, and Blood Institute; National Institute of Diabetes and Digestive and Kidney Diseases; National Institute on Aging; National Institute of Neurological Disorders and Stroke); Clinical and Translational Science Awards at several sites; resources and facilities of the Department of Veterans Affairs. NIH scientists participated in the design and held one vote on the steering committee; the coordinating centre analysed the data.",
+  "funderRole": "design",
+  "inKindSupport": "Azilsartan and azilsartan combined with chlorthalidone were donated by Takeda Pharmaceuticals International and Arbor Pharmaceuticals; neither company had any other role in the study.",
+  "dataAccess": "individual",
+  "result": "Primary outcome in 243 of 4678 (5.2%; 1.65% per year) with a systolic target below 120 mm Hg versus 319 of 4683 (6.8%; 2.19% per year) with a target below 140 mm Hg (HR 0.75, 95% CI 0.64 to 0.89); number needed to treat 61 during the median 3.26 years. Serious adverse events possibly or definitely related to the intervention in 220 (4.7%) versus 118 (2.5%) (HR 1.88).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4689591/"
+}

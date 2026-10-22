@@ -1,0 +1,15 @@
+{
+  "title": "Re-evaluation of carrageenan (E 407) and processed Eucheuma seaweed (E 407a) as food additives",
+  "authors": "EFSA Panel on Food Additives and Nutrient Sources added to Food (ANS), Younes M, Aggett P, Aguilar F, Crebelli R, Filipič M, et al.",
+  "journal": "EFSA Journal",
+  "year": 2018,
+  "doi": "10.2903/j.efsa.2018.5238",
+  "pmid": "32625873",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Carrageenan, sulphated galactose and 3,6-anhydrogalactose polysaccharides, is not absorbed intact; 98 to 100% of high molecular weight carrageenan is excreted in faeces in several species. Poligeenan (weight-average 10 to 20 kDa) is not an authorised food additive. The existing group ADI of 75 mg/kg bw per day was made temporary, with the database to be improved within 5 years; brand-loyal 95th percentile exposure exceeded it by up to about 10-fold. Uncertainties included the low molecular weight fraction and the relevance for existing inflammatory bowel disease.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7009739/fullTextXML"
+}

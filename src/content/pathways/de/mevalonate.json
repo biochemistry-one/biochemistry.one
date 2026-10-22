@@ -1,0 +1,94 @@
+{
+  "title": "Mevalonatweg",
+  "layout": "chain",
+  "compartment": "Zytosol und endoplasmatisches Retikulum",
+  "steps": [
+    {
+      "from": "Acetyl-CoA",
+      "to": "Acetoacetyl-CoA",
+      "enzyme": "Acetyl-CoA-Acetyltransferase 2 (ACAT2)",
+      "reversible": true,
+      "note": "Kondensiert zwei Acetyl-CoA und setzt CoA frei"
+    },
+    {
+      "from": "Acetoacetyl-CoA",
+      "to": "HMG-CoA",
+      "enzyme": "HMG-CoA-Synthase 1 (HMGCS1)",
+      "cofactors": ["Acetyl-CoA", "H2O"],
+      "note": "Fügt eine dritte Acetyleinheit an und setzt CoA frei"
+    },
+    {
+      "from": "HMG-CoA",
+      "to": "Mevalonat",
+      "enzyme": "HMG-CoA-Reduktase (HMGCR)",
+      "cofactors": ["2 NADPH"],
+      "inhibitors": [{"name": "Statine", "page": "medicines/statins"}],
+      "note": "Geschwindigkeitsbestimmender Schritt; Enzym der ER-Membran; setzt CoA frei"
+    },
+    {
+      "from": "Mevalonat",
+      "to": "Mevalonat-5-phosphat",
+      "enzyme": "Mevalonatkinase (MVK)",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "Mevalonat-5-phosphat",
+      "to": "Mevalonat-5-diphosphat",
+      "enzyme": "Phosphomevalonatkinase (PMVK)",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "Mevalonat-5-diphosphat",
+      "to": "Isopentenyldiphosphat",
+      "enzyme": "Diphosphomevalonat-Decarboxylase (MVD)",
+      "cofactors": ["ATP"],
+      "note": "Setzt CO2 und Phosphat frei; Produkt ist die C5-Isoprenoideinheit"
+    },
+    {
+      "from": "Isopentenyldiphosphat",
+      "to": "Dimethylallyldiphosphat",
+      "enzyme": "Isopentenyldiphosphat-Isomerase 1 (IDI1)",
+      "reversible": true
+    },
+    {
+      "from": "Dimethylallyldiphosphat",
+      "to": "Geranyldiphosphat",
+      "enzyme": "Farnesyldiphosphat-Synthase (FDPS)",
+      "cofactors": ["Isopentenyldiphosphat"],
+      "note": "Fügt eine C5-Einheit an und setzt Diphosphat frei"
+    },
+    {
+      "from": "Geranyldiphosphat",
+      "to": "Farnesyldiphosphat",
+      "enzyme": "Farnesyldiphosphat-Synthase (FDPS)",
+      "cofactors": ["Isopentenyldiphosphat"],
+      "note": "Verzweigungspunkt zu Ubichinon, Dolichol, Häm A und prenylierten Proteinen"
+    },
+    {
+      "from": "Farnesyldiphosphat",
+      "to": "Squalen",
+      "enzyme": "Squalensynthase (FDFT1)",
+      "cofactors": ["NADPH"],
+      "note": "Verknüpft zwei Farnesyldiphosphate über Präsqualendiphosphat"
+    },
+    {
+      "from": "Squalen",
+      "to": "(S)-2,3-Epoxysqualen",
+      "enzyme": "Squalen-Monooxygenase (SQLE)",
+      "cofactors": ["O2", "NADPH über die Cytochrom-P450-Oxidoreduktase (POR)", "FAD"],
+      "note": "Gilt ebenfalls als geschwindigkeitsbestimmend für die Sterolsynthese"
+    },
+    {
+      "from": "(S)-2,3-Epoxysqualen",
+      "to": "Lanosterin",
+      "enzyme": "Lanosterin-Synthase (LSS)",
+      "note": "Der Ringschluss ergibt das erste Sterol"
+    },
+    {
+      "from": "Lanosterin",
+      "to": "Cholesterin",
+      "enzyme": "mehrere Schritte",
+      "note": "Bloch- oder modifizierter Kandutsch-Russell-Weg; CYP51A1 bis DHCR24 oder DHCR7"
+    }
+  ]
+}

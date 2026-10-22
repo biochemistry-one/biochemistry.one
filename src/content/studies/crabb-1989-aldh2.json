@@ -1,0 +1,17 @@
+{
+  "title": "Genotypes for aldehyde dehydrogenase deficiency and alcohol sensitivity. The inactive ALDH2(2) allele is dominant",
+  "authors": "Crabb DW, Edenberg HJ, Bosron WF, Li TK",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1989,
+  "doi": "10.1172/JCI113875",
+  "pmid": "2562960",
+  "design": "genetic",
+  "participants": 24,
+  "population": "Livers from 24 Japanese individuals, with blood DNA from two Caucasian and two Chinese individuals",
+  "funder": "This work was carried out with support from the Indiana University Alcohol Research Center (P50 AA-07611) and grants to Dr. Crabb (AA-00081 and AA-06434) and Dr. Edenberg (AA-06460) from the National Institute on Alcohol Abuse and Alcoholism.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "Of 24 Japanese livers, all 10 with active ALDH2 were ALDH2*1/*1; of the 14 without ALDH2 activity, 13 were heterozygous for ALDH2*2 and 1 homozygous, so the allele is dominant. ALDH2 is a homotetramer with a Km for acetaldehyde of about 1 µM; random association of equally expressed subunits would leave 6% fully normal tetramers in heterozygotes.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/113875/version/1/pdf/render.pdf"
+}

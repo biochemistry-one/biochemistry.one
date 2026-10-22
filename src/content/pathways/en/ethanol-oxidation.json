@@ -1,0 +1,30 @@
+{
+  "title": "Oxidation of ethanol",
+  "layout": "chain",
+  "compartment": "Hepatocyte cytosol and mitochondria, then extrahepatic tissues",
+  "steps": [
+    {
+      "from": "Ethanol",
+      "to": "Acetaldehyde",
+      "enzyme": "Class I alcohol dehydrogenases (ADH1A, ADH1B, ADH1C), cytosolic",
+      "cofactors": ["NAD+ to NADH"],
+      "reversible": true,
+      "note": "CYP2E1 (NADPH, O2) and catalase (CAT, H2O2) also form acetaldehyde"
+    },
+    {
+      "from": "Acetaldehyde",
+      "to": "Acetate",
+      "enzyme": "Aldehyde dehydrogenase 2 (ALDH2), mitochondrial",
+      "cofactors": ["NAD+ to NADH"],
+      "inhibitors": [{"name": "Disulfiram"}],
+      "note": "A single ALDH2*2 (rs671) subunit renders the tetramer nearly inactive"
+    },
+    {
+      "from": "Acetate",
+      "to": "Acetyl-CoA",
+      "enzyme": "Acetyl-CoA synthetases ACSS2 (cytosol) and ACSS1 (mitochondria)",
+      "cofactors": ["ATP to AMP and pyrophosphate", "CoA"],
+      "note": "The liver releases acetate into blood; extrahepatic tissues oxidise it"
+    }
+  ]
+}

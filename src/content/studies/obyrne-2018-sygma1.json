@@ -1,0 +1,20 @@
+{
+  "title": "Inhaled Combined Budesonide-Formoterol as Needed in Mild Asthma",
+  "authors": "O'Byrne PM, FitzGerald JM, Bateman ED, Barnes PJ, Zhong N, Keen C, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2018,
+  "doi": "10.1056/NEJMoa1715274",
+  "pmid": "29768149",
+  "registry": "NCT02149199",
+  "design": "rct",
+  "participants": 3849,
+  "followUp": "52 weeks",
+  "population": "Patients aged 12 years and older with mild asthma eligible for GINA step 2 treatment in 18 countries; twice-daily placebo plus terbutaline 0.5 mg as needed, twice-daily placebo plus budesonide 200 µg-formoterol 6 µg as needed, or twice-daily budesonide 200 µg plus terbutaline as needed, double blind",
+  "funder": "Funded by AstraZeneca; the registry names AstraZeneca as lead sponsor and responsible party.",
+  "funderRole": "several",
+  "authorConflicts": "Four of the ten authors were employees of AstraZeneca Research and Development (Gothenburg and Barcelona); three other authors (FitzGerald, Bateman, Reddel) were authors of the 2019 GINA statement.",
+  "dataAccess": "summary",
+  "result": "3836 patients were analysed (1277 terbutaline, 1277 budesonide-formoterol, 1282 budesonide maintenance). Weeks with well-controlled asthma: 34.4% with as-needed budesonide-formoterol against 31.1% with terbutaline (OR 1.14, 95% CI 1.00 to 1.30) and 44.4% with budesonide maintenance (OR 0.64, 0.57 to 0.73). Annual severe exacerbation rates were 0.20 with terbutaline, 0.07 with as-needed budesonide-formoterol and 0.09 with budesonide maintenance (rate ratio 0.36, 0.27 to 0.49, against terbutaline). Adherence to maintenance budesonide was 78.9%; median metered inhaled glucocorticoid dose with as-needed budesonide-formoterol was 57 µg/day, 17% of the 340 µg/day with maintenance.",
+  "class": "industry",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT02149199?fields=protocolSection.sponsorCollaboratorsModule,protocolSection.identificationModule,protocolSection.designModule.enrollmentInfo"
+}

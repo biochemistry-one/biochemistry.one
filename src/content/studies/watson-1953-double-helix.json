@@ -1,0 +1,16 @@
+{
+  "title": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+  "authors": "Watson JD, Crick FHC",
+  "journal": "Nature",
+  "year": 1953,
+  "doi": "10.1038/171737a0",
+  "pmid": "13054692",
+  "design": "other",
+  "funder": "One of us (J. D. W.) has been aided by a fellowship from the National Foundation for Infantile Paralysis.",
+  "funderRole": "none",
+  "authorConflicts": "None stated. Both authors were at the Medical Research Council Unit for the Study of the Molecular Structure of Biological Systems, Cavendish Laboratory, Cambridge.",
+  "dataAccess": "summary",
+  "result": "Proposed structure: two right-handed helical chains of phosphate diester groups joining beta-D-deoxyribofuranose residues with 3',5' linkages, coiled round the same axis; the atoms of the two chains run in opposite directions; bases are on the inside and phosphates on the outside; adenine pairs with thymine and guanine with cytosine by hydrogen bonds, so the sequence of one chain determines the sequence of the other. The authors state that the structure must be regarded as unproved until checked against more exact results.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20151228224603/http://www.nature.com/nature/dna50/watsoncrick.pdf"
+}

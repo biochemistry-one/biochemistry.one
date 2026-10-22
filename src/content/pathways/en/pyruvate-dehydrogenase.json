@@ -1,0 +1,27 @@
+{
+  "title": "Lipoyl group cycle of the pyruvate dehydrogenase complex",
+  "layout": "cycle",
+  "compartment": "Mitochondrial matrix",
+  "steps": [
+    {
+      "from": "S-Acetyldihydrolipoyl-E2",
+      "to": "Dihydrolipoyl-E2",
+      "enzyme": "Dihydrolipoamide acetyltransferase (E2; DLAT)",
+      "cofactors": ["Coenzyme A → acetyl-CoA"]
+    },
+    {
+      "from": "Dihydrolipoyl-E2",
+      "to": "Lipoyl-E2",
+      "enzyme": "Dihydrolipoamide dehydrogenase (E3; DLD)",
+      "cofactors": ["FAD", "NAD+ → NADH"],
+      "note": "Electrons pass from the dihydrolipoyl group to FAD and then to NAD+"
+    },
+    {
+      "from": "Lipoyl-E2",
+      "to": "S-Acetyldihydrolipoyl-E2",
+      "enzyme": "Pyruvate dehydrogenase (E1; PDHA1, PDHB)",
+      "cofactors": ["Thiamine pyrophosphate", "Mg2+", "Pyruvate → CO2"],
+      "note": "Decarboxylates pyruvate, then reductively acetylates the lipoyl group"
+    }
+  ]
+}

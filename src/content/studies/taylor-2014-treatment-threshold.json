@@ -1,0 +1,19 @@
+{
+  "title": "Falling threshold for treatment of borderline elevated thyrotropin levels-balancing benefits and risks: evidence from a large community-based study",
+  "authors": "Taylor PN, Iqbal A, Minassian C, Sayers A, Draman MS, Greenwood R, et al.",
+  "journal": "JAMA Internal Medicine",
+  "year": 2014,
+  "doi": "10.1001/jamainternmed.2013.11312",
+  "pmid": "24100714",
+  "design": "cohort",
+  "participants": 52298,
+  "followUp": "TSH up to 5 years after initiation",
+  "population": "Adults in the UK Clinical Practice Research Datalink starting levothyroxine between 1 January 2001 and 30 October 2009, with TSH measured within 3 months before; excluding prior hyperthyroidism, pituitary disease, thyroid surgery, thyroid-altering drugs and pregnancy-related prescriptions",
+  "funder": "Access to the GPRD was funded through the Medical Research Council's license agreement with the UK Medicines and Healthcare Products Regulatory Agency. The UK Medicines and Healthcare Products Regulatory Agency had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; and preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "unknown",
+  "authorConflicts": "None reported.",
+  "dataAccess": "individual",
+  "result": "Median TSH at initiation fell from 8.7 mIU/l in 2001 to 7.9 mIU/l in 2009. Adjusted odds of starting levothyroxine at TSH 10.0 mIU/l or less in 2009 against 2001: 1.30 (95% CI 1.19 to 1.42); older people and people with cardiac risk factors had higher odds of starting at such values. At 5 years after initiation 5.8% had TSH below 0.1 mIU/l; depression or tiredness at baseline increased the odds of a suppressed TSH, whereas cardiac risk factors did not.",
+  "class": "independent",
+  "fundingChecked": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1748795"
+}

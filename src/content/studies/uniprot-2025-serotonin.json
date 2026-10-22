@@ -1,0 +1,16 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "design": "database",
+  "funder": "National Human Genome Research Institute (NHGRI) [HG002273]; Office of the Director, NIH OD [U24HG007822]; National Institute of Allergy and Infectious Diseases (NIAID); National Institute on Aging (NIA); National Institute of General Medical Sciences (NIGMS) [R35GM141873]; National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK); National Eye Institute (NEI); National Cancer Institute (NCI); National Heart, Lung, and Blood Institute (NHLBI); Biotechnology and Biological Sciences Research Council (BBSRC) [BB/T015608/1]; National Science Foundation's Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 - Research and Innovation Framework Programme [825575]; State Secretariat for Education, Research and Innovation (SERI); European Molecular Biology Laboratory (EMBL) Australia. Funding for open access charge: National Institutes of Health.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed human UniProtKB entries, release 2026_03, read through rest.uniprot.org. TPH2 (Q8IWU9): neuron-specific enzyme that converts L-tryptophan into 5-hydroxy-L-tryptophan, the rate-limiting step in serotonin production, with Fe2+ as cofactor and O2 and tetrahydrobiopterin as cosubstrates; brain specific. DDC (P20711): decarboxylates L-5-hydroxytryptophan to serotonin and CO2; pyridoxal 5'-phosphate cofactor. SLC18A2 (Q05940), VMAT2: electrogenic antiporter that exchanges one cationic monoamine, including serotonin, for two intravesicular protons, using the proton gradient of the V-type ATPase to accumulate monoamines in vesicles before release by exocytosis; strongly inhibited by reserpine and tetrabenazine. SLC6A4 (P31645), serotonin transporter: cotransports serotonin with one Na+ in exchange for one K+ and possibly one proton, from the extracellular compartment to the cytosol; mediates uptake from the synaptic cleft back into the presynaptic terminal, terminating synaptic signalling; ensures rapid high-affinity uptake of serotonin from plasma into platelets, which store it in dense granules and release it on stimulation; expressed in platelets. MAOA (P21397): FAD enzyme of the mitochondrial outer membrane that catalyses oxidative deamination of neurotransmitters and preferentially oxidises serotonin: serotonin + O2 + H2O = (5-hydroxyindol-3-yl)acetaldehyde + H2O2 + NH4+. ALDH9A1 (P49189): (5-hydroxyindol-3-yl)acetaldehyde + NAD+ + H2O = (5-hydroxyindol-3-yl)acetate + NADH + 2 H+, with experimental evidence.",
+  "class": "reference",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11701636/fullTextXML"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Folate therapy and in-stent restenosis after coronary stenting",
+  "authors": "Lange H, Suryapranata H, De Luca G, Börner C, Dille J, Kallmayer K, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2004,
+  "doi": "10.1056/NEJMoa032845",
+  "pmid": "15215483",
+  "design": "rct",
+  "participants": 636,
+  "followUp": "6 months of treatment and angiography at 6 months; clinical end points to 250 days",
+  "population": "Patients after successful coronary stenting in a double-blind multicentre trial led from Bremen, Germany, and Zwolle, the Netherlands",
+  "funder": "Funded in part by Medice, Iserlohn, Germany. The investigators initiated the study, wrote the article and had full access to the data; data analysis was performed by an independent core laboratory (Diagram).",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Folic acid 1 mg, vitamin B6 5 mg and B12 1 mg intravenously, then daily folic acid 1.2 mg, B6 48 mg and B12 60 µg orally for 6 months (n = 316), against placebo (n = 320). Among 242 and 241 patients with follow-up angiography, restenosis 34.5% against 26.5% (RR 1.30, 95% CI 1.00 to 1.69; P = 0.05); late luminal loss 0.90 against 0.76 mm (P = 0.004). By 250 days, repeat target-vessel revascularisation in 50 (15.8%) against 34 (10.6%) of all patients (P = 0.05). No discontinuation for side effects. The excess was absent in women, patients with diabetes and those with homocysteine of 15 µmol/L or more.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20210309152204/https://www.nejm.org/doi/full/10.1056/NEJMoa032845"
+}

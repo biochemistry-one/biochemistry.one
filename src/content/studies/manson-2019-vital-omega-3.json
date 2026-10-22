@@ -1,0 +1,21 @@
+{
+  "title": "Marine n-3 Fatty Acids and Prevention of Cardiovascular Disease and Cancer",
+  "authors": "Manson JE, Cook NR, Lee IM, Christen W, Bassuk SS, Mora S, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2019,
+  "doi": "10.1056/NEJMoa1811403",
+  "pmid": "30415637",
+  "registry": "NCT01169259",
+  "design": "rct",
+  "participants": 25871,
+  "followUp": "median 5.3 years",
+  "population": "US men aged 50 years or older and women aged 55 years or older without cancer or cardiovascular disease, including 5106 African Americans; 2x2 factorial design with vitamin D3",
+  "funder": "VITAL was supported by grants U01 CA138962 and R01 CA138962, which included support from the National Cancer Institute, National Heart, Lung and Blood Institute, Office of Dietary Supplements, National Institute of Neurological Disorders and Stroke, and the National Center for Complementary and Integrative Health. The NIH sponsors had a collaborative role in the design and conduct of the study and interpretation of the data; final decisions concerning these, data collection, management, analysis, review or approval of the manuscript and the decision to submit resided with the study investigators.",
+  "funderRole": "several",
+  "inKindSupport": "Pronova BioPharma and BASF donated Omacor fish oil, matching placebos and calendar packaging; Pharmavite donated vitamin D3; Quest Diagnostics measured the plasma omega-3 index at no cost.",
+  "authorConflicts": "ICMJE disclosure forms submitted; not itemised in the PMC author manuscript.",
+  "dataAccess": "individual",
+  "result": "Fish-oil capsule 1 g/day containing 840 mg n-3 fatty acids (EPA 460 mg, DHA 380 mg) versus placebo, median 5.3 years. Major cardiovascular events (myocardial infarction, stroke, cardiovascular death) 386 of 12,933 versus 419 of 12,938 (HR 0.92, 95% CI 0.80 to 1.06); invasive cancer 820 versus 797 (HR 1.03, 0.93 to 1.13); death from any cause 493 versus 485 (HR 1.02, 0.90 to 1.15). Total myocardial infarction, a secondary outcome, 145 versus 200 (HR 0.72, 0.59 to 0.90); there was no control for multiple hypothesis testing. Mean plasma omega-3 index 2.67% at baseline (15,535 participants), rising to 4.13% at 1 year in the active group (1583 participants).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6392053/"
+}

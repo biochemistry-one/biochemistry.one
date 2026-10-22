@@ -1,0 +1,18 @@
+{
+  "title": "Sodium bicarbonate and sodium chloride: effects on blood pressure and electrolyte homeostasis in normal and hypertensive man",
+  "authors": "Luft FC, Zemel MB, Sowers JA, Fineberg NS, Weinberger MH",
+  "journal": "Journal of Hypertension",
+  "year": 1990,
+  "doi": "10.1097/00004872-199007000-00010",
+  "pmid": "2168457",
+  "design": "rct",
+  "participants": 20,
+  "followUp": "7 days on each regimen, crossover one month apart",
+  "population": "10 mildly hypertensive and 10 normotensive adults on a fixed basal diet of 60 mmol sodium and chloride, 60 mmol potassium and 14 mmol calcium a day",
+  "funder": "Not read: the publisher offers the article only as a subscriber PDF. PubMed lists grant RR 00750 (NCRR, NIH) and the publication types Research Support, U.S. Gov't, P.H.S. and Research Support, Non-U.S. Gov't.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Randomly allocated, placebo-controlled crossover trial. After 4 days of balance, participants drank 3 L/day of a NaHCO3-containing mineral water (26.2 mmol/L sodium, 33.03 mmol/L HCO3) or a control solution with equimolar cations as chloride salts for 7 days (total sodium 138 mmol/day). NaCl did not influence blood pressure, whereas NaHCO3 decreased systolic blood pressure by 5 mmHg in the hypertensive subjects. Both regimens decreased plasma renin activity in the hypertensive subjects. Urinary calcium excretion increased consistently with NaCl but not with NaHCO3; urate excretion was not influenced.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.ovid.com/jnls/jhypertension/abstract/00004872-199007000-00010~sodium-bicarbonate-and-sodium-chloride-effects-on-blood"
+}

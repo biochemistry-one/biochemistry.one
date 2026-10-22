@@ -1,0 +1,18 @@
+{
+  "title": "Proton pump inhibitors and hypomagnesemia: a meta-analysis of observational studies",
+  "authors": "Srinutta T, Chewcharat A, Takkavatakarn K, Praditpornsilpa K, Eiam-Ong S, Jaber BL, et al.",
+  "journal": "Medicine (Baltimore)",
+  "year": 2019,
+  "doi": "10.1097/MD.0000000000017788",
+  "pmid": "31689852",
+  "design": "meta-analysis",
+  "participants": 131507,
+  "population": "16 observational studies (13 cross-sectional, 2 case-control, 1 cohort) searched to June 2018",
+  "funder": "The authors have no funding and conflicts of interest to disclose.",
+  "funderRole": "none",
+  "authorConflicts": "None declared.",
+  "dataAccess": "summary",
+  "result": "Hypomagnesaemia in 19.4% (95% CI 13.8% to 26.5%) of PPI users against 13.5% (7.9% to 22.2%) of non-users; pooled adjusted OR 1.71 (1.33 to 2.19); high-dose against low-dose use adjusted OR 2.13 (1.26 to 3.59). No randomised trials were available.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6946416/fullTextXML"
+}

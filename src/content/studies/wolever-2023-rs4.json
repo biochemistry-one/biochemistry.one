@@ -1,0 +1,20 @@
+{
+  "title": "Cross-linked phosphorylated RS4 wheat starch reduces glucose and insulin responses after 3 days of pre-feeding in healthy adults: an acute, double-blind, randomized controlled clinical trial",
+  "authors": "Wolever TMS, Maningat CC, Seib PA, Campbell JE, Jenkins AL",
+  "journal": "International Journal of Food Sciences and Nutrition",
+  "year": 2023,
+  "doi": "10.1080/09637486.2023.2236809",
+  "pmid": "37475127",
+  "registry": "NCT04820322",
+  "design": "rct",
+  "participants": 15,
+  "followUp": "two 3-day pre-feeding periods, each followed by a 2 h test meal",
+  "population": "Healthy adults aged 18 to 75 years at Glycemic Index Laboratories, Toronto; 16 randomised, 15 completed",
+  "funder": "Funding statement in the publication not read: the publisher returned HTTP 403 and the article is absent from PubMed Central. ClinicalTrials.gov NCT04820322, which lists this publication as its result, names MGP Ingredients, Inc. (industry), maker of Fibersym, as lead sponsor and Glycemic Index Laboratories, Inc. (industry) as collaborator. The registered protocol names co-author Ody Maningat, Vice-President Ingredients R&D and Chief Science Officer of MGP Ingredients, as sponsor representative, and gives the sponsor the opportunity to review the ethics application before submission.",
+  "funderRole": "several",
+  "authorConflicts": "Not read in the publication. Affiliations: Wolever, Campbell and Jenkins, INQUIS Clinical Research (formerly Glycemic Index Laboratories); Maningat, MGP Ingredients; Seib, Kansas State University.",
+  "dataAccess": "unknown",
+  "result": "Double-blind crossover: after 3 days of daily cookies with Fibersym (cross-linked phosphorylated RS4 wheat starch, 29 g fibre per day) or control cookies, a test cookie with 40 g available carbohydrate. Abstract (mean ± SEM): 0–2 h glucose iAUC, the primary endpoint, 106 ± 16 against 124 ± 16 mmol×min/L (p = 0.087); 0–90 min glucose iAUC 72 ± 9 against 87 ± 9 (p = 0.022); peak glucose 6.05 ± 0.36 against 6.57 ± 0.31 mmol/L (p = 0.017); 0–2 h insulin iAUC 189 ± 21 against 246 ± 24, printed as nmol×h/L (p = 0.020). Registry posted results (standard error): primary 106 ± 16 against 124 ± 16 (p = 0.087); post hoc 0–90 min glucose iAUC 87 ± 12 against 108 ± 13 (p = 0.023); 0–2 h insulin iAUC 189 ± 21 against 245 ± 24 pmol×h/L (p = 0.020); gastrointestinal symptoms did not differ.",
+  "class": "industry",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT04820322"
+}

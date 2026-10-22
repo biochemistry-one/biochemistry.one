@@ -1,0 +1,94 @@
+{
+  "title": "Glukoneogenese aus Pyruvat",
+  "layout": "chain",
+  "compartment": "Mitochondriale Matrix, Zytosol und endoplasmatisches Retikulum in Leber und Nierenrinde",
+  "steps": [
+    {
+      "from": "Pyruvat",
+      "to": "Oxalacetat",
+      "enzyme": "Pyruvatcarboxylase (PC), mitochondrial",
+      "cofactors": ["ATP zu ADP", "HCO3−", "Biotin"],
+      "note": "Durch Acetyl-CoA allosterisch aktiviert; je Glukose gehen zwei Pyruvat ein"
+    },
+    {
+      "from": "Oxalacetat",
+      "to": "Malat",
+      "enzyme": "Malatdehydrogenase 2 (MDH2), mitochondrial",
+      "cofactors": ["NADH zu NAD+"],
+      "reversible": true,
+      "note": "Malat passiert anschließend die innere Mitochondrienmembran"
+    },
+    {
+      "from": "Malat",
+      "to": "Oxalacetat",
+      "enzyme": "Malatdehydrogenase 1 (MDH1), zytosolisch",
+      "cofactors": ["NAD+ zu NADH"],
+      "reversible": true,
+      "note": "Liefert das zytosolische NADH für die GAPDH"
+    },
+    {
+      "from": "Oxalacetat",
+      "to": "Phosphoenolpyruvat",
+      "enzyme": "Phosphoenolpyruvat-Carboxykinase 1 (PCK1), zytosolisch",
+      "cofactors": ["GTP zu GDP"],
+      "note": "Setzt CO2 frei; PCK2 katalysiert dieselbe Reaktion in den Mitochondrien"
+    },
+    {
+      "from": "Phosphoenolpyruvat",
+      "to": "2-Phosphoglycerat",
+      "enzyme": "Enolase 1 (ENO1)",
+      "cofactors": ["H2O"],
+      "reversible": true
+    },
+    {
+      "from": "2-Phosphoglycerat",
+      "to": "3-Phosphoglycerat",
+      "enzyme": "Phosphoglyceratmutase 1 (PGAM1)",
+      "reversible": true
+    },
+    {
+      "from": "3-Phosphoglycerat",
+      "to": "1,3-Bisphosphoglycerat",
+      "enzyme": "Phosphoglyceratkinase 1 (PGK1)",
+      "cofactors": ["ATP zu ADP"],
+      "reversible": true
+    },
+    {
+      "from": "1,3-Bisphosphoglycerat",
+      "to": "Glycerinaldehyd-3-Phosphat",
+      "enzyme": "Glycerinaldehyd-3-Phosphat-Dehydrogenase (GAPDH)",
+      "cofactors": ["NADH zu NAD+"],
+      "reversible": true,
+      "note": "Setzt Phosphat frei"
+    },
+    {
+      "from": "Glycerinaldehyd-3-Phosphat",
+      "to": "Fruktose-1,6-Bisphosphat",
+      "enzyme": "Aldolase B (ALDOB)",
+      "cofactors": ["Dihydroxyacetonphosphat"],
+      "reversible": true,
+      "note": "DHAP entsteht durch Triosephosphat-Isomerase (TPI1) aus einer zweiten Triose"
+    },
+    {
+      "from": "Fruktose-1,6-Bisphosphat",
+      "to": "Fruktose-6-Phosphat",
+      "enzyme": "Fruktose-1,6-Bisphosphatase 1 (FBP1)",
+      "cofactors": ["H2O"],
+      "inhibitors": [{"name": "Fruktose-2,6-Bisphosphat"}, {"name": "AMP"}],
+      "note": "Setzt Phosphat frei; Glukagon senkt den Gehalt an Fruktose-2,6-Bisphosphat"
+    },
+    {
+      "from": "Fruktose-6-Phosphat",
+      "to": "Glukose-6-Phosphat",
+      "enzyme": "Glukose-6-Phosphat-Isomerase (GPI)",
+      "reversible": true
+    },
+    {
+      "from": "Glukose-6-Phosphat",
+      "to": "Glukose",
+      "enzyme": "Glukose-6-Phosphatase (G6PC1), endoplasmatisches Retikulum",
+      "cofactors": ["H2O"],
+      "note": "Setzt Phosphat frei; SLC37A4 transportiert das Substrat ins ER-Lumen"
+    }
+  ]
+}

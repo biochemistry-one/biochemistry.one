@@ -1,0 +1,17 @@
+{
+  "title": "Human receptors for sweet and umami taste",
+  "authors": "Li X, Staszewski L, Xu H, Durick K, Zoller M, Adler E",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 2002,
+  "doi": "10.1073/pnas.072090199",
+  "pmid": "11917125",
+  "design": "in-vitro",
+  "population": "HEK-293-derived cells expressing human or rat T1R2 and T1R3 with G alpha 15 or a G alpha 15/i1 chimera",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors are affiliated with Senomyx, Inc. and Aurora Biosciences Corporation, La Jolla and San Diego.",
+  "dataAccess": "summary",
+  "result": "Cells co-expressing human T1R2 and T1R3 responded to sucrose, which cells expressing either subunit alone did not, and to every other sweet stimulus tested: fructose, galactose, glucose, lactose and maltose, glycine and D-tryptophan, monellin and thaumatin, and acesulfame K, aspartame, cyclamate, dulcin, neotame, saccharin and sucralose; lactisole inhibited the response. Rat T1R2/T1R3 did not respond to aspartame or monellin, which rodents do not find palatable.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20251104070602/https://www.pnas.org/doi/10.1073/pnas.072090199"
+}

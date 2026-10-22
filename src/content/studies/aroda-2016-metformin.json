@@ -1,0 +1,20 @@
+{
+  "title": "Long-term Metformin Use and Vitamin B12 Deficiency in the Diabetes Prevention Program Outcomes Study",
+  "authors": "Aroda VR, Edelstein SL, Goldberg RB, Knowler WC, Marcovina SM, Orchard TJ, et al.",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2016,
+  "doi": "10.1210/jc.2015-3754",
+  "pmid": "26900641",
+  "design": "rct",
+  "participants": 1800,
+  "followUp": "mean 5 and 13 years",
+  "population": "Adults with elevated fasting glucose, impaired glucose tolerance and overweight or obesity assigned metformin 850 mg twice daily or placebo in the Diabetes Prevention Program; secondary analysis of stored samples",
+  "funder": "The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) of the National Institutes of Health is the primary funding agency, with further funding from other NIH institutes, the Indian Health Service, the Department of Veterans Affairs, the Centers for Disease Control and Prevention and the American Diabetes Association. Bristol-Myers Squibb and Parke-Davis provided additional funding and material support during the DPP, Lipha (Merck-Santé) provided medication, and LifeScan Inc donated materials during the DPP and DPPOS.",
+  "funderRole": "unknown",
+  "inKindSupport": "Medication from Lipha (Merck-Santé); materials from LifeScan Inc.",
+  "authorConflicts": "The authors have no relevant conflicts of interest to disclose.",
+  "dataAccess": "individual",
+  "result": "Serum B12 at or below 203 pg/mL at a mean 5 years: 37 of 859 (4.3%) on metformin against 20 of 856 (2.3%) on placebo, P = 0.02; at a mean 13 years: 56 of 753 (7.4%) against 40 of 736 (5.4%), P = 0.12. B12 at or below 298 pg/mL: 19.1% against 9.5% at 5 years and 20.3% against 15.6% at 13 years. Odds ratio for B12 deficiency per year of metformin use 1.13 (95% CI 1.06 to 1.20).",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4880159/"
+}

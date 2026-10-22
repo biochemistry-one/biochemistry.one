@@ -1,0 +1,19 @@
+{
+  "title": "Cardioselective beta-blockers for reversible airway disease",
+  "authors": "Salpeter S, Ormiston T, Salpeter E",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2002,
+  "doi": "10.1002/14651858.CD002992",
+  "pmid": "12519582",
+  "design": "meta-analysis",
+  "participants": 381,
+  "followUp": "single dose, or continued treatment for 3 to 28 days",
+  "population": "Patients with asthma or chronic obstructive pulmonary disease with reversible obstruction, documented by methacholine challenge, a rise in forced expiratory volume in one second of at least 15% after a beta2-agonist, or asthma as defined by the American Thoracic Society",
+  "funder": "Internal sources: Santa Clara Valley Medical Center, USA. External sources: No sources of support supplied.",
+  "funderRole": "none",
+  "authorConflicts": "Declarations of interest: none known.",
+  "dataAccess": "summary",
+  "result": "Issue 4, 2002, of this Cochrane review: 19 trials of a single dose and 10 of continued treatment, all randomised, blinded and placebo-controlled. A single dose of a cardioselective beta-blocker reduced the forced expiratory volume in one second by 7.46% (95% CI 5.59 to 9.32), while the response to a beta2-agonist given afterwards rose by 4.63% (2.47 to 6.78) against placebo. Treatment lasting 3 to 28 days produced no change in that volume (-0.42% of baseline, 95% CI -3.74 to 2.91), in symptoms or in inhaler use, and a beta2-agonist response of 8.74% (1.96 to 15.52) persisted. In the subgroup with chronic obstructive pulmonary disease the treatment effect on that volume was -5.28% (-10.03 to -0.54) for single doses and 1.07% (-3.30 to 5.44) for continued treatment. The full text in PubMed Central carries the same effect estimates after a search to June 2011 that added no eligible study, and reports 240 patients in the single-dose trials and 141 in the continued-treatment trials, a risk difference for respiratory symptoms of 0.01 (-0.02 to 0.03) and 0.01 (-0.02 to 0.04) respectively, and cardioselectivity of at least 20-fold for beta1 over beta2 receptors.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8689715/"
+}

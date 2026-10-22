@@ -1,0 +1,16 @@
+{
+  "title": "ACG clinical guideline for the diagnosis and management of gastroesophageal reflux disease",
+  "authors": "Katz PO, Dunbar KB, Schnoll-Sussman FH, Greer KB, Yadlapati R, Spechler SJ",
+  "journal": "American Journal of Gastroenterology",
+  "year": 2022,
+  "doi": "10.14309/ajg.0000000000001538",
+  "pmid": "34807007",
+  "design": "guideline",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "authorConflicts": "Katz has served as consultant for Phathom Pharma and Medtronic and receives research support from Diversatek; Schnoll-Sussman consults for Ethicon, Interpace Biosciences and Medtronic; Yadlapati consults through institutional agreements for Medtronic, Ironwood and Diversatek, receives research support from Ironwood and advises Phathom Pharma; Spechler has consulted for Interpace Diagnostics, Cernostics, Phathom Pharmaceuticals, Takeda and Ironwood; Dunbar previously received research funding from Ironwood.",
+  "dataAccess": "summary",
+  "result": "For classic heartburn and regurgitation without alarm symptoms, an 8-week empirical trial of a PPI once daily before a meal (strong recommendation, moderate evidence), then an attempt to discontinue in responders (conditional, low evidence); PPI 30 to 60 minutes before a meal rather than at bedtime (strong, moderate). Rebound acid hypersecretion has been shown in healthy controls, but strong evidence for an increase in symptoms after abrupt withdrawal is lacking. Genetic testing for CYP2C19 has no established role in practice.",
+  "class": "consensus",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8754510/"
+}

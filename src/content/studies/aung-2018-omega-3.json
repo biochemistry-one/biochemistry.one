@@ -1,0 +1,19 @@
+{
+  "title": "Associations of Omega-3 Fatty Acid Supplement Use With Cardiovascular Disease Risks: Meta-analysis of 10 Trials Involving 77 917 Individuals",
+  "authors": "Aung T, Halsey J, Kromhout D, Gerstein HC, Marchioli R, Tavazzi L, et al.",
+  "journal": "JAMA Cardiology",
+  "year": 2018,
+  "doi": "10.1001/jamacardio.2017.5205",
+  "pmid": "29387889",
+  "design": "meta-analysis",
+  "participants": 77917,
+  "followUp": "mean 4.4 years",
+  "population": "10 randomised trials with at least 500 participants and at least 1 year of marine omega-3 fatty acid supplementation in people at high cardiovascular risk; 66.4% with prior coronary heart disease, 37% with diabetes",
+  "funder": "This work was supported by grant CH/1996001/9454 from the British Heart Foundation, a grant from British Heart Foundation Centre for Research Excellence Oxford, and support from Medical Research Council Clinical Trial Service Unit A310 support to the Medical Research Council Public Health Research Unit at the Clinical Trial Service Unit and Epidemiological Studies Unit, University of Oxford. The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Armitage and Collins are investigators in ASCEND; Collins reported grants from Mylan (formerly Solvay and Abbott) outside the submitted work; Geleijnse reported grants from Unilever and Rauch grants from Trommsdorff during the conduct of the study; Gerstein and Tavazzi reported industry grants or fees outside the submitted work.",
+  "dataAccess": "summary",
+  "result": "Aggregated study-level data; EPA 226 to 1800 mg/day; 12,001 major vascular events. Rate ratios: major vascular events 0.97 (95% CI 0.93 to 1.01); any coronary heart disease event 0.96 (0.90 to 1.01); coronary heart disease death 0.93 (99% CI 0.83 to 1.03); nonfatal myocardial infarction 0.97 (99% CI 0.87 to 1.08); stroke 1.03 (0.93 to 1.13). No significant association with major vascular events in any prespecified subgroup, including prior coronary heart disease, diabetes, triglyceride level and statin use.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5885893&retmode=xml"
+}

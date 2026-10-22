@@ -1,0 +1,50 @@
+{
+  "title": "Beta1-adrenoceptor signalling in the cardiac myocyte",
+  "layout": "chain",
+  "compartment": "Cardiac myocyte membrane, cytosol and sarcoplasmic reticulum",
+  "steps": [
+    {
+      "from": "Gs alpha-GDP",
+      "to": "Gs alpha-GTP",
+      "enzyme": "Beta1 adrenoceptor (ADRB1)",
+      "cofactors": ["GTP"],
+      "inhibitors": [
+        {"name": "Metoprolol", "page": "medicines/beta-blockers"},
+        {"name": "Bisoprolol", "page": "medicines/beta-blockers"}
+      ],
+      "note": "Adrenaline and noradrenaline bind with about equal affinity"
+    },
+    {
+      "from": "Gs alpha-GTP",
+      "to": "Cyclic AMP",
+      "enzyme": "Adenylyl cyclase 5 (ADCY5)",
+      "cofactors": ["ATP", "Mg2+"],
+      "note": "Gs alpha activates the cyclase; ATP yields cAMP and diphosphate"
+    },
+    {
+      "from": "Cyclic AMP",
+      "to": "Free protein kinase A catalytic subunits",
+      "enzyme": "Protein kinase A holoenzyme (PRKACA)",
+      "note": "Four cAMP bind the regulatory dimer, releasing two subunits"
+    },
+    {
+      "from": "Free protein kinase A catalytic subunits",
+      "to": "Phosphorylated Cav1.2, phospholamban and troponin I",
+      "enzyme": "Protein kinase A catalytic subunit (PRKACA)",
+      "cofactors": ["ATP"],
+      "note": "Cav1.2 Ser1981, phospholamban Ser16, troponin I Ser23 and Ser24"
+    },
+    {
+      "from": "Phosphorylated Cav1.2, phospholamban and troponin I",
+      "to": "Larger calcium transient and faster calcium re-uptake",
+      "enzyme": "several steps",
+      "note": "Phosphorylated phospholamban stops inhibiting SERCA2a (ATP2A2)"
+    },
+    {
+      "from": "Larger calcium transient and faster calcium re-uptake",
+      "to": "Stronger contraction and faster relaxation",
+      "enzyme": "Actin-myosin cross-bridge cycling",
+      "cofactors": ["ATP"]
+    }
+  ]
+}

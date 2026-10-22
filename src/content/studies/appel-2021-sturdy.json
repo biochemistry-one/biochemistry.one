@@ -1,0 +1,21 @@
+{
+  "title": "The Effects of Four Doses of Vitamin D Supplements on Falls in Older Adults: A Response-Adaptive, Randomized Clinical Trial",
+  "authors": "Appel LJ, Michos ED, Mitchell CM, Blackford AL, Sternberg AL, Miller ER 3rd, et al.",
+  "journal": "Annals of Internal Medicine",
+  "year": 2021,
+  "doi": "10.7326/M20-3812",
+  "pmid": "33284677",
+  "registry": "NCT02166333",
+  "design": "rct",
+  "participants": 688,
+  "followUp": "median 21.7 months; follow-up ended 31 May 2019",
+  "population": "Adults aged 70 years or older at elevated fall risk with serum 25-hydroxyvitamin D 25 to 72.5 nmol/L, enrolled at 2 community-based research units",
+  "funder": "This trial was funded by the National Institute on Aging (U01AG047837) with support from the Office of Dietary Supplements, the Mid-Atlantic Nutrition Obesity Research Center (P30DK072488) and the Johns Hopkins Institute for Clinical and Translational Research (UL1TR003098). The NIA had no role in the collection, analysis and interpretation of data, the preparation, review and approval of the manuscript, or the decision to submit; a role in design is not addressed.",
+  "funderRole": "unknown",
+  "inKindSupport": "Vitamin D pills were manufactured by Continental Vitamin Company (Vernon, CA) and purchased by the trial.",
+  "authorConflicts": "The authors report NIH/NIA grant funding for the trial; Dr Christenson reports grants and personal fees from Roche Diagnostics; other authors report fees and grants from diagnostics and device companies.",
+  "dataAccess": "individual",
+  "result": "Dose-finding stage (514 participants: 256 at 200 IU/day, 121 at 1000, 68 at 2000, 69 at 4000) followed by comparison of the best dose with 200 IU/day; the control group received 200 IU/day, not placebo. The data and safety monitoring board stopped the 2000 IU/day dose partly because of a higher rate of hospitalisation or death than at 200 IU/day (33.6 against 12.1 per 100 person-years; HR 2.69, 95% CI 1.50 to 4.82) and the 4000 IU/day dose because of higher rates of the primary outcome (HR 1.13, 0.80 to 1.61) and of hospitalisation or death (HR 1.68, 0.86 to 3.27). Primary outcome, first fall or death over 2 years, 1000 IU/day (n=308, observation limited to time on 1000 IU/day) against 200 IU/day (n=339): HR 0.94 (0.76 to 1.15); in the same comparison, serious fall HR 1.87 (1.03 to 3.41) and fall with hospitalisation HR 2.48 (1.13 to 5.46). Sensitivity analysis of all randomised participants, pooled 1000 to 4000 IU/day (n=349) against 200 IU/day (n=339): first fall HR 1.05 (0.87 to 1.27); first serious fall 37 events (7.5 per 100 person-years) against 20 (4.1), HR 1.85 (1.07 to 3.19); first fall with hospitalisation 24 (4.8 per 100 person-years) against 10 (2.0), HR 2.39 (1.14 to 5.00). Kidney, bladder or ureteral stones 4 against 4 events (1000 against 200 IU/day); hypercalcaemia 1 event in the pooled higher doses against 0.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8240534/"
+}

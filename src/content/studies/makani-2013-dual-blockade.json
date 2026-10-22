@@ -1,0 +1,19 @@
+{
+  "title": "Efficacy and safety of dual blockade of the renin-angiotensin system: meta-analysis of randomised trials",
+  "authors": "Makani H, Bangalore S, Desouza KA, Shah A, Messerli FH",
+  "journal": "BMJ",
+  "year": 2013,
+  "doi": "10.1136/bmj.f360",
+  "pmid": "23358488",
+  "design": "meta-analysis",
+  "participants": 68405,
+  "followUp": "mean trial duration 52 weeks",
+  "population": "33 randomised trials comparing dual renin-angiotensin blockade (ACE inhibitor, angiotensin receptor blocker or aliskiren in combination) with monotherapy; mean age 61 years, 71% men",
+  "funder": "This research received no specific grant from any funding agency in the public, commercial, or not for profit sectors. None of the authors received any compensation for their work on this manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "Messerli is an ad hoc consultant and speaker for Novartis, Daiichi Sankyo, Pfizer, Takeda, Abbott, Medtronic, Servier and Bayer; Bangalore is on the advisory board of Daiichi Sankyo and Boehringer Ingelheim.",
+  "dataAccess": "summary",
+  "result": "Against monotherapy, dual blockade did not reduce all-cause mortality (relative risk 0.97, 95% CI 0.89 to 1.06) or cardiovascular mortality (0.96, 0.88 to 1.05) and reduced admissions for heart failure (0.82, 0.74 to 0.92). Hyperkalaemia (potassium above 5.5 mmol/l) occurred in 2188 of 22,717 (9.6%) on dual therapy against 1887 of 37,921 (4.9%) on monotherapy (1.55, 1.32 to 1.82); hypotension rose by 66%, renal failure by 41% and withdrawal for adverse events by 27%. The authors note that the COOPERATE trial of dual blockade for nephroprotection was retracted by the Lancet after inconsistencies were found.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3556933/"
+}

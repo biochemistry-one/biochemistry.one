@@ -1,0 +1,17 @@
+{
+  "title": "Assessment of Causal Direction Between Gut Microbiota-Dependent Metabolites and Cardiometabolic Health: A Bidirectional Mendelian Randomization Analysis",
+  "authors": "Jia J, Dou P, Gao M, Kong X, Li C, Liu Z, et al.",
+  "journal": "Diabetes",
+  "year": 2019,
+  "doi": "10.2337/db19-0153",
+  "pmid": "31167879",
+  "design": "mendelian-randomisation",
+  "population": "Summary statistics of published genome-wide association studies: single nucleotide polymorphisms for TMAO, choline, betaine and carnitine from a community-based metabolome study, and outcomes from DIAGRAM for type 2 diabetes (n = 149,821), CARDIoGRAMplusC4D for coronary artery disease (60,801 cases, 123,504 controls) and myocardial infarction (43,676 cases, 128,197 controls), SiGN and ISGC for stroke (37,792 cases, 397,209 controls), AFGen for atrial fibrillation and CKDGen for chronic kidney disease (n = 133,814)",
+  "funder": "The study was supported by Peking University Start-up grant BMU2018YJ002, High-performance Computing Platform of Peking University, and Beijing Technology and Business University grant 88442Y0033. The funding organizations had no role in the preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "Duality of Interest: No potential conflicts of interest relevant to this article were reported.",
+  "dataAccess": "summary",
+  "result": "Per 10 units of genetically predicted TMAO, odds ratios by inverse-variance weighting were 0.96 (95% CI 0.59 to 1.57) for type 2 diabetes, 1.00 (0.70 to 1.43) for coronary artery disease, 1.08 (0.73 to 1.60) for myocardial infarction, 0.94 (0.53 to 1.65) for stroke, 0.99 (0.79 to 1.26) for atrial fibrillation and 1.08 (0.59 to 1.99) for chronic kidney disease; genetically predicted carnitine was likewise unassociated. Genetically increased choline was suggestively associated with type 2 diabetes (1.84, 1.00 to 3.42, P = 0.05) and betaine inversely (0.68, 0.48 to 0.95, P = 0.023). In the reverse direction, type 2 diabetes (0.130 ± 0.036, P < 0.0001) and chronic kidney disease (0.483 ± 0.168, P = 0.004) were associated with higher TMAO per unit of log odds. Instruments were selected at a suggestive threshold of P < 5 × 10-5 and explained 9.6% of the variance in TMAO, 8.0% of choline, 15.4% of betaine and 17.1% of carnitine; MR-Egger intercepts gave no evidence of pleiotropy. The authors state that the observational evidence for cardiovascular disease may reflect confounding or reverse causality, that weak instrument bias cannot be excluded, and that a shared genetic basis rather than causation remains possible.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20210629002143/https://diabetes.diabetesjournals.org/content/68/9/1747.full"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Renin-angiotensin cascade",
+  "layout": "chain",
+  "compartment": "Plasma, endothelial surface and renal tubule",
+  "steps": [
+    {
+      "from": "Angiotensinogen",
+      "to": "Angiotensin I",
+      "enzyme": "Renin (REN)",
+      "note": "Juxtaglomerular release; generating angiotensin I is its only known function"
+    },
+    {
+      "from": "Angiotensin I",
+      "to": "Angiotensin II",
+      "enzyme": "Angiotensin-converting enzyme (ACE)",
+      "cofactors": ["Zn2+", "Cl-"],
+      "inhibitors": [
+        {"name": "Lisinopril", "page": "medicines/renin-angiotensin"},
+        {"name": "Ramiprilat", "page": "medicines/renin-angiotensin"}
+      ],
+      "note": "C-terminal domain removes the His-Leu dipeptide"
+    },
+    {
+      "from": "Angiotensin II",
+      "to": "Angiotensin-(1-7)",
+      "enzyme": "Angiotensin-converting enzyme 2 (ACE2)",
+      "cofactors": ["Zn2+"],
+      "note": "Carboxypeptidase; ACE inhibitors do not inhibit it"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "8. Obesity and Weight Management for the Prevention and Treatment of Diabetes: Standards of Care in Diabetes-2026",
+  "authors": "American Diabetes Association Professional Practice Committee for Diabetes",
+  "journal": "Diabetes Care",
+  "year": 2026,
+  "doi": "10.2337/dc26-S008",
+  "pmid": "41358882",
+  "design": "guideline",
+  "funder": "Funding statement read in the companion methodology section of the same Standards of Care (doi 10.2337/dc26-SINT, PMID 41358883): the guideline is funded by American Diabetes Association general revenue; no other entity, industry included, provides financial support; committee members received no remuneration.",
+  "funderRole": "none",
+  "authorConflicts": "The published disclosures (doi 10.2337/dc26-SDIS) list 20 Professional Practice Committee members, of whom 3 report ties to Novo Nordisk or Eli Lilly (one a Novo Nordisk research grant to the institution and Novo Nordisk consulting of at least $10,000 a year; one an Eli Lilly consultancy; one a Novo Nordisk consultancy or advisory role), and 22 designated subject matter experts, of whom 6 report research support, speaker, consultant or advisory relationships with Novo Nordisk and/or Eli Lilly. Per the methodology section, only committee members vote; members disclosing a duality pertinent to a recommendation are prohibited from voting or their votes are excluded; the majority of the committee and the co-chairs are to be without potential conflict relevant to the subject area.",
+  "dataAccess": "summary",
+  "result": "Recommendation 8.18: in people with diabetes and overweight or obesity the preferred pharmacotherapy is a GLP-1 receptor agonist or dual GIP and GLP-1 receptor agonist with greater weight loss efficacy, semaglutide or tirzepatide, especially considering added weight-independent benefits (grade A). 8.19: obesity pharmacotherapy indicated for chronic therapy should be continued beyond reaching weight loss goals, as discontinuation often results in recurrence of weight gain and worsening or re-emergence of cardiometabolic risk factors (grade B). 8.20: the optimal dose may not be the maximum approved dose. 8.8a: lifestyle interventions with at least 16 counselling sessions in 6 months targeting a 500 to 750 kcal/day deficit should be recommended when available (grade A). 8.14: monitor to prevent protein insufficiency and micronutrient deficiencies (grade E); to preserve lean mass, optimise protein intake with resistance training. When adding a GLP-1 receptor agonist, sulfonylureas should be stopped or reduced and insulin adjusted to avoid hypoglycaemia. The obesity medication table states for liraglutide and semaglutide: provide guidance on discontinuation before surgical procedures to mitigate pulmonary aspiration; acute pancreatitis has been reported but causality has not been established; evaluate for gallbladder disease; severe constipation and small-bowel obstruction or ileus; close retinopathy monitoring in those at high risk; NAION reported with rare incidence; not recommended in gastroparesis. 8.22: consider metabolic surgery at BMI of 30.0 or more (27.5 or more in Asian American individuals).",
+  "class": "consensus",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12690168/"
+}

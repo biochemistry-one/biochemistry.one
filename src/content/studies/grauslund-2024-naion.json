@@ -1,0 +1,19 @@
+{
+  "title": "Once-weekly semaglutide doubles the five-year risk of nonarteritic anterior ischemic optic neuropathy in a Danish cohort of 424,152 persons with type 2 diabetes",
+  "authors": "Grauslund J, Taha AA, Molander LD, Kawasaki R, Möller S, Højlund K, et al.",
+  "journal": "International Journal of Retina and Vitreous",
+  "year": 2024,
+  "doi": "10.1186/s40942-024-00620-x",
+  "pmid": "39696569",
+  "design": "cohort",
+  "participants": 424152,
+  "followUp": "1,915,120 person-years, 2018 to 2024",
+  "population": "All persons with type 2 diabetes in Denmark; 106,454 exposed to once-weekly semaglutide; median age 65 years, 54.5% men",
+  "funder": "Funding: not applicable.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing interests.",
+  "dataAccess": "summary",
+  "result": "218 persons developed NAION, 67 of them exposed to semaglutide. Incidence 0.228 per 1000 person-years with semaglutide exposure against 0.093 without; adjusted hazard ratio 2.19 (95% CI 1.54 to 3.12). Median time from first prescription to NAION 22.2 months (IQR 10.2 to 37.8). Smoking, blood pressure and BMI were not available for adjustment, and ophthalmic examinations were not accessible.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11657653"
+}

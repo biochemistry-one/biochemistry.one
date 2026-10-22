@@ -1,0 +1,18 @@
+{
+  "title": "Marked increase in gastric acid secretory capacity after omeprazole treatment",
+  "authors": "Waldum HL, Arnestad JS, Brenna E, Eide I, Syversen U, Sandvik AK",
+  "journal": "Gut",
+  "year": 1996,
+  "doi": "10.1136/gut.39.5.649",
+  "pmid": "9026477",
+  "design": "other",
+  "participants": 9,
+  "followUp": "90 days of omeprazole and 14 days after stopping",
+  "population": "Patients with reflux oesophagitis treated with omeprazole 40 mg daily",
+  "funder": "Not read: PMC holds page scans of the article only, and the PDF could not be retrieved.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Meal-stimulated gastrin release rose during omeprazole, with increased ECL-cell mass (oxyntic histamine and chromogranin A) and serum chromogranin A. Fourteen days after stopping, basal acid secretion was significantly higher and pentagastrin-stimulated acid secretion about 50% higher than before treatment.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1383386/"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "GLP-1 receptor localization in monkey and human tissue: novel distribution revealed with extensively validated monoclonal antibody",
+  "authors": "Pyke C, Heller RS, Kirk RK, Ørskov C, Reedtz-Runge S, Kaastrup P, et al.",
+  "journal": "Endocrinology",
+  "year": 2014,
+  "doi": "10.1210/en.2013-1934",
+  "pmid": "24467746",
+  "design": "mechanistic",
+  "population": "Monkey and human tissues examined by immunohistochemistry with a monoclonal GLP-1 receptor antibody and by in situ ligand binding with 125I-GLP-1",
+  "funder": "Funding statement not read: the publisher page returns HTTP 403, the archived copy is a script loader, and neither PubMed Central nor Europe PMC holds the full text. The PubMed affiliation record places eight of the ten authors in Novo Nordisk departments in Bagsværd and two in a department of surgical gastroenterology.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "In the pancreas the receptor was found predominantly in beta cells, with markedly weaker expression in acinar cells and none in ductal epithelium. In kidney and lung it was found only in smooth muscle of arteries and arterioles; in the heart in myocytes of the sinoatrial node; in the gut most strongly in duodenal Brunner's glands, with lower expression in gastric parietal cells, smooth muscle of the gastric muscularis externa and myenteric plexus neurons. No receptor was seen in primate liver or thyroid. Immunohistochemistry was confirmed by in situ ligand binding.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/24467746/"
+}

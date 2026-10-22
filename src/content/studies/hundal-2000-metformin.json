@@ -1,0 +1,19 @@
+{
+  "title": "Mechanism by which metformin reduces glucose production in type 2 diabetes",
+  "authors": "Hundal RS, Krssak M, Dufour S, Laurent D, Lebon V, Chandramouli V, et al.",
+  "journal": "Diabetes",
+  "year": 2000,
+  "doi": "10.2337/diabetes.49.12.2063",
+  "pmid": "11118008",
+  "design": "mechanistic",
+  "participants": 14,
+  "followUp": "3 months of metformin",
+  "population": "Seven patients with type 2 diabetes and fasting plasma glucose of 15.5 ± 1.3 mmol/l (mean ± SE), studied before and after metformin titrated from 850 mg once daily to 850 mg three times daily; seven healthy controls matched for sex, age and BMI",
+  "funder": "This work was supported by grants from the U.S. Public Health Service (R01 DK-49230, P30 DK-45735, R01 DK-14507, and M01 RR-00125), the Endocrine Fellows Foundation, and an unrestricted grant from Bristol-Myers Squibb.",
+  "funderRole": "unknown",
+  "authorConflicts": "S.E.I. and G.I.S. have received honoraria for speaking engagements from Bristol-Myers Squibb, the manufacturers of Glucophage (the trademark product name for metformin).",
+  "dataAccess": "summary",
+  "result": "Uncontrolled before-and-after study with healthy controls. Endogenous glucose production was 0.70 ± 0.05 mmol·m−2·min−1 in the diabetic subjects against 0.36 ± 0.03 in controls; metformin lowered it by 24% to 0.53 ± 0.03 (P = 0.0009) and fasting plasma glucose by 30% to 10.8 ± 0.9 mmol/l. Gluconeogenesis measured with 2H2O fell by 33%, from 0.42 ± 0.04 to 0.28 ± 0.03 mmol·m−2·min−1 (P = 0.0002); gluconeogenesis derived from 13C NMR glycogenolysis fell by 36%, given as 0.59 ± 0.03 to 0.38 ± 0.03 in the abstract and 0.59 ± 0.07 to 0.37 ± 0.03 in Table 4, with NMR data from five of the seven patients. Means ± SE.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2995498/pdf/nihms251022.pdf"
+}

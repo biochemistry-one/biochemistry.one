@@ -1,0 +1,20 @@
+{
+  "title": "Association between antihypertensive treatment and adverse events: systematic review and meta-analysis",
+  "authors": "Albasri A, Hattle M, Koshiaris C, Dunnigan A, Paxton B, Fox SE, et al.; STRATIFY investigators",
+  "journal": "BMJ",
+  "year": 2021,
+  "doi": "10.1136/bmj.n189",
+  "pmid": "33568342",
+  "registry": "PROSPERO CRD42018116860",
+  "design": "meta-analysis",
+  "participants": 280638,
+  "followUp": "median 3 years (IQR 2 to 4)",
+  "population": "58 randomised trials with at least 650 patient-years of follow-up comparing antihypertensive drugs with placebo or no treatment, more with fewer drugs, or lower with higher blood-pressure targets",
+  "funder": "This study was funded by the Wellcome Trust and Royal Society through a Sir Henry Dale fellowship held by JPS (ref 211182/Z/18/Z) and the National Institute for Health Research (NIHR) School for Primary Care (project 430), with further NIHR, Fonds de recherche du Québec - Santé and Cancer Research UK fellowships. The sponsor and funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "No financial relationships with any organisations that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "summary",
+  "result": "Antihypertensive treatment was associated with acute kidney injury (risk ratio 1.18, 95% CI 1.01 to 1.39; 15 trials), hyperkalaemia (1.89, 1.56 to 2.30; 26 trials), hypotension (1.97, 1.67 to 2.32; 35 trials) and syncope (1.28, 1.03 to 1.59; 16 trials); seven trials reporting falls showed no association (1.05, 0.89 to 1.24). Treatment was associated with lower all-cause mortality, cardiovascular death and stroke but not myocardial infarction. The authors state that adverse events such as fatigue or sexual dysfunction lack standardised definitions, that some events may be captured but not reported, that hazard ratios for harms were rarely reported, and that trials often select less frail, less multimorbid populations more likely to tolerate treatment, so fewer adverse events may be reported than would occur in the general population.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7873715"
+}

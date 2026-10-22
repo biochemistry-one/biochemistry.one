@@ -1,0 +1,17 @@
+{
+  "title": "Assessment of airways, tremor and chronotropic responses to inhaled salbutamol in the quantification of beta 2-adrenoceptor blockade",
+  "authors": "Lipworth BJ, Brown RA, McDevitt DG",
+  "journal": "British Journal of Clinical Pharmacology",
+  "year": 1989,
+  "doi": "10.1111/j.1365-2125.1989.tb03510.x",
+  "pmid": "2570601",
+  "design": "mechanistic",
+  "participants": 5,
+  "population": "Five healthy volunteers, single-blind crossover after oral atenolol 50, 100 or 200 mg, propranolol 40 mg or placebo, with cumulative inhaled salbutamol 200 to 6200 µg",
+  "funder": "not read: PubMed Central holds only a scanned page image of the article.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Increasing doses of atenolol progressively reduced salbutamol-induced heart rate, finger tremor and airway conductance responses, and propranolol 40 mg attenuated them most; the attenuation was similar for heart rate, tremor and airway conductance. Geometric mean dose ratios against placebo for atenolol 50, 100 and 200 mg and propranolol 40 mg: heart rate 1.98, 2.75, 4.29 (none obtained for propranolol); tremor 1.60, 3.78, 6.34, 80.50; airway conductance 1.08, 4.35, 12.30, 66.0. The authors proposed the chronotropic response to inhaled salbutamol as a measure of beta2-adrenoceptor blockade.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1379975/"
+}

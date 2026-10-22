@@ -1,0 +1,17 @@
+{
+  "title": "Amino acid metabolism during prolonged starvation",
+  "authors": "Felig P, Owen OE, Wahren J, Cahill GF Jr",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1969,
+  "doi": "10.1172/JCI106017",
+  "pmid": "5773094",
+  "design": "mechanistic",
+  "participants": 17,
+  "population": "Nine obese adults studied during 13 periods of starvation of 21 to 42 days, and eight patients undergoing diagnostic cardiac catheterisation after a 12 to 14 h fast (five) or a 36 to 48 h fast (three)",
+  "funder": "This work was supported in part by U. S. Public Health Service Grants AM-05077, AM-09584, AM-09748, HE-05679, HE-08591, HE-11306, and FR-31, and the John H. Hartford Foundation, Inc., New York. P. Felig held a U. S. Public Health Service Special Postdoctoral Fellowship, 5-F3-AM-36-069.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "In all subjects the splanchnic circulation extracted more alanine than all other amino acids combined. After a 36 to 48 h fast, fractional splanchnic extraction of alanine rose from 43% to 71% without a significant change in arterial alanine. During prolonged starvation plasma alanine fell by 70% while total alpha-amino nitrogen fell 12%; after 5 to 6 weeks splanchnic alanine uptake fell because of the lower arterial concentration, and the kidney took up glycine and alanine.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/106017/version/1/pdf/render.pdf"
+}

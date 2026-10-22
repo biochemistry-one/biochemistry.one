@@ -1,0 +1,17 @@
+{
+  "title": "Effect of incretin-based and nonpharmacologic weight loss on body composition: a systematic review",
+  "authors": "Batsis JA, Gavras A, Gross DC, Cheever CR, Da Silva BR, Meira Filho LF, et al.",
+  "journal": "Annals of Internal Medicine",
+  "year": 2026,
+  "doi": "10.7326/ANNALS-25-00478",
+  "pmid": "41996180",
+  "registry": "Open Science Framework doi 10.17605/OSF.IO/S3A5E",
+  "design": "systematic-review",
+  "population": "35 randomised trials of liraglutide, semaglutide, tirzepatide or dulaglutide in adults reporting fat mass, fat-free mass, lean soft tissue, muscle indices or visceral fat by BIA, DXA, CT or MRI; median duration 26 weeks, median 78 participants; search January 2003 to February 2026",
+  "funder": "Primary funding source: none, as stated in the structured abstract. Disclosure forms are available online and were not read.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Within incretin groups the median share of total weight loss from muscle-based indices was 28.3% (IQR 15.9% to 39.9%), with 65% of interventions exceeding a prespecified benchmark of about 25%; by BIA or DXA about 29% (16.6% to 43.1%), 67% above benchmark; by CT or MRI about 25.3% (16.7% to 27.2%), two thirds above a 15% benchmark. Among 13 lifestyle or placebo comparator groups, with median weight change of -2.5%, 38% exceeded the benchmark. No study reported objective physical function. 42.9% of studies were at low risk of bias and 28.6% prespecified body composition as a primary outcome; heterogeneity precluded meta-analysis.",
+  "class": "independent",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/41996180/"
+}

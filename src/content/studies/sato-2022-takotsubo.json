@@ -1,0 +1,16 @@
+{
+  "title": "Stress cardiomyopathy (Takotsubo syndrome) in patients who received adrenergic agonist drugs: A pharmacovigilance study using the Japanese Adverse Drug Event Report (JADER) database",
+  "authors": "Sato K, Iwata A, Kurihara M, Mano T, Toda T",
+  "journal": "Journal of Cardiology",
+  "year": 2022,
+  "doi": "10.1016/j.jjcc.2021.08.019",
+  "pmid": "34493421",
+  "design": "other",
+  "population": "More than 500,000 case reports in the Japanese Adverse Drug Event Report database, April 2004 to March 2019; disproportionality analysis",
+  "funder": "not read: the full text requires a subscription and is absent from PubMed Central.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Of 306 reports of Takotsubo syndrome, 58 involved adrenergic agonist drugs, 52 of them (89.7%) in women, median age in the 70s. After adjustment for age decade and sex, reporting odds ratios were significantly raised for intravenous catecholamines and for inhaled salbutamol, inhaled procaterol, transdermal tulobuterol and oral midodrine. Spontaneous reports lack denominators and do not establish incidence or causation.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/34493421/"
+}

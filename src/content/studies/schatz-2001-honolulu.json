@@ -1,0 +1,18 @@
+{
+  "title": "Cholesterol and all-cause mortality in elderly people from the Honolulu Heart Program: a cohort study",
+  "authors": "Schatz IJ, Masaki K, Yano K, Chen R, Rodriguez BL, Curb JD",
+  "journal": "Lancet",
+  "year": 2001,
+  "doi": "10.1016/S0140-6736(01)05553-2",
+  "pmid": "11502313",
+  "design": "cohort",
+  "participants": 3572,
+  "followUp": "cholesterol measured 1991 to 1993, mortality to 31 December 1996; cholesterol change over about 20 years from 1971 to 1974",
+  "population": "Japanese-American men aged 71 to 93 in the Honolulu Heart Program",
+  "funder": "This study was supported by grants from the National Heart, Lung, and Blood Institute, and from the Pacific Health Research Institute with funding from the George F Straub Trust and the Robert E Black Fund of the Hawaii Community Foundation, and by contract NOI-AG-4-2149 (Honolulu Asia Aging Study from the National Institute of Aging).",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "727 deaths. Age-adjusted mortality rates by cholesterol quartile (lowest to highest): 68.3, 48.9, 41.1 and 43.3; relative risks against the lowest quartile 0.72 (95% CI 0.60 to 0.87), 0.60 (0.49 to 0.74) and 0.65 (0.53 to 0.80); results unchanged after excluding first-year deaths. After adjustment for frailty measures (haemoglobin, FEV1, grip strength, weight loss, physical function) the associations lost significance (fourth quartile 0.86, 0.66 to 1.12), and also after adding chronic diseases. Low cholesterol at both examinations 20 years apart was associated with mortality (risk ratio 1.64, 1.13 to 2.36). The authors were unable to explain the results and state that the data cast doubt on lowering cholesterol to very low concentrations (below 4.65 mmol/L) in elderly people.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240306235536/https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(01)05553-2/fulltext"
+}

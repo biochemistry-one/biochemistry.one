@@ -1,0 +1,9 @@
+.secrets/
+private/
+node_modules/
+dist/
+.astro/
+design/concept.html
+design/site-home.html
+.DS_Store
+*.log

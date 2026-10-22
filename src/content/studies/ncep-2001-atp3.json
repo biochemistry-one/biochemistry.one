@@ -1,0 +1,17 @@
+{
+  "title": "Executive Summary of The Third Report of The National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, And Treatment of High Blood Cholesterol In Adults (Adult Treatment Panel III)",
+  "authors": "Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults",
+  "journal": "JAMA; also National Heart, Lung, and Blood Institute, NIH Publication No. 01-3670, May 2001",
+  "year": 2001,
+  "doi": "10.1001/jama.285.19.2486",
+  "pmid": "11368702",
+  "url": "https://www.nhlbi.nih.gov/files/docs/guidelines/atp3xsum.pdf",
+  "design": "guideline",
+  "funder": "not stated; the report is issued by the National Cholesterol Education Program of the National Heart, Lung, and Blood Institute",
+  "funderRole": "unknown",
+  "authorConflicts": "The executive summary lists panel members (chair S.M. Grundy) without declarations of financial relationships.",
+  "dataAccess": "summary",
+  "result": "ATP I (1988) targeted primary prevention in people with LDL cholesterol of 160 mg/dL or more, or 130 to 159 mg/dL with 2 or more risk factors; ATP II set an LDL goal of 100 mg/dL or less in coronary heart disease. ATP III classifies LDL cholesterol below 100 mg/dL as optimal, 100 to 129 near optimal, 130 to 159 borderline high, 160 to 189 high and 190 or more very high; total cholesterol below 200 mg/dL desirable, 200 to 239 borderline high and 240 or more high. It made diabetes a coronary heart disease risk equivalent and used Framingham 10-year risk. Drug therapy is considered at LDL 130 mg/dL or more for coronary heart disease or equivalents (10-year risk above 20%; goal below 100), at 130 or more for 2 or more risk factors with 10-year risk 10 to 20% and 160 or more with risk below 10% (goal below 130), and at 190 or more for 0 to 1 risk factor (goal below 160; drug optional at 160 to 189).",
+  "class": "consensus",
+  "fundingChecked": "https://www.nhlbi.nih.gov/files/docs/guidelines/atp3xsum.pdf"
+}

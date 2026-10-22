@@ -1,0 +1,20 @@
+{
+  "title": "Metabolic response to sodium-glucose cotransporter 2 inhibition in type 2 diabetic patients",
+  "authors": "Ferrannini E, Muscelli E, Frascerra S, Baldi S, Mari A, Heise T, et al.",
+  "journal": "Journal of Clinical Investigation",
+  "year": 2014,
+  "doi": "10.1172/JCI72227",
+  "pmid": "24463454",
+  "registry": "NCT01248364",
+  "design": "other",
+  "participants": 66,
+  "followUp": "4 weeks",
+  "population": "Patients with type 2 diabetes, age 62 ± 7 years, BMI 31.6 ± 4.6 kg/m2, HbA1c 55 ± 8 mmol/mol, at the University of Pisa and Profil",
+  "funder": "This study was funded by Boehringer Ingelheim. This study was sponsored by Boehringer Ingelheim; two authors, Uli C. Broedl and Hans-Juergen Woerle, are employees of Boehringer Ingelheim.",
+  "funderRole": "publication",
+  "authorConflicts": "Ferrannini has served as an ad hoc consultant and occasional speaker for Boehringer Ingelheim, Merck, Sanofi, Eli Lilly, Johnson & Johnson, Astellas, Daiichi Sankyo, Bristol-Myers Squibb/AstraZeneca and Novartis; Mari has received research grants from Eli Lilly and Novo Nordisk; Heise is an employee of Profil; Broedl and Woerle are employees of Boehringer Ingelheim.",
+  "dataAccess": "summary",
+  "result": "Open-label, single-arm: baseline, a single 25 mg dose of empagliflozin and 4 weeks of 25 mg daily, each with a mixed meal, dual glucose tracers and indirect calorimetry. After the first dose, urinary glucose was 8 g over 3 h of fasting and 29 g over 5 h after the meal; glycaemia after 3 h of fasting fell by 2.2 ± 0.9 mmol/L against 0.9 ± 0.7 mmol/L at baseline, and fasting endogenous glucose production rose by about 30%. After the meal the insulin response fell and the glucagon response rose. After 4 weeks the fall in glucose oxidation was matched by a rise in lipid oxidation.",
+  "class": "industry",
+  "fundingChecked": "https://www.jci.org/articles/view/72227"
+}

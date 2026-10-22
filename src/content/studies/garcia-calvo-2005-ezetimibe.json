@@ -1,0 +1,16 @@
+{
+  "title": "The target of ezetimibe is Niemann-Pick C1-Like 1 (NPC1L1)",
+  "authors": "Garcia-Calvo M, Lisnock J, Bull HG, Hawes BE, Burnett DA, Braun MP, et al.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 2005,
+  "doi": "10.1073/pnas.0500269102",
+  "pmid": "15928087",
+  "design": "in-vitro",
+  "funder": "not stated",
+  "funderRole": "several",
+  "authorConflicts": "All 24 authors are employees of Merck and/or Schering-Plough, which co-market ezetimibe (Zetia and Vytorin).",
+  "dataAccess": "individual",
+  "result": "Labelled ezetimibe glucuronide bound a single site in intestinal brush-border membranes and in HEK 293 cells expressing NPC1L1; binding affinities of ezetimibe and analogues to recombinant NPC1L1 matched those of native enterocyte membranes. Dissociation constants of ezetimibe glucuronide were 12,000, 540, 40 and 220 nM for mouse, rat, rhesus monkey and human NPC1L1. Ezetimibe did not bind membranes from NPC1L1-knockout mice.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1149415/"
+}

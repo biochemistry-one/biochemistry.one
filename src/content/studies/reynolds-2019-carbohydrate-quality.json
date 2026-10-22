@@ -1,0 +1,17 @@
+{
+  "title": "Carbohydrate quality and human health: a series of systematic reviews and meta-analyses",
+  "authors": "Reynolds A, Mann J, Cummings J, Winter N, Mete E, Te Morenga L",
+  "journal": "The Lancet",
+  "year": 2019,
+  "doi": "10.1016/S0140-6736(18)31809-9",
+  "pmid": "30638909",
+  "design": "meta-analysis",
+  "population": "185 prospective studies with just under 135 million person-years and 58 randomised trials of at least 4 weeks with 4635 adults; studies of people with chronic disease, weight-loss trials and trials of fibre supplements excluded",
+  "funder": "Health Research Council of New Zealand; WHO; Riddet Centre of Research Excellence; Healthier Lives National Science Challenge; Department of Medicine, University of Otago; Otago Southland Diabetes Research Trust. With the exception of WHO, the funders had no role in study design, data collection, data analysis, data interpretation or writing the report. The research was commissioned by WHO to inform updated recommendations on carbohydrate intake. The WHO Nutrition Guidance Expert Advisory Group specified the PICO criteria, including exposure and outcome measures, and confirmed or modified the quality judgments, but had no other involvement in the conduct or interpretation of the research. The corresponding author had full access to all the data and final responsibility for the decision to submit for publication.",
+  "funderRole": "several",
+  "authorConflicts": "We declare no competing interests.",
+  "dataAccess": "summary",
+  "result": "Corrected version of 31 January 2019. Highest against lowest dietary fibre intake, prospective studies: all-cause mortality RR 0.85 (95% CI 0.79 to 0.91; 10 studies, 80,139 deaths, 12.3 million person-years), 13 fewer deaths (8 to 18) per 1000 participants over the duration of the studies; coronary heart disease incidence RR 0.76 (0.69 to 0.83), 6 fewer cases (4 to 7) per 1000; type 2 diabetes RR 0.84 (0.78 to 0.90); colorectal cancer RR 0.84 (0.78 to 0.89); GRADE moderate. Against the lowest intakes, the greatest benefits were at 25 to 29 g per day (improvement in six of seven critical outcomes); many dose-response curves were linear with no sign of a plateau. Trials, higher against lower fibre: body weight MD -0.37 kg (-0.63 to -0.11; 27 trials), total cholesterol -0.15 mmol/L (-0.22 to -0.07; 36 trials), systolic blood pressure -1.27 mm Hg (-2.50 to -0.04; 15 trials). Whole grains: all-cause mortality RR 0.81 (0.72 to 0.90), 26 fewer deaths (14 to 39) per 1000; GRADE low for most critical outcomes; trials, body weight MD -0.62 kg (-1.19 to -0.05; 11 trials). Lower against higher glycaemic index: type 2 diabetes RR 0.89 (0.82 to 0.97), GRADE very low, statistical significance not maintained in sensitivity analyses. Trials reported adiposity, glycaemia, insulin, lipids and blood pressure. Certainty graded moderate for dietary fibre, low to moderate for whole grains and low to very low for glycaemic index and glycaemic load.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250127055232/https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31809-9/fulltext"
+}

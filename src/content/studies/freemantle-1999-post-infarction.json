@@ -1,0 +1,18 @@
+{
+  "title": "beta Blockade after myocardial infarction: systematic review and meta regression analysis",
+  "authors": "Freemantle N, Cleland J, Young P, Mason J, Harrison J",
+  "journal": "BMJ",
+  "year": 1999,
+  "doi": "10.1136/bmj.318.7200.1730",
+  "pmid": "10381708",
+  "design": "meta-analysis",
+  "participants": 54234,
+  "population": "Randomised controlled trials of beta-blockers against control in patients with acute or past myocardial infarction, short-term and long-term secondary prevention trials, predating widespread reperfusion",
+  "funder": "SmithKline Beecham Pharmaceuticals UK, through an unrestricted educational grant; SmithKline Beecham supplies carvedilol in the United States. The views expressed are stated to be those of the authors and not necessarily those of the sponsor.",
+  "funderRole": "unknown",
+  "authorConflicts": "One author has spoken at meetings and educational programmes on drugs in heart failure organised by pharmaceutical and device companies, with fees and expenses, and has received research funding from industry, the NHS, the British Heart Foundation and the US Veterans Administration.",
+  "dataAccess": "summary",
+  "result": "Of 54,234 randomised patients, 5477 (10.1%) died. Long-term trials showed a 23% reduction in the odds of death (95% CI 15% to 31%) and short-term trials a 4% reduction (-8% to 15%). The annual reduction in mortality corresponds to about 84 patients treated for one year to avoid one death, and 42 treated for two years; about 107 patients treated for one year avoid one non-fatal reinfarction. Most evidence concerns propranolol, timolol and metoprolol; atenolol is inadequately evaluated for long-term use. Meta-regression showed a near-significant trend towards less benefit with intrinsic sympathomimetic activity and no significant loss of benefit with cardioselectivity.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC31101/"
+}

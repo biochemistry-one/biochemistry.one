@@ -1,0 +1,14 @@
+{
+  "title": "§ 172.892 Food starch-modified",
+  "authors": "US Food and Drug Administration",
+  "journal": "Code of Federal Regulations, Title 21, Part 172 (Food additives permitted for direct addition to food for human consumption); electronic CFR, version of 1 October 2026",
+  "year": 2026,
+  "url": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-21.xml?part=172&section=172.892",
+  "design": "regulatory",
+  "funder": "US Food and Drug Administration",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Food starch-modified may be safely used in food; the quantity of any substance used for the modification shall not exceed the amount reasonably required for the intended physical or technical effect, nor any prescribed limitation; additive containers are labelled 'food starch-modified'. Permitted treatments include oxidation with sodium hypochlorite (not more than 0.055 lb chlorine per lb dry starch); esterification with acetic anhydride or vinyl acetate (acetyl groups not more than 2.5%), adipic anhydride (not more than 0.12%) with acetic anhydride, monosodium orthophosphate (residual phosphate not more than 0.4% as phosphorus), 1-octenyl succinic anhydride (not more than 3%, or not more than 2% with aluminium sulfate not more than 2%), phosphorus oxychloride (not more than 0.1%, alone or followed by acetic anhydride not more than 8% or vinyl acetate not more than 7.5%), sodium trimetaphosphate (residual phosphate not more than 0.04% as phosphorus) or sodium tripolyphosphate with sodium trimetaphosphate (not more than 0.4%); etherification with propylene oxide (not more than 25%; residual propylene chlorohydrin not more than 5 ppm), epichlorohydrin or acrolein; phosphorus oxychloride with propylene oxide (not more than 0.1% and 10%). Source note: 42 FR 14491, 15 March 1977, last amended 66 FR 17509, 2 April 2001.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-01/title-21.xml?part=172&section=172.892"
+}

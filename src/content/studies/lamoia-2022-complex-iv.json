@@ -1,0 +1,17 @@
+{
+  "title": "Metformin, phenformin, and galegine inhibit complex IV activity and reduce glycerol-derived gluconeogenesis",
+  "authors": "LaMoia TE, Butrico GM, Kalpage HA, Goedeke L, Hubbard BT, Vatner DF, et al.",
+  "journal": "Proceedings of the National Academy of Sciences",
+  "year": 2022,
+  "doi": "10.1073/pnas.2122287119",
+  "pmid": "35238637",
+  "design": "animal",
+  "population": "Primary rat hepatocytes, isolated mitochondria and awake rats given acute portal or intravenous infusions",
+  "funder": "This study was supported by US Public Health Service Grants R01 DK116774, R01 DK119968, R01 DK113984, R01 DK114793, P30 DK045735, F31 DK126362, T32 GM007324 and K99 HL150234, recorded by the publisher as awards of the National Institute of Diabetes and Digestive and Kidney Diseases, the National Institute of General Medical Sciences and the National Heart, Lung, and Blood Institute.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing interest.",
+  "dataAccess": "summary",
+  "result": "Acute portal infusion of piericidin A, a potent and specific inhibitor of mitochondrial complex I, did not reduce hepatic gluconeogenesis in vivo, so inhibition of complex I was shown not to be sufficient to lower plasma glucose. Metformin, phenformin and galegine instead interacted with complex IV and reduced its enzymatic activity at clinically relevant concentrations, leading indirectly to inhibition of mitochondrial glycerol-3-phosphate dehydrogenase (GPD2), an increased cytosolic redox state and selective inhibition of glycerol-derived hepatic gluconeogenesis in vitro and in vivo. Inhibition of complex IV with potassium cyanide reproduced these effects in vitro, selectively reducing glycerol-derived gluconeogenesis through an increased cytosolic redox state, and complex IV inhibition was sufficient to inhibit glycerol-3-phosphate-mediated respiration and gluconeogenesis.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8916010/fullTextXML"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Effect of beta-Blocker Withdrawal on Functional Capacity in Heart Failure and Preserved Ejection Fraction",
+  "authors": "Palau P, Seller J, Dominguez E, Sastre C, Ramon JM, de La Espriella R, et al.",
+  "journal": "Journal of the American College of Cardiology",
+  "year": 2021,
+  "doi": "10.1016/j.jacc.2021.08.073",
+  "pmid": "34794685",
+  "registry": "NCT03871803; EudraCT 2017-005077-39",
+  "design": "rct",
+  "participants": 52,
+  "followUp": "two 2-week treatment periods separated by a 2-week washout",
+  "population": "Patients with stable heart failure with preserved ejection fraction, New York Heart Association class II or III, chronotropic incompetence and previous beta-blocker treatment, in a multicentre trial sponsored from Valencia, Spain; mean age 72.6 years, 59.6% women",
+  "funder": "Supported by grants from the Spanish Ministry of Economy and Competitiveness through the Carlos III Health Institute (Fondos de Investigacion Sanitaria PI17/01426), co-funded with European Regional Development Fund and Centro de Investigacion Biomedica en Red Enfermedades Cardiovascular funds (16/11/00420 and 16/11/00403); the authors report no relationships relevant to the paper. Registry NCT03871803 names the Fundacion para la Investigacion del Hospital Clinico de Valencia as sponsor. A post hoc report of the same trial states that the funders had no role in design, conduct, analysis or publication.",
+  "funderRole": "none",
+  "dataAccess": "unknown",
+  "result": "Multicentre, randomised, investigator-blinded crossover trial of withdrawing (n = 26) against continuing (n = 26) beta-blocker treatment, then the opposite. Peak oxygen consumption rose after withdrawal, 14.3 against 12.2 ml/kg/min (difference +2.1, P < 0.001), and percentage of predicted peak oxygen consumption 81.1% against 69.4% (+11.7%, P < 0.001). Heart rate at peak exercise was higher after withdrawal (least-square means 127 against 97 beats per minute, P < 0.001), and the change in peak oxygen consumption correlated positively with the change in peak heart rate.",
+  "class": "independent",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/34794685/"
+}

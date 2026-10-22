@@ -1,0 +1,18 @@
+{
+  "title": "Asthma control during long-term treatment with regular inhaled salbutamol and salmeterol",
+  "authors": "Taylor DR, Town GI, Herbison GP, Boothman-Burrell D, Flannery EM, Hancox B, et al.",
+  "journal": "Thorax",
+  "year": 1998,
+  "doi": "10.1136/thx.53.9.744",
+  "pmid": "10319056",
+  "design": "rct",
+  "participants": 165,
+  "followUp": "three 24-week treatment periods, each followed by a 4-week washout",
+  "population": "Patients with mild to moderate asthma at two New Zealand centres; double-dummy crossover of salbutamol 400 µg four times daily, salmeterol 50 µg twice daily or placebo, all with salbutamol as required",
+  "funder": "not read: PubMed Central holds only a scanned PDF of the article.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "157 patients were analysed. Against placebo, regular salbutamol did not change morning peak flow, raised evening peak flow by 21 l/min (95% CI 17 to 26), improved only daytime symptoms, and was followed by a deteriorating asthma score over time (p < 0.01). Minor exacerbation rates were 0.88 with salbutamol and 0.97 with placebo, and major exacerbation rates 0.51 and 0.40 per patient-year; time spent in major exacerbation was longer with salbutamol (12.3 days, 95% CI 4.2 to 20.4, against 8.4 days, 5.2 to 11.6; p = 0.02). No rebound deterioration in control, lung function or bronchial hyperresponsiveness followed cessation, and no tolerance was found.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1745306/"
+}

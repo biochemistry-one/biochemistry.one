@@ -1,0 +1,15 @@
+{
+  "title": "Cardiovascular disease: risk assessment and reduction, including lipid modification",
+  "authors": "National Institute for Health and Care Excellence",
+  "journal": "National Institute for Health and Care Excellence, NICE guideline NG238, recommendations section",
+  "year": 2023,
+  "pmid": "38564551",
+  "url": "https://www.nice.org.uk/guidance/ng238/chapter/Recommendations",
+  "design": "guideline",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Recommendation 1.6.7: offer atorvastatin 20 mg for primary prevention to people with a 10-year QRISK3 score of 10% or more [May 2023]. 1.6.8: do not rule out atorvastatin 20 mg just because the QRISK3 score is below 10% if the person has an informed preference or risk may be underestimated. 1.6.9: for people aged 85 and older consider atorvastatin 20 mg, being aware of factors that may make treatment inappropriate. QRISK3 is intended for people aged 25 to 84. The committee agreed that no risk tool is very good at accurately discriminating between who will and who will not have a cardiovascular event. Lifetime risk tools are suggested for people with QRISK3 below 10% and people under 40 with risk factors.",
+  "class": "consensus",
+  "fundingChecked": "https://www.nice.org.uk/guidance/ng238/chapter/Recommendations"
+}

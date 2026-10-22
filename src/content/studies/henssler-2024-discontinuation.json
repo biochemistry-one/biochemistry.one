@@ -1,0 +1,19 @@
+{
+  "title": "Incidence of antidepressant discontinuation symptoms: a systematic review and meta-analysis",
+  "authors": "Henssler J, Schmidt Y, Schmidt U, Schwarzer G, Bschor T, Baethge C",
+  "journal": "Lancet Psychiatry",
+  "year": 2024,
+  "doi": "10.1016/S2215-0366(24)00133-0",
+  "pmid": "38851198",
+  "design": "meta-analysis",
+  "participants": 21002,
+  "followUp": "observation after discontinuation 1.5 to 196 days; prior antidepressant use 1 to 156 weeks",
+  "population": "79 studies (44 randomised trials, 35 observational) of people with mental, behavioural or neurodevelopmental disorders stopping an antidepressant (16,532) or placebo (4470), published 1961 to 2019",
+  "funder": "There was no funding source for this study.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing interests. Outside this work, JH received a research grant from the German Federal Ministry of Education and Research.",
+  "dataAccess": "summary",
+  "result": "Incidence of at least one discontinuation symptom 0.31 (95% CI 0.27 to 0.35) in 62 antidepressant groups and 0.17 (0.14 to 0.21) in 22 placebo groups; risk difference in 20 randomised trials 0.079 (0.039 to 0.119). Studies using a structured instrument gave 0.40 against 0.27 without one. Severe symptoms 0.028 (0.014 to 0.057) after antidepressants and 0.006 (0.002 to 0.013) after placebo. Sertraline 0.18 (0.08 to 0.35) in 5 studies. Tapering 0.30 against abrupt stopping 0.29. 45 of the analysed studies were funded by pharmaceutical companies. The authors estimated that about 15% of people stopping have pharmacologically caused symptoms.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250801005250/https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(24)00133-0/fulltext"
+}

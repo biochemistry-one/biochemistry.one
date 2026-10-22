@@ -1,0 +1,94 @@
+{
+  "title": "甲羟戊酸途径",
+  "layout": "chain",
+  "compartment": "胞质溶胶与内质网",
+  "steps": [
+    {
+      "from": "乙酰辅酶A",
+      "to": "乙酰乙酰辅酶A",
+      "enzyme": "乙酰辅酶A乙酰转移酶2（ACAT2）",
+      "reversible": true,
+      "note": "两分子乙酰辅酶A缩合，释放辅酶A"
+    },
+    {
+      "from": "乙酰乙酰辅酶A",
+      "to": "羟甲基戊二酸单酰辅酶A（HMG-CoA）",
+      "enzyme": "HMG-CoA合酶1（HMGCS1）",
+      "cofactors": ["乙酰辅酶A", "H2O"],
+      "note": "加入第三个乙酰基单位，释放辅酶A"
+    },
+    {
+      "from": "羟甲基戊二酸单酰辅酶A（HMG-CoA）",
+      "to": "甲羟戊酸",
+      "enzyme": "HMG-CoA还原酶（HMGCR）",
+      "cofactors": ["2 NADPH"],
+      "inhibitors": [{"name": "他汀类药物", "page": "medicines/statins"}],
+      "note": "限速步骤；该酶位于内质网膜；释放辅酶A"
+    },
+    {
+      "from": "甲羟戊酸",
+      "to": "甲羟戊酸-5-磷酸",
+      "enzyme": "甲羟戊酸激酶（MVK）",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "甲羟戊酸-5-磷酸",
+      "to": "甲羟戊酸-5-二磷酸",
+      "enzyme": "磷酸甲羟戊酸激酶（PMVK）",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "甲羟戊酸-5-二磷酸",
+      "to": "异戊烯基二磷酸",
+      "enzyme": "二磷酸甲羟戊酸脱羧酶（MVD）",
+      "cofactors": ["ATP"],
+      "note": "释放CO2和磷酸；产物为C5类异戊二烯单位"
+    },
+    {
+      "from": "异戊烯基二磷酸",
+      "to": "二甲基烯丙基二磷酸",
+      "enzyme": "异戊烯基二磷酸异构酶1（IDI1）",
+      "reversible": true
+    },
+    {
+      "from": "二甲基烯丙基二磷酸",
+      "to": "香叶基二磷酸",
+      "enzyme": "法尼基二磷酸合酶（FDPS）",
+      "cofactors": ["异戊烯基二磷酸"],
+      "note": "加入一个C5单位，释放焦磷酸"
+    },
+    {
+      "from": "香叶基二磷酸",
+      "to": "法尼基二磷酸",
+      "enzyme": "法尼基二磷酸合酶（FDPS）",
+      "cofactors": ["异戊烯基二磷酸"],
+      "note": "通向泛醌、多萜醇、血红素A及异戊烯化蛋白的分支点"
+    },
+    {
+      "from": "法尼基二磷酸",
+      "to": "鲨烯",
+      "enzyme": "鲨烯合酶（FDFT1）",
+      "cofactors": ["NADPH"],
+      "note": "两分子法尼基二磷酸经前鲨烯二磷酸相连"
+    },
+    {
+      "from": "鲨烯",
+      "to": "(S)-2,3-环氧鲨烯",
+      "enzyme": "鲨烯单加氧酶（SQLE）",
+      "cofactors": ["O2", "经细胞色素P450氧化还原酶（POR）传递的NADPH", "FAD"],
+      "note": "亦被视为固醇合成的限速酶"
+    },
+    {
+      "from": "(S)-2,3-环氧鲨烯",
+      "to": "羊毛固醇",
+      "enzyme": "羊毛固醇合酶（LSS）",
+      "note": "环化生成第一种固醇"
+    },
+    {
+      "from": "羊毛固醇",
+      "to": "胆固醇",
+      "enzyme": "多步反应",
+      "note": "经Bloch途径或改良Kandutsch-Russell途径；首步由CYP51A1催化，末步由DHCR24或DHCR7催化"
+    }
+  ]
+}

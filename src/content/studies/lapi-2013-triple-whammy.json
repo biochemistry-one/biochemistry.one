@@ -1,0 +1,19 @@
+{
+  "title": "Concurrent use of diuretics, angiotensin converting enzyme inhibitors, and angiotensin receptor blockers with non-steroidal anti-inflammatory drugs and risk of acute kidney injury: nested case-control study",
+  "authors": "Lapi F, Azoulay L, Yin H, Nessim SJ, Suissa S",
+  "journal": "BMJ",
+  "year": 2013,
+  "doi": "10.1136/bmj.e8525",
+  "pmid": "23299844",
+  "design": "case-control",
+  "participants": 487372,
+  "followUp": "mean 5.9 years (SD 3.4)",
+  "population": "Users of antihypertensive drugs in UK general practices contributing to the Clinical Practice Research Datalink, linked to Hospital Episode Statistics; cases were first hospital admissions with acute kidney injury (ICD-10 N17 in primary position), each matched with up to 10 controls; mean age of cases 76.9 years",
+  "funder": "This study was funded in part by infrastructure grants from the Drug Safety and Effectiveness Network (DSEN), the Canadian Institute of Health Research (CIHR), and the Canada Foundation for Innovation. The funding sources had no role in the design, analysis, or interpretation of the results, and thus the authors were independent from the funding sources.",
+  "funderRole": "none",
+  "authorConflicts": "Suissa has received research grants and participated in advisory boards or as a speaker for AstraZeneca, Boehringer-Ingelheim, GlaxoSmithKline, Novartis, Pfizer and Merck; Nessim has received speakers' honorariums from Baxter Healthcare and Merck Frosst.",
+  "dataAccess": "individual",
+  "result": "2215 cases of acute kidney injury requiring hospital admission arose during follow-up, an incidence of 7 per 10,000 person-years. Current use of a double combination of a diuretic, an ACE inhibitor or an angiotensin receptor blocker with a non-steroidal anti-inflammatory drug was not associated with an increased rate. Current use of a triple combination of a diuretic with an ACE inhibitor or angiotensin receptor blocker and a non-steroidal anti-inflammatory drug was associated with a rate ratio of 1.31 (95% CI 1.12 to 1.53), highest in the first 30 days of combined use (1.82, 1.35 to 2.46).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3541472/"
+}

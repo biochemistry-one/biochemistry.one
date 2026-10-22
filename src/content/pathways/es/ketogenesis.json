@@ -1,0 +1,43 @@
+{
+  "title": "Cetogénesis",
+  "layout": "chain",
+  "compartment": "Matriz mitocondrial de los hepatocitos",
+  "steps": [
+    {
+      "from": "Acil-CoA de cadena larga",
+      "to": "Acetil-CoA",
+      "enzyme": "varios pasos",
+      "inhibitors": [{"name": "Malonil-CoA"}],
+      "note": "Entrada por la lanzadera de carnitina (CPT1A); después, β-oxidación"
+    },
+    {
+      "from": "Acetil-CoA",
+      "to": "Acetoacetil-CoA",
+      "enzyme": "Acetil-CoA acetiltransferasa 1 (ACAT1)",
+      "cofactors": ["Acetil-CoA"],
+      "reversible": true,
+      "note": "Tiolasa mitocondrial; condensa dos acetil-CoA y libera CoA"
+    },
+    {
+      "from": "Acetoacetil-CoA",
+      "to": "HMG-CoA",
+      "enzyme": "HMG-CoA sintasa 2 (HMGCS2), mitocondrial",
+      "cofactors": ["Acetil-CoA", "H2O"],
+      "note": "Paso comprometido; libera CoA; su déficit altera la cetogénesis durante el ayuno"
+    },
+    {
+      "from": "HMG-CoA",
+      "to": "Acetoacetato",
+      "enzyme": "HMG-CoA liasa (HMGCL)",
+      "note": "Libera acetil-CoA; el acetoacetato se descarboxila espontáneamente a acetona"
+    },
+    {
+      "from": "Acetoacetato",
+      "to": "D-3-Hidroxibutirato",
+      "enzyme": "3-Hidroxibutirato deshidrogenasa 1 (BDH1)",
+      "cofactors": ["NADH a NAD+"],
+      "reversible": true,
+      "note": "Casi en equilibrio; el cociente de productos refleja el NADH/NAD+ mitocondrial"
+    }
+  ]
+}

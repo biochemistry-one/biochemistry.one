@@ -1,0 +1,17 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "url": "https://www.uniprot.org/",
+  "design": "database",
+  "funder": "National Human Genome Research Institute (NHGRI) [HG002273]; Office of the Director, NIH OD [U24HG007822]; National Institute of Allergy and Infectious Diseases (NIAID); National Institute on Aging (NIA); National Institute of General Medical Sciences (NIGMS) [R35GM141873]; National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK); National Eye Institute (NEI); National Cancer Institute (NCI); National Heart, Lung, and Blood Institute (NHLBI); Biotechnology and Biological Sciences Research Council (BBSRC) [BB/T015608/1]; National Science Foundation's Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 - Research and Innovation Framework Programme [825575]; State Secretariat for Education, Research and Innovation (SERI); European Molecular Biology Laboratory (EMBL) Australia. Funding for open access charge: National Institutes of Health.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed human entries, release 2026_03, read 2026-10-21 through rest.uniprot.org. ACSL1 (P33121): converts long-chain fatty acids, preferentially palmitoleate, oleate and linoleate, with ATP and CoA to acyl-CoAs, AMP and diphosphate; cofactor Mg2+. FADS2 (O95864), acyl-CoA 6-desaturase (delta-6 desaturase): catalyses the first and rate-limiting step of highly unsaturated fatty acid synthesis, desaturating linoleoyl-CoA (18:2n-6) and alpha-linolenoyl-CoA (18:3n-3) to gamma-linolenoyl-CoA (18:3n-6) and stearidonoyl-CoA (18:4n-3) with O2 and electrons from cytochrome b5; endoplasmic reticulum membrane. ELOVL5 (Q9NYP7): catalyses the first and rate-limiting reaction of the four-reaction elongation cycle, condensing malonyl-CoA with polyunsaturated acyl-CoAs, highest activity toward 18:3(n-6)-CoA; HSD17B12 (Q53GQ0) and TECR (Q9NZ01) catalyse the two NADPH-dependent reductions of the cycle with 20:3(n-6) intermediates; HACD1 to HACD4 (B0YJ81, Q6Y1H2, Q9P035, Q5VWC8) are very-long-chain (3R)-3-hydroxyacyl-CoA dehydratases. FADS1 (O60427), acyl-CoA (8-3)-desaturase (delta-5 desaturase): desaturates dihomo-gamma-linolenoyl-CoA (20:3n-6) and eicosatetraenoyl-CoA (20:4n-3) to arachidonoyl-CoA (20:4n-6) and eicosapentaenoyl-CoA (20:5n-3). LPCAT3 (Q6P1A2), lysophospholipid acyltransferase 5: catalyses the reacylation step of the Lands cycle, transferring acyl chains from acyl-CoA to 1-acyl lysophospholipids and favouring polyunsaturated acyl-CoAs. PLA2G4A (P47712), cytosolic phospholipase A2: primarily calcium-dependent; selectively hydrolyses the sn-2 arachidonoyl group of membrane phospholipids, providing the precursor for eicosanoid synthesis through the cyclooxygenase pathway. PTGS1 (P23219) and PTGS2 (P35354), prostaglandin G/H synthases 1 and 2 (COX-1, COX-2): cyclooxygenase activity oxygenates arachidonate with 2 O2 to prostaglandin G2 and peroxidase activity reduces it to prostaglandin H2, the precursor of all 2-series prostaglandins and thromboxanes; cofactor heme b; targets of NSAIDs including aspirin, which inactivates the enzyme irreversibly by serine acetylation.",
+  "class": "reference",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11701636/fullTextXML"
+}

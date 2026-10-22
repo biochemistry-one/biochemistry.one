@@ -1,0 +1,19 @@
+{
+  "title": "Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality",
+  "authors": "Zhong VW, Van Horn L, Greenland P, Carnethon MR, Ning H, Wilkins JT, et al.",
+  "journal": "JAMA Internal Medicine",
+  "year": 2020,
+  "doi": "10.1001/jamainternmed.2019.6969",
+  "pmid": "32011623",
+  "design": "cohort",
+  "participants": 29682,
+  "followUp": "median 19.0 years (interquartile range 14.1 to 23.7)",
+  "population": "Individual-level data from 6 US prospective cohorts; baseline diet 1985 to 2002, follow-up to 31 August 2016; mean age 53.7 years, 44.4% men, 30.7% self-identified as non-white",
+  "funder": "This study was funded in part by a postdoctoral fellowship to Dr Zhong from the American Heart Association Strategically Focused Research Networks (14SFRN20480260). The Lifetime Risk Pooling Project was funded by grant R21 HL085375 from the NIH/NHLBI and by the Northwestern University Feinberg School of Medicine. The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Dr Greenland reported grants from the NIH and the American Heart Association; Dr Wilkins reported NHLBI grants and a modest consultant fee from NGM Biopharmaceuticals outside the submitted work; Dr Lloyd-Jones reported NIH grants.",
+  "dataAccess": "individual",
+  "result": "6963 incident cardiovascular events and 8875 deaths. Hazard ratios and 30-year absolute risk differences per 2 servings a week (2 against 0 servings a week for the nonmonotonic association of processed meat with cardiovascular disease). Cardiovascular disease: processed meat HR 1.07 (95% CI 1.04 to 1.11), ARD 1.74% (0.85% to 2.63%); unprocessed red meat HR 1.03 (1.01 to 1.06), ARD 0.62% (0.07% to 1.16%); poultry HR 1.04 (1.01 to 1.06), ARD 1.03% (0.36% to 1.70%); fish HR 1.00 (0.98 to 1.02). All-cause mortality: processed meat HR 1.03 (1.02 to 1.05), ARD 0.90% (0.43% to 1.38%); unprocessed red meat HR 1.03 (1.01 to 1.05), ARD 0.76% (0.19% to 1.33%); poultry HR 0.99 (0.97 to 1.02); fish HR 0.99 (0.97 to 1.01). Results read from the abstract in PubMed Central.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7042891"
+}

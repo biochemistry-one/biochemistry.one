@@ -1,0 +1,16 @@
+{
+  "title": "Identification of a highly specific chymase as the major angiotensin II-forming enzyme in the human heart",
+  "authors": "Urata H, Kinoshita A, Misono KS, Bumpus FM, Husain A",
+  "journal": "Journal of Biological Chemistry",
+  "year": 1990,
+  "doi": "10.1016/S0021-9258(18)45712-2",
+  "pmid": "2266130",
+  "design": "in-vitro",
+  "population": "Enzyme purified from human left ventricular cardiac membranes",
+  "funder": "not read: the publisher page is not accessible and the PubMed abstract carries no funding statement.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Angiotensin II-forming activity in human left ventricle is minimally inhibited by ACE inhibitors, and over 75% is inhibited by serine proteinase inhibitors. The major activity was purified 115,150-fold as a 30 kDa chymotrypsin-like serine proteinase of the chymase subfamily, highly specific for converting angiotensin I to angiotensin II plus His-Leu (kcat/Km 198 per min per µM); it did not degrade angiotensin II or bradykinin and did not form angiotensin II from angiotensinogen.",
+  "class": "undetermined",
+  "fundingChecked": "https://doi.org/10.1016/S0021-9258(18)45712-2"
+}

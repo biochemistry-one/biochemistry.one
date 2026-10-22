@@ -1,0 +1,18 @@
+{
+  "title": "Holding chambers (spacers) versus nebulisers for beta-agonist treatment of acute asthma",
+  "authors": "Cates CJ, Welsh EJ, Rowe BH",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2013,
+  "doi": "10.1002/14651858.CD000052.pub3",
+  "pmid": "24037768",
+  "design": "meta-analysis",
+  "participants": 2626,
+  "population": "39 randomised trials in 1897 children and 729 adults with acute asthma in emergency departments, community settings or hospital wards",
+  "funder": "Internal sources: NHS Executive, North Thames, UK; NHS Executive Eastern Region, UK; Department of Emergency Medicine, University of Alberta, Canada; St George's University of London, UK. External sources: Garfield Weston Foundation, UK; Canadian Institutes of Health Research.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have no financial interest in any of the devices used to deliver beta2-agonists in acute asthma and no involvement with the primary studies.",
+  "dataAccess": "summary",
+  "result": "Hospital admission did not differ between metered-dose inhaler with spacer and nebuliser: adults RR 0.94 (95% CI 0.61 to 1.43; 9 trials, n = 582), children RR 0.71 (0.47 to 1.08; 9 trials, n = 757). Children's stay in the emergency department was 33 minutes shorter with spacers (24 to 43), against a mean of 103 minutes with nebulisers. Pulse rate in children was lower with spacers (mean difference -5% of baseline, -8% to -2%), and tremor was less frequent (RR 0.64, 0.44 to 0.95; 4 studies in children). Peak flow and FEV1 were similar.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7032675/"
+}

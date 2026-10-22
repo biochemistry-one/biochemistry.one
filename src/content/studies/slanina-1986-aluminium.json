@@ -1,0 +1,19 @@
+{
+  "title": "Dietary citric acid enhances absorption of aluminum in antacids",
+  "authors": "Slanina P, Frech W, Ekström LG, Lööf L, Slorach S, Cedergren A",
+  "journal": "Clinical Chemistry",
+  "year": 1986,
+  "doi": "10.1093/clinchem/32.3.539",
+  "pmid": "3948402",
+  "design": "other",
+  "participants": 10,
+  "followUp": "45 days: three 7-day supplementation periods in fixed order, separated by balance periods of 4 to 7 days",
+  "population": "Healthy men aged 23 to 35 years from Uppsala, Sweden, with uncontrolled diets",
+  "funder": "not stated. Affiliations: Food Research Department, Swedish National Food Administration; Department of Analytical Chemistry, University of Umeå; Department of Internal Medicine, Uppsala University Hospital.",
+  "funderRole": "unknown",
+  "inKindSupport": "Perkin-Elmer provided the Model AA 3030 spectrometer on consignment.",
+  "dataAccess": "individual",
+  "result": "Twice daily between meals for 7 days each, in fixed order: (a) 200 mL of lemon juice diluted fivefold with tap water, containing 6 mg citric acid per mL; (b) 10 mL of Al(OH)3 antacid suspension (Novalucol, 23.2 mg Al per mL); (c) both together. Mean whole-blood Al (Table 1): 0.004 and 0.005 mg/L at the two control samplings, 0.009 mg/L after lemon juice (p < 0.05 against the preceding sample), 0.012 mg/L after Al(OH)3 alone (p < 0.001) and 0.023 mg/L after Al(OH)3 with lemon juice (p < 0.001); the abstract gives 5 (SD 3), 9 (SD 4), 12 (SD 3) and 23 (SD 2) µg/L. The individual values in Table 1 for the combined period give an SD of 5.5 µg/L and a standard error of 1.7 µg/L, against the printed SD of 2. Blood Al did not return fully to control values in the balance periods. Speciation calculations indicate Al-citrate complexes in the acidic stomach.",
+  "class": "undetermined",
+  "fundingChecked": "https://web.archive.org/web/20180331125623id_/http://clinchem.aaccjnls.org/content/clinchem/32/3/539.full.pdf"
+}

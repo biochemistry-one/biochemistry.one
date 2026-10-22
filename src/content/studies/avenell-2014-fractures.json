@@ -1,0 +1,18 @@
+{
+  "title": "Vitamin D and vitamin D analogues for preventing fractures in post-menopausal women and older men",
+  "authors": "Avenell A, Mak JC, O'Connell D",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2014,
+  "doi": "10.1002/14651858.CD000227.pub4",
+  "pmid": "24729336",
+  "design": "systematic-review",
+  "participants": 91791,
+  "population": "53 randomised or quasi-randomised trials in post-menopausal women and men over 65 years in community, nursing-home and hospital settings; searches to December 2012",
+  "funder": "Internal: Health Services Research Unit, University of Aberdeen; computing, administration and library services. External: Chief Scientist Office, Scottish Government Health Directorates (part funding of salary, AA). No statement on the role of the funders was found.",
+  "funderRole": "unknown",
+  "authorConflicts": "Alison Avenell participated in the RECORD trial and was principal investigator of the Avenell 2004 trial; she did not extract data from or assess trials in which she was involved. The other authors declared nothing.",
+  "dataAccess": "summary",
+  "result": "Vitamin D alone: hip fracture RR 1.12 (95% CI 0.98 to 1.29; 11 trials, 27,693 participants), any new fracture RR 1.03 (0.96 to 1.11; 15 trials, 28,271). Vitamin D plus calcium: hip fracture RR 0.84 (0.74 to 0.96; 9 trials, 49,853), equal to 1 fewer hip fracture per 1000 older adults per year in the community (estimated 8 per 1000 per year) and 9 fewer per 1000 per year in institutions (estimated 54 per 1000 per year); any fracture RR 0.95 (0.90 to 0.99). Adverse effects: hypercalcaemia, usually mild (2.6 to 2.8 mmol/L), RR 2.28 (1.57 to 3.31; 21 trials, 17,124), for calcitriol RR 4.41 (2.14 to 9.09); gastrointestinal symptoms RR 1.04 (1.00 to 1.08); renal disease RR 1.16 (1.02 to 1.33; 11 trials, 46,548). For vitamin D plus calcium, renal calculi or insufficiency 9 against 8 per 10,000 per year (RR 1.17, 1.03 to 1.34; 2 trials, 39,552), data dominated by the 7-year WHI trial. Mortality RR 0.97 (0.93 to 1.01; 29 trials, 71,032).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7032685/"
+}

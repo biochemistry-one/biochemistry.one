@@ -1,0 +1,17 @@
+{
+  "title": "Threonine dehydrogenase is a minor degradative pathway of threonine catabolism in adult humans",
+  "authors": "Darling PB, Grunow J, Rafii M, Brookes S, Ball RO, Pencharz PB",
+  "journal": "American Journal of Physiology. Endocrinology and Metabolism",
+  "year": 2000,
+  "doi": "10.1152/ajpendo.2000.278.5.E877",
+  "pmid": "10780944",
+  "design": "mechanistic",
+  "participants": 6,
+  "population": "Six healthy adult men studied on a control diet, a diet with added free threonine and a high-protein diet, with 4-hour infusions of L-[1-13C]threonine and [15N]glycine",
+  "funder": "Medical Research Council (MRC) of Canada Grant MT-12928; P. B. Darling held an MRC studentship.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Threonine conversion to glycine, the threonine dehydrogenase pathway, accounted for 10% of total threonine catabolism on the control diet and 7% on both threonine-supplemented diets (7-11% in the abstract); oxidation to CO2 accounted for 90% to 93%.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20221102122356/https://journals.physiology.org/doi/full/10.1152/ajpendo.2000.278.5.E877"
+}

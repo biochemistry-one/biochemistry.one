@@ -1,0 +1,18 @@
+{
+  "title": "Adverse events associated with unblinded, but not with blinded, statin therapy in the Anglo-Scandinavian Cardiac Outcomes Trial-Lipid-Lowering Arm (ASCOT-LLA): a randomised double-blind placebo-controlled trial and its non-randomised non-blind extension phase",
+  "authors": "Gupta A, Thompson D, Whitehouse A, Collier T, Dahlof B, Poulter N, et al.",
+  "journal": "Lancet",
+  "year": 2017,
+  "doi": "10.1016/S0140-6736(17)31075-9",
+  "pmid": "28476288",
+  "design": "rct",
+  "participants": 10180,
+  "followUp": "blinded phase median 3.3 years; non-blinded phase median 2.3 years",
+  "population": "Patients aged 40 to 79 with hypertension, at least three other cardiovascular risk factors and total cholesterol 6.5 mmol/L or lower; 9899 in the non-randomised open-label extension (6409 atorvastatin users, 3490 non-users)",
+  "funder": "Pfizer, Servier Research Group, and Leo Laboratories (summary). The full funding statement and the role of the funders were not read.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Blinded phase, atorvastatin 10 mg (n=5101) against placebo (n=5079): muscle-related adverse events 298 (2.03% per annum) against 283 (2.00%), HR 1.03 (95% CI 0.88 to 1.21); erectile dysfunction 1.86% against 2.14% per annum; sleep disturbance 1.00% against 1.46% per annum (HR 0.69); cognitive impairment 31 against 32 reports, too few for reliable analysis; renal and urinary adverse events 481 (1.87% per annum) against 392 (1.51%), HR 1.23 (1.08 to 1.41). Non-blinded phase: muscle-related adverse events 161 (1.26% per annum) in statin users against 124 (1.00%) in non-users, HR 1.41 (1.10 to 1.79); musculoskeletal and connective tissue disorders 8.69% against 7.45% per annum (HR 1.17); blood and lymphatic disorders 0.88% against 0.64% per annum (HR 1.40). The authors attribute the excess in the non-blinded phase to a nocebo effect. Published correspondence noted that the overall proportion reporting muscle-related events was lower in the non-blinded phase than in the blinded phase.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20211215043247/https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)31075-9/fulltext"
+}

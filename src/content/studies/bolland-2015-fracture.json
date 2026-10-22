@@ -1,0 +1,17 @@
+{
+  "title": "Calcium intake and risk of fracture: systematic review",
+  "authors": "Bolland MJ, Leung W, Tai V, Bastin S, Gamble GD, Grey A, et al.",
+  "journal": "BMJ",
+  "year": 2015,
+  "doi": "10.1136/bmj.h4580",
+  "pmid": "26420387",
+  "design": "systematic-review",
+  "population": "Adults older than 50 years; searches to September 2014",
+  "funder": "Health Research Council of New Zealand. The authors are independent of the HRC, which had no role in study design, data collection, analysis, interpretation, writing or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "IRR has received research grants or honorariums from Merck, Amgen, Lilly and Novartis.",
+  "dataAccess": "summary",
+  "result": "Two randomised trials of dietary calcium sources reported fractures (262 participants); in the milk-powder trial (100 versus 100 women) there was 1 fracture versus 3 (RR 0.33, 95% CI 0.04 to 3.2). In cohort studies, 25 of 28 associations of milk intake and 11 of 13 of dairy intake with fracture were null. Calcium supplements: total fracture RR 0.89 (0.81 to 0.96; 20 trials), hip fracture 0.95 (0.76 to 1.18); no effect at any site in the 4 trials at lowest risk of bias.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4784799/"
+}

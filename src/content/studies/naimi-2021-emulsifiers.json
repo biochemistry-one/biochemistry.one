@@ -1,0 +1,17 @@
+{
+  "title": "Direct impact of commonly used dietary emulsifiers on human gut microbiota",
+  "authors": "Naimi S, Viennois E, Gewirtz AT, Chassaing B",
+  "journal": "Microbiome",
+  "year": 2021,
+  "doi": "10.1186/s40168-020-00996-6",
+  "pmid": "33752754",
+  "design": "in-vitro",
+  "population": "Human faecal microbiota maintained in the MiniBioReactor Array model, 3 reactors per condition",
+  "funder": "European Research Council Starting Grant ERC-2018-StG-804135; Chaire d'Excellence from IdEx Université de Paris (ANR-18-IDEX-0001); Innovator Award from the Kenneth Rainin Foundation; Marie Sklodowska-Curie Individual Fellowship; NIH grants DK099071 and DK083890. Funders had no role in the design of the study and data collection, analysis, and interpretation, nor in manuscript writing.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare that they have no competing interests.",
+  "dataAccess": "summary",
+  "result": "Of 20 emulsifiers tested, carboxymethylcellulose (E466) and polysorbate 80 (E433) altered microbiota composition without reversal after exposure; polysorbate 80 also altered the metatranscriptome. Carrageenans and gums altered density, composition and expression of pro-inflammatory molecules. Soy lecithin (E322) and mono- and diglycerides did not alter the measured parameters; sunflower lecithin altered alpha diversity only. Faecalibacterium fell with polysorbate 80, iota carrageenan, hydroxypropyl methylcellulose and mono- and diglycerides according to the Discussion; the Results text names polysorbate 80, iota carrageenan, agar agar and DATEM. Three of the products are listed as E471 in Table 1: mono- and diglycerides (Modernist Pantry), glyceryl stearate and glyceryl oleate (Lonza). All faecal samples came from one healthy donor; emulsifiers were added at 0.1% to the medium from 72 to 216 h. Glyceryl stearate increased bacterial density in the treatment and post-treatment phases, caused a non-reversible decrease in evenness, increased bioactive lipopolysaccharide significantly in the post-treatment phase and altered the metatranscriptome; Table 2 classes its effects as non-reversible. Glyceryl oleate caused an irreversible decrease in bacterial density and no other change.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7986288/"
+}

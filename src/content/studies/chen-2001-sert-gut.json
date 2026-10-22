@@ -1,0 +1,16 @@
+{
+  "title": "Maintenance of serotonin in the intestinal mucosa and ganglia of mice that lack the high-affinity serotonin transporter: Abnormal intestinal motility and the expression of cation transporters",
+  "authors": "Chen JJ, Li Z, Pan H, Murphy DL, Tamir H, Koepsell H, et al.",
+  "journal": "Journal of Neuroscience",
+  "year": 2001,
+  "doi": "10.1523/JNEUROSCI.21-16-06348.2001",
+  "pmid": "11487658",
+  "design": "animal",
+  "population": "Mice with targeted deletion of the serotonin transporter (SERT) and wild-type littermates",
+  "funder": "This work was supported by Grant NS12969 from the National Institute of Neurological Diseases and Stroke.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "In wild-type bowel, SERT mediated high-affinity serotonin uptake into epithelial cells, mast cells and enteric neurons; this uptake was absent without SERT, leaving only lower-affinity transport by the dopamine transporter and organic cation transporters OCT-1 and OCT-3. Serotonin remained in all normal gut sites but was absent from blood. Stool water and colonic motility were increased in most SERT-deficient mice (diarrhoea), occasionally alternating with decreased motility (constipation). Animal data.",
+  "class": "independent",
+  "fundingChecked": "https://www.jneurosci.org/content/21/16/6348"
+}

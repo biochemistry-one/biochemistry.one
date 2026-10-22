@@ -1,0 +1,19 @@
+{
+  "title": "Metformin Use in PCOS Pregnancies Increases the Risk of Offspring Overweight at 4 Years of Age: Follow-Up of Two RCTs",
+  "authors": "Hanem LGE, Stridsklev S, Juliusson PB, Salvesen O, Roelants M, Carlsen SM, et al.",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2018,
+  "doi": "10.1210/jc.2017-02419",
+  "pmid": "29490031",
+  "design": "rct",
+  "participants": 182,
+  "followUp": "anthropometry at birth, 6 months, 1, 1.5, 2 and 4 years of age",
+  "population": "182 children of 170 mothers with polycystic ovary syndrome who had taken part in two randomised trials of metformin in pregnancy at eleven public hospitals in Norway; 62% of the 292 invited children consented to participate",
+  "funder": "This work was supported by the Research Council of Norway, which funded the follow-up study (registration number 239987), the NovoNordisk Foundation and Felles Forskningsutvalg.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have nothing to disclose.",
+  "dataAccess": "individual",
+  "result": "Mothers had received metformin 1700 or 2000 mg daily or placebo from the first trimester to delivery in the original trials; there was no intervention in the follow-up. At 4 years of age the difference in height z score between groups was not significant (0.07, 95% CI -0.22 to 0.36, p = 0.651), while the metformin group had a higher weight z score (difference in means 0.38, 0.07 to 0.69, p = 0.017) and a higher body-mass index z score (0.45, 0.11 to 0.78, p = 0.010). More children were overweight or obese in the metformin group, 26 (32%) against 14 (18%) in the placebo group, odds ratio 2.17 (1.04 to 4.61, p = 0.038); the number needed to harm for an additional case of overweight or obesity at 4 years was 7. The difference in mean head circumference z score at 1 year was 0.27 (-0.04 to 0.58, p = 0.093). Data from all 182 children entered the mixed linear models, though the main outcomes at 4 years were missing for 21 children and head circumference at 1 year for 28. The authors note that participants were representative of women with a known diagnosis of polycystic ovary syndrome and that the results might not translate to mothers without the syndrome.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20190907200124/https://academic.oup.com/jcem/article/103/4/1612/4912386"
+}

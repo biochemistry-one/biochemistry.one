@@ -1,0 +1,19 @@
+{
+  "title": "A trial of the beta-blocker bucindolol in patients with advanced chronic heart failure",
+  "authors": "Beta-Blocker Evaluation of Survival Trial Investigators; Eichhorn EJ, Domanski MJ, Krause-Steinrauf H, Bristow MR, Lavori PW",
+  "journal": "New England Journal of Medicine",
+  "year": 2001,
+  "doi": "10.1056/NEJM200105313442202",
+  "pmid": "11386264",
+  "design": "rct",
+  "participants": 2708,
+  "followUp": "average 2.0 years; stopped after the seventh interim analysis",
+  "population": "Patients with New York Heart Association class III (92%) or IV (8%) heart failure and a left ventricular ejection fraction of 35% or lower, on optimal therapy including ACE inhibitors where tolerated, in the United States; a demographically diverse group with substantial numbers of women and Black patients",
+  "funder": "Supported by the Division of Epidemiology and Clinical Applications of the National Heart, Lung, and Blood Institute and the Department of Veterans Affairs Cooperative Studies Program, through an interagency agreement. Additional support was provided by Incara Pharmaceuticals, which supplied bucindolol and placebo. The steering committee and the monitoring committee each included D. Ward of Incara Pharmaceuticals, and the monitoring committee also included M. Schleman of Astra-Merck. An industry role in the conduct of the trial sets the class to industry.",
+  "funderRole": "several",
+  "inKindSupport": "Incara Pharmaceuticals supplied bucindolol and placebo.",
+  "dataAccess": "unknown",
+  "result": "Double-blind randomisation to bucindolol (1354) or placebo (1354). Deaths from any cause, the primary end point, numbered 411 (30%) against 449 (33%), hazard ratio 0.90 (95% CI 0.78 to 1.02), unadjusted P = 0.10, adjusted P = 0.13, an annual mortality of 15% against 17%. Death from cardiovascular causes was lower with bucindolol (hazard ratio 0.86, 0.74 to 0.99). A nominally significant interaction with race (P = 0.02) reflected no benefit in Black patients (hazard ratio 1.17, 0.89 to 1.53) and benefit in non-Black patients (0.82, 0.70 to 0.96); the authors note that with any reasonable adjustment for multiple comparisons this could be due to chance. Annual placebo mortality in class III was 16%, against 12% in CIBIS-II and 13% in MERIT-HF.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20220618201241/https://www.nejm.org/doi/full/10.1056/NEJM200105313442202"
+}

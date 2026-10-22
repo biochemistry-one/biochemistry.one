@@ -1,0 +1,20 @@
+{
+  "title": "Efficacy of folic acid therapy in primary prevention of stroke among adults with hypertension in China: the CSPPT randomized clinical trial",
+  "authors": "Huo Y, Li J, Qin X, Huang Y, Wang X, Gottesman RF, et al.",
+  "journal": "JAMA",
+  "year": 2015,
+  "doi": "10.1001/jama.2015.2274",
+  "pmid": "25771069",
+  "registry": "NCT00794885",
+  "design": "rct",
+  "participants": 20702,
+  "followUp": "median 4.5 years of treatment",
+  "population": "Adults with hypertension and without history of stroke or myocardial infarction in 32 communities in Jiangsu and Anhui provinces, China, a population without folic acid fortification; randomisation stratified by MTHFR C677T genotype",
+  "funder": "The trial was jointly supported by Shenzhen AUSA Pharmed Co Ltd and national, municipal, and private funding, including the National Science and Technology Major Projects (grant zx09101105), the Major State Basic Research Development Program of China (2012 CB517703), the National Natural Science Foundation of China and the Shenzhen Municipal Government. The funding organizations/sponsor participated in the study design but had no role in the conduct of the study, data collection, management, analysis and interpretation, manuscript preparation or the decision to submit.",
+  "funderRole": "design",
+  "authorConflicts": "Dr Huo reported nonfinancial support from Shenzhen AUSA; Drs Qin and B. Wang reported consulting fees from AUSA Research Institute, Shenzhen AUSA.",
+  "dataAccess": "summary",
+  "result": "Single-pill enalapril 10 mg with folic acid 0.8 mg daily (n = 10,348) against enalapril 10 mg alone (n = 10,354). First stroke in 282 (2.7%) against 355 (3.4%): hazard ratio 0.79 (95% CI 0.68 to 0.93), absolute risk reduction 0.7%, number needed to treat over 4.5 years 141 (95% CI 85 to 426). First ischaemic stroke 2.2% against 2.8% (HR 0.76, 0.64 to 0.91); haemorrhagic stroke (HR 0.93, 0.65 to 1.34), myocardial infarction (HR 1.04, 0.60 to 1.82) and death from any cause (HR 0.94, 0.81 to 1.10) did not differ significantly.",
+  "class": "industry",
+  "fundingChecked": "https://web.archive.org/web/20261016161649/https://jamanetwork.com/journals/jama/fullarticle/2205876"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Unprocessed Red Meat and Processed Meat Consumption: Dietary Guideline Recommendations From the Nutritional Recommendations (NutriRECS) Consortium",
+  "authors": "Johnston BC, Zeraatkar D, Han MA, Vernooij RWM, Valli C, El Dib R, et al.",
+  "journal": "Annals of Internal Medicine",
+  "year": 2019,
+  "doi": "10.7326/M19-1621",
+  "pmid": "31569235",
+  "registry": "PROSPERO CRD42017074074; PROSPERO CRD42018088854",
+  "design": "guideline",
+  "population": "Guideline panel of 14 members, including 3 community members, from 7 countries",
+  "funder": "Primary Funding Source: None. Grant support: Dr. El Dib received a São Paulo Research Foundation (FAPESP) (2018/11205-6) scholarship and funding from the National Council for Scientific and Technological Development (CNPq 310953/2015-4) and the Faculty of Medicine, Dalhousie University.",
+  "funderRole": "none",
+  "authorConflicts": "Corrected disclosure: Dr. Johnston received a grant from Texas A&M AgriLife Research to fund investigator-driven research related to saturated and polyunsaturated fats within the 36-month ICMJE reporting period, and funding from the International Life Science Institute (North America) that ended before that period. In their published reply the authors state that the work was unfunded and that Texas A&M AgriLife institutional funds come from interest and investment earnings, not a sponsoring organization, industry or company. Dr. Patel reports grants from Sanofi, personal fees from Janssen and other companies, and equity in XY.health; Dr. de Souza reports fees and grants from public and charitable bodies.",
+  "dataAccess": "summary",
+  "result": "The panel suggests that adults continue current unprocessed red meat consumption and continue current processed meat consumption (weak recommendations, low-certainty evidence); 11 of 14 panellists voted for each, 3 for a weak recommendation to reduce. For a decrease of 3 servings a week of unprocessed red meat: 12 randomised trials (54,000 participants) gave low- to very low-certainty evidence of little or no effect on cardiometabolic outcomes and cancer; 23 cohorts (1.4 million participants) gave 1 to 6 fewer major cardiovascular events and cases of type 2 diabetes per 1000 persons over an average 10.8 years; 17 cohorts (2.2 million) gave 7 fewer lifetime cancer deaths per 1000. For processed meat: 1 to 12 fewer cardiometabolic events per 1000 (10 cohorts, 778,000 participants) and 1 to 8 fewer cancer events per 1000 over a lifetime (31 cohorts, 3.5 million). The panel did not rate up for dose-response because of potential residual confounding. Randomised trials were limited by small differences in meat consumption between groups.",
+  "class": "consensus",
+  "fundingChecked": "https://web.archive.org/web/20250219011552/https://www.acpjournals.org/doi/full/10.7326/M19-1621"
+}

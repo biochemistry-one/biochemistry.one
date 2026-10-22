@@ -1,0 +1,18 @@
+{
+  "title": "Approaches for discontinuation versus continuation of long-term antidepressant use for depressive and anxiety disorders in adults",
+  "authors": "Van Leeuwen E, van Driel ML, Horowitz MA, Kendrick T, Donald M, De Sutter AIM, et al.",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2021,
+  "doi": "10.1002/14651858.CD013495.pub2",
+  "pmid": "33886130",
+  "design": "systematic-review",
+  "participants": 4995,
+  "population": "33 randomised trials in adults taking antidepressants for at least 6 months for depression or anxiety, mostly with recurrent depression in specialist care; searched to January 2020",
+  "funder": "Internal sources: Ghent University, Belgium. External sources: National Institute for Health Research (NIHR), UK; LR work on this review is supported by NIHR Cochrane Infrastructure funding to the Common Mental Disorders Cochrane Review Group.",
+  "funderRole": "unknown",
+  "authorConflicts": "TK leads the NIHR-funded REDUCE programme on supported discontinuation of long-term antidepressants; the other authors declared none known.",
+  "dataAccess": "summary",
+  "result": "All trials were at high risk of bias in at least one domain, most often reporting bias and then attrition bias; the authors name confounding of relapse by withdrawal symptoms as the main limitation of the review; most tapers lasted 4 weeks or less, and withdrawal symptoms were generally not assessed. Against continuation, abrupt stopping: relapse HR 2.09 (95% CI 1.59 to 2.74; 1373 participants, 10 studies), very low certainty; tapered stopping: HR 2.97 (2.24 to 3.93; 1546 participants, 13 studies), very low certainty. Tapering with preventive cognitive therapy or MBCT: 40% to 75% discontinued, relapse HR 0.89 (0.66 to 1.19; 690 participants, 3 studies), low certainty, withdrawal symptoms not measured. No trial used tapering over several months, liquid formulations or tapering strips.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8092632/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Dietary pectic glycans are degraded by coordinated enzyme pathways in human colonic Bacteroides",
+  "authors": "Luis AS, Briggs J, Zhang X, Farnell B, Ndeh D, Labourel A, et al.",
+  "journal": "Nature Microbiology",
+  "year": 2018,
+  "doi": "10.1038/s41564-017-0079-1",
+  "pmid": "29255254",
+  "design": "in-vitro",
+  "population": "Bacteroides thetaiotaomicron and other human colonic Bacteroides species in culture; recombinant enzymes",
+  "funder": "This work was supported in part by an Advanced Grant from the European Research Council (Grant No. 322820) awarded to H.J.G. and B.H., a Wellcome Trust Senior Investigator Award to HJG (grant No. WT097907MA), a European Union Seventh Framework Initial Training Network Programme entitled the WallTraC project (Grant Agreement number 263916) awarded to M-C.R. and H.J.G, and the Biotechnology and Biological Research Council project Ricefuel (BB/K020358/1) awarded to H.J.G.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare that they have no conflicts of interest with the contents of this article.",
+  "dataAccess": "summary",
+  "result": "Homogalacturonan (HG) comprises alpha-1,4-linked D-galacturonic acid; B. thetaiotaomicron, a human colonic bacterium, utilises all known pectin structures through polysaccharide utilisation loci. HG-derived oligosaccharides imported into the periplasm (SusC homologue BT4114 required for growth on HG) are cleaved by endo-acting polysaccharide lyases, generating 4,5-unsaturated galacturonic acid; BT4108 (GH105) removes the unsaturated residue and the exo-alpha-galacturonidase BT4123 depolymerises the products to galacturonic acid. About 70% of the human gut Bacteroidetes tested grew on HG; wild-type B. thetaiotaomicron released pectin breakdown products that supported other Bacteroides in co-culture.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5784806/fullTextXML"
+}

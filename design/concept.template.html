@@ -1,0 +1,855 @@
+<title>Biochemistry Atlas Studio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Brygada+1918:ital,wght@0,400..700;1,400..700&family=Commissioner:wght@300..800&family=Fira+Sans+Condensed:wght@400;500;600;700&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400&family=Literata:ital,opsz,wght@0,7..72,300..800;1,7..72,400..600&family=Noto+Sans+JP:wght@400;500&family=Noto+Sans+SC:wght@400;500&family=Noto+Serif+JP:wght@400;600&family=Noto+Serif+SC:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,400..600&display=swap">
+<style>
+/* layout: a wall-chart plate as the hero, then a single reading column with a wide figure margin */
+:root {
+  --paper: #fbfbf8;
+  --paper-2: #f1f2ee;
+  --ink: #14181d;
+  --ink-2: #4a525b;
+  --ink-3: #7b838c;
+  --rule: #d5d8dc;
+  --accent: #1d58a8;
+  --c-carbohydrate: #1f5fb0;
+  --c-lipid: #a8650a;
+  --c-energy: #b3312a;
+  --c-amino: #2a7639;
+  --c-one-carbon: #6a3d9e;
+  --c-xenobiotic: #56626f;
+  --mito-fill: #edf2f7;
+  --mito-line: #8494a6;
+  --er-fill: #f3f0f7;
+  --er-line: #988db0;
+  --inhibitor: #c2252c;
+  --k-independent: #1d7a4b;
+  --k-industry: #b33b26;
+  --k-regulatory: #2a5ca6;
+  --k-consensus: #946500;
+  --k-reference: #4b535d;
+  --k-undetermined: #858b93;
+  --tool-bg: #20252b;
+  --tool-fg: #e9ecef;
+  --tool-active: #ffffff;
+  --tool-active-fg: #14181d;
+  --f-display: "Literata", var(--cjk-serif), Georgia, serif;
+  --f-text: "Literata", var(--cjk-serif), Georgia, serif;
+  --f-label: "Fira Sans Condensed", var(--cjk-sans), "Arial Narrow", sans-serif;
+  --cjk-serif: "Noto Serif JP";
+  --cjk-sans: "Noto Sans JP";
+  --display-weight: 560;
+  --measure: 68ch;
+  color-scheme: light;
+}
+
+:root[data-scheme="plate"] {
+  --paper: #f2f4ef;
+  --paper-2: #e7ebe4;
+  --ink: #1b2528;
+  --ink-2: #4a585c;
+  --ink-3: #7d8a8b;
+  --rule: #cbd3cd;
+  --accent: #2b4c6f;
+  --c-carbohydrate: #2b4c6f;
+  --c-lipid: #a87b0c;
+  --c-energy: #a13a52;
+  --c-amino: #2c7867;
+  --c-one-carbon: #5d4989;
+  --c-xenobiotic: #765638;
+  --mito-fill: #e5ebe4;
+  --mito-line: #82918a;
+  --er-fill: #ebe7ee;
+  --er-line: #9387a0;
+  --inhibitor: #a8223c;
+  --k-independent: #2c7867;
+  --k-industry: #a13a52;
+  --k-regulatory: #2b4c6f;
+  --k-consensus: #9a7010;
+  --k-reference: #765638;
+  --k-undetermined: #87908f;
+}
+
+:root[data-scheme="instrument"] {
+  --paper: #eef1f4;
+  --paper-2: #e2e7ec;
+  --ink: #1b2129;
+  --ink-2: #4c5764;
+  --ink-3: #828d9b;
+  --rule: #c6ced8;
+  --accent: #2c57cf;
+  --c-carbohydrate: #2c57cf;
+  --c-lipid: #b58600;
+  --c-energy: #d24f1a;
+  --c-amino: #1c8f4d;
+  --c-one-carbon: #6439c6;
+  --c-xenobiotic: #5a6573;
+  --mito-fill: #e4eaf0;
+  --mito-line: #7f8ea0;
+  --er-fill: #e9e6f2;
+  --er-line: #8c84a8;
+  --inhibitor: #d0242c;
+  --k-independent: #1c8f4d;
+  --k-industry: #d24f1a;
+  --k-regulatory: #2c57cf;
+  --k-consensus: #a87a00;
+  --k-reference: #4c5764;
+  --k-undetermined: #828d9b;
+}
+
+:root[data-scheme="atoms"] {
+  --paper: #ffffff;
+  --paper-2: #f3f4f6;
+  --ink: #15171b;
+  --ink-2: #4b5059;
+  --ink-3: #868b93;
+  --rule: #dadde2;
+  --accent: #2f4fd0;
+  --c-carbohydrate: #d1352a;
+  --c-lipid: #3b4048;
+  --c-energy: #e07400;
+  --c-amino: #2f4fd0;
+  --c-one-carbon: #b98f00;
+  --c-xenobiotic: #1d9440;
+  --mito-fill: #f4f5f7;
+  --mito-line: #9aa0a8;
+  --er-fill: #f6f4f8;
+  --er-line: #a59eb2;
+  --inhibitor: #d1352a;
+  --k-independent: #1d9440;
+  --k-industry: #d1352a;
+  --k-regulatory: #2f4fd0;
+  --k-consensus: #b98f00;
+  --k-reference: #4b5059;
+  --k-undetermined: #868b93;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0f1318;
+    --paper-2: #161c23;
+    --ink: #e8ecf0;
+    --ink-2: #aab3bd;
+    --ink-3: #7a8591;
+    --rule: #2a323b;
+    --accent: #84b3f2;
+    --c-carbohydrate: #73a9f3;
+    --c-lipid: #e6a33f;
+    --c-energy: #f07d70;
+    --c-amino: #6cc385;
+    --c-one-carbon: #b693f0;
+    --c-xenobiotic: #9eabb8;
+    --mito-fill: #141c25;
+    --mito-line: #4d5d70;
+    --er-fill: #1a1825;
+    --er-line: #5f5679;
+    --inhibitor: #ff6f6f;
+    --k-independent: #52c78d;
+    --k-industry: #f2846e;
+    --k-regulatory: #84b3f2;
+    --k-consensus: #e5bb50;
+    --k-reference: #aab3bd;
+    --k-undetermined: #7a8591;
+    --tool-bg: #e9ecef;
+    --tool-fg: #20252b;
+    --tool-active: #20252b;
+    --tool-active-fg: #ffffff;
+    color-scheme: dark;
+  }
+  :root[data-scheme="plate"]:not([data-theme="light"]) {
+    --paper: #11191b;
+    --paper-2: #172124;
+    --ink: #e5ebe7;
+    --ink-2: #a7b4b0;
+    --ink-3: #73807e;
+    --rule: #283538;
+    --accent: #93b6d8;
+    --c-carbohydrate: #93b6d8;
+    --c-lipid: #dfb34a;
+    --c-energy: #e2819a;
+    --c-amino: #6bc1ad;
+    --c-one-carbon: #aa98d8;
+    --c-xenobiotic: #c6a17b;
+    --mito-fill: #152023;
+    --mito-line: #4a5c58;
+    --er-fill: #1b1923;
+    --er-line: #5d5570;
+    --inhibitor: #f07b92;
+    --k-independent: #6bc1ad;
+    --k-industry: #e2819a;
+    --k-regulatory: #93b6d8;
+    --k-consensus: #dfb34a;
+    --k-reference: #c6a17b;
+    --k-undetermined: #73807e;
+  }
+  :root[data-scheme="instrument"]:not([data-theme="light"]) {
+    --paper: #13171c;
+    --paper-2: #1a2027;
+    --ink: #e6eaef;
+    --ink-2: #a9b3bf;
+    --ink-3: #788493;
+    --rule: #29313b;
+    --accent: #7ea2ff;
+    --c-carbohydrate: #7ea2ff;
+    --c-lipid: #f0c13c;
+    --c-energy: #ff8a52;
+    --c-amino: #4fd08a;
+    --c-one-carbon: #a684ff;
+    --c-xenobiotic: #9aa6b4;
+    --mito-fill: #171d24;
+    --mito-line: #4a5869;
+    --er-fill: #1b1a26;
+    --er-line: #5c577b;
+    --inhibitor: #ff6b6b;
+    --k-independent: #4fd08a;
+    --k-industry: #ff8a52;
+    --k-regulatory: #7ea2ff;
+    --k-consensus: #f0c13c;
+    --k-reference: #a9b3bf;
+    --k-undetermined: #788493;
+  }
+  :root[data-scheme="atoms"]:not([data-theme="light"]) {
+    --paper: #111316;
+    --paper-2: #191c20;
+    --ink: #eceef1;
+    --ink-2: #afb4bc;
+    --ink-3: #7d838b;
+    --rule: #2b2f35;
+    --accent: #8197ff;
+    --c-carbohydrate: #ff6f63;
+    --c-lipid: #c9ced6;
+    --c-energy: #ffa13f;
+    --c-amino: #8197ff;
+    --c-one-carbon: #ffd43e;
+    --c-xenobiotic: #4fd16c;
+    --mito-fill: #171a1e;
+    --mito-line: #50565e;
+    --er-fill: #1b1a21;
+    --er-line: #5b5668;
+    --inhibitor: #ff6f63;
+    --k-independent: #4fd16c;
+    --k-industry: #ff6f63;
+    --k-regulatory: #8197ff;
+    --k-consensus: #ffd43e;
+    --k-reference: #afb4bc;
+    --k-undetermined: #7d838b;
+  }
+}
+
+:root[data-theme="dark"] {
+  --paper: #0f1318;
+  --paper-2: #161c23;
+  --ink: #e8ecf0;
+  --ink-2: #aab3bd;
+  --ink-3: #7a8591;
+  --rule: #2a323b;
+  --accent: #84b3f2;
+  --c-carbohydrate: #73a9f3;
+  --c-lipid: #e6a33f;
+  --c-energy: #f07d70;
+  --c-amino: #6cc385;
+  --c-one-carbon: #b693f0;
+  --c-xenobiotic: #9eabb8;
+  --mito-fill: #141c25;
+  --mito-line: #4d5d70;
+  --er-fill: #1a1825;
+  --er-line: #5f5679;
+  --inhibitor: #ff6f6f;
+  --k-independent: #52c78d;
+  --k-industry: #f2846e;
+  --k-regulatory: #84b3f2;
+  --k-consensus: #e5bb50;
+  --k-reference: #aab3bd;
+  --k-undetermined: #7a8591;
+  --tool-bg: #e9ecef;
+  --tool-fg: #20252b;
+  --tool-active: #20252b;
+  --tool-active-fg: #ffffff;
+  color-scheme: dark;
+}
+:root[data-scheme="plate"][data-theme="dark"] {
+  --paper: #11191b;
+  --paper-2: #172124;
+  --ink: #e5ebe7;
+  --ink-2: #a7b4b0;
+  --ink-3: #73807e;
+  --rule: #283538;
+  --accent: #93b6d8;
+  --c-carbohydrate: #93b6d8;
+  --c-lipid: #dfb34a;
+  --c-energy: #e2819a;
+  --c-amino: #6bc1ad;
+  --c-one-carbon: #aa98d8;
+  --c-xenobiotic: #c6a17b;
+  --mito-fill: #152023;
+  --mito-line: #4a5c58;
+  --er-fill: #1b1923;
+  --er-line: #5d5570;
+  --inhibitor: #f07b92;
+  --k-independent: #6bc1ad;
+  --k-industry: #e2819a;
+  --k-regulatory: #93b6d8;
+  --k-consensus: #dfb34a;
+  --k-reference: #c6a17b;
+  --k-undetermined: #73807e;
+}
+:root[data-scheme="instrument"][data-theme="dark"] {
+  --paper: #13171c;
+  --paper-2: #1a2027;
+  --ink: #e6eaef;
+  --ink-2: #a9b3bf;
+  --ink-3: #788493;
+  --rule: #29313b;
+  --accent: #7ea2ff;
+  --c-carbohydrate: #7ea2ff;
+  --c-lipid: #f0c13c;
+  --c-energy: #ff8a52;
+  --c-amino: #4fd08a;
+  --c-one-carbon: #a684ff;
+  --c-xenobiotic: #9aa6b4;
+  --mito-fill: #171d24;
+  --mito-line: #4a5869;
+  --er-fill: #1b1a26;
+  --er-line: #5c577b;
+  --inhibitor: #ff6b6b;
+  --k-independent: #4fd08a;
+  --k-industry: #ff8a52;
+  --k-regulatory: #7ea2ff;
+  --k-consensus: #f0c13c;
+  --k-reference: #a9b3bf;
+  --k-undetermined: #788493;
+}
+:root[data-scheme="atoms"][data-theme="dark"] {
+  --paper: #111316;
+  --paper-2: #191c20;
+  --ink: #eceef1;
+  --ink-2: #afb4bc;
+  --ink-3: #7d838b;
+  --rule: #2b2f35;
+  --accent: #8197ff;
+  --c-carbohydrate: #ff6f63;
+  --c-lipid: #c9ced6;
+  --c-energy: #ffa13f;
+  --c-amino: #8197ff;
+  --c-one-carbon: #ffd43e;
+  --c-xenobiotic: #4fd16c;
+  --mito-fill: #171a1e;
+  --mito-line: #50565e;
+  --er-fill: #1b1a21;
+  --er-line: #5b5668;
+  --inhibitor: #ff6f63;
+  --k-independent: #4fd16c;
+  --k-industry: #ff6f63;
+  --k-regulatory: #8197ff;
+  --k-consensus: #ffd43e;
+  --k-reference: #afb4bc;
+  --k-undetermined: #7d838b;
+}
+
+:root[data-type="plate"] {
+  --f-display: "Brygada 1918", var(--cjk-serif), Georgia, serif;
+  --f-text: "Gentium Book Plus", var(--cjk-serif), Georgia, serif;
+  --f-label: "Fira Sans Condensed", var(--cjk-sans), "Arial Narrow", sans-serif;
+  --display-weight: 600;
+}
+:root[data-type="instrument"] {
+  --f-display: "Commissioner", var(--cjk-sans), system-ui, sans-serif;
+  --f-text: "Source Serif 4", var(--cjk-serif), Georgia, serif;
+  --f-label: "Commissioner", var(--cjk-sans), system-ui, sans-serif;
+  --display-weight: 640;
+}
+
+:lang(ja) { --cjk-serif: "Noto Serif JP"; --cjk-sans: "Noto Sans JP"; }
+:lang(zh-Hans) { --cjk-serif: "Noto Serif SC"; --cjk-sans: "Noto Sans SC"; }
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 400 1.0625rem/1.62 var(--f-text);
+  font-optical-sizing: auto;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent); text-underline-offset: .18em; text-decoration-thickness: 1px; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+h1, h2, h3 { font-family: var(--f-display); font-weight: var(--display-weight); text-wrap: balance; line-height: 1.15; letter-spacing: -.005em; }
+.wrap { max-width: 1400px; margin-inline: auto; padding-inline: 16px; }
+@media (min-width: 720px) { .wrap { padding-inline: 32px; } }
+
+.studio {
+  position: sticky;
+  top: env(safe-area-inset-top, 0px);
+  z-index: 20;
+  background: var(--tool-bg);
+  color: var(--tool-fg);
+  font: 500 .8125rem/1.2 system-ui, sans-serif;
+}
+.studio-inner { display: flex; flex-wrap: wrap; gap: 10px 22px; align-items: center; padding-block: 9px; }
+.studio-name { font-weight: 650; margin-right: 4px; }
+.studio fieldset { border: 0; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 4px; align-items: center; }
+.studio legend { float: left; margin-right: 8px; opacity: .7; }
+.studio input { position: absolute; opacity: 0; pointer-events: none; }
+.studio label { padding: 5px 10px; border-radius: 6px; cursor: pointer; border: 1px solid color-mix(in srgb, var(--tool-fg) 26%, transparent); }
+.studio input:checked + label { background: var(--tool-active); color: var(--tool-active-fg); border-color: var(--tool-active); }
+.studio input:focus-visible + label { outline: 2px solid var(--tool-fg); outline-offset: 2px; }
+
+.site-header { border-bottom: 1px solid var(--rule); }
+.site-header-inner { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px 32px; padding-block: 20px 14px; }
+@media (min-width: 900px) { .site-header-inner { grid-template-columns: auto minmax(0, 1fr); align-items: end; } }
+.site-name { font: var(--display-weight) 1.3rem/1.1 var(--f-display); color: var(--ink); text-decoration: none; }
+.site-nav ul, .languages ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 4px 18px; }
+.site-nav a { font: 500 .95rem var(--f-label); color: var(--ink); text-decoration: none; }
+.site-nav a:hover { color: var(--accent); }
+.languages { grid-column: 1 / -1; }
+.languages a, .languages span { font: 400 .85rem var(--f-label); color: var(--ink-2); text-decoration: none; }
+.languages [aria-current] { color: var(--ink); font-weight: 600; }
+@media (min-width: 900px) { .site-nav { justify-self: end; } .languages { grid-column: 2; justify-self: end; } }
+
+.hero { padding-block: 40px 16px; display: grid; gap: 18px 48px; }
+@media (min-width: 960px) { .hero { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); align-items: end; } }
+.hero h1 { font-size: clamp(2.4rem, 5.4vw, 4.4rem); margin: 0; }
+.hero-tagline { font-size: 1.2rem; color: var(--ink-2); margin: 12px 0 0; max-width: 34ch; }
+.hero-intro { margin: 0; color: var(--ink-2); max-width: 58ch; }
+.hero-intro a { white-space: nowrap; }
+
+.plate { margin-block: 8px 0; }
+.plate-frame { border: 1px solid var(--rule); background: var(--paper); }
+.plate-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 24px; padding: 10px 14px; border-bottom: 1px solid var(--rule); font: 500 .9rem var(--f-label); color: var(--ink-2); }
+.plate-head strong { color: var(--ink); font-weight: 600; }
+.metabolic-map { overflow-x: auto; overscroll-behavior-x: contain; }
+.metabolic-map-svg { display: block; width: 100%; min-width: 980px; height: auto; }
+.map-readout { min-height: 1.6em; padding: 8px 14px; border-top: 1px solid var(--rule); font: 500 .9rem var(--f-label); color: var(--ink-2); }
+.map-readout b { color: var(--ink); font-weight: 600; }
+.legend { list-style: none; margin: 0; padding: 12px 14px 14px; display: flex; flex-wrap: wrap; gap: 8px 22px; font: 400 .85rem var(--f-label); color: var(--ink-2); border-top: 1px solid var(--rule); }
+.legend li { display: inline-flex; align-items: center; gap: 8px; }
+.legend svg { width: 28px; height: 12px; overflow: visible; }
+
+.map-grid-ref { font: 500 11px var(--f-label); fill: var(--ink-3); }
+.map-grid-tick { stroke: var(--rule); }
+.map-compartment-outer { fill: var(--mito-fill); stroke: var(--mito-line); stroke-width: 1.4; }
+.map-compartment-inner { fill: none; stroke: var(--mito-line); stroke-width: .8; stroke-dasharray: 3 3; }
+.map-compartment-er .map-compartment-outer { fill: var(--er-fill); stroke: var(--er-line); }
+.map-compartment-er .map-compartment-inner { stroke: var(--er-line); }
+.map-compartment-label { font: italic 400 13px var(--f-text); fill: var(--ink-2); }
+.map-family-carbohydrate { --family: var(--c-carbohydrate); }
+.map-family-lipid { --family: var(--c-lipid); }
+.map-family-energy { --family: var(--c-energy); }
+.map-family-amino { --family: var(--c-amino); }
+.map-family-one-carbon { --family: var(--c-one-carbon); }
+.map-family-xenobiotic { --family: var(--c-xenobiotic); }
+.map-arrowhead-carbohydrate { fill: var(--c-carbohydrate); }
+.map-arrowhead-lipid { fill: var(--c-lipid); }
+.map-arrowhead-energy { fill: var(--c-energy); }
+.map-arrowhead-amino { fill: var(--c-amino); }
+.map-arrowhead-one-carbon { fill: var(--c-one-carbon); }
+.map-arrowhead-xenobiotic { fill: var(--c-xenobiotic); }
+.map-edge { stroke: var(--family); stroke-width: 1.5; fill: none; transition: stroke-width .15s; }
+.map-edge-back { stroke-dasharray: 4 3; }
+.map-edge-label { font: 500 10.5px var(--f-label); fill: var(--ink-2); }
+.map-pathway-title { font: 600 13.5px var(--f-label); fill: var(--family); }
+.map-node-label { font: 500 13px var(--f-label); fill: var(--ink); paint-order: stroke; stroke: var(--paper); stroke-width: 4px; stroke-linejoin: round; }
+.map-compartment .map-node-label, .map-nodes .map-node-label { stroke: var(--paper); }
+.map-node-dot { fill: var(--c-energy); }
+.map-complex { fill: var(--paper); stroke: var(--c-energy); stroke-width: 1.2; }
+.map-inhibitor-bar { stroke: var(--inhibitor); stroke-width: 3.2; stroke-linecap: round; }
+.map-inhibitor-label { font: 700 12px var(--f-label); fill: var(--inhibitor); }
+.map-inhibitor-debated .map-inhibitor-bar { stroke-dasharray: 2.5 2; }
+.map-pathway { transition: opacity .15s; }
+.map-pathway:focus-visible { outline: none; }
+.metabolic-map:has(.map-pathway:is(:hover, :focus-visible)) .map-pathway:not(:hover, :focus-visible) { opacity: .18; }
+.map-pathway:is(:hover, :focus-visible) .map-edge { stroke-width: 2.6; }
+
+.index { padding-block: 44px 8px; display: grid; gap: 28px 40px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr)); }
+.index h2 { font-size: 1.35rem; margin: 0 0 4px; }
+.index h2 a { color: var(--ink); text-decoration: none; }
+.index h2 a:hover { color: var(--accent); }
+.index-count { font: 400 .85rem var(--f-label); color: var(--ink-3); margin: 0 0 10px; }
+.index ul { list-style: none; margin: 0; padding: 0; font: 400 .95rem/1.5 var(--f-label); }
+.index li { padding-block: 3px; border-top: 1px solid var(--rule); }
+.index li a { color: var(--ink); text-decoration: none; }
+.index li a:hover { color: var(--accent); text-decoration: underline; }
+.index-note { color: var(--ink-3); }
+
+.reading { display: grid; gap: 0 56px; padding-block: 56px 24px; border-top: 1px solid var(--rule); margin-top: 40px; }
+@media (min-width: 1100px) { .reading { grid-template-columns: minmax(0, 1fr) 300px; } }
+.article-section { font: 500 .9rem var(--f-label); margin: 0 0 6px; }
+.article-section a { color: var(--ink-2); text-decoration: none; }
+.reading h1 { font-size: clamp(2rem, 4vw, 3rem); margin: 0 0 22px; max-width: 22ch; }
+.summary { border-top: 2px solid var(--ink); padding-top: 12px; margin-bottom: 30px; max-width: var(--measure); }
+.summary-label { font: 600 .82rem var(--f-label); color: var(--ink-2); margin: 0 0 4px; }
+.summary p:last-child { font-size: 1.18rem; line-height: 1.5; margin: 0; }
+.article-body { max-width: var(--measure); }
+.article-body h2 { font-size: 1.5rem; margin: 2.2em 0 .5em; }
+.article-body p { margin: 0 0 1em; hyphens: auto; }
+.article-body table { display: block; overflow-x: auto; border-collapse: collapse; margin: 1.2em 0 1.6em; font: 400 .92rem/1.45 var(--f-label); }
+.article-body th, .article-body td { text-align: left; vertical-align: top; padding: 8px 14px 8px 0; border-bottom: 1px solid var(--rule); }
+.article-body th { font-weight: 600; border-bottom: 1.5px solid var(--ink); }
+.article-body td:first-child { font-weight: 600; white-space: nowrap; }
+
+.cites { font: 600 .7em/0 var(--f-label); vertical-align: .55em; margin-left: .12em; white-space: nowrap; }
+.cite { display: inline-flex; align-items: center; gap: .22em; padding: 0 .12em; color: var(--ink-2); text-decoration: none; }
+.cite:hover { color: var(--accent); }
+.cite::before, .class-marker, .layer-label::before { content: ""; display: inline-block; width: .7em; height: .7em; background: var(--k); flex: none; }
+.cite-independent, .class-independent, .reference-independent { --k: var(--k-independent); }
+.cite-industry, .class-industry, .reference-industry, .layer-industry { --k: var(--k-industry); }
+.cite-regulatory, .class-regulatory, .reference-regulatory { --k: var(--k-regulatory); }
+.cite-consensus, .class-consensus, .reference-consensus, .layer-consensus { --k: var(--k-consensus); }
+.cite-reference, .class-reference, .reference-reference { --k: var(--k-reference); }
+.cite-undetermined, .class-undetermined, .reference-undetermined, .layer-unresolved { --k: var(--k-undetermined); }
+.cite-independent::before, .class-independent { border-radius: 50%; }
+.cite-regulatory::before, .class-regulatory { transform: rotate(45deg) scale(.82); }
+.cite-consensus::before, .class-consensus, .layer-consensus .layer-label::before { clip-path: polygon(50% 4%, 100% 96%, 0 96%); }
+.cite-reference::before, .class-reference { background: transparent; border: 1.6px solid var(--k); border-radius: 50%; }
+.cite-undetermined::before, .class-undetermined, .layer-unresolved .layer-label::before { background: transparent; border: 1.6px dashed var(--k); border-radius: 50%; }
+
+.layer { position: relative; margin: 1.8em 0; padding: 14px 18px 4px 24px; background: var(--paper-2); }
+.layer::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 6px; }
+.layer-industry::before { background: repeating-linear-gradient(135deg, var(--k-industry) 0 2.5px, transparent 2.5px 5.5px); }
+.layer-consensus::before { border-left: 1.5px solid var(--k-consensus); border-right: 1.5px solid var(--k-consensus); }
+.layer-unresolved::before { border-left: 2px dashed var(--k-undetermined); }
+.layer-label { display: flex; align-items: center; gap: 8px; font: 600 .86rem var(--f-label); color: var(--k); margin: 0 0 6px !important; }
+.layer p { font-size: .98rem; }
+
+.side { font: 400 .9rem/1.5 var(--f-label); color: var(--ink-2); }
+@media (min-width: 1100px) { .side-inner { position: sticky; top: 76px; } }
+.side h2 { font: 600 .95rem var(--f-label); color: var(--ink); margin: 0 0 10px; }
+.key { list-style: none; margin: 0 0 28px; padding: 0; display: grid; gap: 10px; }
+.key li { display: grid; grid-template-columns: 18px minmax(0, 1fr); gap: 2px 8px; align-items: start; }
+.key .class-marker { width: 11px; height: 11px; margin-top: 4px; }
+.key b { color: var(--ink); font-weight: 600; }
+.key span:last-child { grid-column: 2; }
+.layer-key { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.layer-key li { padding-left: 14px; position: relative; }
+.layer-key li::before { content: ""; position: absolute; left: 0; top: 2px; bottom: 2px; width: 5px; }
+.layer-key .k-industry::before { background: repeating-linear-gradient(135deg, var(--k-industry) 0 2px, transparent 2px 4.5px); }
+.layer-key .k-consensus::before { border-left: 1.5px solid var(--k-consensus); border-right: 1.5px solid var(--k-consensus); }
+.layer-key .k-unresolved::before { border-left: 2px dashed var(--k-undetermined); }
+
+.references { max-width: var(--measure); margin-top: 48px; }
+.references h2 { font-size: 1.4rem; margin: 0 0 14px; }
+.reference-list { list-style: none; padding: 0; margin: 0; counter-reset: ref; }
+.reference { counter-increment: ref; position: relative; padding: 12px 0 12px 2.4em; border-top: 1px solid var(--rule); font-size: .95rem; }
+.reference::before { content: counter(ref); position: absolute; left: 0; top: 12px; font: 600 .85rem var(--f-label); color: var(--ink-2); }
+.reference p { margin: 0 0 3px; }
+.reference-class { display: flex; align-items: center; gap: 7px; font: 600 .8rem var(--f-label); color: var(--k); }
+.reference-class .class-marker { width: 9px; height: 9px; }
+.reference-authors { color: var(--ink-2); }
+.reference-title { font-style: normal; font-weight: 500; }
+.reference-links { display: flex; flex-wrap: wrap; gap: 4px 14px; font: 400 .85rem var(--f-label); }
+.reference-details summary { cursor: pointer; font: 500 .85rem var(--f-label); color: var(--ink-2); margin-top: 4px; }
+.reference-facts { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 4px 14px; margin: 8px 0 4px; font: 400 .88rem/1.45 var(--f-label); }
+.reference-facts dt { color: var(--ink-3); }
+.reference-facts dd { margin: 0; }
+
+.figure-row { padding-block: 40px; border-top: 1px solid var(--rule); display: grid; gap: 24px 56px; }
+@media (min-width: 1100px) { .figure-row { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
+.figure-row > section > h2 { font-size: 1.35rem; margin: 0 0 6px; }
+.figure-row > section > p { color: var(--ink-2); margin: 0 0 16px; max-width: 56ch; }
+
+.pathway { margin: 0; padding: 16px 18px 18px; border: 1px solid var(--rule); background: var(--paper); --family: var(--c-lipid); }
+.pathway-title { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 16px; font: 600 1rem var(--f-label); margin-bottom: 14px; }
+.pathway-compartment { font: italic 400 .9rem var(--f-text); color: var(--ink-2); }
+.pathway-sequence { list-style: none; margin: 0; padding: 0; }
+.pathway-metabolite { position: relative; padding-left: 26px; font: 600 .98rem/1.3 var(--f-label); }
+.pathway-metabolite::before { content: ""; position: absolute; left: 3px; top: .32em; width: 9px; height: 9px; border: 2px solid var(--family); border-radius: 50%; background: var(--paper); }
+.pathway-reaction { position: relative; display: flex; flex-wrap: wrap; gap: 0 10px; align-items: baseline; padding: 7px 0 9px 26px; font: 400 .85rem/1.35 var(--f-label); color: var(--ink-2); }
+.pathway-reaction::before { content: ""; position: absolute; left: 7px; top: 2px; bottom: 6px; border-left: 2px solid var(--family); }
+.pathway-reaction::after { content: ""; position: absolute; left: 3px; bottom: 1px; border: 5px solid transparent; border-top: 7px solid var(--family); border-bottom: 0; }
+.pathway-reaction-reversible::before { top: 9px; }
+.pathway-reaction-reversible .pathway-enzyme::before { content: ""; position: absolute; left: 3px; top: 0; border: 5px solid transparent; border-bottom: 7px solid var(--family); border-top: 0; }
+.pathway-enzyme { color: var(--ink); font-weight: 500; }
+.pathway-cofactors { color: var(--ink-2); }
+.pathway-inhibitors { display: inline-flex; gap: 8px; }
+.pathway-inhibitor { color: var(--inhibitor); font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; }
+.pathway-inhibitor::before { content: ""; width: 12px; height: 3px; background: var(--inhibitor); border-radius: 2px; }
+.pathway-reaction-inhibited::before { border-left-color: var(--inhibitor); }
+.pathway-note { flex-basis: 100%; font-style: italic; color: var(--ink-3); }
+
+.scripts { display: grid; gap: 18px; }
+.script { border-top: 1px solid var(--rule); padding-top: 10px; }
+.script h3 { font-size: 1.3rem; margin: 0 0 6px; }
+.script p { margin: 0; }
+.script:lang(ja) p, .script:lang(zh-Hans) p { line-height: 1.85; letter-spacing: .02em; }
+.script-meta { font: 400 .8rem var(--f-label); color: var(--ink-3); margin-bottom: 4px !important; }
+
+.site-footer { border-top: 1px solid var(--rule); margin-top: 32px; padding-block: 24px 48px; font: 400 .9rem var(--f-label); color: var(--ink-2); display: flex; flex-wrap: wrap; gap: 8px 32px; }
+.site-footer p { margin: 0; }
+
+@media (prefers-reduced-motion: reduce) {
+  .map-pathway, .map-edge { transition: none; }
+}
+</style>
+
+<div class="studio" aria-label="Design controls">
+  <div class="wrap studio-inner">
+    <span class="studio-name">Design concept</span>
+    <fieldset>
+      <legend>Colour</legend>
+      <input type="radio" name="scheme" id="scheme-chart" value="chart" checked><label for="scheme-chart">Wall chart</label>
+      <input type="radio" name="scheme" id="scheme-plate" value="plate"><label for="scheme-plate">Tinted plate</label>
+      <input type="radio" name="scheme" id="scheme-instrument" value="instrument"><label for="scheme-instrument">Spectrum</label>
+      <input type="radio" name="scheme" id="scheme-atoms" value="atoms"><label for="scheme-atoms">Atom colours</label>
+    </fieldset>
+    <fieldset>
+      <legend>Type</legend>
+      <input type="radio" name="type" id="type-chart" value="chart" checked><label for="type-chart">Literata</label>
+      <input type="radio" name="type" id="type-plate" value="plate"><label for="type-plate">Brygada and Gentium</label>
+      <input type="radio" name="type" id="type-instrument" value="instrument"><label for="type-instrument">Commissioner and Source Serif</label>
+    </fieldset>
+    <fieldset>
+      <legend>Theme</legend>
+      <input type="radio" name="theme" id="theme-system" value="system" checked><label for="theme-system">System</label>
+      <input type="radio" name="theme" id="theme-light" value="light"><label for="theme-light">Light</label>
+      <input type="radio" name="theme" id="theme-dark" value="dark"><label for="theme-dark">Dark</label>
+    </fieldset>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="wrap site-header-inner">
+    <a class="site-name" href="#top">Atlas of Human Biochemistry</a>
+    <nav class="site-nav" aria-label="Sections">
+      <ul>
+        <li><a href="#index">Metabolism</a></li>
+        <li><a href="#index">Medicines</a></li>
+        <li><a href="#index">Food additives</a></li>
+        <li><a href="#index">Foods</a></li>
+        <li><a href="#article">Method</a></li>
+        <li><a href="#map">Metabolic map</a></li>
+        <li><a href="#figures">Cell map</a></li>
+      </ul>
+    </nav>
+    <nav class="languages" aria-label="Language">
+      <ul>
+        <li><span lang="en" aria-current="page">English</span></li>
+        <li><a href="#scripts" lang="ja">日本語</a></li>
+        <li><a href="#scripts" lang="zh-Hans">简体中文</a></li>
+        <li><a href="#scripts" lang="ru">Русский</a></li>
+        <li><a href="#scripts" lang="de">Deutsch</a></li>
+        <li><a href="#scripts" lang="es">Español</a></li>
+        <li><a href="#scripts" lang="fr">Français</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+  <div class="wrap">
+    <section class="hero">
+      <div>
+        <h1>Atlas of Human Biochemistry</h1>
+        <p class="hero-tagline">How the body works, molecule by molecule, with the funding of every source shown.</p>
+      </div>
+      <p class="hero-intro">Every statement on this site is linked to its source, and every source is labelled by who paid for it. Findings of independent research form the main text. Industry-funded results, consensus statements and open questions appear in separate, labelled blocks. <a href="#article">How evidence is graded</a></p>
+    </section>
+
+    <figure class="plate" id="map">
+      <div class="plate-frame">
+        <figcaption class="plate-head"><span><strong>Plate 1.</strong> Central pathways of human metabolism</span><span>Select a pathway to open its chapter</span></figcaption>
+        <div class="metabolic-map" data-map>
+          <!--MAP-->
+        </div>
+        <p class="map-readout" aria-live="polite" data-map-readout>Hover over or focus on a pathway to name it. Double arrows mark reversible steps; dashed arrows mark the gluconeogenic bypasses.</p>
+        <ul class="legend">
+          <li><svg viewBox="0 0 28 12" aria-hidden="true"><line x1="0" y1="6" x2="28" y2="6" stroke="var(--c-carbohydrate)" stroke-width="2"/></svg>Carbohydrates</li>
+          <li><svg viewBox="0 0 28 12" aria-hidden="true"><line x1="0" y1="6" x2="28" y2="6" stroke="var(--c-lipid)" stroke-width="2"/></svg>Lipids and sterols</li>
+          <li><svg viewBox="0 0 28 12" aria-hidden="true"><line x1="0" y1="6" x2="28" y2="6" stroke="var(--c-energy)" stroke-width="2"/></svg>Citric acid cycle and respiration</li>
+          <li><svg viewBox="0 0 28 12" aria-hidden="true"><line x1="0" y1="6" x2="28" y2="6" stroke="var(--c-amino)" stroke-width="2"/></svg>Amino acids and nitrogen</li>
+          <li><svg viewBox="0 0 28 12" aria-hidden="true"><line x1="0" y1="6" x2="28" y2="6" stroke="var(--c-one-carbon)" stroke-width="2"/></svg>One-carbon metabolism</li>
+          <li><svg viewBox="0 0 28 12" aria-hidden="true"><line x1="0" y1="6" x2="28" y2="6" stroke="var(--c-xenobiotic)" stroke-width="2"/></svg>Ethanol</li>
+          <li><svg viewBox="0 0 28 12" aria-hidden="true"><line x1="0" y1="6" x2="28" y2="6" stroke="var(--ink-2)" stroke-width="1.6" stroke-dasharray="4 3"/></svg>Gluconeogenic bypass</li>
+          <li><svg viewBox="0 0 28 12" aria-hidden="true"><line x1="0" y1="6" x2="28" y2="6" stroke="var(--ink-3)" stroke-width="1.5"/><line x1="14" y1="0" x2="14" y2="12" stroke="var(--inhibitor)" stroke-width="3" stroke-linecap="round"/></svg>Medicine acting at this step</li>
+        </ul>
+      </div>
+    </figure>
+
+    <section class="index" id="index" aria-label="Sections">
+      <div>
+        <h2><a href="#index">Metabolism</a></h2>
+        <p class="index-count">10 chapters</p>
+        <ul>
+          <li><a href="#index">Energy and ATP</a></li>
+          <li><a href="#index">Glucose</a></li>
+          <li><a href="#index">Fed and fasting</a></li>
+          <li><a href="#index">Fats</a></li>
+          <li><a href="#index">Cholesterol</a></li>
+          <li><a href="#index">Amino acids and nitrogen</a></li>
+          <li><a href="#index">Folate, B12 and one-carbon metabolism</a></li>
+          <li><a href="#index">How the body processes medicines</a></li>
+          <li><a href="#index">From genes to proteins</a></li>
+          <li><a href="#index">The cell and its compartments</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2><a href="#index">Medicines</a></h2>
+        <p class="index-count">The most prescribed in the United States and England, and folic acid</p>
+        <ul>
+          <li><a href="#index">Statins</a></li>
+          <li><a href="#index">Proton-pump inhibitors</a></li>
+          <li><a href="#index">Levothyroxine</a></li>
+          <li><a href="#index">Metformin</a></li>
+          <li><a href="#index">Amlodipine</a></li>
+          <li><a href="#index">ACE inhibitors and angiotensin receptor blockers</a></li>
+          <li><a href="#index">Beta-blockers</a></li>
+          <li><a href="#index">Salbutamol</a></li>
+          <li><a href="#index">Colecalciferol (vitamin D₃)</a></li>
+          <li><a href="#index">Sertraline</a></li>
+          <li><a href="#index">Folic acid</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2><a href="#index">Foods</a></h2>
+        <p class="index-count">12 pages</p>
+        <ul>
+          <li><a href="#index">Palm oil</a></li>
+          <li><a href="#index">Seed oils</a></li>
+          <li><a href="#index">Sugar and fructose</a></li>
+          <li><a href="#index">Ultra-processed food</a></li>
+          <li><a href="#index">Red and processed meat</a></li>
+          <li><a href="#index">Eggs</a></li>
+          <li><a href="#index">Dairy</a></li>
+          <li><a href="#index">Olive oil</a></li>
+          <li><a href="#index">Coffee</a></li>
+          <li><a href="#index">Alcohol</a></li>
+          <li><a href="#index">Salt</a></li>
+          <li><a href="#index">Grains, starch and fibre</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2><a href="#index">Food additives</a></h2>
+        <p class="index-count">The ten found in the most food products, and two classes</p>
+        <ul>
+          <li><a href="#index">Sweeteners</a></li>
+          <li><a href="#index">Emulsifiers and the gut barrier</a></li>
+          <li class="index-note">Ten additive pages follow the frequency count</li>
+        </ul>
+        <h2 style="margin-top:28px"><a href="#article">Method</a></h2>
+        <ul>
+          <li><a href="#article">How evidence is graded</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <div class="reading" id="article">
+      <article>
+        <p class="article-section"><a href="#index">Method</a></p>
+        <h1>How evidence is graded</h1>
+        <aside class="summary">
+          <p class="summary-label">In brief</p>
+          <p>Each study cited on this site is assigned a class according to who paid for it and what part the payer played. Findings of independent research, regulators and reference works form the main text. Results of industry-funded studies, expert statements and open questions appear in separate labelled blocks.</p>
+        </aside>
+        <div class="article-body">
+          <!--ARTICLE-->
+        </div>
+        <!--REFERENCES-->
+      </article>
+      <aside class="side" aria-label="Key to evidence">
+        <div class="side-inner">
+          <h2>Who paid for the study</h2>
+          <ul class="key">
+            <li><span class="class-marker class-independent" aria-hidden="true"></span><b>Independent</b><span>Public or charitable funding, no industry role</span></li>
+            <li><span class="class-marker class-industry" aria-hidden="true"></span><b>Industry-funded</b><span>Any industry money or role in design, analysis or publication</span></li>
+            <li><span class="class-marker class-regulatory" aria-hidden="true"></span><b>Regulatory</b><span>Assessments of FDA, EMA, EFSA and similar bodies</span></li>
+            <li><span class="class-marker class-consensus" aria-hidden="true"></span><b>Consensus</b><span>Guidelines and expert panels</span></li>
+            <li><span class="class-marker class-reference" aria-hidden="true"></span><b>Reference work</b><span>Textbooks and curated databases</span></li>
+            <li><span class="class-marker class-undetermined" aria-hidden="true"></span><b>Funding undetermined</b><span>No funding statement could be read</span></li>
+          </ul>
+          <h2>Where a statement sits</h2>
+          <ul class="layer-key">
+            <li>Main text: independent findings and mechanisms</li>
+            <li class="k-industry">Industry-funded results</li>
+            <li class="k-consensus">Consensus statements</li>
+            <li class="k-unresolved">Unresolved questions</li>
+          </ul>
+        </div>
+      </aside>
+    </div>
+
+    <div class="figure-row" id="figures">
+      <section>
+        <h2>A pathway inside a chapter</h2>
+        <p>From the chapter on cholesterol. Each arrow names its enzyme and cofactors; the statin marker links to the medicine page.</p>
+        <!--PATHWAY-->
+      </section>
+      <section id="scripts">
+        <h2>Seven languages, one typographic system</h2>
+        <p>The statins summary as set in Japanese, Simplified Chinese and Russian.</p>
+        <div class="scripts">
+          <div class="script" lang="ja">
+            <p class="script-meta">日本語</p>
+            <h3>スタチン</h3>
+            <p>スタチンは肝臓でのコレステロール合成を抑える。その結果、肝細胞は血液中のLDLコレステロールをより多く取り込む。</p>
+          </div>
+          <div class="script" lang="zh-Hans">
+            <p class="script-meta">简体中文</p>
+            <h3>他汀类药物</h3>
+            <p>他汀类药物减缓肝脏自身合成胆固醇。肝细胞随后从血液中摄取更多的低密度脂蛋白胆固醇。</p>
+          </div>
+          <div class="script" lang="ru">
+            <p class="script-meta">Русский</p>
+            <h3>Статины</h3>
+            <p>Статины замедляют синтез холестерина в печени. Клетки печени затем захватывают из крови больше холестерина ЛПНП.</p>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <footer class="site-footer">
+      <p><a href="#article">How evidence is graded</a></p>
+      <p>This site is for education. A prescription is changed only together with the prescriber.</p>
+    </footer>
+  </div>
+</main>
+
+<script>
+(function () {
+  var root = document.documentElement;
+  var keys = { scheme: "chart", type: "chart", theme: "system" };
+  function read(name) {
+    try { return localStorage.getItem("studio-" + name); } catch (error) { return null; }
+  }
+  function write(name, value) {
+    try { localStorage.setItem("studio-" + name, value); } catch (error) {}
+  }
+  function apply(name, value) {
+    if (name === "theme") {
+      if (value === "system") delete root.dataset.theme; else root.dataset.theme = value;
+    } else if (value === "chart") {
+      delete root.dataset[name];
+    } else {
+      root.dataset[name] = value;
+    }
+  }
+  Object.keys(keys).forEach(function (name) {
+    var stored = read(name);
+    var value = stored || keys[name];
+    var input = document.getElementById(name + "-" + value);
+    if (input) input.checked = true;
+    apply(name, value);
+    document.querySelectorAll('input[name="' + name + '"]').forEach(function (radio) {
+      radio.addEventListener("change", function () {
+        apply(name, radio.value);
+        write(name, radio.value);
+        if (name === "scheme" && !read("type-chosen")) {
+          var pairing = radio.value === "atoms" ? "instrument" : radio.value;
+          var typeInput = document.getElementById("type-" + pairing);
+          if (typeInput) { typeInput.checked = true; apply("type", pairing); }
+        }
+        if (name === "type") write("type-chosen", "1");
+      });
+    });
+  });
+  var map = document.querySelector("[data-map]");
+  var readout = document.querySelector("[data-map-readout]");
+  var resting = readout.textContent;
+  function show(event) {
+    var pathway = event.target.closest(".map-pathway");
+    readout.innerHTML = pathway ? "<b>" + pathway.getAttribute("aria-label") + "</b>" : resting;
+  }
+  map.addEventListener("pointerover", show);
+  map.addEventListener("focusin", show);
+  map.addEventListener("pointerleave", function () { readout.textContent = resting; });
+})();
+</script>

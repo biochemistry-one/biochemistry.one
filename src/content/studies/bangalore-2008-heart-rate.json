@@ -1,0 +1,18 @@
+{
+  "title": "Relation of beta-blocker-induced heart rate lowering and cardioprotection in hypertension",
+  "authors": "Bangalore S, Sawhney S, Messerli FH",
+  "journal": "Journal of the American College of Cardiology",
+  "year": 2008,
+  "doi": "10.1016/j.jacc.2008.06.048",
+  "pmid": "19017516",
+  "design": "meta-analysis",
+  "participants": 68222,
+  "followUp": "trials with at least one year of follow-up",
+  "population": "9 of 22 randomised trials of beta-blockers as first-line therapy for hypertension that reported heart rate: 34,096 patients on beta-blockers, 30,139 on other antihypertensive drugs and 3987 on placebo; search 1966 to May 2008",
+  "funder": "not read: the publisher page refused access and no archived full text was found.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "In meta-regression across trials, a lower heart rate at study end, as attained with beta-blockers, was associated with greater risk of all-cause mortality (r = -0.51, p < 0.0001), cardiovascular mortality (r = -0.61, p < 0.0001), myocardial infarction (r = -0.85, p < 0.0001), stroke (r = -0.20, p = 0.06) and heart failure (r = -0.64, p < 0.0001); the same held for the heart rate difference between treatments against the relative risk reduction. The authors conclude that, unlike in myocardial infarction and heart failure, beta-blocker-associated heart rate reduction increased the risk of cardiovascular events and death in hypertension.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/19017516/"
+}

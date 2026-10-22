@@ -1,0 +1,19 @@
+{
+  "title": "Efficacy and safety of statin therapy in older people: a meta-analysis of individual participant data from 28 randomised controlled trials",
+  "authors": "Cholesterol Treatment Trialists' Collaboration",
+  "journal": "Lancet",
+  "year": 2019,
+  "doi": "10.1016/S0140-6736(18)31942-1",
+  "pmid": "30712900",
+  "design": "meta-analysis",
+  "participants": 186854,
+  "followUp": "median 4.9 years",
+  "population": "Individual participant data from 22 trials and detailed summary data from one trial of statin against control, and five trials of more against less intensive statin therapy; 14,483 (8%) older than 75 at randomisation",
+  "funder": "Australian National Health and Medical Research Council, National Institute for Health Research Oxford Biomedical Research Centre, UK Medical Research Council, and British Heart Foundation. The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The CTT Collaboration has not been funded by industry; individual trials were funded by the pharmaceutical industry, charities and government organisations.",
+  "funderRole": "none",
+  "authorConflicts": "Several writing committee members report grants or personal fees from manufacturers of lipid-lowering drugs; one holds a patent for a statin-related myopathy genetic test.",
+  "dataAccess": "individual",
+  "result": "Per 1.0 mmol/L LDL cholesterol reduction, major vascular events fell by 21% (RR 0.79, 95% CI 0.77 to 0.81), with significant reductions in all age groups and a non-significant trend to smaller proportional reductions with age (p trend 0.06); major coronary events showed a significant trend to smaller reductions with age (p trend 0.009). Among people without known vascular disease the proportional reduction appeared smaller in older than in younger people (p trend 0.05), with no independently significant reductions in either of the two age groups including people older than 70; among people older than 70 only about a fifth of major vascular events occurred in those without vascular disease. Of 1906 vascular deaths in people older than 75, 1014 (53%) occurred in four heart failure or dialysis trials. Statin therapy had no effect at any age on non-vascular mortality, cancer death or cancer incidence. The authors state that there is less direct evidence of benefit in primary prevention in people older than 75.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6429627"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Human cholesterol 7alpha-hydroxylase (CYP7A1) deficiency has a hypercholesterolemic phenotype",
+  "authors": "Pullinger CR, Eng C, Salen G, Shefer S, Batta AK, Erickson SK, et al.",
+  "journal": "Journal of Clinical Investigation",
+  "year": 2002,
+  "doi": "10.1172/JCI15387",
+  "pmid": "12093894",
+  "design": "genetic",
+  "population": "One kindred of English and Celtic background with three homozygotes and six heterozygotes for a CYP7A1 deletion",
+  "funder": "NIH grants HL-50782, HL-50779 and DK-26756; American Heart Association Western States Affiliates Grant-in-Aid 98-212 and National 0150571N; gifts from the Joseph Drown Foundation, the Donald T. and Rachel C. Valentine Foundation, Donald Yellon and Donald and Susan Schleicher; Department of Veterans Affairs merit awards; General Clinical Research Center funds from the National Center for Research Resources (5 MO1 RR-00079).",
+  "funderRole": "none",
+  "authorConflicts": "No conflict of interest has been declared.",
+  "dataAccess": "individual",
+  "result": "A homozygous deletion causing the frameshift L413fsX414 abolished CYP7A1 activity. The three homozygotes had average total cholesterol above 300 mg/dl and LDL cholesterol above 180 mg/dl. In one homozygote, hepatic cholesterol was double normal, faecal bile acid excretion was 6% of normal and CYP27A1 activity was doubled. The two male homozygotes had premature gallstone disease and LDL cholesterol resistant to HMG-CoA reductase inhibitors. Heterozygotes had age- and sex-adjusted LDL cholesterol 30 mg/dl higher than unaffected relatives.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC151029/"
+}

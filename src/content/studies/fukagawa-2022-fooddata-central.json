@@ -1,0 +1,17 @@
+{
+  "title": "USDA's FoodData Central: what is it and why is it needed today?",
+  "authors": "Fukagawa NK, McKillop K, Pehrsson PR, Moshfegh A, Harnly J, Finley J",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2022,
+  "doi": "10.1093/ajcn/nqab397",
+  "pmid": "34893796",
+  "url": "https://fdc.nal.usda.gov/portal-data/external/746782",
+  "design": "database",
+  "funder": "All authors are employed by the USDA Agricultural Research Service and have not received external support in the preparation of this manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "The authors report no conflicts of interest.",
+  "dataAccess": "individual",
+  "result": "FoodData Central Foundation Foods, per 100 g. Milk, whole, 3.25% milkfat, with added vitamin D (FDC 746782): water 88.1 g, lactose 4.81 g, protein 3.27 g, total fat 3.2 g, calcium 123 mg, energy 60 kcal (Atwater specific factors); saturated fatty acids 1.86 g, including 15:0 0.032 g and 17:0 0.018 g; trans 16:1 0.008 g, trans 18:1 0.082 g; 1 cup 249 g. Cheese, cheddar (FDC 328637): protein 23.3 g, total fat 34.0 g, calcium 707 mg, lactose 0.16 g.",
+  "class": "reference",
+  "fundingChecked": "http://web.archive.org/web/20250804114112/https://ajcn.nutrition.org/article/S0002-9165(22)00179-4/fulltext"
+}

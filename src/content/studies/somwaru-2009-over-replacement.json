@@ -1,0 +1,18 @@
+{
+  "title": "High frequency of and factors associated with thyroid hormone over-replacement and under-replacement in men and women aged 65 and over",
+  "authors": "Somwaru LL, Arnold AM, Joshi N, Fried LP, Cappola AR",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2009,
+  "doi": "10.1210/jc.2008-1696",
+  "pmid": "19126628",
+  "design": "cross-sectional",
+  "participants": 339,
+  "population": "Thyroid hormone users among 3678 community-dwelling US adults aged 65 years or older in the Cardiovascular Health Study with thyroid function tests in 1989 to 1990; none had thyroid cancer",
+  "funder": "This work was supported by National Institute on Aging Grant K23 AG19161 (to A.R.C.), and contracts N01-HC-85079 through N01-HC-85086, N01-HC-35129, and N01 HC-15103 from the National Heart, Lung, and Blood Institute.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have nothing to disclose.",
+  "dataAccess": "individual",
+  "result": "339 of 3678 (9.2%) took a thyroid hormone preparation. Of these, 41.0% had TSH below 0.45 mU/l, 16.2% above 4.5 and 42.8% in the euthyroid range. For every 10 kg lower body weight the odds of low TSH rose by 65% (OR 1.65, 95% CI 1.31 to 2.07); diabetes was associated with low (OR 3.35, 1.46 to 7.65) and high TSH (OR 2.66, 1.14 to 6.21). The authors cite a British study in which physicians failed to adjust the dose in 89% of those with low TSH.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2682480/"
+}

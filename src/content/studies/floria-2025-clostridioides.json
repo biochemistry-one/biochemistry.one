@@ -1,0 +1,18 @@
+{
+  "title": "Proton pump inhibitors are not associated with an increased risk of Clostridioides difficile infection: a systematic review and meta-analysis of randomized controlled trials",
+  "authors": "Floria DE, Obeidat M, Váncsa S, Kávási SB, Földvári-Nagy L, Hegyi P, et al.",
+  "journal": "Gut Microbes",
+  "year": 2025,
+  "doi": "10.1080/19490976.2025.2562341",
+  "pmid": "41047657",
+  "registry": "CRD42023403322",
+  "design": "meta-analysis",
+  "population": "Randomised trials in adults comparing PPIs with placebo or other therapies, searched 15 April 2025; of the 8 trials against placebo (14,946 PPI, 14,934 placebo), six enrolled hospitalised patients given short courses for stress-ulcer or acute coronary syndrome bleeding prophylaxis and two enrolled outpatients on long-term antithrombotic bleeding prophylaxis, among them COMPASS (median 3 years)",
+  "funder": "Funding: None.",
+  "funderRole": "none",
+  "authorConflicts": "No potential conflicts of interest were disclosed.",
+  "dataAccess": "summary",
+  "result": "C. difficile infection, PPI against non-PPI: RR 1.19 (95% CI 0.75 to 1.89; 8 trials, 29,880 participants); against H2-receptor blockers RR 0.72 (0.49 to 1.07; 4 trials, 27,254 participants); against potassium-competitive acid blockers RR 1.23 (0.43 to 3.55; 3 trials, 1645 participants). Qualitative synthesis: other enteric infections and small intestinal bacterial overgrowth may be more common with PPIs; in COMPASS, enteric infections 119 of 8791 (1.4%) against 90 of 8807 (1.0%); in a trial in severe acute pancreatitis, duodenal aerobic bacterial overgrowth after 7 days in 29 of 33 given esomeprazole against 15 of 33 without (RR 1.93, 1.30 to 2.86).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12502825/fullTextXML"
+}

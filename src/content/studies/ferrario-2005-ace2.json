@@ -1,0 +1,17 @@
+{
+  "title": "Effect of angiotensin-converting enzyme inhibition and angiotensin II receptor blockers on cardiac angiotensin-converting enzyme 2",
+  "authors": "Ferrario CM, Jessup J, Chappell MC, Averill DB, Brosnihan KB, Tallant EA, et al.",
+  "journal": "Circulation",
+  "year": 2005,
+  "doi": "10.1161/CIRCULATIONAHA.104.510461",
+  "pmid": "15897343",
+  "design": "animal",
+  "followUp": "12 days of treatment",
+  "population": "Lewis rats given vehicle, lisinopril, losartan or both in drinking water",
+  "funder": "not read: the publisher page is not accessible and the PubMed abstract carries no funding statement.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "With equivalent falls in blood pressure, lisinopril raised plasma angiotensin-(1-7) 1.8-fold, lowered plasma angiotensin II and raised cardiac ACE2 mRNA without raising cardiac ACE2 activity; losartan raised plasma angiotensin II and angiotensin-(1-7), cardiac ACE2 mRNA and cardiac ACE2 activity, and cardiac tissue angiotensin II and angiotensin-(1-7). The combination raised cardiac ACE2 activity but not mRNA.",
+  "class": "undetermined",
+  "fundingChecked": "https://doi.org/10.1161/CIRCULATIONAHA.104.510461"
+}

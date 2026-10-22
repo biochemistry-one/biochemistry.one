@@ -1,0 +1,20 @@
+{
+  "title": "Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension",
+  "authors": "Wilding JPH, Batterham RL, Davies M, Van Gaal LF, Kandler K, Konakli K, et al.",
+  "journal": "Diabetes, Obesity and Metabolism",
+  "year": 2022,
+  "doi": "10.1111/dom.14725",
+  "pmid": "35441470",
+  "registry": "NCT03548935",
+  "design": "rct",
+  "participants": 327,
+  "followUp": "68 weeks on treatment, then 52 weeks off treatment to week 120",
+  "population": "Extension analysis set of 327 STEP 1 participants (228 semaglutide, 99 placebo) at sites in Canada, Germany, Japan, the UK and the US who completed 68 weeks of treatment; mean age 49.0 years, 67.0% women, mean BMI 37.6",
+  "funder": "The STEP 1 trial was funded by Novo Nordisk A/S. Medical writing and editorial assistance was funded by Novo Nordisk A/S; three authors are Novo Nordisk employees.",
+  "funderRole": "several",
+  "authorConflicts": "Most academic authors report grants, advisory or lecture fees from Novo Nordisk and other manufacturers.",
+  "dataAccess": "summary",
+  "result": "Observed weight loss to week 68 was 17.3% (SD 9.3) on semaglutide and 2.0% (6.1) on placebo. After semaglutide and the lifestyle programme were withdrawn, participants regained 11.6 (SD 7.7) percentage points against 1.9 (4.8), two thirds of the prior loss, and regain continued to week 120, when net loss was 5.6% (8.9) against 0.1% (5.8). At week 120, 95 of 197 (48.2%) previously on semaglutide kept a loss of 5% or more, against 86.4% at week 68. Systolic and diastolic pressure returned to baseline; mean systolic pressure was 129, 121 and 131 mm Hg at weeks 0, 68 and 120 in the semaglutide arm; HbA1c was 5.7%, 5.2% and 5.6%. Of participants with prediabetes at baseline, 93.6% had normoglycaemia at week 68 against 43.3% at week 120 (placebo 41.5% and 34.0%). No systematic collection of adverse events was performed in the extension. Sites were chosen by highest main-phase recruitment and all analyses were exploratory. Data availability: de-identified individual participant data are to be shared with bona fide researchers whose proposal an independent review board approves, after research completion and approval of the product in the EU and USA, through novonordisk-trials.com.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9542252"
+}

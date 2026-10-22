@@ -1,0 +1,17 @@
+{
+  "title": "Metformin in patients with type 2 diabetes and kidney disease: a systematic review",
+  "authors": "Inzucchi SE, Lipska KJ, Mayo H, Bailey CJ, McGuire DK",
+  "journal": "JAMA",
+  "year": 2014,
+  "doi": "10.1001/jama.2014.15298",
+  "pmid": "25536258",
+  "design": "systematic-review",
+  "population": "65 publications on metformin, kidney disease and lactic acidosis from 1950 to June 2014, comprising 10 pharmacokinetic or metabolic studies, 20 case series, 31 cross-sectional, observational and pharmacosurveillance studies, 3 meta-analyses and 1 clinical trial",
+  "funder": "No funding statement appears in the PubMed Central author manuscript, and the publisher page is behind a subscription, so study funding could not be read and the class is undetermined.",
+  "funderRole": "unknown",
+  "authorConflicts": "Four of the five authors report consultancy, advisory, speaker or grant relationships with manufacturers of glucose-lowering drugs, including Merck, Boehringer Ingelheim, Bristol-Myers Squibb, Janssen, Novo Nordisk, AstraZeneca, Sanofi, Takeda and Eli Lilly; one author reports National Institutes of Health grant support and academic awards.",
+  "dataAccess": "summary",
+  "result": "Narrative synthesis. The overall incidence of lactic acidosis in metformin users varied across studies from about 3 to 10 per 100,000 person-years and was generally indistinguishable from the background rate in diabetes; estimates cited are about 1 per 23,000 to 30,000 person-years with metformin against 1 per 18,000 to 21,000 person-years with other agents. Metformin clearance falls by 23% to 33% in mild chronic kidney disease (creatinine clearance 60 to 90 mL/min) and by 74% to 78% in moderate disease (30 to 60 mL/min), yet median trough concentrations remained within the therapeutic range of about 4 to 20 micromol/L: 4.50 micromol/L above eGFR 60, 7.71 at eGFR 30 to 60 and 8.88 below 30. In a UK general-practice database, incidence among metformin users was 10.37 per 100,000 patient-years overall and, by kidney function, 7.6 above eGFR 90, 4.6 at 60 to 90, 17 at 30 to 60 and 39 below 30, with incidence rate ratios against normal function of 0.61, 2.27 and 5.26, none significant. Unlike metformin, phenformin is lipophilic, partly hepatically metabolised, has a half-life of 7 to 15 hours, increases muscle lactate release and inhibits lactate oxidation; lactic acidosis fell in Swedish patients from 1.5 cases per 10,000 patient-years when phenformin was available to 0.24 per 10,000 patient-years when metformin was the only biguanide. The review states that no randomised controlled trial has tested the safety of metformin in significantly impaired kidney function, that observational studies may underestimate risk through confounding by indication or overestimate it through ascertainment bias, that prevailing US guidelines prohibited metformin for at least 2.5 million people, and that up to 1 in 4 patients received metformin counter to those guidelines without higher rates of lactic acidosis.",
+  "class": "undetermined",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4427053"
+}

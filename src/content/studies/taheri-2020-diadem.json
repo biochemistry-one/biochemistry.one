@@ -1,0 +1,19 @@
+{
+  "title": "Effect of intensive lifestyle intervention on bodyweight and glycaemia in early type 2 diabetes (DIADEM-I): an open-label, parallel-group, randomised controlled trial",
+  "authors": "Taheri S, Zaghloul H, Chagoury O, Elhadad S, Ahmed SH, El Khatib N, et al.",
+  "journal": "Lancet Diabetes and Endocrinology",
+  "year": 2020,
+  "doi": "10.1016/S2213-8587(20)30117-0",
+  "pmid": "32445735",
+  "registry": "ISRCTN20754766 and NCT03225339",
+  "design": "rct",
+  "participants": 158,
+  "followUp": "12 months",
+  "population": "Adults aged 18 to 50 years from the Middle East and north Africa region with type 2 diabetes of 3 years or less and a body-mass index of 27 kg/m2 or more, in primary care and community settings in Qatar; 147 of 158 randomised participants were included in the intention-to-treat analysis",
+  "funder": "Qatar National Research Fund. The ISRCTN registry entry for ISRCTN20754766 names the Qatar National Research Fund as funder, with a public sponsor at Weill Cornell Medicine.",
+  "funderRole": "none",
+  "dataAccess": "unknown",
+  "result": "The intensive lifestyle intervention comprised total diet replacement with formula low-energy meal replacement products followed by gradual food reintroduction with physical activity support, then structured lifestyle support for weight-loss maintenance; the control group received usual guideline-based diabetes care. Between baseline and 12 months mean bodyweight fell by 11.98 kg (95% CI 9.72 to 14.23) in the intervention group against 3.98 kg (2.78 to 5.18) in the control group, an adjusted mean difference of -6.08 kg (-8.37 to -3.79, p < 0.0001). Weight loss above 15% was achieved by 21% of intervention participants against 1% of control participants (p < 0.0001). Diabetes remission occurred in 61% against 12% (odds ratio 12.03, 5.17 to 28.03, p < 0.0001) and normoglycaemia in 33% against 4% (12.07, 3.43 to 42.45, p < 0.0001). Five serious adverse events were reported, all in four control participants.",
+  "class": "independent",
+  "fundingChecked": "https://www.isrctn.com/api/query/format/default?q=ISRCTN20754766"
+}

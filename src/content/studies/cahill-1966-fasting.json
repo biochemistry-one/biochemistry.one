@@ -1,0 +1,19 @@
+{
+  "title": "Hormone-fuel interrelationships during fasting",
+  "authors": "Cahill GF Jr, Herrera MG, Morgan AP, Soeldner JS, Steinke J, Levy PL, et al.",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1966,
+  "doi": "10.1172/JCI105481",
+  "pmid": "5926444",
+  "design": "mechanistic",
+  "participants": 8,
+  "followUp": "total fast of 180 hours",
+  "population": "Six healthy men aged 22 to 39 years and two men with mild maturity-onset diabetes",
+  "funder": "Supported in part by grants from the U. S. Public Health Service (AM-9584-01, AM-09748-01, 8 MOI-FR-31-05, TI-AM-5077-10, and 5-ROI-AMO-2657); the Adler Foundation, Inc., Rye, N. Y.; the John A. Hartford Foundation, New York, N. Y.; and U. S. Army Medical Research and Development Command (DA-49-193-MD-2337). G. F. Cahill Jr. was an Investigator of the Howard Hughes Medical Institute.",
+  "funderRole": "none",
+  "authorConflicts": "The address of G. A. Reichard Jr. at publication is given as Smith Kline and French Laboratories, Philadelphia.",
+  "dataAccess": "individual",
+  "result": "In the six healthy men, plasma glucose reached a plateau by the third day (84 ± 1 mg/100 ml after an overnight fast, 63 ± 1 mg/100 ml in the last sample); serum insulin fell from 15.2 to 8.3 µU/ml; 3-hydroxybutyrate rose from 0.016 to 4.23 mmol/L and acetoacetate from 0.013 to 1.09 mmol/L. In the two men followed throughout, 4 days were required for the non-protein respiratory quotient to fall to 0.70; on day 8, five of six oxidised no carbohydrate by calculation from nitrogen loss and respiratory quotient. Urinary nitrogen rose from the second or third day, peaked on the fourth day and then declined. Glycogen stores in man are given as about 200 g, and gluconeogenesis from fatty acid via glyoxylate as not demonstrated in mammalian systems.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/105481/version/1/pdf/render.pdf"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Alcohol hypoglycemia. I. Carbohydrate metabolism of patients with clinical alcohol hypoglycemia and the experimental reproduction of the syndrome with pure ethanol",
+  "authors": "Freinkel N, Singer DL, Arky RA, Bleicher SJ, Anderson JB, Silbert CK",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1963,
+  "doi": "10.1172/JCI104797",
+  "pmid": "16695908",
+  "design": "mechanistic",
+  "participants": 9,
+  "population": "Eight chronic alcoholics and one 16-year-old admitted to Boston City Hospital with hypoglycaemic coma after drinking, 1960 to 1962",
+  "funder": "This work was supported in part by research grant A-1571 and training grant 2 A-5060 from the National Institute of Arthritis and Metabolic Diseases, U. S. Public Health Service. One author was an Investigator of the Howard Hughes Medical Institute.",
+  "funderRole": "none",
+  "inKindSupport": "Abbott Laboratories donated initial samples of 131I-insulin; Eli Lilly supplied human, bovine and porcine insulins; Ciba Pharmaceutical Products provided Metopirone.",
+  "dataAccess": "individual",
+  "result": "Pure ethanol given after an overnight fast significantly lowered plasma glucose in six of seven patients, to below 50 mg per 100 ml in five, at moderate blood alcohol concentrations. Glucagon did not raise blood glucose during alcohol hypoglycaemia, from which the authors inferred exhausted hepatic glycogen; after a 3-day fast, hypoglycaemia was more pronounced and acute.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/104797/version/1/pdf/render.pdf"
+}

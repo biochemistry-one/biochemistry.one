@@ -1,0 +1,42 @@
+{
+  "title": "Digestion du lactose et voie de Leloir",
+  "layout": "chain",
+  "compartment": "Bordure en brosse des entérocytes, puis cytosol, principalement des hépatocytes",
+  "steps": [
+    {
+      "from": "Lactose",
+      "to": "β-D-Galactose",
+      "enzyme": "Lactase-phlorizine hydrolase (LCT)",
+      "cofactors": ["H2O"],
+      "note": "Membrane apicale des entérocytes de l'intestin grêle ; libère aussi du D-glucose"
+    },
+    {
+      "from": "β-D-Galactose",
+      "to": "α-D-Galactose",
+      "enzyme": "Galactose mutarotase (GALM)",
+      "reversible": true,
+      "note": "Après captation par SGLT1 (SLC5A1) et sortie par GLUT2 (SLC2A2)"
+    },
+    {
+      "from": "α-D-Galactose",
+      "to": "α-D-Galactose-1-phosphate",
+      "enzyme": "Galactokinase (GALK1)",
+      "cofactors": ["ATP"],
+      "note": "Première étape d'engagement du catabolisme du galactose"
+    },
+    {
+      "from": "α-D-Galactose-1-phosphate",
+      "to": "α-D-Glucose-1-phosphate",
+      "enzyme": "Galactose-1-phosphate uridylyltransférase (GALT)",
+      "cofactors": ["UDP-glucose"],
+      "note": "Libère l'UDP-galactose ; l'UDP-glucose 4-épimérase (GALE) régénère l'UDP-glucose"
+    },
+    {
+      "from": "α-D-Glucose-1-phosphate",
+      "to": "α-D-Glucose-6-phosphate",
+      "enzyme": "Phosphoglucomutase 1 (PGM1)",
+      "reversible": true,
+      "note": "Via le glucose-1,6-bisphosphate ; le produit est un intermédiaire glycolytique"
+    }
+  ]
+}

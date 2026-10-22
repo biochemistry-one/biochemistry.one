@@ -1,0 +1,16 @@
+{
+  "title": "A critical view on transgenerational epigenetic inheritance in humans",
+  "authors": "Horsthemke B",
+  "journal": "Nature Communications",
+  "year": 2018,
+  "doi": "10.1038/s41467-018-05445-5",
+  "pmid": "30061690",
+  "design": "other",
+  "funder": "Work in the author's laboratory has been funded by the Deutsche Forschungsgemeinschaft.",
+  "funderRole": "none",
+  "authorConflicts": "The author declares no competing interests.",
+  "dataAccess": "summary",
+  "result": "Comment. Within a cell lineage, gene activity states are maintained over cell divisions; this cellular inheritance is attributed to regulatory feedback loops, chromatin modifications (DNA methylation and histone modifications) and long-lived non-coding RNAs. Chromatin is extensively reshaped during germ-cell differentiation and in totipotent cells after fertilisation. Transgenerational epigenetic inheritance in humans is a matter of controversial debate because genetic, ecological and cultural inheritance confound it; epidemiological links between grandparental food supply and grandchildren's health await independent replication; most families in which abnormal DNA methylation segregated with a rare disease proved to carry an underlying genetic variant; the excess cardiovascular and metabolic disease after prenatal exposure to the Dutch hunger winter is a direct consequence of exposure in utero, not germline transmission. The author concludes that the evidence is not (yet) conclusive.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6065375/fullTextXML"
+}

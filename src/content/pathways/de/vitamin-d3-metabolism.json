@@ -1,0 +1,32 @@
+{
+  "title": "Aktivierung und Inaktivierung von Vitamin D3",
+  "layout": "chain",
+  "compartment": "Epidermis, endoplasmatisches Retikulum der Leber und Mitochondrien des proximalen Nierentubulus",
+  "steps": [
+    {
+      "from": "7-Dehydrocholesterin",
+      "to": "Colecalciferol (Vitamin D3)",
+      "enzyme": "mehrere Schritte",
+      "note": "UVB-Strahlung öffnet den B-Ring zu Prävitamin D3, das thermisch isomerisiert"
+    },
+    {
+      "from": "Colecalciferol (Vitamin D3)",
+      "to": "Calcifediol (25-Hydroxyvitamin D3)",
+      "enzyme": "Vitamin-D-25-Hydroxylase (CYP2R1)",
+      "note": "Mikrosomales Leberenzym; das Produkt bindet an das Vitamin-D-bindende Protein"
+    },
+    {
+      "from": "Calcifediol (25-Hydroxyvitamin D3)",
+      "to": "Calcitriol (1,25-Dihydroxyvitamin D3)",
+      "enzyme": "25-Hydroxyvitamin-D-1α-Hydroxylase (CYP27B1)",
+      "cofactors": ["Ferredoxin", "Ferredoxinreduktase"],
+      "note": "Mitochondrial; PTH induziert, FGF23 und Calcitriol supprimieren das Enzym"
+    },
+    {
+      "from": "Calcitriol (1,25-Dihydroxyvitamin D3)",
+      "to": "Calcitroinsäure",
+      "enzyme": "Vitamin-D-24-Hydroxylase (CYP24A1)",
+      "note": "C-24-Oxidationsweg; Calcitriol und FGF23 induzieren, PTH supprimiert das Enzym"
+    }
+  ]
+}

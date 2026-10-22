@@ -1,0 +1,20 @@
+{
+  "title": "Safety and benefit of discontinuing statin therapy in the setting of advanced, life-limiting illness: a randomized clinical trial",
+  "authors": "Kutner JS, Blatchford PJ, Taylor DH, Ritchie CS, Bull JH, Fairclough DL, et al.",
+  "journal": "JAMA Internal Medicine",
+  "year": 2015,
+  "doi": "10.1001/jamainternmed.2015.0289",
+  "pmid": "25798575",
+  "registry": "NCT01415934",
+  "design": "rct",
+  "participants": 381,
+  "followUp": "up to 1 year; primary end point at 60 days",
+  "population": "Adults with an estimated life expectancy of 1 month to 1 year, statin therapy for 3 months or more for primary or secondary prevention, recent functional decline and no recent active cardiovascular disease; mean age 74.1 years, 48.8% with cancer",
+  "funder": "This study received funding from the National Institute of Nursing Research (grants UC4-NR012584 and U24-NR014637), with resources and facilities of the Veterans Affairs Health Care System. The National Institute of Nursing Research had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "None reported.",
+  "dataAccess": "individual",
+  "result": "Unblinded pragmatic trial: 189 participants were randomised to discontinue and 192 to continue statins. Death within 60 days: 45 (23.8%) after discontinuation against 39 (20.3%) with continuation (90% CI of the difference -3.5% to 10.5%; P = 0.36); non-inferiority was not achieved because the upper limit exceeded the prespecified margin of 5%. Median time to death 229 against 190 days (P = 0.60). Cardiovascular events in 13 against 11 participants. Mean total McGill quality-of-life score (0 to 10, area under the curve) 7.11 against 6.85 (P = 0.04). The primary end point was changed from survival to death within 60 days partway through the trial on the advice of the data and safety monitoring board.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4618294/"
+}

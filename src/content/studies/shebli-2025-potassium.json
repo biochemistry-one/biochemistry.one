@@ -1,0 +1,19 @@
+{
+  "title": "Assessing the cardiovascular and potassium lowering effects of levalbuterol compared to albuterol: a randomized control trial",
+  "authors": "Shebli B, Ghabally M, Shabouk MB, Arnaout AY, Zeina MB, Malhis M",
+  "journal": "Frontiers in Cardiovascular Medicine",
+  "year": 2025,
+  "doi": "10.3389/fcvm.2025.1463999",
+  "pmid": "41437987",
+  "registry": "NCT05173584",
+  "design": "rct",
+  "participants": 30,
+  "followUp": "120 min",
+  "population": "Patients older than 16 years with serum potassium above 5.9 mEq/l at Aleppo University Hospital, half with chronic kidney disease",
+  "funder": "The author(s) declare that no financial support was received for the research and/or publication of this article.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Single-centre, single-blinded trial. All patients received 10 IU insulin with 25 g glucose, adjusted for renal function, plus nebulised albuterol 10 mg or levalbuterol 5 mg. Mean baseline potassium was 6.68 mEq/l (SD 0.43) in the albuterol group and 6.59 mEq/l (SD 0.46) in the levalbuterol group. Potassium fell by 1.31 mEq/l (SD 1.19, n = 10) at 90 min with albuterol and by 0.74 mEq/l (SD 0.45, n = 15) with levalbuterol (p = 0.176). Heart rate rose by 17.27 beats/min (SD 10.66, n = 12) and 12.00 beats/min (SD 11.42, n = 18) at 30 min (p = 0.214). Tremor and nervousness were the symptoms reported most often.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12719243/"
+}

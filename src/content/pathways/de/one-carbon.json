@@ -1,0 +1,45 @@
+{
+  "title": "Reduktion der Folsäure und C1-Zyklus des Folats",
+  "layout": "chain",
+  "compartment": "Zytosol von Hepatozyten und sich teilenden Zellen",
+  "steps": [
+    {
+      "from": "Folsäure",
+      "to": "7,8-Dihydrofolat",
+      "enzyme": "Dihydrofolatreduktase (DHFR)",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "Methotrexat"}],
+      "note": "In menschlicher Leber langsam, variabel; reduzierte Nahrungsfolate umgehen sie"
+    },
+    {
+      "from": "7,8-Dihydrofolat",
+      "to": "Tetrahydrofolat",
+      "enzyme": "Dihydrofolatreduktase (DHFR)",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "Methotrexat"}],
+      "note": "Reduziert auch das von der Thymidylatsynthase (TYMS) freigesetzte Dihydrofolat"
+    },
+    {
+      "from": "Tetrahydrofolat",
+      "to": "5,10-Methylentetrahydrofolat",
+      "enzyme": "Serin-Hydroxymethyltransferase (SHMT1 zytosolisch, SHMT2 mitochondrial)",
+      "cofactors": ["Serin zu Glycin", "Pyridoxal-5′-Phosphat"],
+      "reversible": true,
+      "note": "Verzweigung: TYMS überträgt dieses C-Atom auf dUMP und bildet dTMP für die DNA"
+    },
+    {
+      "from": "5,10-Methylentetrahydrofolat",
+      "to": "5-Methyltetrahydrofolat",
+      "enzyme": "Methylentetrahydrofolatreduktase (MTHFR)",
+      "cofactors": ["NADPH", "FAD"],
+      "note": "In vivo irreversibel; von SAM gehemmt; die Variante 677C>T senkt die Aktivität"
+    },
+    {
+      "from": "5-Methyltetrahydrofolat",
+      "to": "Tetrahydrofolat",
+      "enzyme": "Methioninsynthase (MTR)",
+      "cofactors": ["Methylcobalamin", "Homocystein zu Methionin"],
+      "note": "B12-Mangel verlangsamt diesen Schritt und hält Folat als 5-Methyl-THF fest"
+    }
+  ]
+}

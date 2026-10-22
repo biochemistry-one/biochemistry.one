@@ -1,0 +1,18 @@
+{
+  "title": "The Genetic Landscape and Epidemiology of Phenylketonuria",
+  "authors": "Hillert A, Anikster Y, Belanger-Quintana A, Burlina A, Burton BK, Carducci C, et al.",
+  "journal": "American Journal of Human Genetics",
+  "year": 2020,
+  "doi": "10.1016/j.ajhg.2020.06.006",
+  "pmid": "32668217",
+  "design": "genetic",
+  "participants": 16092,
+  "population": "Literature and national newborn-screening reports from 64 countries; genotypes and metabolic phenotypes of 16,092 affected people from 51 countries",
+  "funder": "Funded in part by the Fundacion Isabel Gemio-Fundacion La Caixa (LCF/PR/PR16/11110018), the Regional Government of Madrid (B2017/BMD3721) and NIH grants R01DK117916 and R01NR016991; Murdoch Children's Research Institute work supported by the Victorian Government's Operational Infrastructure Support Program; newborn-screening work of G.F.H. supported by the Dietmar Hopp Foundation. Manuscript editing funded by the corresponding author's institution.",
+  "funderRole": "none",
+  "authorConflicts": "N.B., A.B. and B.K.B. reported honoraria or consulting fees from BioMarin and other companies; J.V. reported research funding from BioMarin, Homology, American Gene Technologies, Nestle, Rubius and Synlogic; G.F.H. reported lecture fees from Takeda.",
+  "dataAccess": "summary",
+  "result": "Estimated global prevalence 1 in 23,930 live births, about 0.45 million affected people; prevalence highest in European and certain Middle Eastern populations and 1 in 125,000 in Japan. Phenotype distribution among 16,092 affected people: 62% classic PKU, 22% mild PKU, 16% mild hyperphenylalaninaemia.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7413859/"
+}

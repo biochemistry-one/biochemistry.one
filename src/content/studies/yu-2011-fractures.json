@@ -1,0 +1,17 @@
+{
+  "title": "Proton pump inhibitors and risk of fractures: a meta-analysis of 11 international studies",
+  "authors": "Yu EW, Bauer SR, Bain PA, Bauer DC",
+  "journal": "American Journal of Medicine",
+  "year": 2011,
+  "doi": "10.1016/j.amjmed.2011.01.007",
+  "pmid": "21605729",
+  "design": "meta-analysis",
+  "population": "11 observational case-control or cohort studies in 10 publications, mainly in older adults, searched to October 2010",
+  "funder": "Funding sources: Dr. Bauer is supported by NIH grant K24 AR051895 (National Institute of Arthritis and Musculoskeletal and Skin Diseases).",
+  "funderRole": "unknown",
+  "authorConflicts": "None of the authors report any conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "PPI use: hip fracture RR 1.30 (95% CI 1.19 to 1.43), spine fracture RR 1.56 (1.31 to 1.85), any-site fracture RR 1.16 (1.04 to 1.30), similar in men and women and by duration. H2-receptor antagonist use was not significantly associated with hip fracture (RR 1.12, 0.97 to 1.30). All studies were observational; residual confounding cannot be excluded.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3101476/fullTextXML"
+}

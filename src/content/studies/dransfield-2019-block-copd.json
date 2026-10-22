@@ -1,0 +1,19 @@
+{
+  "title": "Metoprolol for the Prevention of Acute Exacerbations of COPD",
+  "authors": "Dransfield MT, Voelker H, Bhatt SP, Brenner K, Casaburi R, Come CE, et al.; BLOCK COPD Trial Group",
+  "journal": "New England Journal of Medicine",
+  "year": 2019,
+  "doi": "10.1056/NEJMoa1908142",
+  "pmid": "31633896",
+  "registry": "NCT02587351",
+  "design": "rct",
+  "participants": 532,
+  "followUp": "treatment period 336 to 350 days; stopped early for futility and safety concerns",
+  "population": "Patients aged 40 to 85 years with chronic obstructive pulmonary disease, at least moderate airflow limitation and increased risk of exacerbation, without an established indication for a beta-blocker, at US centres; mean age 65.0 years, mean FEV1 41.1% of predicted",
+  "funder": "Funded by the Department of Defense. The paper states that the Department of Defense funded the trial but had no role in its design, in the accrual or analysis of the data, or in the preparation of the manuscript, and that no commercial entity was involved in the trial.",
+  "funderRole": "none",
+  "dataAccess": "unknown",
+  "result": "Extended-release metoprolol (n = 268) against placebo (n = 264). Median time to first exacerbation 202 against 222 days, hazard ratio 1.05 (95% CI 0.84 to 1.32). Exacerbation leading to hospitalisation (severe or very severe): hazard ratio 1.91 (1.29 to 2.83), adjusted 2.08 (1.37 to 3.14); rate ratio 3.71 (1.10 to 16.98) for very severe exacerbation. Hospitalisation for any cause 0.66 against 0.42 per person-year. During treatment 11 patients died on metoprolol and 5 on placebo (hazard ratio 2.18, 0.76 to 6.29), 7 against 1 of the deaths attributed to COPD. FEV1, 6-minute walk distance and St George's Respiratory Questionnaire score did not differ.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7416529/"
+}

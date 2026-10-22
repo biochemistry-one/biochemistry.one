@@ -1,0 +1,17 @@
+{
+  "title": "Brain serotonin release is reduced in patients with depression: a [11C]Cimbi-36 positron emission tomography study with a d-amphetamine challenge",
+  "authors": "Erritzoe D, Godlewska BR, Rizzo G, Searle GE, Agnorelli C, Lewis Y, et al.",
+  "journal": "Biological Psychiatry",
+  "year": 2023,
+  "doi": "10.1016/j.biopsych.2022.10.012",
+  "pmid": "36635177",
+  "design": "case-control",
+  "participants": 37,
+  "population": "17 antidepressant-free patients in a major depressive episode and 20 healthy controls",
+  "funder": "Funding statement not read: the publisher's full text requires payment, the archived journal page shows only the abstract, and repository copies returned HTTP 403 or 503 to automated access. Publisher-deposited Crossref metadata list Innovationsfonden, the Medical Research Council, the Michael J. Fox Foundation for Parkinson's Research, the University of Exeter, Eli Lilly and Company, King's College London, the CHDI Foundation and the European Commission as funders. Six of the 19 authors list Invicro, London, as an affiliation.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "[11C]Cimbi-36 PET before and 3 hours after oral d-amphetamine 0.5 mg/kg. Frontal 5-HT2A receptor non-displaceable binding potential fell from 1.04 to 0.87 in controls (p<0.001) and from 0.97 to 0.92 in patients (not significant); the reduction was 15% against 6.5% (p=0.041), which the authors interpret as reduced serotonin release capacity in depression. Results read from the abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://api.crossref.org/works/10.1016/j.biopsych.2022.10.012"
+}

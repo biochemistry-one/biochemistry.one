@@ -1,0 +1,20 @@
+{
+  "title": "Use of dietary linoleic acid for secondary prevention of coronary heart disease and death: evaluation of recovered data from the Sydney Diet Heart Study and updated meta-analysis",
+  "authors": "Ramsden CE, Zamora D, Leelarthaepin B, Majchrzak-Hong SF, Faurot KR, Suchindran CM, et al.",
+  "journal": "BMJ",
+  "year": 2013,
+  "doi": "10.1136/bmj.e8707",
+  "pmid": "23386268",
+  "registry": "NCT01621087",
+  "design": "rct",
+  "participants": 458,
+  "followUp": "median 39 months",
+  "population": "Men aged 30 to 59 years after acute myocardial infarction (86%) or acute coronary insufficiency or angina (14%), Sydney, Australia, 1966 to 1973",
+  "funder": "The Life Insurance Medical Research Fund of Australia and New Zealand provided a grant in support of the SDHS. The Intramural Program of the National Institute on Alcohol Abuse and Alcoholism, National Institutes of Health, and the University of North Carolina Program on Integrative Medicine (National Institutes of Health grant T-32 AT003378), supported data recovery and evaluation. The funding source had no role in study design, data collection, analysis, interpretation, or writing of the report. (Wording as corrected in BMJ 2013;346:f903.)",
+  "funderRole": "none",
+  "authorConflicts": "No financial relationships with any organisations that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "individual",
+  "result": "Safflower oil and safflower margarine replacing saturated fat; median polyunsaturated fat intake rose from 6.1% to 15.4% of energy. All-cause death 17.6% (intervention, n=221) versus 11.8% (control, n=237), HR 1.62 (95% CI 1.00 to 2.64); cardiovascular death 17.2% versus 11.0%, HR 1.70 (1.03 to 2.80); coronary death 16.3% versus 10.1%, HR 1.74 (1.04 to 2.92). Serum cholesterol fell 13.3% versus 5.5% at 12 months. Updated meta-analysis: linoleic-acid-selective trials, coronary death HR 1.33 (0.99 to 1.79); mixed omega-3 and omega-6 trials, cardiovascular death HR 0.79 (0.63 to 0.99). Trans fat content of the diets was not recorded; the authors state the margarine was selected for a high PUFA to SFA ratio, a characteristic of margarines with comparatively low trans fat.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4688426/"
+}

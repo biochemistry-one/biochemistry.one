@@ -1,0 +1,16 @@
+{
+  "title": "Management of hyperglycaemia in type 2 diabetes, 2022. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD)",
+  "authors": "Davies MJ, Aroda VR, Collins BS, Gabbay RA, Green J, Maruthur NM, et al.",
+  "journal": "Diabetologia",
+  "year": 2022,
+  "doi": "10.1007/s00125-022-05787-2",
+  "pmid": "36151309",
+  "design": "guideline",
+  "funder": "This activity was funded by the American Diabetes Association and the European Association for the Study of Diabetes.",
+  "funderRole": "none",
+  "authorConflicts": "Thirteen of the fourteen panel members declare consultancy, advisory board, speaker or institutional research relationships with manufacturers of glucose-lowering drugs, among them Boehringer Ingelheim, Eli Lilly, Novo Nordisk, Sanofi, AstraZeneca, Janssen, Pfizer, Bayer, Merck Sharp & Dohme, Abbott, Medtronic, Roche and Takeda; one member reports royalty entitlements from an online diabetes prevention programme.",
+  "dataAccess": "summary",
+  "result": "The panel states that metformin has traditionally been recommended as first-line glucose-lowering therapy because of its high efficacy in lowering HbA1c, minimal hypoglycaemia risk as monotherapy, weight neutrality with potential for modest weight loss, good safety profile and low cost, but that there is ongoing acceptance that other approaches may be appropriate: the cardiovascular and renal benefits of GLP-1 receptor agonists and SGLT2 inhibitors have been found to be independent of metformin use, so those agents should be considered in people with established or high risk of cardiovascular disease, heart failure or chronic kidney disease independent of metformin use, and the decision to use them should be independent of background metformin. For the treatment of hyperglycaemia metformin remains the agent of choice in most people with diabetes, and monotherapy often does not suffice to keep glucose at target. Metformin should not be used below an eGFR of 30 mL/min per 1.73 m2 and dose reduction should be considered below 45. Metformin use may result in lower serum vitamin B12 concentrations and worsening of symptoms of neuropathy, so periodic monitoring and supplementation if levels are deficient are generally recommended, particularly in those with anaemia or neuropathy. The panel also notes that the credibility of subgroup analyses, such as those comparing people using and not using metformin, should always be formally assessed and ideally complemented by relevant randomised trials.",
+  "class": "consensus",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9510507/fullTextXML"
+}

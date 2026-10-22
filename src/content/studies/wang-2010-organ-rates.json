@@ -1,0 +1,18 @@
+{
+  "title": "Specific metabolic rates of major organs and tissues across adulthood: evaluation by mechanistic model of resting energy expenditure",
+  "authors": "Wang Z, Ying Z, Bosy-Westphal A, Zhang J, Schautz B, Later W, et al.",
+  "journal": "The American Journal of Clinical Nutrition",
+  "year": 2010,
+  "doi": "10.3945/ajcn.2010.29885",
+  "pmid": "20962155",
+  "design": "cross-sectional",
+  "participants": 131,
+  "population": "Nonobese healthy adults, 67 men and 64 women, aged 21 to 73 years, with resting energy expenditure measured by indirect calorimetry and organ masses by magnetic resonance imaging",
+  "funder": "Supported by National Institutes of Health grant DK081633 and German Research Foundation grant DFG Mu 714/8-3.",
+  "funderRole": "none",
+  "authorConflicts": "None of the authors had a conflict of interest concerning any company or organization sponsoring this study.",
+  "dataAccess": "individual",
+  "result": "Elia's specific resting metabolic rates in kcal per kg per day: liver 200, brain 240, heart and kidneys 440, skeletal muscle 13, adipose tissue 4.5, residual mass 12. Mean masses by MRI in all 131 subjects: liver 1.39 kg, brain 1.33, heart 0.31, kidneys 0.29, skeletal muscle 26.3, adipose tissue 19.4, residual mass 24.7; measured resting energy expenditure 1575 ± 241 kcal/d against 1588 ± 234 predicted from Elia's values (paired t test P = 0.068). They lay within the 95% CIs in adults aged 21 to 50 years but overestimated by 3% in those over 50, for whom age-adjusted values were liver 194, brain 233, heart and kidneys 426, skeletal muscle 12.6, adipose tissue 4.4 and residual mass 11.6. The authors conclude that the general applicability of Elia's values was validated across adulthood.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2980962/"
+}

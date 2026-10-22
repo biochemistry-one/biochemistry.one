@@ -1,0 +1,17 @@
+{
+  "title": "Relative toxicity of selective serotonin reuptake inhibitors (SSRIs) in overdose",
+  "authors": "Isbister GK, Bowe SJ, Dawson A, Whyte IM",
+  "journal": "Journal of Toxicology. Clinical Toxicology",
+  "year": 2004,
+  "doi": "10.1081/clt-120037428",
+  "pmid": "15362595",
+  "design": "cohort",
+  "participants": 469,
+  "population": "Consecutive admissions for SSRI poisoning to a single toxicology unit in Newcastle, New South Wales, Australia",
+  "funder": "not read: the publisher full text is behind a paywall and Crossref metadata list no funder.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Of 469 SSRI overdose admissions, 30 (6.4%, 95% CI 4.3% to 9.0%) were admitted to intensive care; seizures 1.9%, coma 2.4%, serotonin syndrome 14%. Citalopram overdoses had QTc above 440 ms in 68%, more than sertraline (adjusted OR 5.11, 2.32 to 11.27). Results read from the abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://api.crossref.org/works/10.1081/clt-120037428"
+}

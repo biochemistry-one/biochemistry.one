@@ -1,0 +1,17 @@
+{
+  "title": "Inhaled short acting beta2-agonist use in chronic asthma: regular versus as needed treatment",
+  "authors": "Walters EH, Walters JAE, Gibson PG, Jones P",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2003,
+  "doi": "10.1002/14651858.CD001285",
+  "pmid": "12804401",
+  "design": "meta-analysis",
+  "population": "Randomised trials in adults and children with stable asthma comparing regular inhaled short-acting beta2-agonist with matching placebo, both groups with an inhaled bronchodilator for rescue",
+  "funder": "Internal sources: no sources of support supplied. External sources: Commonwealth Department of Health and Aged Care, Australia; Garfield Weston Foundation, UK.",
+  "funderRole": "unknown",
+  "authorConflicts": "E H Walters had taken part in collaborative clinical pharmacology studies with pharmaceutical companies including GlaxoWellcome, AstraZeneca, Pfizer, Boehringer, Schering Plough, SKB and Novartis, had held consultancies with GlaxoWellcome, Pfizer and Zeneca, and had received sponsorship to meetings.",
+  "dataAccess": "summary",
+  "result": "Update of 2003 with 49 trials. Regular against as-needed use gave no clinically or statistically significant difference in airway calibre; regular use lowered rescue use by 0.80 puffs per 24 h and days with symptoms by 6.7%. The odds ratio for at least one exacerbation was 0.86 (95% CI 0.71 to 1.04; 10 parallel-group studies, n = 2922). Regular use increased direct airway reactivity, the PC20 or PD20 falling by 0.47 doubling doses (0.13 to 0.81; 4 parallel-group studies, n = 149), reduced acute bronchoprotection against direct challenge by 0.75 doubling doses (0.30 to 1.19; 3 crossover studies, n = 50) and enlarged the allergen-induced late asthmatic response by 9.96% (4.74 to 15.18; 2 crossover studies). Few studies reported adverse events: tremor odds ratio 13.47 (3.17 to 57.24), with no significant difference in headache or palpitations. In the run-out phase after withdrawal, 4 weeks in Drazen 1996 and 1 week in Ganassini 1997, no significant differences in airway calibre or responsiveness were found.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8407398/"
+}

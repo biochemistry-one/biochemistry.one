@@ -1,0 +1,15 @@
+{
+  "title": "Deprescribing proton pump inhibitors: evidence-based clinical practice guideline",
+  "authors": "Farrell B, Pottie K, Thompson W, Boghossian T, Pizzola L, Rashid FJ, et al.",
+  "journal": "Canadian Family Physician",
+  "year": 2017,
+  "pmid": "28500192",
+  "design": "guideline",
+  "funder": "Funding was provided by the Government of Ontario.",
+  "funderRole": "none",
+  "authorConflicts": "Farrell received research funding to develop the guideline and payments for a guideline summary and speaking engagements; Moayyedi holds a chair partially funded by AstraZeneca and has received payments from AstraZeneca for speaking engagements; the other authors declared none.",
+  "dataAccess": "summary",
+  "result": "For adults whose upper gastrointestinal symptoms resolved after at least 4 weeks of PPI treatment: decrease the daily dose, or stop and change to on-demand use (strong recommendation, low-quality evidence); alternatively consider an H2-receptor antagonist (weak, moderate quality). Not applicable to Barrett oesophagus, Los Angeles grade C or D oesophagitis or a history of bleeding gastrointestinal ulcers. Endorsed by the Canadian Association of Gastroenterology among others.",
+  "class": "consensus",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429051/"
+}

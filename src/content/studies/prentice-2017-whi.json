@@ -1,0 +1,19 @@
+{
+  "title": "Low-fat dietary pattern and cardiovascular disease: results from the Women's Health Initiative randomized controlled trial",
+  "authors": "Prentice RL, Aragaki AK, Van Horn L, Thomson CA, Beresford SA, Robinson J, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2017,
+  "doi": "10.3945/ajcn.117.153270",
+  "pmid": "28515068",
+  "registry": "NCT00000611",
+  "design": "rct",
+  "participants": 48835,
+  "followUp": "8.3-year intervention, active follow-up to September 2010, mortality to 2013",
+  "population": "Postmenopausal women aged 50 to 79; 40% assigned to a low-fat dietary pattern (target 20% of energy from fat) and 60% to usual diet",
+  "funder": "Supported by NIH National Heart, Lung, and Blood Institute contracts HHSN268201100046C, HHSN268201100001C, HHSN268201100002C, HHSN268201100003C, HHSN268201100004C, and HHSN271201100004C.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Incidence of coronary heart disease and total cardiovascular disease did not differ between intervention and comparison groups in the intervention or post-intervention period. Hazard ratios varied with baseline status: in women without prior cardiovascular disease, coronary heart disease HR 0.70 (95% CI 0.56 to 0.87) if normotensive and 1.04 (0.90 to 1.19) if hypertensive, with the benefit in normotensive women partly offset by more ischaemic stroke; in the 3.4% with prior cardiovascular disease, 1.47 (1.12 to 1.93) during the intervention. The authors suggest confounding by post-randomisation use of cholesterol-lowering medication. Breast and colorectal cancer were the primary outcomes.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5486201"
+}

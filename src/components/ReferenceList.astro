@@ -1,0 +1,47 @@
+---
+import type { Lang } from "../i18n/languages";
+import { stringsFor, uiFor } from "../i18n/strings";
+import type { Study } from "../lib/content";
+
+interface Props {
+  lang: Lang;
+  studies: Study[];
+}
+
+const { lang, studies } = Astro.props;
+const strings = stringsFor(lang);
+const ui = uiFor(lang);
+---
+{studies.length > 0 && (
+  <section class="references" aria-labelledby="references-heading">
+    <h2 id="references-heading">{strings.references}</h2>
+    <ol class="reference-list">
+      {studies.map(({ id, data }) => (
+        <li id={`ref-${id}`} class={`reference reference-${data.class}`}>
+          <p class="reference-class"><span class={`class-marker class-${data.class}`} aria-hidden="true"></span>{strings.classes[data.class]}</p>
+          <p class="reference-citation" lang="en">
+            <span class="reference-authors">{data.authors.replace(/\.?$/, ".")}</span>{" "}
+            <cite class="reference-title">{data.title}</cite>{" "}
+            <span class="reference-source">{data.journal}, {data.year}.</span>
+          </p>
+          <p class="reference-links">
+            {data.doi && <a href={`https://doi.org/${data.doi}`}>doi:{data.doi}</a>}
+            {data.pmid && <a href={`https://pubmed.ncbi.nlm.nih.gov/${data.pmid}/`}>PubMed {data.pmid}</a>}
+            {data.url && !data.doi && !data.pmid && <a href={data.url}>{data.url}</a>}
+          </p>
+          <details class="reference-details">
+            <summary>{ui.details}</summary>
+            <dl class="reference-facts">
+              {data.registry && <><dt>{strings.registry}</dt><dd>{data.registry}</dd></>}
+              {data.participants !== undefined && <><dt>{strings.participants}</dt><dd>{data.participants.toLocaleString(lang)}</dd></>}
+              {data.followUp && <><dt>{strings.followUp}</dt><dd lang="en">{data.followUp}</dd></>}
+              <dt>{strings.funder}</dt><dd lang="en">{data.funder}</dd>
+              {data.inKindSupport && <><dt>{strings.inKind}</dt><dd lang="en">{data.inKindSupport}</dd></>}
+              <dt>{strings.finding}</dt><dd lang="en">{data.result}</dd>
+            </dl>
+          </details>
+        </li>
+      ))}
+    </ol>
+  </section>
+)}

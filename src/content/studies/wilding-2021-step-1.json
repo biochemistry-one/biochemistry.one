@@ -1,0 +1,19 @@
+{
+  "title": "Once-weekly semaglutide in adults with overweight or obesity",
+  "authors": "Wilding JPH, Batterham RL, Calanna S, Davies M, Van Gaal LF, Lingvay I, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2021,
+  "doi": "10.1056/NEJMoa2032183",
+  "pmid": "33567185",
+  "registry": "NCT03548935",
+  "design": "rct",
+  "participants": 1961,
+  "followUp": "68 weeks of treatment and 7 weeks off treatment",
+  "population": "Adults without diabetes with BMI of 30 kg/m2 or more, or 27 or more with a weight-related condition, and at least one unsuccessful dietary attempt to lose weight, at 129 sites in 16 countries; 74.1% women, mean age 46 years, mean weight 105.3 kg, mean BMI 37.9; randomised 2:1",
+  "funder": "Supported by Novo Nordisk. The sponsor designed the trial and oversaw its conduct; investigators collected data and the sponsor undertook site monitoring, data collation and analysis; a sponsor-funded medical writer assisted with drafting.",
+  "funderRole": "several",
+  "dataAccess": "summary",
+  "result": "With lifestyle counselling every 4 weeks, weight changed by -14.9% on semaglutide 2.4 mg weekly against -2.4% on placebo (difference -12.4 percentage points, 95% CI -13.4 to -11.5), -15.3 kg against -2.6 kg. Weight loss of 15% or more in 612 (50.5%) against 28 (4.9%) of those with week-68 data. Serious adverse events 128 (9.8%) against 42 (6.4%), the difference driven by serious gastrointestinal (1.4% against 0%) and hepatobiliary disorders (1.3% against 0.2%). Discontinuation for adverse events 92 (7.0%) against 20 (3.1%), for gastrointestinal events 59 (4.5%) against 5 (0.8%). Gastrointestinal disorders 74.2% against 47.9%. Gallbladder-related disorders 34 (2.6%) against 8 (1.2%), cholelithiasis 23 (1.8%) against 4 (0.6%). Mild acute pancreatitis in 3 on semaglutide, 2 with gallstones, against none. In a DXA subgroup of 140 participants, total lean body mass fell in kilograms while the lean proportion of body mass rose; the numbers are in a supplementary table. Persons with diabetes were excluded.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20260708154052/https://www.nejm.org/doi/full/10.1056/NEJMoa2032183"
+}

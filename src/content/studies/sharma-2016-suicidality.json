@@ -1,0 +1,18 @@
+{
+  "title": "Suicidality and aggression during antidepressant treatment: systematic review and meta-analyses based on clinical study reports",
+  "authors": "Sharma T, Guski LS, Freund N, Gøtzsche PC",
+  "journal": "BMJ",
+  "year": 2016,
+  "doi": "10.1136/bmj.i65",
+  "pmid": "26819231",
+  "design": "meta-analysis",
+  "participants": 18526,
+  "population": "70 double-blind placebo-controlled trials of duloxetine, fluoxetine, paroxetine, sertraline and venlafaxine with patient narratives or individual listings, from 64,381 pages of clinical study reports obtained from European and UK regulators and Eli Lilly summary reports",
+  "funder": "This study is part of a PhD (TS) thesis, funded by the Laura and John Arnold Foundation. The funding source had no role in the design and conduct of the study; data collection, management, analysis, and interpretation; preparation, review, and approval of the manuscript; or the decision to submit the paper for publication.",
+  "funderRole": "none",
+  "authorConflicts": "No financial relationships with organisations with an interest in the work declared.",
+  "dataAccess": "summary",
+  "result": "Children and adolescents: suicidality OR 2.39 (95% CI 1.31 to 4.33), aggression 2.79 (1.62 to 4.81). Adults: suicidality 0.81 (0.51 to 1.28), aggression 1.09 (0.55 to 2.14), akathisia 2.00 (0.79 to 5.04). Individual patient listings were available for only 32 trials and case report forms for none. 27 suicide attempts and 32 ideation events were coded as emotional lability or worsening depression; in three sertraline trials with verbatim terms, akathisia was coded as hyperkinesia, and 16 sertraline trials used the WHO Adverse Drug Reaction Terminology, which does not allow coding of akathisia or suicidal ideation. Eli Lilly's summary trial reports omitted all suicidal ideation events.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4729837"
+}

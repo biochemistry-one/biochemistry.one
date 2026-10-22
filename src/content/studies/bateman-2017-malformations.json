@@ -1,0 +1,18 @@
+{
+  "title": "Angiotensin-Converting Enzyme Inhibitors and the Risk of Congenital Malformations",
+  "authors": "Bateman BT, Patorno E, Desai RJ, Seely EW, Mogun H, Dejene SZ, et al.",
+  "journal": "Obstetrics and Gynecology",
+  "year": 2017,
+  "doi": "10.1097/AOG.0000000000001775",
+  "pmid": "27926639",
+  "design": "cohort",
+  "participants": 1333624,
+  "population": "Completed pregnancies linked to liveborn infants in US Medicaid claims, 2000 to 2010; 4107 (0.31%) exposed to ACE inhibitors in the first trimester",
+  "funder": "Research reported in this publication was supported by the Eunice Kennedy Shriver National Institute of Child Health & Human Development of the NIH under Award Number K08HD075831 (BTB), the National Heart Lung and Blood Institute under grant number K24HL096141 (EWS), and the National Institute of Mental Health under grant number K01MH099141 (KH). The content is solely the responsibility of the authors.",
+  "funderRole": "none",
+  "authorConflicts": "The Pharmacoepidemiology Program at the Harvard School of Public Health is supported by Pfizer, Takeda, Bayer and Asisa; Huybrechts, Bateman and Hernandez-Diaz are investigators on grants to Brigham and Women's Hospital from Lilly and Pfizer, and Bateman from Baxalta, all stated as unrelated; Hernandez-Diaz has consulted for Boehringer-Ingelheim and UCB, and Bateman for Optum.",
+  "dataAccess": "individual",
+  "result": "Unadjusted, malformations occurred in 5.9% of ACE-inhibitor-exposed against 3.3% of unexposed pregnancies (relative risk 1.82, 95% CI 1.61 to 2.06) and cardiac malformations in 3.4% against 1.2% (2.95, 2.50 to 3.47). Restricted to pregnancies with chronic hypertension and adjusted for confounders, relative risks were 0.89 (0.75 to 1.06) for any malformation, 0.95 (0.75 to 1.21) for cardiac and 0.54 (0.26 to 1.11) for central nervous system malformations.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5177460/"
+}

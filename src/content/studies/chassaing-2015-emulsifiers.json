@@ -1,0 +1,17 @@
+{
+  "title": "Dietary emulsifiers impact the mouse gut microbiota promoting colitis and metabolic syndrome",
+  "authors": "Chassaing B, Koren O, Goodrich JK, Poole AC, Srinivasan S, Ley RE, et al.",
+  "journal": "Nature",
+  "year": 2015,
+  "doi": "10.1038/nature14232",
+  "pmid": "25731162",
+  "design": "animal",
+  "population": "Wild-type C57BL/6 and Swiss-Webster mice, Il10-deficient and Tlr5-deficient mice, germ-free mice and germ-free recipients of microbiota transplants",
+  "funder": "This work was supported by NIH grant DK099071 and DK083890. BC is a recipient of the Research Fellowship award from the Crohn's and Colitis Foundation of America (CCFA).",
+  "funderRole": "none",
+  "authorConflicts": "No statement in the PMC author manuscript.",
+  "dataAccess": "individual",
+  "result": "Carboxymethylcellulose or polysorbate 80 at 1.0% in drinking water for 12 weeks reduced the mean distance of the closest bacteria to the epithelium by more than 50% from about 25 µm, raised faecal bioactive flagellin and lipopolysaccharide, caused low-grade inflammation, adiposity and raised fasting glucose in wild-type mice and colitis in Il10- and Tlr5-deficient mice. Germ-free mice were unaffected; microbiota transfer reproduced the effects. Effects appeared from 0.1%. Exposure was not blinded. A 2016 corrigendum (doi 10.1038/nature18000) corrected mouse ages to 5 to 7 weeks and group sizes without changing the conclusions.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910713/"
+}

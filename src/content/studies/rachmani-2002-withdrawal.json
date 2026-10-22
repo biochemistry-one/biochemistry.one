@@ -1,0 +1,18 @@
+{
+  "title": "Metformin in patients with type 2 diabetes mellitus: reconsideration of traditional contraindications",
+  "authors": "Rachmani R, Slavachevski I, Levi Z, Zadok B, Kedar Y, Ravid M",
+  "journal": "European Journal of Internal Medicine",
+  "year": 2002,
+  "doi": "10.1016/s0953-6205(02)00131-0",
+  "pmid": "12384131",
+  "design": "rct",
+  "participants": 393,
+  "followUp": "4 years",
+  "population": "Patients with type 2 diabetes and serum creatinine of 130 to 220 micromol/L already treated with metformin at an Israeli hospital, among them 266 with coronary heart disease, 94 with congestive heart failure and 91 with chronic obstructive pulmonary disease",
+  "funder": "Not stated in the published abstract. The full text is behind a subscription, the article is absent from PubMed Central and no repository copy is indexed, so the funding statement could not be read and the class is undetermined.",
+  "funderRole": "unknown",
+  "dataAccess": "unavailable",
+  "result": "Results read from the published abstract. Patients were randomised to continue or to stop metformin and followed for 4 years, with analysis by intention to treat. Those who stopped metformin showed a significantly greater rise in body-mass index and in HbA1c than those who continued. No case of lactic acidosis occurred in either group; lactate values did not differ between groups and correlated only with serum creatinine and body-mass index. Microvascular diabetic complications, cardiovascular events, and cardiovascular and total mortality were identical in the two groups. The authors conclude that patients who tolerate metformin may continue it as mild renal impairment develops, possibly up to a serum creatinine of 220 micromol/L, and that they see no apparent reason for patients with coronary heart disease, congestive heart failure or chronic obstructive pulmonary disease to discontinue it. They note that the strict limiting criteria for metformin stem largely from reports in the 1970s of mortality and lactic acidosis with phenformin and that data on metformin rest mainly on case reports.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/12384131/"
+}

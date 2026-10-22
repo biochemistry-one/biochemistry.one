@@ -1,0 +1,17 @@
+{
+  "title": "Emotional blunting with antidepressant treatments: A survey among depressed patients",
+  "authors": "Goodwin GM, Price J, De Bodinat C, Laredo J",
+  "journal": "Journal of Affective Disorders",
+  "year": 2017,
+  "doi": "10.1016/j.jad.2017.05.048",
+  "pmid": "28628765",
+  "design": "cross-sectional",
+  "participants": 819,
+  "population": "669 adults with depression taking antidepressants and 150 recovered controls in an internet survey using the Oxford Questionnaire on the Emotional Side-Effects of Antidepressants",
+  "funder": "Funding statement in the full text not read: the archived publisher page shows only the abstract. Publisher-deposited Crossref metadata list Servier and the Wellcome Trust (098461MA) as funders, and two of the four authors are affiliated with the Institut de Recherches Internationales Servier.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Emotional blunting was reported by 46% of treated patients (52% of men, 44% of women), without a difference between antidepressants, apparently less often with bupropion. Blunting scores correlated with depression scores (r=0.521), yet patients with low depression scores also scored higher than recovered controls (35.07 against 25.73). Among patients with blunting, 37% perceived it negatively. Self-reported, cross-sectional, without a drug-free comparison group of depressed patients.",
+  "class": "industry",
+  "fundingChecked": "https://api.crossref.org/works/10.1016/j.jad.2017.05.048"
+}

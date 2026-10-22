@@ -1,0 +1,17 @@
+{
+  "title": "Conflicting results between randomized trials and observational studies on the impact of proton pump inhibitors on cardiovascular events when coadministered with dual antiplatelet therapy: systematic review",
+  "authors": "Melloni C, Washam JB, Jones WS, Halim SA, Hasselblad V, Mayer SB, et al.",
+  "journal": "Circulation: Cardiovascular Quality and Outcomes",
+  "year": 2015,
+  "doi": "10.1161/CIRCOUTCOMES.114.001177",
+  "pmid": "25587094",
+  "design": "systematic-review",
+  "population": "35 studies, 1995 to 2012, of PPIs with dual antiplatelet therapy after unstable angina or non-ST-elevation myocardial infarction: 4 randomised trials and 1 observational study of omeprazole, 30 observational studies of PPIs as a class",
+  "funder": "This study received funding from the Agency for Healthcare Research and Quality, U.S. Department of Health and Human Services (contract No. 290-2007-10066-I). The Agency for Healthcare Research and Quality reviewed the work plan before the project began and provided copyright release for this manuscript. Neither the technical experts nor the Agency for Healthcare Research and Quality representatives had a role in the collection, management, analysis, and interpretation of the data or preparation, review or approval of the manuscript.",
+  "funderRole": "design",
+  "authorConflicts": "WSJ reports research grants to the Duke Clinical Research Institute from the American Heart Association, AstraZeneca and Bristol-Myers Squibb; other authors none.",
+  "dataAccess": "summary",
+  "result": "Meta-analyses of observational studies of PPIs as a class consistently reported higher 1-year event rates with PPIs (composite ischaemic end points, all-cause mortality, non-fatal myocardial infarction, stroke, revascularisation, stent thrombosis), whereas randomised trials of omeprazole against placebo showed no difference in ischaemic outcomes and a reduction in upper gastrointestinal bleeding.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6143138/fullTextXML"
+}

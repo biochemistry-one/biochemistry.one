@@ -1,0 +1,19 @@
+{
+  "title": "Effect of five dietary emulsifiers on inflammation, permeability, and the gut microbiome: a placebo-controlled randomized trial",
+  "authors": "Wellens J, Vanderstappen J, Hoekx S, Vissers E, Luppens M, Van Elst L, et al.",
+  "journal": "Clinical Gastroenterology and Hepatology",
+  "year": 2026,
+  "doi": "10.1016/j.cgh.2025.08.005",
+  "pmid": "40816342",
+  "registry": "NCT06552156",
+  "design": "rct",
+  "participants": 60,
+  "followUp": "2 weeks of emulsifier-free diet, then 4 weeks of supplementation",
+  "population": "Healthy adults in Leuven, Belgium",
+  "funder": "not stated in an accessible source; the full text could not be read. Registry NCT06552156 names Universitaire Ziekenhuizen KU Leuven as lead sponsor and lists no collaborators.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Double-blind; brownies with carboxymethylcellulose, polysorbate 80, carrageenan, soy lecithin, native rice starch or no additive (registry doses: carboxymethylcellulose 2.75 g, carrageenan 375 mg and soy lecithin 3.55 g per day). Faecal short-chain fatty acids were lower with carboxymethylcellulose than placebo; faecal calprotectin, C-reactive protein, serum lipopolysaccharide-binding protein and metabolic markers did not differ from placebo; transcellular permeability rose from baseline with carrageenan (P = 0.04). Cholesterol fell after 2 weeks of the emulsifier-free diet.",
+  "class": "undetermined",
+  "fundingChecked": "https://clinicaltrials.gov/study/NCT06552156"
+}

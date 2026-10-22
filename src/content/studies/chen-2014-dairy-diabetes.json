@@ -1,0 +1,18 @@
+{
+  "title": "Dairy consumption and risk of type 2 diabetes: 3 cohorts of US adults and an updated meta-analysis",
+  "authors": "Chen M, Sun Q, Giovannucci E, Mozaffarian D, Manson JE, Willett WC, et al.",
+  "journal": "BMC Medicine",
+  "year": 2014,
+  "doi": "10.1186/s12916-014-0215-1",
+  "pmid": "25420418",
+  "design": "cohort",
+  "followUp": "up to 30 years; 3,984,203 person-years",
+  "population": "Health Professionals Follow-up Study, Nurses' Health Study and Nurses' Health Study II; meta-analysis of 14 prospective cohorts with 459,790 participants",
+  "funder": "National Institutes of Health grants DK58845, P01 CA87969, P01 CA055075, R01 HL034594 and HL60712; NHLBI career development award R00HL098459. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "D Mozaffarian declared membership of the Unilever North America Scientific Advisory Board.",
+  "dataAccess": "unknown",
+  "result": "15,156 incident type 2 diabetes cases in 3,984,203 person-years. Per serving/day: total dairy HR 0.99 (95% CI 0.98 to 1.01); yogurt 0.83 (0.75 to 0.92). Meta-analysis of 14 cohorts (35,863 cases): total dairy RR 0.98 (0.96 to 1.01) and yogurt 0.82 (0.70 to 0.96) per serving/day.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4243376/"
+}

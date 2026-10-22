@@ -1,0 +1,17 @@
+{
+  "title": "Food additives: distribution and co-occurrence in 126,000 food products of the French market",
+  "authors": "Chazelas E, Deschasaux M, Srour B, Kesse-Guyot E, Julia C, Alles B, et al.",
+  "journal": "Scientific Reports",
+  "year": 2020,
+  "doi": "10.1038/s41598-020-60948-w",
+  "pmid": "32132606",
+  "design": "cross-sectional",
+  "population": "126,556 food and beverage products marketed in France with an ingredient list in the Open Food Facts database, retrieved on 10 April 2019",
+  "funder": "PhD grant from Paris 13 University (E. Chazelas); post-doctoral fellowship from the Fondation pour la Recherche Médicale (ARF201809007046, M. Deschasaux); French Ministry of Health (DGS Arrêté 29 Novembre 2019); French National Cancer Institute (INCa_14059); European Research Council (ERC CoG ADDITIVES_864219). Researchers were independent from funders. Funders had no role in the study design, the collection, analysis, and interpretation of data, the writing of the report, and the decision to submit the article for publication. Open Food Facts is a non-profit association.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing interests.",
+  "dataAccess": "individual",
+  "result": "53.8% of products contained at least one additive and 11.3% five or more. Appendix 7, products containing each additive: citric acid E 330 18,302; lecithins E 322 13,102; E 14XX modified starches 10,100; sodium carbonates E 500 8587; ascorbic acid E 300 7919; xanthan gum E 415 7327; sodium nitrite E 250 7144; diphosphates E 450 6529; pectins E 440 6504; mono- and diglycerides of fatty acids E 471 6060. Specific starches: E 1442 209, E 1422 173, E 1414 55, E 1450 30, E 1412 27, E 1420 19, E 1404 18, E 1440 5, E 1410 1. The footnote and the Discussion state that the number of products containing each specific modified starch may be underestimated because packaging often states only 'modified starch'. E 500 had the highest squared loading (0.64) in cluster 3, 'stabilizers and emulsifiers mostly used in biscuits and cakes'; sodium carbonate (E 500), diphosphates (E 450) and lecithins (E 322) co-occurred in 1667 products, mostly biscuits. The authors describe E 500, E 450, E 503 and E 422 as widely used in biscuits and cakes as acidity regulators, stabilizers and emulsifiers. Additive doses were not available.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7055242/fullTextXML"
+}

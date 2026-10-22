@@ -1,0 +1,19 @@
+{
+  "title": "Lean Mass Gains, Cardiac Remodeling, and Muscle Oxidative Changes With High-Dose Salbutamol During Resistance Training: A Randomized Controlled Trial",
+  "authors": "Hostrup M, Jessen S, Tischer SG, Kalsen A, Hadad R, Bonde PL, et al.",
+  "journal": "Scandinavian Journal of Medicine & Science in Sports",
+  "year": 2026,
+  "doi": "10.1111/sms.70302",
+  "pmid": "42274909",
+  "design": "rct",
+  "participants": 30,
+  "followUp": "11 weeks",
+  "population": "Healthy trained men aged about 23 years in a supervised full-body resistance training programme three times a week; oral salbutamol 16 mg/day or placebo, double-blind; 26 completed",
+  "funder": "The study was supported by an independent research grant from World Anti-Doping Agency (Grant 11D5VB).",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare no conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "Lean mass rose 1.8 kg more with salbutamol than placebo (95% CI 0.5 to 3.1). Cardiac magnetic resonance showed no between-group difference in cardiac structure or function, including left ventricular mass, whereas echocardiography showed greater posterior, septal and relative wall thickness with salbutamol (p < 0.01). Time to exhaustion in cardiopulmonary exercise testing increased 7% with placebo and not with salbutamol; muscle capillary density and citrate synthase and 3-hydroxyacyl-CoA dehydrogenase activities fell with salbutamol (p < 0.01). The dose was supratherapeutic and the participants were healthy men.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13256265/"
+}

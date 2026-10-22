@@ -1,0 +1,19 @@
+{
+  "title": "Tirzepatide once weekly for the treatment of obesity",
+  "authors": "Jastreboff AM, Aronne LJ, Ahmad NN, Wharton S, Connery L, Alves B, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2022,
+  "doi": "10.1056/NEJMoa2206038",
+  "pmid": "35658024",
+  "registry": "NCT04184622",
+  "design": "rct",
+  "participants": 2539,
+  "followUp": "72 weeks, including a 20-week dose-escalation period",
+  "population": "Adults without diabetes with BMI of 30 or more, or 27 or more with a weight-related complication; mean weight 104.8 kg, mean BMI 38.0",
+  "funder": "Supported by Eli Lilly, as stated in the abstract; the sponsor's role was not read.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Mean weight change at week 72 was -15.0% (95% CI -15.9 to -14.2) on tirzepatide 5 mg, -19.5% (-20.4 to -18.5) on 10 mg and -20.9% (-21.8 to -19.9) on 15 mg against -3.1% (-4.3 to -1.9) on placebo. Weight reduction of 20% or more in 50% and 57% on 10 and 15 mg against 3%. Adverse events caused discontinuation in 4.3%, 7.1% and 6.2% against 2.6%; the most common adverse events were gastrointestinal.",
+  "class": "industry",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/35658024/"
+}

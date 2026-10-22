@@ -1,0 +1,33 @@
+{
+  "title": "Cycle du thymidylate",
+  "layout": "cycle",
+  "compartment": "Cytosol, noyau et mitochondries",
+  "steps": [
+    {
+      "from": "Tétrahydrofolate (THF)",
+      "to": "5,10-Méthylène-THF",
+      "enzyme": "Sérine hydroxyméthyltransférase (SHMT1, SHMT2)",
+      "cofactors": ["L-Sérine → glycine", "Pyridoxal-5′-phosphate"],
+      "reversible": true
+    },
+    {
+      "from": "5,10-Méthylène-THF",
+      "to": "Dihydrofolate (DHF)",
+      "enzyme": "Thymidylate synthase (TYMS)",
+      "cofactors": ["dUMP → dTMP"],
+      "inhibitors": [
+        {"name": "Fluorouracile", "page": "medicines/fluorouracil"},
+        {"name": "Pémétrexed", "page": "medicines/pemetrexed"}
+      ],
+      "note": "Le folate fournit le carbone et les deux électrons qui le réduisent en méthyle"
+    },
+    {
+      "from": "Dihydrofolate (DHF)",
+      "to": "Tétrahydrofolate (THF)",
+      "enzyme": "Dihydrofolate réductase (DHFR)",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "Méthotrexate", "page": "medicines/methotrexate"}],
+      "note": "Réduit aussi l'acide folique en DHF, lentement dans le foie humain"
+    }
+  ]
+}

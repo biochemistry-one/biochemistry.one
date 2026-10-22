@@ -1,0 +1,14 @@
+{
+  "title": "Proton pump inhibitors: very low risk of subacute cutaneous lupus erythematosus",
+  "authors": "Medicines and Healthcare products Regulatory Agency",
+  "journal": "MHRA Drug Safety Update, volume 9, issue 2, September 2015 (published on GOV.UK 8 September 2015)",
+  "year": 2015,
+  "url": "https://www.gov.uk/drug-safety-update/proton-pump-inhibitors-very-low-risk-of-subacute-cutaneous-lupus-erythematosus",
+  "design": "regulatory",
+  "funder": "Medicines and Healthcare products Regulatory Agency",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Very few cases of subacute cutaneous lupus erythematosus (SCLE) have been reported considering the extensive use of PPIs, but evidence from the literature and from Yellow Card and other regulatory reports supports a causal association. A Swedish register-based case-control study estimated an SCLE risk almost 3 times that of the general population with PPI use (OR 2.9, 95% CI 2.0 to 4.0); a Danish dermatology unit identified 19 PPI-associated cases over 19 years (3 definite, 14 probable). Across literature and licence-holder cases, 36 resolved on stopping the PPI and 4 recurred with a different PPI. Drug-induced SCLE can occur weeks, months or years after exposure; in most cases symptoms resolve on withdrawal, and a patient who develops SCLE with one PPI may react to another.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.gov.uk/api/content/drug-safety-update/proton-pump-inhibitors-very-low-risk-of-subacute-cutaneous-lupus-erythematosus"
+}

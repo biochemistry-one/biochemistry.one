@@ -1,0 +1,14 @@
+{
+  "title": "Sodium acid pyrophosphate, sodium pyrophosphate, tetra sodium pyrophosphate and calcium pyrophosphate, 21 CFR 182.1087, 182.6787, 182.6789 and 182.8223: substances generally recognized as safe",
+  "authors": "US Food and Drug Administration",
+  "journal": "Code of Federal Regulations, title 21, part 182, subparts B (Multiple Purpose GRAS Food Substances), G (Sequestrants) and I (Nutrients), read in the electronic Code of Federal Regulations, up to date as of 20 October 2026",
+  "year": 2026,
+  "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-182",
+  "design": "regulatory",
+  "funder": "US Food and Drug Administration; the text is federal regulation codified by the Office of the Federal Register.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Section 182.1087 (subpart B, multiple purpose GRAS food substances) lists sodium acid pyrophosphate; sections 182.6787 and 182.6789 (subpart G, sequestrants) list sodium pyrophosphate and tetra sodium pyrophosphate; section 182.8223 (subpart I, nutrients) lists calcium pyrophosphate. Each states: 'This substance is generally recognized as safe when used in accordance with good manufacturing practice.'",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ecfr.gov/api/versioner/v1/full/2026-10-20/title-21.xml?part=182&section=182.1087"
+}

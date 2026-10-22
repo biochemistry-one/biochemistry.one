@@ -1,0 +1,17 @@
+{
+  "title": "Expanding disease definitions in guidelines and expert panel ties to industry: a cross-sectional study of common conditions in the United States",
+  "authors": "Moynihan RN, Cooke GP, Doust JA, Bero L, Hill S, Glasziou PP",
+  "journal": "PLoS Medicine",
+  "year": 2013,
+  "doi": "10.1371/journal.pmed.1001500",
+  "pmid": "23966841",
+  "design": "cross-sectional",
+  "population": "The most recent publication, 2000 to 2013, from national and international panels setting definitions or diagnostic criteria for 14 common conditions in the United States (16 publications), including the JNC 7 hypertension report of 2003",
+  "funder": "NHMRC Screening and Test Evaluation Program Grant. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "Moynihan, Doust and Glasziou are involved in planning the Preventing Overdiagnosis conference; Hill chairs the Australian Pharmaceutical Benefits Advisory Committee and is on the PLOS Medicine editorial board; Bero declares none.",
+  "dataAccess": "summary",
+  "result": "Ten of 16 publications widened disease definitions, one narrowed them and five had unclear impact; none rigorously assessed the potential harms of widening. Among 14 panels with disclosures, on average 75% of members had industry ties, 12 were chaired or led by people with ties, and members with ties had a median of seven companies. The JNC 7 hypertension panel created the category of pre-hypertension; 9 of its 11 members (82%) disclosed industry ties, to a median of 12 companies (IQR 11 to 13), its chair had ties, and 8 of 11 (73%) each had ties to Bristol-Myers Squibb, Merck and Novartis, whose products include irbesartan, losartan and amlodipine besylate/benazepril.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3742441/"
+}

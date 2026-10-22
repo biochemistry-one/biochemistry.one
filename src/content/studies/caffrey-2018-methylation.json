@@ -1,0 +1,19 @@
+{
+  "title": "Gene-specific DNA methylation in newborns in response to folic acid supplementation during the second and third trimesters of pregnancy: epigenetic analysis from a randomized controlled trial",
+  "authors": "Caffrey A, Irwin RE, McNulty H, Strain JJ, Lees-Murdock DJ, McNulty BA, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2018,
+  "doi": "10.1093/ajcn/nqx069",
+  "pmid": "29635492",
+  "registry": "ISRCTN19917787",
+  "design": "rct",
+  "participants": 86,
+  "followUp": "Cord blood at delivery after supplementation from gestational week 14",
+  "population": "Cord blood samples from the FASSTT trial, Northern Ireland: folic acid 400 µg/day or placebo in trimesters 2 and 3",
+  "funder": "Supported by the HSC (Health and Social Care) Research and Development Division of the Public Health Agency, Northern Ireland (Enabling Research Award STL/5043/14) and joint funding (Grant Ref: ES/N000323/1 EpiFASSTT) from the Biology and Biological Sciences Research Council (BBSRC) and the Economic and Social Research Council (ESRC).",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Results read from the published abstract. Continued folic acid, against placebo, gave lower cord blood methylation at LINE-1 (56.3 ± 1.7% against 57.2 ± 2.1%; P = 0.024), IGF2 (48.9 ± 4.4% against 51.2 ± 5.1%; P = 0.021) and BDNF (2.7 ± 0.7% against 3.1 ± 0.8%; P = 0.003); the IGF2 effect was significant only in girls and the BDNF effect only in boys. Individual CpG sites in GRB10 and GRIN3B changed. Nine candidate loci were tested by pyrosequencing; the authors call for a genome-wide approach.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20260426024439/https://www.sciencedirect.com/science/article/pii/S0002916522028246"
+}

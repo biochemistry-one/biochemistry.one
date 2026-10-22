@@ -1,0 +1,18 @@
+{
+  "title": "Dietary sources of sodium in China, Japan, the United Kingdom, and the United States, women and men aged 40 to 59 years: the INTERMAP study",
+  "authors": "Anderson CA, Appel LJ, Okuda N, Brown IJ, Chan Q, Zhao L, et al.",
+  "journal": "Journal of the American Dietetic Association",
+  "year": 2010,
+  "doi": "10.1016/j.jada.2010.02.007",
+  "pmid": "20430135",
+  "design": "cross-sectional",
+  "participants": 4680,
+  "population": "Adults aged 40 to 59 years in four Japanese, three rural Chinese, two UK and eight US samples; four multipass 24-hour dietary recalls per person",
+  "funder": "The INTERMAP Study was supported by grant 2RO1-HL50490 from the US National Heart, Lung, and Blood Institute, by the Chicago Health Research Foundation, and by national agencies in China, Japan (Ministry of Education, Science, Sports and Culture Grant-in-Aid for Scientific Research (A), 090357003) and the United Kingdom.",
+  "funderRole": "none",
+  "authorConflicts": "No potential conflict of interest was reported by the authors.",
+  "dataAccess": "unknown",
+  "result": "In the rural Chinese samples, 76% of dietary sodium came from salt added in home cooking. In Japan, 63% came from soy sauce (20%), commercially processed fish and seafood (15%), salted soups (15%) and preserved vegetables (13%). Processed foods supplied 95% of sodium in the United Kingdom and 71% in the United States, the US figure underestimated for methodological reasons.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4308093/"
+}

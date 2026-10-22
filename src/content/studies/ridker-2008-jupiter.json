@@ -1,0 +1,20 @@
+{
+  "title": "Rosuvastatin to prevent vascular events in men and women with elevated C-reactive protein",
+  "authors": "Ridker PM, Danielson E, Fonseca FA, Genest J, Gotto AM Jr, Kastelein JJ, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2008,
+  "doi": "10.1056/NEJMoa0807646",
+  "pmid": "18997196",
+  "registry": "NCT00239681",
+  "design": "rct",
+  "participants": 17802,
+  "followUp": "median 1.9 years (maximum 5.0); stopped early",
+  "population": "Apparently healthy men and women with LDL cholesterol below 130 mg/dL (3.4 mmol/L) and high-sensitivity C-reactive protein 2.0 mg/L or higher; diabetes and previous lipid-lowering therapy were exclusion criteria (JUPITER)",
+  "funder": "Supported by AstraZeneca. The sponsor collected the trial data and monitored the study sites but played no role in the conduct of the analyses or drafting of the manuscript and had no access to the unblinded trial data until after the manuscript was submitted for publication. Registry NCT00239681 names AstraZeneca as sponsor. The sponsor's role in design is not stated.",
+  "funderRole": "unknown",
+  "authorConflicts": "The first author reported grant support and consulting or lecture fees from AstraZeneca and other manufacturers and is a coinventor on patents on high-sensitivity C-reactive protein licensed to Dade Behring and AstraZeneca; several other authors reported fees from statin manufacturers.",
+  "dataAccess": "individual",
+  "result": "Rosuvastatin 20 mg daily against placebo. At 12 months median LDL cholesterol was 50% lower and high-sensitivity C-reactive protein 37% lower with rosuvastatin. First major cardiovascular events (myocardial infarction, stroke, arterial revascularisation, hospitalisation for unstable angina or death from cardiovascular causes): 142 against 251, or 0.77 against 1.36 per 100 person-years; hazard ratio 0.56 (95% CI 0.46 to 0.69). Death from any cause 1.00 against 1.25 per 100 person-years (hazard ratio 0.80, 0.67 to 0.97). From Kaplan-Meier estimates, 95 people would need rosuvastatin for 2 years and 31 for 4 years to prevent one primary event. Physician-reported diabetes 270 against 216 (P = 0.01).",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20120116011125/http://www.nejm.org:80/doi/full/10.1056/NEJMoa0807646"
+}

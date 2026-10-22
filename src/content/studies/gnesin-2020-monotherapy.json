@@ -1,0 +1,18 @@
+{
+  "title": "Metformin monotherapy for adults with type 2 diabetes mellitus",
+  "authors": "Gnesin F, Thuesen ACB, Kahler LKA, Madsbad S, Hemmingsen B",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2020,
+  "doi": "10.1002/14651858.CD012906.pub2",
+  "pmid": "32501595",
+  "design": "systematic-review",
+  "participants": 10680,
+  "followUp": "one year to 10.7 years; last search 2 December 2019",
+  "population": "18 randomised controlled trials with multiple study arms, of at least one year's duration, comparing metformin monotherapy with no intervention, behaviour-changing interventions or other glucose-lowering drugs in adults with type 2 diabetes",
+  "funder": "The review's own Sources of support section could not be read: the Cochrane Library and Wiley pages return HTTP 403 to automated access and the PubMed Central record contains the abstract and plain-language summary only. The Europe PMC core record for this review lists grants from Steno Diabetes Center Copenhagen (SDCC 3.F CMP) and the NNF Center for Basic Metabolic Research (Hansen Group). The class is therefore undetermined.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "About 58% of participants finished the trials in all groups. No trial was judged at low risk of bias on all risk-of-bias domains. No trial compared metformin with placebo or with a behaviour-changing intervention. Against sulphonylureas, four trials reported all-cause mortality: in three no participant died, and in the fourth 31 of 1454 (2.1%) died on metformin against 31 of 1441 (2.2%); serious adverse events occurred in 331 of 1454 (22.8%) against 308 of 1441 (21.4%); cardiovascular death in 4 of 1441 (0.3%) against 8 of 1447 (0.6%); non-fatal myocardial infarction in 21 of 1454 (1.4%) against 15 of 1441 (1.0%); all very low-certainty evidence. Against thiazolidinediones, all-cause mortality risk ratio 0.88 (95% CI 0.55 to 1.39, 5 trials, 4402 participants), serious adverse events 0.95 (0.84 to 1.09, 3208 participants) and cardiovascular death 0.71 (0.21 to 2.39, 3211 participants); very low-certainty evidence for all outcomes. Against dipeptidyl peptidase-4 inhibitors, a glucagon-like peptide-1 analogue, a meglitinide or no intervention, no substantial differences were found, all at very low certainty. Health-related quality of life and end-stage renal disease were essentially unreported. The authors conclude that there is no clear evidence whether metformin monotherapy, compared with no intervention, behaviour-changing interventions or other glucose-lowering drugs, influences patient-important outcomes, and note that almost all studies investigated laboratory measures such as fasting blood glucose.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32501595%20AND%20SRC:MED&resultType=core&format=json"
+}

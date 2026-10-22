@@ -1,0 +1,16 @@
+{
+  "title": "European Society for the Study of Coeliac Disease 2025 Updated Guidelines on the Diagnosis and Management of Coeliac Disease in Adults. Part 1: Diagnostic Approach",
+  "authors": "Al-Toma A, Zingone F, Branchi F, Schiepatti A, Malamut G, Canova C, et al.",
+  "journal": "United European Gastroenterology Journal",
+  "year": 2025,
+  "doi": "10.1002/ueg2.70119",
+  "pmid": "40999951",
+  "design": "guideline",
+  "funder": "The authors received no specific funding for this work. Development of these guidelines was not financially funded.",
+  "funderRole": "none",
+  "authorConflicts": "Panel members disclosed interests before appointment; the guideline states that no industry or government affiliations influenced it. Declared: F. Zingone, speaker fees from Werfen, EG Stada Group, Fresenius Kabi, Kedrion, Janssen, Pfizer, Takeda, Unifarco, Malesci and Galapagos and consultancy for Galapagos, Takeda and Tillotts; L.M. Sollid, consultancy for Falk, GSK, Precigen ActoBio, Sanofi, Takeda and Topas Therapeutics; K. Lundin, agreements, consultancy or honoraria with Allero, Alimentiv, Anokion, Amyra, Chugai, GenXBioscience, Falk, Takeda, Topas and Tillotts; D.S. Sanders, educational grant from Dr Schaer, Nemysis board, consulting fees from Tillotts and Takeda; M. Schumann, agreements, consultancy or honoraria with Falk, Takeda, Topas, Dr. Schär and Tillotts.",
+  "dataAccess": "summary",
+  "result": "Coeliac disease is an inflammatory disorder of genetically predisposed persons triggered by an immune response to gluten, proteins of wheat, barley and rye. 90% to 95% of patients carry HLA-DQ2.5 (DQA1*05 and DQB1*02, in cis or trans); the remaining 5% to 10% carry HLA-DQ8 (DQA1*03 and DQB1*03:02) or HLA-DQ2.2; HLA risk alleles are necessary but not sufficient and confer about 35% to 40% of the genetic risk. Prevalence in western countries is about 0.7% histologically confirmed and 1% to 1.6% by serological screening. Recommendations: IgA anti-TG2 as the single initial test at any age, with total IgA, on a gluten-containing diet (moderate certainty, strong, 95% agreement); diagnosis without biopsy in adults when IgA anti-TG2 is at least 10 times the upper limit of normal (moderate certainty, conditional, 95%), confirmed in a second blood sample and, until more safety data are available, limited to patients under 45 years; HLA testing has a poor positive and a high negative predictive value, so HLA-DQ2/8 typing is not used routinely in initial diagnosis (moderate certainty, strong, 100%).",
+  "class": "consensus",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12704582"
+}

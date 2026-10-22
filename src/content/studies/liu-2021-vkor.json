@@ -1,0 +1,16 @@
+{
+  "title": "Structural basis of antagonizing the vitamin K catalytic cycle for anticoagulation",
+  "authors": "Liu S, Li S, Shen G, Sukumar N, Krezel AM, Li W",
+  "journal": "Science",
+  "year": 2021,
+  "doi": "10.1126/science.abc5667",
+  "pmid": "33154105",
+  "design": "mechanistic",
+  "funder": "W.L. is supported by NHLBI (R01 HL121718), the W. M. Keck Foundation (Forefront of Science Award), the Children's Discovery Institute (MCII 2020-854), NEI (R21 EY028705) and NIGMS (R01 GM131008). The NECAT beamlines are funded by NIGMS (P30 GM124165), the Eiger detector by NIH-ORIP (HEI S10OD021527), and the Advanced Photon Source by DOE (DE-AC02-06CH11357).",
+  "funderRole": "none",
+  "authorConflicts": "Competing interests: none.",
+  "dataAccess": "individual",
+  "result": "Eleven crystal structures of human vitamin K epoxide reductase (VKOR) and a VKOR-like paralog with substrates and antagonists. VKOR is an endoplasmic reticulum membrane enzyme; the cycle begins with epoxidation of vitamin K hydroquinone, which drives gamma-carboxylation of coagulation factors, and VKOR reduces the epoxide first to the quinone and then to the hydroquinone, each step coupled to oxidation of two active-site cysteines. Vitamin K antagonists, including warfarin, inhibit VKOR at both the epoxide and the quinone reduction steps.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7946407&retmode=xml"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Replacing salt with low-sodium salt substitutes (LSSS) for cardiovascular health in adults, children and pregnant women",
+  "authors": "Brand A, Visser ME, Schoonees A, Naude CE",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2022,
+  "doi": "10.1002/14651858.CD015207",
+  "pmid": "35944931",
+  "design": "meta-analysis",
+  "participants": 35053,
+  "population": "26 randomised trials with 34,961 adults and 92 children; trial duration 2 months to nearly 5 years; 23 trials replaced sodium with potassium salts",
+  "funder": "Internal sources: none provided. External sources: the World Health Organization provided funding to Stellenbosch University towards the cost of the review; the UK Foreign, Commonwealth and Development Office through the Research, Evidence and Development Initiative (READ-It, project 300342-104).",
+  "funderRole": "design",
+  "authorConflicts": "The review question was developed by the World Health Organization Nutrition Guidance Expert Advisory Group Subgroup on Diet and Health, and the protocol was approved by WHO. All authors partly supported by READ-It (UK aid). A. Brand, M.E. Visser and C.E. Naude report partial support paid to their institution for reviews on total fat intake, low-sodium salt substitutes and coconut, palm and tropical oils. C.E. Naude co-directs Cochrane Nutrition; these authors had no role in the editorial process.",
+  "dataAccess": "summary",
+  "result": "Adults, salt substitute versus regular salt: systolic blood pressure -4.76 mm Hg (95% CI -6.01 to -3.50; 21,414 participants, 20 trials) and diastolic -2.43 mm Hg (-3.50 to -1.36); non-fatal stroke 20 fewer per 100,000 person-years (40 fewer to 2 more; 3 trials); non-fatal acute coronary syndrome 150 fewer (250 to 30 fewer; 1 trial); cardiovascular mortality 180 fewer (310 fewer to 0; 3 trials); blood potassium +0.12 mmol/L (0.07 to 0.18); hyperkalaemia 4 more per 100,000 (47 fewer to 121 more). All 26 trials excluded participants in whom an increased potassium intake is known to be potentially harmful; the evidence in children is very uncertain and no trials in pregnant women were found.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9363242/"
+}

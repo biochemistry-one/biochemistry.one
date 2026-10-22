@@ -1,0 +1,33 @@
+{
+  "title": "Absorption and renal handling of phosphate from diphosphates",
+  "layout": "chain",
+  "compartment": "Gut lumen, small-intestinal epithelium, plasma and renal proximal tubule",
+  "steps": [
+    {
+      "from": "Diphosphate, gut lumen",
+      "to": "Orthophosphate, gut lumen",
+      "enzyme": "Hydrolysis, shown in rats",
+      "note": "Rats fed diphosphate excrete orthophosphate, not diphosphate, in urine"
+    },
+    {
+      "from": "Orthophosphate, gut lumen",
+      "to": "Orthophosphate, plasma",
+      "enzyme": "several steps",
+      "note": "Apical NaPi-IIb (SLC34A2) with 3 Na⁺, plus passive diffusion"
+    },
+    {
+      "from": "Orthophosphate, plasma",
+      "to": "Orthophosphate, glomerular filtrate",
+      "enzyme": "Glomerular filtration",
+      "note": "About 200 mmol phosphorus filtered per day"
+    },
+    {
+      "from": "Orthophosphate, glomerular filtrate",
+      "to": "Orthophosphate, proximal tubule cell",
+      "enzyme": "NaPi-IIa (SLC34A1) and NaPi-IIc (SLC34A3), apical membrane",
+      "cofactors": ["3 Na⁺ (NaPi-IIa)", "2 Na⁺ (NaPi-IIc)"],
+      "inhibitors": [{"name": "Parathyroid hormone"}, {"name": "FGF23 with α-Klotho"}],
+      "note": "Proximal tubules reabsorb 80% or more of filtered phosphorus"
+    }
+  ]
+}

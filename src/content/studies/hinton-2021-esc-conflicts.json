@@ -1,0 +1,16 @@
+{
+  "title": "Analysis of conflicts of interest among authors and researchers of European clinical guidelines in cardiovascular medicine",
+  "authors": "Hinton J, Reeves T, Shah BN",
+  "journal": "Clinical Medicine (London)",
+  "year": 2021,
+  "doi": "10.7861/clinmed.2020-0552",
+  "pmid": "33762382",
+  "design": "cross-sectional",
+  "population": "Committee authors of five European Society of Cardiology guidelines (valvular heart disease, atrial fibrillation, pericardial diseases, heart failure and myocardial revascularisation) and the funding of studies cited in their drug-related recommendations",
+  "funder": "not stated: the full text on PubMed Central carries no funding or competing-interest statement.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Of 603 recommendations, 271 (45%) concerned pharmaceutical agents, 72 of 169 in the heart failure guideline. In every guideline except pericardial diseases, at least 80% of committee authors had a relevant financial conflict of interest, most often a direct personal payment (68 to 82%). Industry support of cited studies ranged from 5% to 65% across guidelines, and when a cited study was industry-funded its authors were conflicted with the sponsor in 55 to 90% of cases. The authors propose that guideline writers be free of such conflicts.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20220907041631/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8002771/"
+}

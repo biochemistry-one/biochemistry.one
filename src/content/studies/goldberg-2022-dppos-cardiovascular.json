@@ -1,0 +1,20 @@
+{
+  "title": "Effects of Long-term Metformin and Lifestyle Interventions on Cardiovascular Events in the Diabetes Prevention Program and Its Outcome Study",
+  "authors": "Goldberg RB, Orchard TJ, Crandall JP, Boyko EJ, Budoff M, Dabelea D, et al.",
+  "journal": "Circulation",
+  "year": 2022,
+  "doi": "10.1161/CIRCULATIONAHA.121.056756",
+  "pmid": "35603600",
+  "design": "rct",
+  "participants": 3234,
+  "followUp": "median 21 years",
+  "population": "Participants of the Diabetes Prevention Program with impaired glucose tolerance, randomised to metformin 850 mg twice daily, intensive lifestyle intervention or placebo and followed in the Outcomes Study; mean age 51 years at baseline, 68% women, 54.7% White, 19.9% Black, 15.7% Hispanic, 5.3% American Indian, 4.4% Asian",
+  "funder": "Supported by the National Institute of Diabetes and Digestive and Kidney Diseases of the National Institutes of Health with 22 named awards, and by other National Institutes of Health institutes, the Centers for Disease Control and Prevention and the American Diabetes Association. Merck KGaA provided medication for the Outcomes Study; Bristol-Myers Squibb, Parke-Davis, LifeScan, Health O Meter, Hoechst Marion Roussel, Merck-Medco Managed Care, Merck and Co, Nike Sports Marketing, Slim Fast Foods and Quaker Oats donated materials, equipment or medicines for concomitant conditions. The sponsor of the study was represented on the steering committee and played a part in study design, conduct and publication.",
+  "funderRole": "several",
+  "inKindSupport": "Medication from Merck KGaA; materials, equipment and medicines for concomitant conditions from Bristol-Myers Squibb, Parke-Davis, LifeScan and others.",
+  "authorConflicts": "One author received grant support from AstraZeneca and BioKer.",
+  "dataAccess": "individual",
+  "result": "Over a median 21 years, 310 participants had a first major cardiovascular event, defined as non-fatal myocardial infarction, non-fatal stroke or cardiovascular death and adjudicated by a masked committee. Event rates were 5.51 per 1000 person-years with metformin (101 events), 6.10 with lifestyle (111 events) and 5.28 with placebo (98 events): metformin against placebo hazard ratio 1.03 (95% CI 0.78 to 1.37, p = 0.81), lifestyle against placebo 1.14 (0.87 to 1.50, p = 0.34). Non-fatal myocardial infarction occurred at 2.49, 1.90 and 2.30 per 1000 person-years; non-fatal stroke at 0.86, 2.12 and 1.48 (metformin against placebo 0.57, 0.31 to 1.06, p = 0.07); cardiovascular death at 2.07, 1.99 and 1.42 (metformin against placebo 1.46, 0.90 to 2.39, p = 0.13; lifestyle 1.40, 0.85 to 2.29, p = 0.19). The extended cardiovascular outcome occurred at 8.86, 9.93 and 8.73 per 1000 person-years (metformin against placebo 1.00, 0.80 to 1.25). Risk factor adjustment and adjustment for out-of-study metformin use did not change these results, and prespecified subgroups by age, sex, race or ethnicity and diabetes development showed no significant heterogeneity. A prespecified futility analysis in March 2019 gave a hazard ratio of 0.91 (0.68 to 1.23) with conditional power of 4.1%, and the data safety monitoring board declared futility. Study metformin use fell from 77% at the end of the Diabetes Prevention Program to 41% at the most recent assessment while out-of-study metformin use rose in all three groups; 68% to 74% of participants were taking antihypertensive drugs and 53% to 62% statins at 21 years, with mean blood pressure 122/73 mm Hg, mean LDL cholesterol 2.8 mmol/L and mean HbA1c 6.0% to 6.1%.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9179081"
+}

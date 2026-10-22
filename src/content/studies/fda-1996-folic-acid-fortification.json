@@ -1,0 +1,14 @@
+{
+  "title": "Food standards: amendment of standards of identity for enriched grain products to require addition of folic acid",
+  "authors": "US Food and Drug Administration",
+  "journal": "Federal Register 61(44): 8781-8797, final rule, Docket No. 91N-100S, 5 March 1996",
+  "year": 1996,
+  "url": "https://www.govinfo.gov/content/pkg/FR-1996-03-05/html/96-5014.htm",
+  "design": "regulatory",
+  "funder": "US Food and Drug Administration",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Requires folic acid in enriched cereal-grain products at 140 µg per 100 g (0.635 mg/lb), effective 1 January 1998, to help women of childbearing age meet the 1992 Public Health Service recommendation of 0.4 mg daily; the PHS also advised keeping total folate below 1 mg/day except under medical supervision because high intakes mask the anaemia of B12 deficiency while neurological damage progresses. FDA modelled 70, 140 and 350 µg per 100 g with 1987-1988 USDA consumption data: adding fruit juices and dairy products pushed some non-target groups above 1 mg/day even at the lowest level; 350 µg per 100 g gave intakes up to 1220 µg/day. With 140 µg per 100 g, breakfast cereals up to 100 µg per serving and supplements up to 400 µg, 95th-percentile intakes of adults aged 51 years and over could reach 840 to 860 µg/day, a level FDA recognised as approaching the safe upper limit without accounting for under-reporting of food intake.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.govinfo.gov/content/pkg/FR-1996-03-05/html/96-5014.htm"
+}

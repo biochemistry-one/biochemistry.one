@@ -1,0 +1,16 @@
+{
+  "title": "Cellular and molecular basis of deiodinase-regulated thyroid hormone signaling",
+  "authors": "Gereben B, Zavacki AM, Ribich S, Kim BW, Huang SA, Simonides WS, et al.",
+  "journal": "Endocrine Reviews",
+  "year": 2008,
+  "doi": "10.1210/er.2008-0019",
+  "pmid": "18815314",
+  "design": "other",
+  "funder": "This work was supported by Hungarian Scientific Research Fund Grant OTKA T049081; Sixth EU Research Framework Program Grant LSHM-CT-2003-503041; János Bolyai Research Scholarship of the Hungarian Academy of Sciences; and National Institute of Diabetes, Digestive and Kidney Disorders Grants DK76117, DK58538, DK65055, DK78560, DK078476, DK076099, and DK064643.",
+  "funderRole": "none",
+  "authorConflicts": "A.C.B. is a consultant for Exelixis; all other authors have nothing to disclose.",
+  "dataAccess": "summary",
+  "result": "Review. T4 is the main secretory product of the thyroid, and most circulating T3 derives from extrathyroidal deiodination of T4. D1 and D2 remove an outer-ring iodine to form T3; D3 removes an inner-ring iodine, forming rT3 from T4 and inactivating T3 to T2. The three deiodinases are dimeric thioredoxin-fold selenoproteins with selenocysteine in the active centre; D1 and D3 sit in the plasma membrane and D2 in the endoplasmic reticulum. D1 is sensitive to propylthiouracil and amiodarone. D2 has a half-life of about 40 minutes; T4 binding to its active centre accelerates ubiquitination by WSB1 and TEB4 and proteasomal degradation. Expression of D2 in the pituitary converts T4 to T3 locally and mediates the effect of serum T4 on TSH secretion; Dio2-null mice have raised serum T4 and TSH. Mutations in SECIS-binding protein 2 impair deiodinase activity; MCT8 mutations cause Allan-Herndon-Dudley syndrome with high free T3, low to below normal free T4 and normal TSH. DIO2 Thr92Ala (rs225014) has an allele frequency of 0.35 in Caucasians; it does not change the kinetics of transiently expressed D2 but was associated with lower enzyme velocity in human thyroid and skeletal muscle; associations with insulin resistance and hypertension are conflicting; it was not correlated with response to T4/T3 combination therapy.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2647704/"
+}

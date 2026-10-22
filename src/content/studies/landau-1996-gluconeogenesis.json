@@ -1,0 +1,18 @@
+{
+  "title": "Contributions of gluconeogenesis to glucose production in the fasted state",
+  "authors": "Landau BR, Wahren J, Chandramouli V, Schumann WC, Ekberg K, Kalhan SC",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1996,
+  "doi": "10.1172/JCI118803",
+  "pmid": "8755648",
+  "design": "mechanistic",
+  "participants": 8,
+  "followUp": "42 h of fasting",
+  "population": "Healthy adults, six women and two men aged 24 to 39 years, who ate at least 200 g of carbohydrate daily for 4 days and a meal of 12 to 14 kcal/kg at 5 p.m. before the fast",
+  "funder": "This study was supported by National Institutes of Health grants DK-14507 and P50 HD-11089 and grant 89-0418 from the Bank of Sweden Tercentenary Foundation.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "Deuterated water method, ratio of 2H enrichment at carbon 5 to carbon 2 of blood glucose. Gluconeogenesis contributed 47 ± 4% of glucose production after 14 h, 67 ± 4% after 22 h and 93 ± 2% after 42 h of fasting (mean ± SE, corrected for glycogen branch points; the PubMed abstract prints 47 +/- 49% and 67 +/- 41%). Plasma glucose was 5.2 ± 0.1 mmol/L at 14 h and 4.3 ± 0.1 mmol/L at 42 h; blood 3-hydroxybutyrate was 76 ± 25 µmol/L at 14 h and 1127 ± 153 µmol/L at 42 h.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/118803/version/1/pdf/render.pdf"
+}

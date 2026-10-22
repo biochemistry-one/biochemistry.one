@@ -1,0 +1,17 @@
+{
+  "title": "The relationship between whole grain intake and body weight: results of meta-analyses of observational studies and randomized controlled trials",
+  "authors": "Maki KC, Palacios OM, Koecher K, Sawicki CM, Livingston KA, Bell M, et al.",
+  "journal": "Nutrients",
+  "year": 2019,
+  "doi": "10.3390/nu11061245",
+  "pmid": "31159235",
+  "design": "meta-analysis",
+  "population": "Adults: meta-regression of cross-sectional data from 12 observational studies (136,834 subjects), meta-analysis of 9 RCTs of 12 to 16 weeks (973 subjects, 472 whole grain and 501 control) and qualitative review of 6 prospective cohort publications",
+  "funder": "This study was funded by General Mills, Inc. (Minneapolis, MN), and the funding sponsor provided comment on study design, data collection, and results interpretation. However, the final decision for all aspects of study conduct and manuscript content were those of the authors alone.",
+  "funderRole": "several",
+  "authorConflicts": "KK is an employee of General Mills, Inc., and all authors received research funding from General Mills, Inc. KCM and OMP are employees of Midwest Biomedical Research, which has received funding for other work from the Kellogg Company. K.C.M., O.M.P. and K.K. designed the study; K.C.M., O.M.P., K.K. and N.M.M. interpreted the data; nutrition scientists of General Mills reviewed the manuscript.",
+  "dataAccess": "summary",
+  "result": "Cross-sectional meta-regression: BMI -0.0141 kg/m2 per g/day of whole grain intake (95% CI -0.0207 to -0.0077; r = -0.526, p = 0.0001). RCT meta-analysis: nonsignificant pooled standardized effect size of -0.049 kg (95% CI -0.297 to 0.199; p = 0.698) for mean difference in weight change, whole grain against control, over 12 to 16 weeks; heterogeneity I2 71.5%. Trials shorter than 12 weeks were excluded and hypocaloric trials included. Of these 9 trials and the 11 whole-grain trials of Reynolds et al. (2019), which reported -0.62 kg (95% CI -1.19 to -0.05), only 2 were included in both.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6627338"
+}

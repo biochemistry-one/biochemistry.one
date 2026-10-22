@@ -1,0 +1,18 @@
+{
+  "title": "Risk of fatal and nonfatal lactic acidosis with metformin use in type 2 diabetes mellitus",
+  "authors": "Salpeter SR, Greyber E, Pasternak GA, Salpeter EE",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2010,
+  "doi": "10.1002/14651858.CD002967.pub4",
+  "pmid": "20393934",
+  "design": "systematic-review",
+  "participants": 96295,
+  "followUp": "125,941 patient-years in all; mean study duration 1.3 years, range 1 month to 10.7 years",
+  "population": "347 studies of at least one month in patients with type 2 diabetes: 209 prospective comparative trials, 125 prospective cohort studies and 13 retrospective cohort studies; metformin group mean age 57.1 years",
+  "funder": "Internal sources: Santa Clara Valley Medical Center, USA. External sources: no sources of support supplied. Declarations of interest: none known.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "No case of fatal or nonfatal lactic acidosis occurred in 69,642 participants and 70,490 patient-years of metformin use, or in 26,653 participants and 55,451 patient-years without metformin. By Poisson statistics the upper limit for the true incidence per 100,000 patient-years was 4.3 cases with metformin and 5.4 without. Of the 334 prospective studies, 143 (53%) admitted patients with renal insufficiency, defined as creatinine above 1.5 mg/dl, covering 37,360 patient-years of metformin use, and 324 (97%) admitted patients with at least one standard contraindication; an estimated 26% of participants were older than 65 years. Baseline lactate before metformin was 1.13 ± 0.25 mmol/L, and lactate did not differ between metformin and comparison treatments as mean values or as net change from baseline. Bristol-Myers Squibb, the manufacturer, reported no unpublished trials. The authors state that the number of participants with each contraindication is unclear, so safety in their presence cannot be established from these data.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7138050/"
+}

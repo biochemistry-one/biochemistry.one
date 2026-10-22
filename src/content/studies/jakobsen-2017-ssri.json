@@ -1,0 +1,19 @@
+{
+  "title": "Selective serotonin reuptake inhibitors versus placebo in patients with major depressive disorder. A systematic review with meta-analysis and Trial Sequential Analysis",
+  "authors": "Jakobsen JC, Katakam KK, Schou A, Hellmuth SG, Stallknecht SE, Leth-Møller K, et al.",
+  "journal": "BMC Psychiatry",
+  "year": 2017,
+  "doi": "10.1186/s12888-016-1173-2",
+  "pmid": "28178949",
+  "registry": "PROSPERO CRD42013004420",
+  "design": "meta-analysis",
+  "participants": 27422,
+  "population": "131 randomised placebo-controlled trials of SSRIs in adults with major depressive disorder, published and unpublished, searched to January 2016",
+  "funder": "The Copenhagen Trial Unit, Centre for Clinical Intervention Research, Rigshospitalet, Copenhagen, Denmark, provided economic support for JCJ, KKK, JL and CG. Otherwise, we have received no funding.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare that they have no competing interests.",
+  "dataAccess": "summary",
+  "result": "All trials were at high risk of bias. Hamilton score fell by 1.94 points more than placebo (95% CI -2.50 to -1.37; 49 trials), below the authors' 3-point threshold for clinical significance; risk of no remission RR 0.88 (0.84 to 0.91; 34 trials). Serious adverse events (death, life threat, disability, hospital admission) in 239 of 8242 (2.7%) on SSRIs against 106 of 4956 (2.1%) on placebo, OR 1.37 (1.08 to 1.75; 44 trials), 31 against 22 per 1000, number needed to harm 138. Almost no data on suicidal behaviour, quality of life or long-term effects.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5299662"
+}

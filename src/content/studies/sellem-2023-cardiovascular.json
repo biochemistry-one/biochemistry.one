@@ -1,0 +1,20 @@
+{
+  "title": "Food additive emulsifiers and risk of cardiovascular disease in the NutriNet-Santé cohort: prospective cohort study",
+  "authors": "Sellem L, Srour B, Javaux G, Chazelas E, Chassaing B, Viennois E, et al.",
+  "journal": "BMJ",
+  "year": 2023,
+  "doi": "10.1136/bmj-2023-076058",
+  "pmid": "37673430",
+  "registry": "NCT03335644",
+  "design": "cohort",
+  "participants": 95442,
+  "followUp": "median 7.4 years",
+  "population": "French adults without prevalent cardiovascular disease with at least three 24 h dietary records; 79.0% women; mean age 43.1 years",
+  "funder": "NutriNet-Santé: Ministère de la Santé, Santé Publique France, INSERM, INRAE, Conservatoire National des Arts et Métiers and University Sorbonne Paris Nord. Project: European Research Council (grant agreement 864219), French National Cancer Institute (INCa_14059), French Ministry of Health, IdEx Université de Paris (ANR-18-IDEX-0001) and a Bettencourt-Schueller Foundation research prize 2021. Researchers were independent from funders. The funders had no role in the design; collection, analysis, and interpretation of data; writing of the report; and decision to submit the article for publication.",
+  "funderRole": "none",
+  "authorConflicts": "No support from any for-profit organisation for the submitted work and no relevant financial relationships declared.",
+  "dataAccess": "individual",
+  "result": "1995 cardiovascular events over 666,509 person-years. Hazard ratios per 1 SD of intake: total celluloses (E460-E468) 1.05 (95% CI 1.02 to 1.09) for cardiovascular disease and 1.07 (1.02 to 1.12) for coronary heart disease; carboxymethylcellulose (E466, SD 32.0 mg/day) 1.03 (1.01 to 1.05) and 1.04 (1.02 to 1.06); total mono- and diglycerides of fatty acids (E471 and E472) 1.07 (1.04 to 1.11) for cardiovascular disease. Supplementary eTable2: total mono- and diglycerides of fatty acids (E471, E472, E472a, E472b, E472c and E472e; SD 287.5 mg/day) 1.07 (1.04 to 1.11), 1.08 (1.03 to 1.14) for coronary heart disease and 1.07 (1.01 to 1.13) for cerebrovascular disease; E471 alone (SD 208.6 mg/day) 1.03 (0.98 to 1.09), P = 0.2, for cardiovascular disease, and 1.03 (0.96 to 1.11) for coronary heart disease and for cerebrovascular disease. E471 was consumed by 81.6%, mean 161.2 mg/day. Diphosphates (E450) were consumed by 72.6%, mean 244.5 (SD 338.2) mg/day; eTable2 hazard ratios per SD (349.7 mg/day) were 0.99 (0.93 to 1.04) for cardiovascular disease, 0.96 (0.89 to 1.04) for coronary heart disease and 1.01 (0.93 to 1.09) for cerebrovascular disease. Trisodium phosphate (E339) was associated with coronary heart disease, 1.06 (1.00 to 1.12) per SD (58.4 mg/day), P = 0.03, not significant after correction for multiple testing (adjusted P = 0.3). Carrageenans and lecithins were not associated. Mean E466 intake 3.8 mg/day, consumed by 10.8%; E433 consumed by 1.1% and not analysed individually. Absolute risks by intake level are not reported.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10480690/"
+}

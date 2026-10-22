@@ -1,0 +1,19 @@
+{
+  "title": "Effects of homocysteine lowering with B vitamins on cognitive aging: meta-analysis of 11 trials with cognitive data on 22,000 individuals",
+  "authors": "Clarke R, Bennett D, Parish S, Lewington S, Skeaff M, Eussen SJ, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2014,
+  "doi": "10.3945/ajcn.113.076349",
+  "pmid": "24965307",
+  "design": "meta-analysis",
+  "participants": 21771,
+  "followUp": "mean 2.3 years in 4 cognitive-domain trials; mean 5 years in 7 global cognition trials",
+  "population": "Individual data from 11 placebo-controlled trials of B vitamins including folic acid: 1340 participants with domain-based cognitive scores and 20,431 with MMSE-type tests at the end of treatment",
+  "funder": "Supported by the British Heart Foundation, the UK Medical Research Council, Cancer Research UK, and the UK Food Standards Agency (N05072) and Department of Health. Sources of funding for the individual trials are described in their separate publications. The individual study sponsors had no role in study design, data collection, data analysis, or data interpretation or in writing or submission of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "None of the authors declared a conflict of interest; CTSU does not accept fees, honoraria or consultancies from industry.",
+  "dataAccess": "individual",
+  "result": "B vitamins lowered homocysteine by 28% in the cognitive-domain trials and 26% in the global cognition trials without significant effect on domain or global cognitive scores (z-score differences 0.00, 95% CI -0.05 to 0.06; and -0.01, -0.03 to 0.02). A 25% reduction in homocysteine equated to 0.02 years (-0.10 to 0.13) of cognitive ageing per year, excluding benefits greater than 1 month per year of treatment. The authors conclude that raised homocysteine is probably a marker rather than a cause of cognitive ageing.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4095663/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "N-nitrosodimethylamine-Contaminated Valsartan and Risk of Cancer: A Nationwide Study of 1.4 Million Valsartan Users",
+  "authors": "Mansouri I, Botton J, Semenzato L, Haddy N, Zureik M",
+  "journal": "Journal of the American Heart Association",
+  "year": 2022,
+  "doi": "10.1161/JAHA.122.026739",
+  "pmid": "36533625",
+  "design": "cohort",
+  "followUp": "median 4.0 years exposed (4,253,623 person-years) and 3.5 years unexposed (2,565,339 person-years)",
+  "population": "About 1.4 million French residents aged 40 to 80 years without previous cancer who used valsartan between 2013 and 2017, in the Système National des Données de Santé; authors at EPI-PHARE, a joint unit of the French medicines agency (ANSM) and national health insurance",
+  "funder": "Sources of Funding: None. Disclosures: None.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "986,126 patients exposed to NDMA-contaminated and 670,388 to uncontaminated valsartan. Overall cancer: adjusted hazard ratio 0.99 (95% CI 0.98 to 1.0). Liver cancer 1.12 (1.04 to 1.22) and melanoma 1.10 (1.03 to 1.18), estimated at a mean of 3.7 and 5.8 extra cases per 100,000 person-years respectively.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9798794/"
+}

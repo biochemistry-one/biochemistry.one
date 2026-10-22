@@ -1,0 +1,20 @@
+{
+  "title": "Consuming fructose-sweetened, not glucose-sweetened, beverages increases visceral adiposity and lipids and decreases insulin sensitivity in overweight/obese humans",
+  "authors": "Stanhope KL, Schwarz JM, Keim NL, Griffen SC, Bremer AA, Graham JL, et al.",
+  "journal": "Journal of Clinical Investigation",
+  "year": 2009,
+  "doi": "10.1172/JCI37385",
+  "pmid": "19381015",
+  "design": "other",
+  "participants": 39,
+  "followUp": "10 weeks of sugar-sweetened beverages: 8 weeks outpatient with ad libitum diet, then 2 weeks inpatient with energy-balanced diet",
+  "population": "Overweight or obese men and postmenopausal women aged 40 to 72 years with BMI 25 to 35 kg/m2; double-blinded parallel groups matched for sex, BMI and fasting triglyceride and insulin; 32 of 39 enrolled completed",
+  "funder": "This research was supported with funding from NIH grant R01 HL-075675 and grant UL1 RR024146 from the National Center for Research Resources, a component of the NIH, and the NIH Roadmap for Medical Research. P.J. Havel's laboratory also receives support from NIH grants HL-091333, AT-002599, AT-002993 and AT-003545 and the American Diabetes Association; N.L. Keim's research is supported by intramural USDA-ARS CRIS 5306-51530-016-00D.",
+  "funderRole": "none",
+  "inKindSupport": "Postheparin total and hepatic lipase activity was assayed by Asahi Kasei Pharma; payment terms are not stated.",
+  "authorConflicts": "Co-authors include an employee and shareholder of KineMed (C. Beysen), a KineMed shareholder and consultant (M.K. Hellerstein) and two co-authors affiliated with the Diagnostic Division of Otsuka Pharmaceutical (K. Nakajima, T. Nakano); other declarations include fellowships from Denka Seiken and Kyowa Medex, Pfizer shares, income from Bristol-Myers Squibb, a Novo Nordisk research contract, and consulting income or grants from Merck, Merck-Schering Plough, Isis, Sanofi-Aventis, Metabolex, Denka Seiken and Otsuka.",
+  "dataAccess": "summary",
+  "result": "Beverages provided 25% of energy requirements as fructose (17 completers) or glucose (15 completers). Change at 10 weeks, fructose against glucose: body weight +1.4% and +1.8%; intra-abdominal fat volume +14.0% (P<0.01) and +3.2% (not significant); fasting LDL cholesterol +13.9% and +3.6%; fasting apoB +27.2% and +3.0%; fasting triglyceride +3.9% and +9.7%; insulin sensitivity index -17.3% and +1.1%. Postprandial fractional hepatic de novo lipogenesis rose from 11.4% to 16.9% with fructose (P=0.021) and from 13.4% to 14.2% with glucose (P=0.31); the 16-hour DNL AUC increased more with fructose (P=0.016) in the 18 participants with isotope data.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2673878/"
+}

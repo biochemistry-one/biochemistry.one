@@ -1,0 +1,16 @@
+{
+  "title": "The intestinal absorption of folates",
+  "authors": "Visentin M, Diop-Bove N, Zhao R, Goldman ID",
+  "journal": "Annual Review of Physiology",
+  "year": 2014,
+  "doi": "10.1146/annurev-physiol-020911-153251",
+  "pmid": "24512081",
+  "design": "other",
+  "funder": "This work was supported by CA-82621, a grant from the National Institutes of Health.",
+  "funderRole": "none",
+  "authorConflicts": "The authors are not aware of any affiliations, memberships, funding, or financial holdings that might be perceived as affecting the objectivity of this review.",
+  "dataAccess": "summary",
+  "result": "The proton-coupled folate transporter (PCFT, SLC46A1) is the primary mechanism by which folates cross the apical brush-border membrane of the proximal small intestine. Its transport has a low pH optimum and high affinity for folic acid, unlike the reduced folate carrier, whose pH optimum is 7.4 and whose affinity for folic acid is very low. Loss-of-function mutations in PCFT cause hereditary folate malabsorption, and the Pcft-null mouse reproduces the defect. OATP1B1 contributes to hepatic folate handling, and polymorphisms in it are associated with altered methotrexate clearance in children treated for leukaemia.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3982215/"
+}

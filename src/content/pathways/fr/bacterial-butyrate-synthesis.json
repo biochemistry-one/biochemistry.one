@@ -1,0 +1,44 @@
+{
+  "title": "Synthèse du butyrate par les bactéries du côlon (voie de l'acétyl-CoA)",
+  "layout": "chain",
+  "compartment": "Lumière colique ; cytosol des bactéries productrices de butyrate",
+  "steps": [
+    {
+      "from": "Polysaccharides fermentescibles",
+      "to": "Acétyl-CoA",
+      "enzyme": "plusieurs étapes",
+      "note": "Amidon, xylane et autres polysaccharides non digérés ; via le pyruvate"
+    },
+    {
+      "from": "Acétyl-CoA",
+      "to": "Acétoacétyl-CoA",
+      "enzyme": "Thiolase (Thl)",
+      "cofactors": ["Acétyl-CoA"],
+      "note": "Condensation de deux acétyl-CoA avec libération de CoA"
+    },
+    {
+      "from": "Acétoacétyl-CoA",
+      "to": "3-Hydroxybutyryl-CoA",
+      "enzyme": "β-Hydroxybutyryl-CoA déshydrogénase (Hbd)"
+    },
+    {
+      "from": "3-Hydroxybutyryl-CoA",
+      "to": "Crotonyl-CoA",
+      "enzyme": "Crotonase (Cro)"
+    },
+    {
+      "from": "Crotonyl-CoA",
+      "to": "Butyryl-CoA",
+      "enzyme": "Complexe butyryl-CoA déshydrogénase–flavoprotéine de transfert d'électrons (Bcd-Etfαβ)",
+      "cofactors": ["Ferrédoxine"],
+      "note": "Étape commune aux quatre voies du butyrate ; conservation d'énergie postulée"
+    },
+    {
+      "from": "Butyryl-CoA",
+      "to": "Butyrate",
+      "enzyme": "Butyryl-CoA:acétate CoA-transférase (But)",
+      "cofactors": ["Acétate → acétyl-CoA"],
+      "note": "Autre voie : phosphate butyryltransférase (Ptb) et butyrate kinase (Buk)"
+    }
+  ]
+}

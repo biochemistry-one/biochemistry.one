@@ -1,0 +1,42 @@
+{
+  "title": "Digestión de la lactosa y vía de Leloir",
+  "layout": "chain",
+  "compartment": "Borde en cepillo de los enterocitos y, después, citosol, sobre todo de los hepatocitos",
+  "steps": [
+    {
+      "from": "Lactosa",
+      "to": "β-D-galactosa",
+      "enzyme": "Lactasa-florizina hidrolasa (LCT)",
+      "cofactors": ["H2O"],
+      "note": "Membrana apical del enterocito del intestino delgado; libera también D-glucosa"
+    },
+    {
+      "from": "β-D-galactosa",
+      "to": "α-D-galactosa",
+      "enzyme": "Galactosa mutarrotasa (GALM)",
+      "reversible": true,
+      "note": "Tras su captación por SGLT1 (SLC5A1) y su salida por GLUT2 (SLC2A2)"
+    },
+    {
+      "from": "α-D-galactosa",
+      "to": "α-D-galactosa 1-fosfato",
+      "enzyme": "Galactocinasa (GALK1)",
+      "cofactors": ["ATP"],
+      "note": "Primer paso comprometido del catabolismo de la galactosa"
+    },
+    {
+      "from": "α-D-galactosa 1-fosfato",
+      "to": "α-D-glucosa 1-fosfato",
+      "enzyme": "Galactosa-1-fosfato uridiltransferasa (GALT)",
+      "cofactors": ["UDP-glucosa"],
+      "note": "Libera UDP-galactosa; la UDP-glucosa 4-epimerasa (GALE) regenera la UDP-glucosa"
+    },
+    {
+      "from": "α-D-glucosa 1-fosfato",
+      "to": "α-D-glucosa 6-fosfato",
+      "enzyme": "Fosfoglucomutasa 1 (PGM1)",
+      "reversible": true,
+      "note": "Mediante la glucosa 1,6-bisfosfato; el producto es un intermediario glucolítico"
+    }
+  ]
+}

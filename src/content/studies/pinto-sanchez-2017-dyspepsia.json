@@ -1,0 +1,19 @@
+{
+  "title": "Proton pump inhibitors for functional dyspepsia",
+  "authors": "Pinto-Sanchez MI, Yuan Y, Hassan A, Bercik P, Moayyedi P",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2017,
+  "doi": "10.1002/14651858.CD011194.pub3",
+  "pmid": "29161458",
+  "design": "systematic-review",
+  "participants": 8453,
+  "followUp": "2 to more than 6 weeks of treatment",
+  "population": "25 randomised trials in adults with functional dyspepsia comparing PPIs with placebo, H2-receptor antagonists or prokinetics; 17 of the 25 trials were sponsored or funded by a pharmaceutical company, 2 by an institutional grant, 8 gave no information",
+  "funder": "Not read: the PubMed Central record holds the abstract, plain language summary and a PDF only, and the Cochrane Library page refused access.",
+  "funderRole": "unknown",
+  "authorConflicts": "PM has consulted for or received speaker fees from Allergan, Shire and Lupin and received a research grant from Takeda, which sells a PPI; other authors none known.",
+  "dataAccess": "summary",
+  "result": "PPI against placebo: relief of overall dyspepsia symptoms RR 0.88 (95% CI 0.82 to 0.94; 18 trials, 6172 participants; number needed to treat 11; moderate quality); against H2-receptor antagonists RR 0.88 (0.74 to 1.04; low quality); against prokinetics RR 0.89 (0.81 to 0.99; number needed to treat 16; low quality). No difference in the number of adverse events; specific adverse events were outside the scope of the review.",
+  "class": "undetermined",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6485982"
+}

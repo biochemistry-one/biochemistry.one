@@ -1,0 +1,19 @@
+{
+  "title": "Psychiatric morbidity following liothyronine exposure in autoimmune hypothyroidism: a Swedish nationwide cohort study",
+  "authors": "Hedberg F, Lindh JD, Mannheimer B, Planck T, Skov J, Falhammar H, et al.",
+  "journal": "Journal of the Endocrine Society",
+  "year": 2026,
+  "doi": "10.1210/jendso/bvag107",
+  "pmid": "42255516",
+  "design": "cohort",
+  "participants": 184266,
+  "followUp": "median 2.7 years on levothyroxine plus liothyronine, 3.8 years on levothyroxine",
+  "population": "All adults in Sweden with autoimmune hypothyroidism and no prior psychiatric morbidity who started thyroid hormone between 2006 and 2020; national patient and prescribed drug registers",
+  "funder": "This project was supported by grants from the Region Stockholm Drug and Therapeutic Committee and the Lisa and Johan Grönberg Foundation (grant numbers 2022-00220 and 2023-007).",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare no competing interests.",
+  "dataAccess": "individual",
+  "result": "5346 (2.9%) were exposed to liothyronine. With liothyronine as a time-dependent covariate, exposure was associated with any psychiatric morbidity (adjusted HR 1.43, 95% CI 1.34 to 1.53), affective or anxiety morbidity (1.44, 1.35 to 1.54) and psychotic morbidity (1.46, 1.11 to 1.92). The authors state that the association may reflect an effect of liothyronine or an underlying vulnerability among its users.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13234613/"
+}

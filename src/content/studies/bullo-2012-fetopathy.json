@@ -1,0 +1,17 @@
+{
+  "title": "Pregnancy outcome following exposure to angiotensin-converting enzyme inhibitors or angiotensin receptor antagonists: a systematic review",
+  "authors": "Bullo M, Tschumi S, Bucher BS, Bianchetti MG, Simonetti GD",
+  "journal": "Hypertension",
+  "year": 2012,
+  "doi": "10.1161/HYPERTENSIONAHA.112.196352",
+  "pmid": "22753220",
+  "design": "systematic-review",
+  "participants": 186,
+  "population": "Individually described cases of intrauterine exposure in 72 published case reports and case series: 118 exposed to ACE inhibitors and 68 to angiotensin receptor blockers",
+  "funder": "not read: the publisher page is not accessible and the PubMed abstract carries no funding statement.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "52% of newborns exposed to ACE inhibitors and 13% exposed to angiotensin receptor blockers had no complications (P<0.0001). Complications included renal failure, oligohydramnios, death, arterial hypotension, intrauterine growth retardation, respiratory distress syndrome, pulmonary hypoplasia, hypocalvaria, limb defects, persistent patent ductus arteriosus and cerebral complications; the long-term outcome was described as positive in only 50% of exposed children. The authors note that complications were still regularly described thirty years after the first description of ACE inhibitor fetopathy.",
+  "class": "undetermined",
+  "fundingChecked": "https://doi.org/10.1161/HYPERTENSIONAHA.112.196352"
+}

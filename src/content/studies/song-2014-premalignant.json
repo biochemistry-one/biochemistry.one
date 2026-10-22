@@ -1,0 +1,18 @@
+{
+  "title": "Long-term proton pump inhibitor (PPI) use and the development of gastric pre-malignant lesions",
+  "authors": "Song H, Zhu J, Lu D",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2014,
+  "doi": "10.1002/14651858.CD010623.pub2",
+  "pmid": "25464111",
+  "design": "systematic-review",
+  "participants": 1789,
+  "population": "7 randomised trials of PPI maintenance for 6 months or longer in adults, with gastric biopsy, searched to August 2013",
+  "funder": "Not read: the PubMed Central record holds the abstract and a PDF only, and the Cochrane Library page refused access.",
+  "funderRole": "unknown",
+  "authorConflicts": "None known (abstract record).",
+  "dataAccess": "summary",
+  "result": "Corpus atrophy OR 1.50 (95% CI 0.59 to 3.80; 4 trials, 1070 participants; low quality); corpus intestinal metaplasia OR 1.46 (0.43 to 5.03; 5 trials, 1408 participants; low quality); diffuse ECL-cell hyperplasia OR 5.01 (1.54 to 16.26; very low quality) and linear or micronodular ECL-cell hyperplasia OR 3.98 (1.31 to 12.16; low quality; 6 trials, 1705 participants). No dysplastic or neoplastic change was observed. Four trials had high and three unclear risk of bias.",
+  "class": "undetermined",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10843246"
+}

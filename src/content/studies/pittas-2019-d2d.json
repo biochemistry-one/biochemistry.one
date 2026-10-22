@@ -1,0 +1,21 @@
+{
+  "title": "Vitamin D Supplementation and Prevention of Type 2 Diabetes",
+  "authors": "Pittas AG, Dawson-Hughes B, Sheehan P, Ware JH, Knowler WC, Aroda VR, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2019,
+  "doi": "10.1056/NEJMoa1900906",
+  "pmid": "31173679",
+  "registry": "NCT01942694",
+  "design": "rct",
+  "participants": 2423,
+  "followUp": "median 2.5 years",
+  "population": "US adults at high risk for type 2 diabetes (prediabetes) at 22 academic centres, not selected for vitamin D insufficiency; out-of-trial vitamin D limited to 1000 IU/day",
+  "funder": "Planning: NIDDK planning grant U34DK091958 and the NIDDK Intramural Research Program. Conduct: NIDDK and the NIH Office of Dietary Supplements through cooperative agreement U01DK098245, which makes the NIDDK project scientist a member of the D2d Research Group; secondary funding from the American Diabetes Association (1-14-D2d-01). The protocol was designed by the planning committee and the primary sponsor (NIDDK) without input from manufacturers; the coordinating-centre statistical team analysed the data.",
+  "funderRole": "design",
+  "inKindSupport": "Trial pills were purchased from an independent nutritional-supplement manufacturer with no association with members of the research group.",
+  "authorConflicts": "Dawson-Hughes: grant support from Pfizer and DSM; Ceglia: grant support from DSM; several other authors report fees or grants from pharmaceutical companies.",
+  "dataAccess": "individual",
+  "result": "Vitamin D3 4000 IU/day (n=1211) against placebo (n=1212): diabetes in 293 against 323 participants (9.39 against 10.66 per 100 person-years), HR 0.88 (95% CI 0.75 to 1.04). Mean 25-hydroxyvitamin D 27.7 ng/ml at baseline and 54.3 ng/ml at 24 months with vitamin D, 28.8 ng/ml with placebo. Post hoc, baseline 25-hydroxyvitamin D below 12 ng/ml (103 participants): HR 0.38 (0.18 to 0.80); 12 ng/ml or higher (2319): HR 0.92 (0.78 to 1.08). Protocol-specified adverse events, participants with at least one: hypercalcaemia 5 against 3; nephrolithiasis (participant-reported) 24 against 20; serious adverse events 173 against 153; deaths 5 against 5. 24-hour urine calcium was not measured.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6993875"
+}

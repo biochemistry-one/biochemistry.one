@@ -1,0 +1,16 @@
+{
+  "title": "Global Consensus Recommendations on Prevention and Management of Nutritional Rickets",
+  "authors": "Munns CF, Shaw N, Kiely M, Specker BL, Thacher TD, Ozono K, et al.",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2016,
+  "doi": "10.1210/jc.2015-2175",
+  "pmid": "26745253",
+  "design": "guideline",
+  "funder": "Financially supported by the participating societies listed in the paper and by an educational grant (non-participatory) from Danone Nutricia.",
+  "funderRole": "unknown",
+  "authorConflicts": "M.Z.M. has received honoraria and lecture fees from Nutricia and Alexion; W.H. from Internis and Alexion; T.D.T. is a consultant for Biomedical Systems; no other author has anything to disclose.",
+  "dataAccess": "summary",
+  "result": "Vitamin D status by serum 25-hydroxyvitamin D: sufficiency above 50 nmol/L, insufficiency 30 to 50 nmol/L, deficiency below 30 nmol/L; toxicity defined as hypercalcaemia with 25-hydroxyvitamin D above 250 nmol/L, hypercalciuria and suppressed PTH. Nutritional rickets is caused by vitamin D deficiency and/or low calcium intake; in children over 12 months, dietary calcium below 300 mg/day increases the risk of rickets independent of serum 25-hydroxyvitamin D. 400 IU/day (10 µg) is adequate to prevent rickets and is recommended for all infants from birth to 12 months. Recommendations graded with the GRADE system.",
+  "class": "consensus",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4880117/"
+}

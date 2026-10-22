@@ -1,0 +1,20 @@
+{
+  "title": "Budesonide-formoterol versus salbutamol as reliever therapy in children with mild asthma (CARE): a 52-week, open-label, multicentre, superiority, randomised controlled trial",
+  "authors": "Hatter L, Holliday M, Oldfield K, Kearns C, Barry T, Black M, et al.",
+  "journal": "Lancet",
+  "year": 2025,
+  "doi": "10.1016/S0140-6736(25)00861-X",
+  "pmid": "41033330",
+  "registry": "ACTRN12620001091998",
+  "design": "rct",
+  "participants": 360,
+  "followUp": "52 weeks",
+  "population": "Children aged 5 to 15 years with mild asthma using a short-acting beta2-agonist reliever alone at 15 sites in New Zealand; budesonide 50 µg-formoterol 3 µg two actuations as needed against salbutamol 100 µg two actuations as needed, open label",
+  "funder": "Health Research Council of New Zealand, Cure Kids New Zealand, and the Barbara Basham Medical Charitable Trust (managed by Perpetual Guardian).",
+  "funderRole": "unknown",
+  "authorConflicts": "The senior author has received personal fees from AstraZeneca, Avillion and Teva and institutional research funding from AstraZeneca for other studies; all other authors declare no competing interests.",
+  "dataAccess": "summary",
+  "result": "Annualised asthma attack rates were 0.23 with budesonide-formoterol against 0.41 with salbutamol per participant per year (relative rate 0.55, 95% CI 0.35 to 0.86). At least one adverse event occurred in 162 of 179 (91%) and 167 of 181 (92%) (odds ratio 0.79, 0.35 to 1.79).",
+  "class": "independent",
+  "fundingChecked": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12620001091998"
+}

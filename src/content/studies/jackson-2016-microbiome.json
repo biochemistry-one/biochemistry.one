@@ -1,0 +1,18 @@
+{
+  "title": "Proton pump inhibitors alter the composition of the gut microbiota",
+  "authors": "Jackson MA, Goodrich JK, Maxan ME, Freedberg DE, Abrams JA, Poole AC, et al.",
+  "journal": "Gut",
+  "year": 2016,
+  "doi": "10.1136/gutjnl-2015-310861",
+  "pmid": "26719299",
+  "design": "cross-sectional",
+  "participants": 1827,
+  "population": "Healthy twins in TwinsUK with 16S rRNA faecal microbiota profiles, including 70 monozygotic pairs discordant for PPI use; replication in an interventional study",
+  "funder": "The TwinsUK microbiota project was funded the National Institutes of Health (NIH) RO1 DK093595, DP2 OD007444. TwinsUK received funding from the Wellcome Trust; European Community's Seventh Framework Programme (FP7/2007-2013), the National Institute for Health Research (NIHR)-funded BioResource, Clinical Research Facility and Biomedical Research Centre based at Guy's and St Thomas' NHS Foundation Trust in partnership with King's College London. CJS is funded under a grant from the Chronic Disease Research Foundation (CDRF). DEF was funded by the National Center for Advancing Translational Sciences (NIH KL2 TR000081).",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "PPI users had lower abundance of gut commensals and lower microbial diversity, with increased oral and upper gastrointestinal commensals, in particular Streptococcaceae. Associations replicated in an interventional study and in monozygotic twin pairs discordant for PPI use. The authors propose that removal of the low-pH barrier lets upper gastrointestinal bacteria reach the lower gut.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4853574/fullTextXML"
+}

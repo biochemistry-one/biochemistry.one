@@ -1,0 +1,15 @@
+{
+  "title": "Pancreatic safety of incretin-based drugs: FDA and EMA assessment",
+  "authors": "Egan AG, Blind E, Dunder K, de Graeff PA, Hummer BT, Bourcier T, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2014,
+  "doi": "10.1056/NEJMp1314078",
+  "pmid": "24571751",
+  "design": "regulatory",
+  "funder": "not stated; the article reports the assessments of the US Food and Drug Administration and the European Medicines Agency",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "FDA re-evaluated more than 250 toxicology studies in nearly 18,000 healthy animals and found no overt pancreatic toxic effects or pancreatitis and no drug-induced pancreatic tumours over 2 years; in a high-fat-diet mouse model exenatide for 12 weeks produced minimal-to-moderate exacerbation of acinar-cell hyperplasia, atrophy and periductal inflammation or fibrosis, a model the agencies called not definitively qualified but meriting investigation. The clinical review covered more than 200 trials with about 41,000 participants. Both agencies stated that assertions of a causal association with pancreatitis or pancreatic cancer were inconsistent with the current data, that they had not reached a final conclusion, and that pancreatitis would continue to be considered a risk of these drugs. Observational studies had yielded inconsistent results with limited power, inadequate outcome validation and inadequate confounding control.",
+  "class": "regulatory",
+  "fundingChecked": "http://web.archive.org/web/20250730133611/https://www.nejm.org/doi/full/10.1056/NEJMp1314078"
+}

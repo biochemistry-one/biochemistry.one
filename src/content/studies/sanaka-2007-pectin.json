@@ -1,0 +1,18 @@
+{
+  "title": "Effects of agar and pectin on gastric emptying and post-prandial glycaemic profiles in healthy human volunteers",
+  "authors": "Sanaka M, Yamamoto T, Anjiki H, Nagasawa K, Kuyama Y",
+  "journal": "Clinical and Experimental Pharmacology and Physiology",
+  "year": 2007,
+  "doi": "10.1111/j.1440-1681.2007.04706.x",
+  "pmid": "17880369",
+  "design": "rct",
+  "participants": 10,
+  "followUp": "three test occasions",
+  "population": "Healthy male volunteers, Tokyo Metropolitan Komagome Hospital and Teikyo University School of Medicine",
+  "funder": "Not read: the publisher returned HTTP 403, the archived publisher pages show only the abstract behind a paywall, and the article is absent from PubMed Central. PubMed lists no grant support.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "From the PubMed abstract: 10 healthy men each received three 450 kcal/500 mL test meals, fibre-free, with 2.0 g agar or with 5.2 g pectin, with a [13C]-acetate breath test and serial blood sampling. Compared with the control meal, the pectin meal prolonged the half 13CO2 excretion time (P < 0.0001) and the time to maximal 13CO2 excretion rate (P = 0.002); neither agar nor pectin affected the post-prandial glucose profile.",
+  "class": "undetermined",
+  "fundingChecked": "https://onlinelibrary.wiley.com/doi/10.1111/j.1440-1681.2007.04706.x"
+}

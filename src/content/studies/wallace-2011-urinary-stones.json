@@ -1,0 +1,21 @@
+{
+  "title": "Urinary tract stone occurrence in the Women's Health Initiative (WHI) randomized clinical trial of calcium and vitamin D supplements",
+  "authors": "Wallace RB, Wactawski-Wende J, O'Sullivan MJ, Larson JC, Cochrane B, Gass M, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2011,
+  "doi": "10.3945/ajcn.110.003350",
+  "pmid": "21525191",
+  "registry": "NCT00000611",
+  "design": "rct",
+  "participants": 36282,
+  "followUp": "mean 7.0 years (SD 1.4)",
+  "population": "Postmenopausal women aged 50 to 79 years at 40 WHI centres",
+  "funder": "The Women's Health Initiative program is funded by the National Heart, Lung, and Blood Institute, National Institutes of Health, US Department of Health and Human Services (contracts listed). No statement on the role of the funder was found.",
+  "funderRole": "unknown",
+  "inKindSupport": "Both active and placebo pills were provided by GlaxoSmithKline (Philadelphia, PA).",
+  "authorConflicts": "None of the authors declared a conflict of interest.",
+  "dataAccess": "individual",
+  "result": "Calcium carbonate 500 mg plus vitamin D3 200 IU twice daily (1000 mg calcium and 400 IU vitamin D3 per day) against matching placebo: self-reported, clinically diagnosed urinary tract stones in 449 women in the active group against 381 in the placebo group (hazard ratio 1.17, 95% CI 1.02 to 1.34); the Methods give 18,176 women in the active group and 18,106 in the placebo group, and the tables reverse these two numbers. Neither total calcium intake nor calcium supplement use at baseline was associated with stone risk; results were similar when participants below 80% adherence were censored.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3127502/"
+}

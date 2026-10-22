@@ -1,0 +1,18 @@
+{
+  "title": "The effect of carvedilol on morbidity and mortality in patients with chronic heart failure",
+  "authors": "Packer M, Bristow MR, Cohn JN, Colucci WS, Fowler MB, Gilbert EM, et al.; U.S. Carvedilol Heart Failure Study Group",
+  "journal": "New England Journal of Medicine",
+  "year": 1996,
+  "doi": "10.1056/NEJM199605233342101",
+  "pmid": "8614419",
+  "design": "rct",
+  "participants": 1094,
+  "followUp": "6 months (12 months in mild heart failure); median 6.5 months of therapy; stopped early",
+  "population": "Patients with chronic heart failure and left ventricular ejection fraction of 0.35 or less, stratified into four protocols by exercise capacity, on digoxin, diuretics and an ACE inhibitor, in the United States; few in NYHA class IV",
+  "funder": "Supported by grants from SmithKline Beecham Pharmaceuticals and Boehringer-Mannheim Therapeutics.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "All 1197 patients entering the programme first took open-label carvedilol 6.25 mg twice daily for two weeks; 5.6% failed to complete this run-in because of adverse events, including worsening heart failure in 1.4% and death in 0.6%, and 3.0% for protocol or administrative reasons; dizziness affected 5.9% during the run-in. The 1094 who tolerated it were randomised to placebo (398) or carvedilol (696). Mortality was 7.8% on placebo against 3.2% on carvedilol, a 65% risk reduction (95% CI 39% to 80%); hospitalisation for cardiovascular causes 19.6% against 14.1%; hospitalisation or death 24.6% against 15.8%. The authors state that deaths during the open-label period cannot be assigned to either group and that the study allows no conclusion about safety without rigorous supervision or in bedridden patients with advanced heart failure. No formal stopping rules were adopted before enrolment.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20250614195314/https://www.nejm.org/doi/full/10.1056/NEJM199605233342101"
+}

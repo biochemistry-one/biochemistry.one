@@ -1,0 +1,19 @@
+{
+  "title": "Effect of statin therapy on muscle symptoms: an individual participant data meta-analysis of large-scale, randomised, double-blind trials",
+  "authors": "Cholesterol Treatment Trialists' Collaboration",
+  "journal": "Lancet",
+  "year": 2022,
+  "doi": "10.1016/S0140-6736(22)01545-8",
+  "pmid": "36049498",
+  "design": "meta-analysis",
+  "participants": 154664,
+  "followUp": "weighted average median 4.3 years in the placebo-controlled trials",
+  "population": "Individual participant data from 19 double-blind trials of statin against placebo and 4 double-blind trials of more against less intensive statin regimens",
+  "funder": "British Heart Foundation (PG/18/16/33570 and CH/1996001/9454), UK Medical Research Council (MC_UU_00017/4), and Australian National Health and Medical Research Council (GNT1037786 and GNT1150467). The Cholesterol Treatment Trialists' Collaboration has not received grant funding from industry; individual contributing trials were funded by the pharmaceutical industry, charities and government organisations. The funder of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "Several authors report institutional grants or fees from pharmaceutical companies; one holds a patent for a statin-myopathy genetic test licensed to the University of Oxford, with personal reward waived.",
+  "dataAccess": "individual",
+  "result": "In post hoc subgroup analyses the relative risk of muscle pain or weakness in year 1 did not differ by whether trials had an active run-in, a placebo run-in or no run-in before randomisation, nor between hydrophilic and lipophilic statins; the authors report no evidence that run-in periods led to underestimation of statin-attributable muscle symptoms. For less intensive and moderate-intensity regimens the rate ratio for muscle pain or weakness was greater in women (1.09, 99% CI 1.03 to 1.16) than in men (1.00, 0.97 to 1.04). Data sharing statement: individual patient data from each contributing trial were provided to the collaboration on the understanding that they would be used only for its meta-analyses and would not be released to others; requests are to be made to the data custodians of each trial.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7613583"
+}

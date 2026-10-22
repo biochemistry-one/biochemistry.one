@@ -1,0 +1,17 @@
+{
+  "title": "Short-term treatment with proton pump inhibitors, H2-receptor antagonists and prokinetics for gastro-oesophageal reflux disease-like symptoms and endoscopy negative reflux disease",
+  "authors": "Sigterman KE, van Pinxteren B, Bonis PA, Lau J, Numans ME",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2013,
+  "doi": "10.1002/14651858.CD002095.pub5",
+  "pmid": "23728637",
+  "design": "systematic-review",
+  "population": "34 randomised trials of 1 to 12 weeks of treatment in adults treated empirically for reflux symptoms or with endoscopy-negative reflux disease",
+  "funder": "Internal sources: Department of General Practice, University Medical Center Utrecht, Netherlands. External sources: Division of Clinical Care Research, New England Medical Center, Boston, USA.",
+  "funderRole": "none",
+  "authorConflicts": "None known.",
+  "dataAccess": "summary",
+  "result": "Remission defined as no more than one day a week with mild heartburn. Empirical treatment, PPI against placebo: heartburn persisting in 28 against 75 per 100 (RR 0.37, 95% CI 0.32 to 0.44; 2 trials of 2 and 8 weeks, 760 participants; high-quality evidence). PPI against H2-receptor antagonist: 45 against 68 per 100 (RR 0.66, 0.60 to 0.73; 7 trials, 3147 participants; moderate quality). Reflux disease denotes symptoms and mucosal damage from reflux of gastric acid into the oesophagus; about one adult in four in Western society has heartburn at least monthly and 5% daily.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7066537/"
+}

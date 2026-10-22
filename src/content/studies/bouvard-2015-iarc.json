@@ -1,0 +1,17 @@
+{
+  "title": "Carcinogenicity of consumption of red and processed meat",
+  "authors": "Bouvard V, Loomis D, Guyton KZ, Grosse Y, El Ghissassi F, Benbrahim-Tallaa L, et al.",
+  "journal": "Lancet Oncology",
+  "year": 2015,
+  "doi": "10.1016/S1470-2045(15)00444-1",
+  "pmid": "26514947",
+  "design": "other",
+  "population": "IARC Monographs Working Group of 22 scientists from ten countries, Lyon, October 2015; summary of volume 114",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "authorConflicts": "One Working Group member was involved in a research project funded by the World Cancer Research Fund; all other members, representatives and secretariat declared no competing interests. Observers attended for the North American Meat Institute, the National Pork Producers Council, Beef Checkoff, the Kraft Heinz Company and the EpidStat Institute; the EpidStat observer declared consulting fees from Beef Checkoff for research on red meat and cancer.",
+  "dataAccess": "summary",
+  "result": "Red meat: unprocessed mammalian muscle meat such as beef, veal, pork, lamb, mutton, horse or goat. Processed meat: meat transformed through salting, curing, fermentation, smoking or other processes to enhance flavour or improve preservation. More than 800 epidemiological studies assessed. Colorectal cancer: positive associations with red meat in 7 of 14 cohorts and with processed meat in 12 of 18 cohorts; a meta-analysis of 10 cohorts gave relative risks of 1.17 (95% CI 1.05 to 1.31) per 100 g/day of red meat and 1.18 (1.10 to 1.28) per 50 g/day of processed meat. Processed meat classified as carcinogenic to humans (Group 1) on sufficient evidence for colorectal cancer; chance, bias and confounding judged unlikely explanations. Red meat classified as probably carcinogenic to humans (Group 2A) on limited evidence in humans and strong mechanistic evidence; chance, bias and confounding could not be ruled out with the same confidence. Mechanistic evidence: haem iron mediates formation of N-nitroso compounds and lipid oxidation products in the digestive tract; 300 or 420 g/day of red meat increased putative N-nitroso-derived DNA adducts in two intervention studies; meat heated at high temperature contains heterocyclic aromatic amines, which are genotoxic.",
+  "class": "consensus",
+  "fundingChecked": "https://web.archive.org/web/20250727094603/https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(15)00444-1/fulltext"
+}

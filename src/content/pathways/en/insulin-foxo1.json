@@ -1,0 +1,47 @@
+{
+  "title": "Insulin signalling to FOXO1",
+  "layout": "chain",
+  "compartment": "Plasma membrane, cytosol and nucleus of the hepatocyte",
+  "steps": [
+    {
+      "from": "Insulin bound to the insulin receptor (INSR)",
+      "to": "INSR phosphorylated at Tyr1158, Tyr1162 and Tyr1163",
+      "enzyme": "Tyrosine kinase domains of the INSR β subunits",
+      "cofactors": ["ATP"],
+      "note": "Trans-autophosphorylation of the activation loop"
+    },
+    {
+      "from": "INSR phosphorylated at Tyr1158, Tyr1162 and Tyr1163",
+      "to": "Tyrosine-phosphorylated IRS proteins",
+      "enzyme": "Insulin receptor tyrosine kinase",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "Tyrosine-phosphorylated IRS proteins",
+      "to": "PIP3 in the plasma membrane",
+      "enzyme": "Phosphoinositide 3-kinase (p85 regulatory, p110 catalytic)",
+      "cofactors": ["ATP"],
+      "note": "p85 binds phosphorylated IRS YXXM motifs; p110 phosphorylates PIP2 to PIP3"
+    },
+    {
+      "from": "PIP3 in the plasma membrane",
+      "to": "AKT phosphorylated at Thr308 and Ser473",
+      "enzyme": "PDK1 (Thr308) and mTORC2 (Ser473)",
+      "cofactors": ["ATP"],
+      "note": "PIP3 recruits AKT to the membrane; residues numbered as in AKT1"
+    },
+    {
+      "from": "AKT phosphorylated at Thr308 and Ser473",
+      "to": "FOXO1 phosphorylated at Thr24, Ser256 and Ser319",
+      "enzyme": "AKT",
+      "cofactors": ["ATP"],
+      "note": "Other kinases can also phosphorylate these sites"
+    },
+    {
+      "from": "FOXO1 phosphorylated at Thr24, Ser256 and Ser319",
+      "to": "Lower transcription of G6PC1 and PCK1",
+      "enzyme": "several steps",
+      "note": "Phosphorylated FOXO1 is excluded from the nucleus"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Statins: risk of hyperglycaemia and diabetes",
+  "authors": "Medicines and Healthcare products Regulatory Agency",
+  "journal": "MHRA Drug Safety Update, January 2012",
+  "year": 2012,
+  "url": "https://www.gov.uk/drug-safety-update/statins-risk-of-hyperglycaemia-and-diabetes",
+  "design": "regulatory",
+  "funder": "Medicines and Healthcare products Regulatory Agency",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "There is sufficient evidence to support an association between statin use and new-onset diabetes. In a 2010 trial meta-analysis (Sattar et al.) the odds ratio was 1.09 (95% CI 1.02 to 1.17), and treatment of 255 (150 to 852) patients for 4 years resulted in one extra case. The risk appears to lie mainly in patients already at increased risk: raised fasting glucose at baseline is a key factor, with history of hypertension, raised triglycerides and raised body mass index. Evidence is insufficient to confirm or exclude an increased risk for any member of the class. Between 2002 and 2008 statin prevalence in the UK doubled in people older than 40 and quadrupled in those older than 80. The MHRA concluded that reduced vascular risk outweighs the risk of diabetes.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.gov.uk/drug-safety-update/statins-risk-of-hyperglycaemia-and-diabetes"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Proton pump inhibitors and the risk of gastric cancer: a systematic review, evidence synthesis and life course epidemiology perspective",
+  "authors": "Brusselaers N, Khodir Kamal H, Graham D, Engstrand L",
+  "journal": "BMJ Open Gastroenterology",
+  "year": 2025,
+  "doi": "10.1136/bmjgast-2024-001719",
+  "pmid": "40253055",
+  "design": "systematic-review",
+  "population": "33 original studies, 21 meta-analyses, 3 umbrella meta-analyses, 1 individual patient data meta-analysis and 1 Markov model (2006 to 2023), searched to October 2024; Swedish cancer incidence 1970 to 2022",
+  "funder": "Vetenskapsrådet - Scientific research council (Brusselaers): 2020-01058.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "summary",
+  "result": "PPIs were consistently associated with increased gastric cancer risk: 20 of 21 meta-analyses reported pooled relative risks between 1.3 and 2.9. Available trials were underpowered. Reverse causation or protopathic bias, residual confounding by indication, lag time and disentangling Helicobacter pylori and its eradication were the largest methodological challenges. Age- and sex-specific data were insufficient, and no study addressed PPIs in young populations; the authors hypothesise that exposure in pregnancy and early life may be particularly harmful. Swedish gastric cancer incidence fell overall from 1970 to 2022 but rose in men younger than 40 years from the early 2000s.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12010335/fullTextXML"
+}

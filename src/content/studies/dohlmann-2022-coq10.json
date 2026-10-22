@@ -1,0 +1,20 @@
+{
+  "title": "Coenzyme Q10 Supplementation in Statin Treated Patients: A Double-Blinded Randomized Placebo-Controlled Trial",
+  "authors": "Dohlmann TL, Kuhlman AB, Morville T, Dahl M, Asping M, Orlando P, et al.",
+  "journal": "Antioxidants (Basel)",
+  "year": 2022,
+  "doi": "10.3390/antiox11091698",
+  "pmid": "36139772",
+  "design": "rct",
+  "participants": 37,
+  "followUp": "8 weeks",
+  "population": "Men and women taking simvastatin, with and without myalgia, Copenhagen",
+  "funder": "This study was conducted at the University of Copenhagen and funded by the University of Copenhagen 2016 Center of Excellence grant, and by the Nordea Foundation. None of the funders had any influence on the study design, data collection, analysis or interpretation.",
+  "funderRole": "none",
+  "inKindSupport": "CoQ10 and matched placebo tablets donated by PharmaNord (Vejle, Denmark).",
+  "authorConflicts": "The authors declare no conflict of interest.",
+  "dataAccess": "summary",
+  "result": "CoQ10 400 mg daily or placebo for eight weeks did not change muscle CoQ10 content, mitochondrial respiratory capacity, mitochondrial content or reactive oxygen species production, and did not affect myalgia intensity on a 10 cm visual analogue scale; individual changes in muscle CoQ10 did not correlate with changes in myalgia.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9495827"
+}

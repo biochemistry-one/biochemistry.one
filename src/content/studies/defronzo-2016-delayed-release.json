@@ -1,0 +1,20 @@
+{
+  "title": "Once-daily delayed-release metformin lowers plasma glucose and enhances fasting and postprandial GLP-1 and PYY: results from two randomised trials",
+  "authors": "DeFronzo RA, Buse JB, Kim T, Burns C, Skare S, Baron A, et al.",
+  "journal": "Diabetologia",
+  "year": 2016,
+  "doi": "10.1007/s00125-016-3992-6",
+  "pmid": "27216492",
+  "registry": "NCT01677299 and NCT01804842",
+  "design": "rct",
+  "participants": 50,
+  "followUp": "three treatment periods of 5 days in study 1 and of 7 days in study 2",
+  "population": "Adults with type 2 diabetes at contract research sites: 24 randomised in study 1, of whom 19 were evaluable, and 26 randomised in study 2",
+  "funder": "This study was commissioned and funded by Elcelyx Therapeutics. The sponsor contributed to the study design, data collection, analysis, writing the report, and the decision to submit the report for publication.",
+  "funderRole": "several",
+  "authorConflicts": "Five of the seven authors are affiliated with Elcelyx Therapeutics, one of them stating employment at Zafgen with Elcelyx stock; the two academic authors declare advisory board membership, research support or speaker fees from AstraZeneca, Novo Nordisk, Boehringer Ingelheim, Bristol-Myers Squibb, Eli Lilly, Merck, Janssen and others. Medical writing support came from a contractor, and two Elcelyx staff reviewed and revised the manuscript.",
+  "dataAccess": "summary",
+  "result": "Delayed-release metformin targets the drug to the ileum. In study 1, a blinded randomised crossover comparison of twice-daily delayed-release metformin 500 mg or 1000 mg against twice-daily immediate-release metformin 1000 mg, all treatments produced similar reductions in fasting glucose (median reduction range −0.67 to −0.81 mmol/l) and in postprandial glucose (day 5 to baseline AUC ratio 0.9 for all three), and similar rises in gut hormones (day 5 to baseline AUC ratio 1.6 to 1.9 for GLP-1 and 1.4 to 1.5 for PYY), despite almost 60% lower systemic metformin exposure with delayed-release 500 mg than with the immediate-release tablet. Study 2 compared delayed-release 1000 mg in the morning, 1000 mg in the evening and 500 mg twice daily.",
+  "class": "industry",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4930485/fullTextXML"
+}

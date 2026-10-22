@@ -1,0 +1,30 @@
+{
+  "title": "Cycle des folates, branche de méthylation",
+  "layout": "cycle",
+  "compartment": "Cytosol",
+  "steps": [
+    {
+      "from": "Tétrahydrofolate (THF)",
+      "to": "5,10-Méthylène-THF",
+      "enzyme": "Sérine hydroxyméthyltransférase 1 (SHMT1)",
+      "cofactors": ["L-Sérine → glycine", "Pyridoxal-5′-phosphate"],
+      "reversible": true,
+      "note": "La SHMT2 catalyse la même réaction dans les mitochondries"
+    },
+    {
+      "from": "5,10-Méthylène-THF",
+      "to": "5-Méthyl-THF",
+      "enzyme": "Méthylènetétrahydrofolate réductase (MTHFR)",
+      "cofactors": ["NADPH", "FAD"],
+      "note": "Irréversible in vivo, inhibée par la SAM ; Ala222Val (677C>T) retient mal le FAD"
+    },
+    {
+      "from": "5-Méthyl-THF",
+      "to": "Tétrahydrofolate (THF)",
+      "enzyme": "Méthionine synthase (MTR)",
+      "cofactors": ["Homocystéine → méthionine", "Méthylcobalamine"],
+      "inhibitors": [{"name": "Protoxyde d'azote", "page": "medicines/nitrous-oxide"}],
+      "note": "Seule issue du 5-méthyl-THF ; ralentie faute de B12 (piège du méthylfolate)"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The effects of long-term daily folic acid and vitamin B12 supplementation on genome-wide DNA methylation in elderly subjects",
+  "authors": "Kok DE, Dhonukshe-Rutten RA, Lute C, Heil SG, Uitterlinden AG, van der Velde N, et al.",
+  "journal": "Clinical Epigenetics",
+  "year": 2015,
+  "doi": "10.1186/s13148-015-0154-5",
+  "pmid": "26568774",
+  "design": "rct",
+  "participants": 87,
+  "followUp": "2 years",
+  "population": "Subset of the B-PROOF trial, the Netherlands: adults aged 65 to 75 years with mildly elevated homocysteine, randomised to folic acid 400 µg with vitamin B12 500 µg daily (n = 44) or placebo (n = 43)",
+  "funder": "The current project is funded by a grant from the World Cancer Research Fund (WCRF) NL and WCRF International (WCRF 2009/68). The B-PROOF study is supported and funded by The Netherlands Organization for Health Research and Development (ZonMw); unrestricted grant from NZO (Dutch Dairy Association); NCHA (Netherlands Consortium Healthy Ageing); Ministry of Economic Affairs, Agriculture and Innovation; Wageningen University; VU University Medical Center; Erasmus MC. DK was supported by a research grant from the Alpe d'Huzes/Dutch Cancer Society. The funding bodies did not have any role in the design or implementation of the study, data collection, data management, data analysis, data interpretation, or in the preparation, review, or submission of this manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare that they have no competing interests.",
+  "dataAccess": "summary",
+  "result": "Of 431,312 CpG positions in buffy-coat DNA, 162 changed from baseline with folic acid and B12 against 14 with placebo; between-group comparison found one position of borderline significance and 6 differentially methylated regions, with pronounced changes in DIRAS3, ARMC8 and NODAL, genes implicated in carcinogenesis and early embryonic development. Serum folate related to methylation of 173 regions, including several HOX genes. Classed industry because the parent trial received an unrestricted grant from the Dutch Dairy Association.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4644301/"
+}

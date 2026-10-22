@@ -1,0 +1,33 @@
+{
+  "title": "胸苷酸循环",
+  "layout": "cycle",
+  "compartment": "胞质溶胶、细胞核和线粒体",
+  "steps": [
+    {
+      "from": "四氢叶酸（THF）",
+      "to": "5,10-亚甲基-THF",
+      "enzyme": "丝氨酸羟甲基转移酶（SHMT1、SHMT2）",
+      "cofactors": ["L-丝氨酸→甘氨酸", "5′-磷酸吡哆醛"],
+      "reversible": true
+    },
+    {
+      "from": "5,10-亚甲基-THF",
+      "to": "二氢叶酸（DHF）",
+      "enzyme": "胸苷酸合酶（TYMS）",
+      "cofactors": ["dUMP→dTMP"],
+      "inhibitors": [
+        {"name": "氟尿嘧啶", "page": "medicines/fluorouracil"},
+        {"name": "培美曲塞", "page": "medicines/pemetrexed"}
+      ],
+      "note": "叶酸提供碳原子及将其还原为甲基所需的两个电子"
+    },
+    {
+      "from": "二氢叶酸（DHF）",
+      "to": "四氢叶酸（THF）",
+      "enzyme": "二氢叶酸还原酶（DHFR）",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "甲氨蝶呤", "page": "medicines/methotrexate"}],
+      "note": "亦将合成叶酸还原为DHF，在人肝脏中反应较慢"
+    }
+  ]
+}

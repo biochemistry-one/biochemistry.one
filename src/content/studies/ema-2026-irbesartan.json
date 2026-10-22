@@ -1,0 +1,14 @@
+{
+  "title": "Aprovel (irbesartan): EPAR product information, summary of product characteristics",
+  "authors": "European Medicines Agency; marketing authorisation holder Sanofi Winthrop Industrie",
+  "journal": "European Medicines Agency, European public assessment report product information, read October 2026",
+  "year": 2026,
+  "url": "https://www.ema.europa.eu/en/documents/product-information/aprovel-epar-product-information_en.pdf",
+  "design": "regulatory",
+  "funder": "not stated. The document is product information approved by the European Commission on the opinion of the European Medicines Agency and supplied by the marketing authorisation holder.",
+  "funderRole": "publication",
+  "dataAccess": "summary",
+  "result": "Section 4.4: hypoglycaemia may be induced, particularly in diabetic patients, and insulin or antidiabetic doses may need adjustment; intestinal angio-oedema with abdominal pain, nausea, vomiting and diarrhoea has been reported with angiotensin II receptor antagonists and resolves on discontinuation; increased risk of severe hypotension and renal insufficiency with bilateral renal artery stenosis or stenosis of the artery to a single functioning kidney; dual blockade with ACE inhibitors, angiotensin receptor blockers or aliskiren increases hypotension, hyperkalaemia and acute renal failure and is not recommended; primary aldosteronism generally does not respond; less blood-pressure-lowering effect in Black people, possibly from low-renin states. Section 4.6: first-trimester epidemiology for ACE inhibitors is not conclusive but a small increase in risk cannot be excluded; second- and third-trimester exposure is known to cause fetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal toxicity (renal failure, hypotension, hyperkalaemia). Section 4.8: hyperkalaemia of 5.5 mEq/l or more in 29.4% on irbesartan 300 mg against 22% on placebo in diabetic hypertensive patients with microalbuminuria (IRMA 2), and 46.3% against 26.3% with chronic renal insufficiency and overt proteinuria (IDNT). Section 5.1, IDNT (1715 patients, mean 2.6 years): the renal composite was reached by about 33% on irbesartan against 39% on placebo and 41% on amlodipine, without effect on all-cause mortality; renal benefit was not evident in women (32%) or Black patients (26%), and non-fatal myocardial infarction was more frequent in women on irbesartan than on placebo. IRMA 2 (590 patients, 2 years): overt proteinuria in 5.2% on irbesartan 300 mg against 14.9% on placebo. ALTITUDE (aliskiren added to ACE inhibitor or angiotensin receptor blocker in type 2 diabetes) was terminated early for increased adverse outcomes.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ema.europa.eu/en/documents/product-information/aprovel-epar-product-information_en.pdf"
+}

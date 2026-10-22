@@ -1,0 +1,18 @@
+{
+  "title": "Selective publication of antidepressant trials and its influence on apparent efficacy",
+  "authors": "Turner EH, Matthews AM, Linardatos E, Tell RA, Rosenthal R",
+  "journal": "New England Journal of Medicine",
+  "year": 2008,
+  "doi": "10.1056/NEJMsa065779",
+  "pmid": "18199864",
+  "design": "meta-analysis",
+  "participants": 12564,
+  "population": "Placebo-controlled short-term trials of 12 antidepressants approved by the FDA between 1987 and 2004",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "authorConflicts": "Turner reported having served as a medical reviewer for the Food and Drug Administration.",
+  "dataAccess": "summary",
+  "result": "Of 74 FDA-registered trials, 23 (31%), with 3449 participants, were not published. 48 of 51 published trials (94%) were reported as positive, against 38 of 74 (51%) in the FDA analysis. Journal-based effect sizes exceeded FDA-based effect sizes by 32% overall and by 11% to 69% for individual drugs.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20260402200918/https://www.nejm.org/doi/full/10.1056/nejmsa065779"
+}

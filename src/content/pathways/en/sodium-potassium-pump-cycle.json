@@ -1,0 +1,47 @@
+{
+  "title": "Transport cycle of the Na+/K+-ATPase",
+  "layout": "cycle",
+  "compartment": "Plasma membrane",
+  "steps": [
+    {
+      "from": "E1",
+      "to": "E1·3Na+",
+      "enzyme": "Na+/K+-ATPase (catalytic α, auxiliary β)",
+      "note": "Cytoplasmic gate open; 3 Na+ bind from the cytosol"
+    },
+    {
+      "from": "E1·3Na+",
+      "to": "E1P(3Na+)",
+      "enzyme": "Na+/K+-ATPase (catalytic α, auxiliary β)",
+      "cofactors": ["ATP → ADP", "Mg2+"],
+      "note": "ATP phosphorylates the conserved aspartate; 3 Na+ occluded"
+    },
+    {
+      "from": "E1P(3Na+)",
+      "to": "E2P",
+      "enzyme": "Na+/K+-ATPase (catalytic α, auxiliary β)",
+      "note": "Extracellular gate opens; affinity falls and 3 Na+ leave the cell"
+    },
+    {
+      "from": "E2P",
+      "to": "E2P·2K+",
+      "enzyme": "Na+/K+-ATPase (catalytic α, auxiliary β)",
+      "inhibitors": [{"name": "Ouabain and other cardiotonic steroids"}],
+      "note": "2 K+ bind from outside; K+ antagonises ouabain binding"
+    },
+    {
+      "from": "E2P·2K+",
+      "to": "E2(2K+)",
+      "enzyme": "Na+/K+-ATPase (catalytic α, auxiliary β)",
+      "cofactors": ["H2O → phosphate"],
+      "note": "Extracellular gate closes; aspartyl phosphate hydrolysed; 2 K+ occluded"
+    },
+    {
+      "from": "E2(2K+)",
+      "to": "E1",
+      "enzyme": "Na+/K+-ATPase (catalytic α, auxiliary β)",
+      "cofactors": ["ATP bound, not hydrolysed"],
+      "note": "Nucleotide opens the cytoplasmic gate; 2 K+ released into the cytosol"
+    }
+  ]
+}

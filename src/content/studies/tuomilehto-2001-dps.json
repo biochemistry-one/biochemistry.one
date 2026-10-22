@@ -1,0 +1,18 @@
+{
+  "title": "Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance",
+  "authors": "Tuomilehto J, Lindstrom J, Eriksson JG, Valle TT, Hamalainen H, Ilanne-Parikka P, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2001,
+  "doi": "10.1056/NEJM200105033441801",
+  "pmid": "11333990",
+  "design": "rct",
+  "participants": 522,
+  "followUp": "mean 3.2 years",
+  "population": "522 middle-aged overweight adults with impaired glucose tolerance in Finland, 172 men and 350 women, mean age 55 years, mean body-mass index 31 kg/m2",
+  "funder": "Supported by the Finnish Academy (grants 8473/2298, 40758/5767 and 38387/54175), the Ministry of Education, the Novo Nordisk Foundation, the Yrjo Jahnsson Foundation and the Finnish Diabetes Research Foundation.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Participants were randomly assigned to individualised counselling aimed at weight reduction, lower total and saturated fat intake, higher fibre intake and more physical activity, or to a control group that also received general health advice at baseline and at annual visits. Mean weight loss was 4.2 kg (SD 5.1) at one year and a net 3.5 kg (5.5) at two years in the intervention group against 0.8 kg in the control group (p < 0.001 for both). The cumulative incidence of diabetes was 6% against 14% at two years and 11% (95% CI 6 to 15) against 23% (17 to 29) at four years; Cox regression over all person-years gave a 58% lower incidence in the intervention group (hazard ratio 0.4, 0.3 to 0.7, p < 0.001), 63% lower in men and 54% lower in women. The reduction in incidence was directly associated with the number of lifestyle goals achieved, and exceeding four hours of exercise per week was associated with a significant reduction even in those who did not lose weight. The authors state that the estimate is conservative because analysis was by intention to treat and the control group also received advice.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250715113451/https://www.nejm.org/doi/full/10.1056/NEJM200105033441801"
+}

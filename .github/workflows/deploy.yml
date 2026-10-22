@@ -1,0 +1,54 @@
+name: Build and deploy
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+    types: [opened, synchronize, reopened]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.event_name == 'pull_request' && 'staging' || 'production' }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - run: node scripts/check-links.mjs
+
+      - name: Mark staging build
+        if: github.event_name == 'pull_request'
+        run: |
+          printf 'staging.biochemistry.one\n' > dist/CNAME
+          printf 'User-agent: *\nDisallow: /\n' > dist/robots.txt
+      - name: Deploy staging
+        if: github.event_name == 'pull_request'
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453
+        with:
+          publish_dir: ./dist
+          deploy_key: ${{ secrets.STAGING_DEPLOY_KEY }}
+          external_repository: biochemistry-one/staging.biochemistry.one
+          publish_branch: gh-pages
+          user_name: Biochemistry
+          user_email: 346194439+biochemistry-one@users.noreply.github.com
+
+      - name: Deploy production
+        if: github.event_name != 'pull_request'
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453
+        with:
+          publish_dir: ./dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: Biochemistry
+          user_email: 346194439+biochemistry-one@users.noreply.github.com

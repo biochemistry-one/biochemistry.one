@@ -1,0 +1,35 @@
+{
+  "title": "Urea cycle",
+  "layout": "cycle",
+  "compartment": "Liver; OTC in the mitochondrial matrix; ASS1, ASL and ARG1 in the cytosol",
+  "steps": [
+    {
+      "from": "Ornithine",
+      "to": "Citrulline",
+      "enzyme": "Ornithine transcarbamylase (OTC)",
+      "cofactors": ["Carbamoyl phosphate"],
+      "note": "Matrix; carbamoyl phosphate comes from CPS1, activated by N-acetylglutamate"
+    },
+    {
+      "from": "Citrulline",
+      "to": "Argininosuccinate",
+      "enzyme": "Argininosuccinate synthase 1 (ASS1)",
+      "cofactors": ["Aspartate", "ATP"],
+      "note": "Cytosol; citrulline leaves the matrix via ORNT1; ATP yields AMP and diphosphate"
+    },
+    {
+      "from": "Argininosuccinate",
+      "to": "Arginine",
+      "enzyme": "Argininosuccinate lyase (ASL)",
+      "reversible": true,
+      "note": "Releases fumarate, which links the cycle to the citric acid cycle"
+    },
+    {
+      "from": "Arginine",
+      "to": "Ornithine",
+      "enzyme": "Arginase 1 (ARG1)",
+      "cofactors": ["H2O", "Mn2+ (2 per subunit)"],
+      "note": "Releases urea; ornithine re-enters the matrix via ORNT1 (SLC25A15)"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The effect of a reduction in alcohol consumption on blood pressure: a systematic review and meta-analysis",
+  "authors": "Roerecke M, Kaczorowski J, Tobe SW, Gmel G, Hasan OSM, Rehm J",
+  "journal": "Lancet Public Health",
+  "year": 2017,
+  "doi": "10.1016/S2468-2667(17)30003-8",
+  "pmid": "29253389",
+  "design": "meta-analysis",
+  "participants": 2865,
+  "followUp": "trials of 1 week to 2 years, median 4 weeks",
+  "population": "36 trials in adults (2464 men, 401 women) in high-income countries; one drink = 12 g ethanol",
+  "funder": "This study was funded by the National Institute on Alcohol Abuse and Alcoholism of the National Institutes of Health under Award Number R21AA023521. The funder had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "Rehm reports grants and personal fees from Lundbeck outside this work.",
+  "dataAccess": "summary",
+  "result": "Reducing alcohol intake did not significantly lower blood pressure in people drinking two or fewer drinks per day. In people drinking six or more drinks per day who reduced intake by about 50%, the mean difference in systolic blood pressure was −5.50 mm Hg (95% CI −6.70 to −4.30) and in diastolic −3.97 mm Hg (−4.70 to −3.25). Across all trials, systolic −3.13 mm Hg (−3.93 to −2.32).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6118407/"
+}

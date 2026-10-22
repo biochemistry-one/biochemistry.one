@@ -1,0 +1,18 @@
+{
+  "title": "The unknown known: non-cardiogenic pulmonary edema in amlodipine poisoning, a cohort study",
+  "authors": "Lindeman E, Ålebring J, Johansson A, Ahlner J, Kugelberg FC, Nordmark Grass J",
+  "journal": "Clinical Toxicology",
+  "year": 2020,
+  "doi": "10.1080/15563650.2020.1725034",
+  "pmid": "32114860",
+  "design": "cohort",
+  "participants": 19,
+  "followUp": "2017 to 2018",
+  "population": "Consecutive amlodipine poisonings reported to the Swedish Poisons Information Center that required inotropes or vasopressors and had blood amlodipine above 0.25 µg/mL, confirmed by the National Board of Forensic Medicine",
+  "funder": "not read: the full text is restricted to subscribers, the publisher page returns HTTP 403, and PubMed and Europe PMC list no grants.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Of 19 patients, 4 (21%) died and 1 was treated with veno-arterial extracorporeal membrane oxygenation. Nine developed non-cardiogenic pulmonary oedema, defined as a need for positive pressure ventilation with echocardiographically normal left ventricular function: 47% of the cohort and 64% of patients who did not progress to complete haemodynamic collapse. The authors state that calcium channel blockers selectively dilate vessels on the afferent side of the capillary network, which with preserved or increased blood flow may lead to oedema, and that this complication had been considered rare in calcium channel blocker poisoning.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/32114860/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Genotype-Guided Asthma Treatment Reduces Exacerbations in Children: Meta-Analysis of Two Randomized Control Trials",
+  "authors": "Slob EMA, Vijverberg SJH, Ruffles T, Noij LCE, Biermann J, Brouwer AFJ, et al.",
+  "journal": "Allergy",
+  "year": 2025,
+  "doi": "10.1111/all.16438",
+  "pmid": "39723595",
+  "registry": "NCT03654508; NCT02758873",
+  "design": "meta-analysis",
+  "participants": 193,
+  "followUp": "at least 6 months",
+  "population": "Children aged 6-18 years in the Netherlands, Switzerland, England and Scotland with uncontrolled asthma on inhaled corticosteroids requiring a step up in treatment",
+  "funder": "The PUFFIN trial was funded by a consortium grant of the Lung Foundation Netherlands (project number 5.1.16.094); the PACT trial was funded by The Henry Smith Charity and Action Medical Research (grant GN2203).",
+  "funderRole": "none",
+  "authorConflicts": "Several authors report institutional grants, advisory board work or lecture fees involving AstraZeneca, GSK, Boehringer Ingelheim, Teva, Sanofi, Novartis, Vertex and others outside the submitted work; the remaining authors declare no conflicts of interest.",
+  "dataAccess": "individual",
+  "result": "Individual participant data meta-analysis of two randomised controlled trials. Genotype-guided treatment added a long-acting beta2-agonist for children with ADRB2 Gly16/Gly16 and gave double-dose inhaled corticosteroid (PUFFIN) or add-on montelukast (PACT) to children with Arg16/Arg16 or Arg16/Gly16. Fifty-nine of 102 children in PUFFIN and 59 of 91 in PACT carried at least one Arg16 allele. Among all 193 children asthma control did not differ between groups, while the asthma exacerbation rate was lower with genotype-guided treatment, difference -0.08 (95% CI -0.16 to -0.00, p = 0.04).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11969299/fullTextXML"
+}

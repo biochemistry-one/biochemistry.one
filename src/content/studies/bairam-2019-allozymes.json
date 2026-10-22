@@ -1,0 +1,15 @@
+{
+  "title": "Impact of SULT1A3/SULT1A4 genetic polymorphisms on the sulfation of phenylephrine and salbutamol by human SULT1A3 allozymes",
+  "authors": "Bairam AF, Rasool MI, Alherz FA, Abunnaja MS, El Daibani AA, Gohal SA, et al.",
+  "journal": "Pharmacogenetics and Genomics",
+  "year": 2019,
+  "doi": "10.1097/FPC.0000000000000371",
+  "pmid": "31145702",
+  "design": "in-vitro",
+  "funder": "This work was supported in part by a grant from National Institutes of Health (Grant # R03HD071146). Conflict of interest: the authors declare no conflicts of interest.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Twelve purified SULT1A3 allozymes encoded by coding single-nucleotide polymorphisms of SULT1A3 and SULT1A4 were compared with the wild-type enzyme. With 5 µM salbutamol every allozyme showed lower specific activity than wild type; SULT1A3-S8P and -N235T retained 15.2% and 20.6%. Seven allozymes, S8P, R9C, V15M, V18F, P101L, K234N and N235T, showed significantly lower sulfating activity and catalytic efficiency, S8P reaching about 11% of wild type, N235T 11.1% and K234N 36.5%. The experiments used purified enzymes rather than patients.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6546302/"
+}

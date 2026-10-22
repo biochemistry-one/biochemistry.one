@@ -1,0 +1,17 @@
+{
+  "title": "The Vitamin D Receptor (VDR) Is Expressed in Skeletal Muscle of Male Mice and Modulates 25-Hydroxyvitamin D (25OHD) Uptake in Myofibers",
+  "authors": "Girgis CM, Mokbel N, Cha KM, Houweling PJ, Abboud M, Fraser DR, et al.",
+  "journal": "Endocrinology",
+  "year": 2014,
+  "doi": "10.1210/en.2014-1016",
+  "pmid": "24949660",
+  "design": "animal",
+  "population": "C57BL/6 male mice, VDR knockout mice and wild-type littermates; C2C12 and primary murine myotubes",
+  "funder": "Postgraduate scholar awards (Australian Postgraduate Award) from the University of Sydney; Joseph Thornton Tweddle Research Scholarship 2014 (Royal Australasian College of Physicians); J.E.G. and R.J.C.-B. are supported by the National Health and Medical Research Council.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have nothing to disclose.",
+  "dataAccess": "summary",
+  "result": "Mouse and cell study. The authors describe the presence of VDR in skeletal muscle as controversial. VDR transcript and protein (VDR-D6 antibody, validated by absent signal in knockout tissue) were detected in murine quadriceps; Western blot detection required hyperosmolar lysis buffer; levels were low compared with duodenum and fell with age. C2C12 and primary myotubes increased VDR and CYP24A1 after 1,25-dihydroxyvitamin D, and primary myotubes expressed functional CYP27B1. 1,25-dihydroxyvitamin D increased uptake of tritiated 25-hydroxyvitamin D3 in myofibers from wild-type but not VDR knockout mice.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4207908/fullTextXML"
+}

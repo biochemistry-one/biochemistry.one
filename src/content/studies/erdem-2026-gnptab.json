@@ -1,0 +1,16 @@
+{
+  "title": "GNPTAB-Related Disorders",
+  "authors": "Erdem F, Canda E",
+  "journal": "GeneReviews, University of Washington, Seattle",
+  "year": 2026,
+  "pmid": "20301728",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK1828/",
+  "design": "database",
+  "funder": "not stated in the chapter",
+  "funderRole": "unknown",
+  "authorConflicts": "not stated in the chapter",
+  "dataAccess": "summary",
+  "result": "Expert-authored, peer-reviewed chapter, first posted 2008, comprehensive update 13 August 2026. GNPTAB encodes the alpha and beta subunits of N-acetylglucosamine-1-phosphotransferase, which synthesises the mannose 6-phosphate recognition marker that sorts newly synthesised lysosomal enzymes from the Golgi apparatus to lysosomes; the p.Lys4Gln variant impairs retention of the enzyme in the Golgi complex. Defective enzyme causes mis-sorting of lysosomal enzymes and accumulation of nondegradable macromolecules in lysosomes; complete loss of activity gives mucolipidosis II alpha/beta and residual activity of 1-10% usually mucolipidosis III alpha/beta.",
+  "class": "reference",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/ca/84/gene_NBK1116.tar.gz"
+}

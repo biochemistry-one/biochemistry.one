@@ -1,0 +1,15 @@
+{
+  "title": "Sertraline",
+  "authors": "National Institute of Diabetes and Digestive and Kidney Diseases",
+  "journal": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-, entry updated 8 April 2020",
+  "year": 2020,
+  "pmid": "31643831",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK548513/",
+  "design": "database",
+  "funder": "National Institute of Diabetes and Digestive and Kidney Diseases (publisher of LiverTox).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Read as the PubMed abstract of the entry; the Bookshelf page returned a browser check. Sertraline therapy can be associated with transient asymptomatic elevations in serum aminotransferase levels and has been linked to rare instances of clinically apparent acute liver injury.",
+  "class": "reference",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=31643831&rettype=abstract&retmode=text"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Effect of amlodipine on morbidity and mortality in severe chronic heart failure",
+  "authors": "Packer M, O'Connor CM, Ghali JK, Pressler ML, Carson PE, Belkin RN, et al.; Prospective Randomized Amlodipine Survival Evaluation Study Group",
+  "journal": "New England Journal of Medicine",
+  "year": 1996,
+  "doi": "10.1056/NEJM199610103351504",
+  "pmid": "8813041",
+  "design": "rct",
+  "participants": 1153,
+  "followUp": "6 to 33 months",
+  "population": "Patients with severe chronic heart failure and ejection fraction below 30% on usual therapy, stratified by ischaemic or non-ischaemic cause",
+  "funder": "Supported by a grant from Pfizer Central Research. One author (A.B.C.) is listed at Pfizer Central Research, Groton, Connecticut.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Double-blind amlodipine (n=571) against placebo (n=582). The primary end point of death from any cause or hospitalisation for major cardiovascular events occurred in 39% against 42% (9% risk reduction, 95% CI 24% reduction to 10% increase, P=0.31); death in 33% against 38% (16% reduction, 31% reduction to 2% increase, P=0.07). In non-ischaemic cardiomyopathy amlodipine reduced the combined risk by 31% (P=0.04) and death by 46% (P<0.001); no difference in ischaemic heart disease. Peripheral oedema (P<0.001) and pulmonary oedema (P=0.01) occurred more often with amlodipine, the authors putting the risk of pulmonary oedema attributable to amlodipine at 5 percent; worsening renal function 7.7% against 3.6% (P=0.002). Hospitalisation for worsening heart failure 36% against 39%. The authors propose dilatation of pulmonary arterioles, rather than an adverse effect on the heart, as the cause of the pulmonary oedema.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20140305150457/http://www.nejm.org:80/doi/full/10.1056/NEJM199610103351504"
+}

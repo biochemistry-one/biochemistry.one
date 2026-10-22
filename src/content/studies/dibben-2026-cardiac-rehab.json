@@ -1,0 +1,19 @@
+{
+  "title": "Exercise-based cardiac rehabilitation for coronary heart disease",
+  "authors": "Dibben G, de Vries FB, Faulkner J, Oldridge N, Rees K, Stens NA, et al.",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2026,
+  "doi": "10.1002/14651858.CD001800.pub5",
+  "pmid": "42754260",
+  "design": "meta-analysis",
+  "participants": 26886,
+  "followUp": "short term 6 to 12 months; medium term above 12 to 36 months; long term above 36 months",
+  "population": "107 randomised trials of exercise-based cardiac rehabilitation against no structured exercise in adults with coronary heart disease, mostly after myocardial infarction or revascularisation; mean ages 47 to 81 years; women 17% of participants; search to March 2026",
+  "funder": "Internal sources: University of Glasgow (time of two authors); Radboud University Medical Centre (time of three authors). External sources: past NIHR Cochrane Infrastructure funding to Cochrane Heart.",
+  "funderRole": "unknown",
+  "authorConflicts": "Several authors declare involvement in included trials and took no part in decisions or data extraction for them; one is a health adviser to the Danish Heart Foundation, Ministry of Health and National Board of Health; the others declare none.",
+  "dataAccess": "summary",
+  "result": "At 6 to 12 months, exercise-based rehabilitation likely reduced all-cause mortality (RR 0.86, 95% CI 0.74 to 1.00; 30 trials, 10,391 participants; number needed to treat 125; moderate certainty), may reduce cardiovascular mortality (RR 0.87, 0.68 to 1.11; moderate certainty), reduced myocardial infarction (RR 0.72, 0.54 to 0.95; 25 trials, 8584 participants; number needed to treat 71; high certainty) and likely reduced all-cause hospital admissions (RR 0.65, 0.51 to 0.82; number needed to treat 17; moderate certainty), with little or no difference in CABG or PCI. Beyond 12 months it was associated with reduced cardiovascular mortality and myocardial infarction. About a quarter of trials predate contemporary optimal medical therapy.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13585467/"
+}

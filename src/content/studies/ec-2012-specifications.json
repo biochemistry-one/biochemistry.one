@@ -1,0 +1,14 @@
+{
+  "title": "Commission Regulation (EU) No 231/2012 of 9 March 2012 laying down specifications for food additives listed in Annexes II and III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council",
+  "authors": "European Commission",
+  "journal": "Official Journal of the European Union, L 83, 22 March 2012, p. 1",
+  "year": 2012,
+  "url": "https://eur-lex.europa.eu/eli/reg/2012/231/oj",
+  "design": "regulatory",
+  "funder": "European Commission.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "E 500 (i) sodium carbonate, synonym soda ash: Na2CO3·nH2O (n = 0, 1 or 10), molecular weight 106.00 (anhydrous), not less than 99% Na2CO3 on the anhydrous basis. E 500 (ii) sodium hydrogen carbonate, synonyms sodium bicarbonate, sodium acid carbonate, bicarbonate of soda, baking soda: NaHCO3, molecular weight 84.01, not less than 99% on the anhydrous basis, pH 8.0 to 8.6 in 1% solution. E 500 (iii) sodium sesquicarbonate, chemical name sodium monohydrogen dicarbonate: Na2CO3·NaHCO3·2H2O, molecular weight 226.03, 35.0 to 38.6% NaHCO3 and 46.4 to 50.0% Na2CO3, sodium chloride not more than 0.5%. For all three: arsenic not more than 3 mg/kg, lead not more than 2 mg/kg, mercury not more than 1 mg/kg.",
+  "class": "regulatory",
+  "fundingChecked": "http://publications.europa.eu/resource/cellar/7ac5da70-899c-4300-a562-1ceaeec18f7d.0002.02/DOC_1"
+}

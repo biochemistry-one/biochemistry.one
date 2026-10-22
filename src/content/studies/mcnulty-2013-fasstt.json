@@ -1,0 +1,18 @@
+{
+  "title": "Impact of continuing folic acid after the first trimester of pregnancy: findings of a randomized trial of Folic Acid Supplementation in the Second and Third Trimesters",
+  "authors": "McNulty B, McNulty H, Marshall B, Ward M, Molloy AM, Scott JM, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2013,
+  "doi": "10.3945/ajcn.112.057489",
+  "pmid": "23719554",
+  "design": "rct",
+  "participants": 119,
+  "followUp": "Gestational week 14 to delivery",
+  "population": "Pregnant women aged 18 to 35 years with singleton uncomplicated pregnancies in Northern Ireland who had taken folic acid in the first trimester, randomised at the start of trimester 2 to continue 400 µg/day or to stop with placebo",
+  "funder": "Supported by the Northern Ireland Department for Employment and Learning (PhD funding to B McNulty).",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Results read from the published abstract. 119 women completed (59 folic acid, 60 placebo). In women who stopped, serum folate fell from 45.7 ± 21.3 to 19.5 ± 16.5 nmol/L between gestational weeks 14 and 36 and homocysteine rose from 6.6 ± 2.3 to 7.6 ± 2.3 µmol/L; continuation prevented these changes and raised red cell folate from 1203 ± 639 to 1746 ± 683 nmol/L. Cord red cell folate 1993 ± 862 against 1418 ± 557 nmol/L (P = 0.001). The authors state that benefits for pregnancy outcomes or early childhood require additional study.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240424234856/https://www.sciencedirect.com/science/article/pii/S0002916523051365"
+}

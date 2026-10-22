@@ -1,0 +1,16 @@
+{
+  "title": "Does milk intake promote prostate cancer initiation or progression via effects on insulin-like growth factors (IGFs)? A systematic review and meta-analysis",
+  "authors": "Harrison S, Lennon R, Holly J, Higgins JPT, Gardner M, Perks C, et al.",
+  "journal": "Cancer Causes & Control",
+  "year": 2017,
+  "doi": "10.1007/s10552-017-0883-1",
+  "pmid": "28361446",
+  "design": "systematic-review",
+  "population": "172 studies: 31 on milk and IGFs, 132 on IGFs and prostate cancer in humans, 10 in animals",
+  "funder": "World Cancer Research Fund (RFA 2012/620); Wellcome Trust PhD studentship (102432/Z/13/Z); MRC Integrative Epidemiology Unit, University of Bristol (MC_UU_12013/1, MC_UU_12013/2); Cancer Research UK programme grant (C18281/A19169); National Institute for Health Research Bristol Nutritional Biomedical Research Unit.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Moderate evidence that circulating IGF-I rises by an estimated 0.10 SD and IGFBP-3 by 0.05 SD per 1 SD higher milk intake. Prostate cancer risk per SD higher IGF-I: OR 1.09 (95% CI 1.03 to 1.16; 51 studies); per SD higher IGFBP-3: OR 0.90 (0.83 to 0.98; 39 studies). IGF-I is a potential mechanism for the association of milk intake with prostate cancer.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400803/"
+}

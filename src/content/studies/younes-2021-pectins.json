@@ -1,0 +1,15 @@
+{
+  "title": "Opinion on the re-evaluation of pectin (E 440i) and amidated pectin (E 440ii) as food additives in foods for infants below 16 weeks of age and follow-up of their re-evaluation as food additives for uses in foods for all population groups",
+  "authors": "EFSA Panel on Food Additives and Flavourings (FAF), Younes M, Aquilina G, Castle L, Engel KH, Fowler P, et al.",
+  "journal": "EFSA Journal",
+  "year": 2021,
+  "doi": "10.2903/j.efsa.2021.6387",
+  "pmid": "33537069",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission; question number EFSA-Q-2018-00098; adopted 15 December 2020.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "JECFA includes pectin and amidated pectin under one designation, INS 440. For infants below 16 weeks consuming foods for special medical purposes (food category 13.1.5.1) at the maximum permitted level of 10,000 mg/kg, exposure was 2,000 mg/kg bw per day at mean (200 mL/kg bw per day) and 2,600 at high-level consumption (260 mL/kg bw per day); with the maximum industry use level of 4,170 mg/kg it was 834 and 1,084 mg/kg bw per day. Two 21-day neonatal piglet studies were at low risk of bias; the NOAEL was 1,069 mg/kg bw per day. The margin of safety was below 1 at the maximum permitted level, which the Panel considered too low. Seven clinical studies submitted by business operators were at high risk of bias and could not support the assessment. Extrapolating a release of 400 mg methanol from 10 g of 75%-methylated pectin in adults, exposure of 2,000 and 2,600 mg/kg bw per day would give 79.7 and 103.6 mg/kg bw per day of methanol in infants below 16 weeks, an exposure that could lead to adverse health effects. The Panel recommended lowering the maximum permitted level in 13.1.5.1 and 13.1.5.2 and lowering the specification limits for toxic elements. Documentation: the piglet study reports were provided by Specialised Nutrition Europe (documentation 3 and 4), which states that it represents manufacturers of infant formula; specifications data came from the International Pectin Producers Association.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7845505/fullTextXML"
+}

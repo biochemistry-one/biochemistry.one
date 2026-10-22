@@ -1,0 +1,19 @@
+{
+  "title": "Folic acid handling by the human gut: implications for food fortification and supplementation",
+  "authors": "Patanwala I, King MJ, Barrett DA, Rose J, Jackson R, Hudson M, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2014,
+  "doi": "10.3945/ajcn.113.080507",
+  "pmid": "24944062",
+  "registry": "NCT02135393",
+  "design": "mechanistic",
+  "participants": 6,
+  "population": "Adults with a transjugular intrahepatic portosystemic shunt, allowing portal vein sampling; randomised crossover of oral stable-isotope-labelled folic acid and 5-formyltetrahydrofolate, 500 nmol (220 µg folic acid equivalent)",
+  "funder": "Supported by the UK Biotechnology and Biological Sciences Research Council (grants BB/F014104/1 and BB/FO14457/1).",
+  "funderRole": "none",
+  "authorConflicts": "None of the authors had a conflict of interest.",
+  "dataAccess": "summary",
+  "result": "Fifteen minutes after a physiological dose of labelled folic acid, 80 ± 12% of labelled folate in the hepatic portal vein was unmodified folic acid; after labelled 5-formyl-THF, only 4 ± 18% was unmodified and the rest had been converted to 5-methyl-THF. The authors conclude that the human gut converts reduced dietary folates efficiently to 5-methyl-THF but has limited ability to reduce folic acid, so that the liver, with low and variable DHFR activity, carries the reduction and may saturate under chronic exposure.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4095662/"
+}

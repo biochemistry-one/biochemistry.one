@@ -1,0 +1,18 @@
+{
+  "title": "The development of essential fatty acid deficiency in healthy men fed fat-free diets intravenously and orally",
+  "authors": "Wene JD, Connor WE, DenBesten L",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1975,
+  "doi": "10.1172/JCI108061",
+  "pmid": "806609",
+  "design": "mechanistic",
+  "participants": 9,
+  "followUp": "28 days of fat-free feeding in Study I; 10 days of fat-free feeding, a 24-h fast, 3 days of intermittent feeding and 2 weeks of repletion in Study II",
+  "population": "Eight healthy male volunteers from the Iowa State Penitentiary (Study I) and one healthy man aged 21 years (Study II), in the Clinical Research Center of the University of Iowa",
+  "funder": "This paper was supported by research grants from the U. S. Public Health Service, National Heart and Lung Institute (HE-14,230), and from the General Clinical Research Centers Program (M01-FR-59) of the Division of Research Resources, National Institutes of Health.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "In Study I, eight men received a eucaloric, fat-free diet of 80% glucose and 20% casein amino acid hydrolysate by constant 24-h infusion, 14 days intravenously and 14 days nasogastrically, in either order. In the four men fed intravenously first, linoleic acid fell from 48.8% to 9.8% of fatty acids in plasma cholesterol esters, from 21.2% to 3.2% in phospholipids, from 9.6% to 2.0% in free fatty acids and from 14.1% to 2.6% in triglycerides (P < 0.005); 5,8,11-eicosatrienoic acid, absent at baseline, reached 0.6%, 2.5%, 0.2% and 2.3%. Deficiency developed similarly with nasogastric feeding; dermatitis was not detected. In Study II, linoleic acid had fallen by day 3 of continuous feeding and rose during a 24-h fast; repletion with 2.6% of energy as linoleic acid corrected the deficiency by day 13. The authors state that, when linoleic acid is not present in adequate amounts, the same enzyme system elongates and desaturates oleic acid to 5,8,11-eicosatrienoic acid, a reaction competitively inhibited by linoleic acid.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/108061/version/1/pdf/render.pdf"
+}

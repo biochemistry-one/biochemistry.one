@@ -1,0 +1,19 @@
+{
+  "title": "First-line drugs for hypertension",
+  "authors": "Wright JM, Musini VM, Gill R",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2018,
+  "doi": "10.1002/14651858.CD001841.pub3",
+  "pmid": "29667175",
+  "design": "meta-analysis",
+  "participants": 58040,
+  "followUp": "weighted average 4.9 years for the ACE inhibitor trials; 3 to 5 years across the review",
+  "population": "24 randomised trials with 28 active treatment arms in adults with blood pressure above 140/90 mmHg at baseline, compared with placebo or no treatment; mean age 62 years; mean age 67 years in the three ACE inhibitor trials (HOPE hypertensive subgroup, HYVET pilot and UKPDS 39)",
+  "funder": "Internal sources: Faculty of Medicine, University of British Columbia, Canada (salary, space and infrastructure). External sources: CIHR grant to the Hypertension Review Group, Canada (infrastructure support to the Cochrane Hypertension Group).",
+  "funderRole": "none",
+  "authorConflicts": "JMW: none. VM: none. RG: none.",
+  "dataAccess": "summary",
+  "result": "Trials were available for four first-line classes: thiazides (19 trials, 39,713 patients), beta-blockers (5 trials, 19,313), ACE inhibitors (3 trials, 6002) and calcium channel blockers (1 trial, 4695). No randomised trial of a first-line angiotensin receptor blocker or alpha-blocker against placebo or no treatment was identified. First-line ACE inhibitors reduced total mortality (13.6% with control against 11.3% with treatment; RR 0.83, 95% CI 0.72 to 0.95; 6002 patients, 3 trials, I2 0%), stroke (6.0% against 3.9%; RR 0.65, 0.52 to 0.82; 6002 patients, 3 trials), coronary heart disease (13.5% against 11.0%; RR 0.81, 0.70 to 0.94; 5145 patients, 2 trials) and total cardiovascular events (20.1% against 15.3%; RR 0.76, 0.67 to 0.85; 5145 patients, 2 trials). The quality of this evidence was graded moderate for mortality and total cardiovascular events and low for stroke and coronary heart disease. First-line low-dose thiazides reduced mortality (11.0% against 9.8%; RR 0.89, 0.82 to 0.97), total cardiovascular events (12.9% against 9.0%; RR 0.70, 0.64 to 0.76), stroke (6.2% against 4.2%; RR 0.68, 0.60 to 0.77) and coronary heart disease (3.9% against 2.8%; RR 0.72, 0.61 to 0.84) on high-quality evidence. Withdrawals due to adverse effects could not be calculated for first-line ACE inhibitors, because the only trial reporting them had an unblinded untreated control group. Risk of bias assessment treated funding by the manufacturer with a conflict of interest as high risk; of the three ACE inhibitor trials, the HOPE trial is recorded as partially funded by the manufacturer. The authors concluded that first-line ACE inhibitors and calcium channel blockers may be as effective as first-line low-dose thiazides, on evidence of lower quality.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6513559/"
+}

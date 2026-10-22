@@ -1,0 +1,17 @@
+{
+  "title": "Hyperinsulinism and hyperammonemia in infants with regulatory mutations of the glutamate dehydrogenase gene",
+  "authors": "Stanley CA, Lieu YK, Hsu BY, Burlina AB, Greenberg CR, Hopwood NJ, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 1998,
+  "doi": "10.1056/NEJM199805073381904",
+  "pmid": "9571255",
+  "design": "genetic",
+  "participants": 8,
+  "population": "Eight unrelated children aged 3 months to 10 years with hyperinsulinism-hyperammonaemia syndrome, six sporadic and two familial, with affected and unaffected relatives",
+  "funder": "Supported in part by grants from the National Institutes of Health (RR-00240) and the American Diabetes Association.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "All eight children were heterozygous for a GLUD1 variant altering one of four residues between 446 and 454, in the proposed allosteric domain. The IC50 of GTP for glutamate dehydrogenase in lymphoblasts was nearly four times normal in sporadic cases and twice normal in familial cases; basal and ADP-stimulated activity was normal in sporadic cases. Plasma ammonium was 80 to 200 umol/L (normal below 40) without symptoms of hyperammonaemia. Leucine stimulates insulin secretion by allosterically activating glutamate dehydrogenase.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20250415120558/https://www.nejm.org/doi/full/10.1056/NEJM199805073381904"
+}

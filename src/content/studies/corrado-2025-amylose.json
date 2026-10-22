@@ -1,0 +1,21 @@
+{
+  "title": "Effect of wheat bread with elevated amylose on postprandial glycaemic response: a randomised crossover trial delivered remotely using continuous glucose monitoring",
+  "authors": "Corrado M, Savva GM, Ahn-Jarvis JH, Oyeyinka SA, Edwards CH, Hazard BA",
+  "journal": "Food & Function",
+  "year": 2025,
+  "doi": "10.1039/d5fo03147h",
+  "pmid": "41277638",
+  "registry": "NCT05317429",
+  "design": "rct",
+  "participants": 26,
+  "followUp": "4 hours after each of four test breakfasts",
+  "population": "Healthy adults aged 18 to 64 years, BMI 18 to 30 kg/m2, HbA1c below 42 mmol/mol, near Norwich, UK; 28 randomised, 26 completed",
+  "funder": "UKRI Biotechnology and Biological Sciences Research Council: Institutional Sponsorship BB/W510701/1; Institute Strategic Programme 'Food Innovation and Health' BB/R012512/1 with BBS/E/F/000PR10343 and BBS/E/F/000PR10345; Core Capability Grant BB/CCG1860/1 to Quadram Institute Bioscience; Institute Strategic Programme Grants BBS/E/J/000PR9799 and 'Designing Future Wheat' BB/P016855/1 to the John Innes Centre. The first author's current funding: European Union Horizon 2020 Marie Skłodowska-Curie grant 101105493.",
+  "funderRole": "none",
+  "inKindSupport": "ADM Milling milled the grains used to make the breads.",
+  "authorConflicts": "The authors declare no conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "Double-blind crossover; each participant ate two rolls of each bread, both providing about 72 g total starch: sbeII mutant wheat with 43.5% amylose (available carbohydrate 61.5 g) and wild-type wheat with 27.2% amylose (64.6 g). In vitro starch digested at 90 min: 60.8% against 68.1% (p = 0.006). Primary outcome, maximum rise in interstitial glucose within 2 h: 1.73 against 1.79 mmol/L, difference -0.08 mmol/L (SE 0.12), -4.57% (p = 0.514); incremental AUC over 2 h -7.20% (p = 0.416). 17 participants preferred the wild-type bread and 4 the sbeII bread. The authors note that the test foods of earlier trials reporting lower glycaemia with high-amylose bread generally provided different amounts of available carbohydrate; they also cite lower glucose responses to high-amylose flour-blend bread against an isoglucidic control (Costabile et al.) and to amylose-rich rusks in meals matched for available carbohydrate (Vetrani et al.).",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12641596"
+}

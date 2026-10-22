@@ -1,0 +1,14 @@
+{
+  "title": "IMURAN (azathioprine) 50 mg scored tablets: full prescribing information",
+  "authors": "US Food and Drug Administration (labelling submitted by Legacy Pharma USA Inc.)",
+  "journal": "US Food and Drug Administration approved prescribing information, via DailyMed; version 1, effective 19 March 2026",
+  "year": 2026,
+  "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4d62b6e4-a9d4-4818-e063-6394a90aa208",
+  "design": "regulatory",
+  "funder": "not stated; FDA-approved labelling carries no funding statement",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Azathioprine is cleaved to 6-mercaptopurine, which hypoxanthine-guanine phosphoribosyltransferase and kinases convert to 6-thioguanine nucleotides; cytotoxicity follows in part from their incorporation into DNA. Mercaptopurine has two major inactivation routes: thiol methylation, catalysed by thiopurine S-methyltransferase (TPMT), to methyl-6-mercaptopurine, and oxidation, catalysed by xanthine oxidase, to 6-thiouric acid; NUDT15 converts 6-thioguanine nucleotides to inactive monophosphates. TPMT activity correlates inversely with 6-thioguanine nucleotide concentrations in erythrocytes, which have negligible xanthine oxidase activity. About 0.3%, or 1 in 300, of patients of European or African ancestry carry two loss-of-function TPMT alleles and have little or no TPMT activity, and about 10% carry one, giving intermediate activity. Patients with reduced TPMT or NUDT15 activity given usual doses accumulate 6-thioguanine nucleotides and are at higher risk of severe myelosuppression, and those with TPMT or NUDT15 deficiency require alternative therapy or dose modification.",
+  "class": "regulatory",
+  "fundingChecked": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4d62b6e4-a9d4-4818-e063-6394a90aa208"
+}

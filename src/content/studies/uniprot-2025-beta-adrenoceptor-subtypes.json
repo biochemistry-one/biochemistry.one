@@ -1,0 +1,16 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "design": "database",
+  "funder": "National Human Genome Research Institute [HG002273]; Office of the Director, NIH OD [U24HG007822]; NIAID; NIA; NIGMS [R35GM141873]; NIDDK; NEI; NCI; NHLBI; Biotechnology and Biological Sciences Research Council [BB/T015608/1]; National Science Foundation's Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 [825575]; State Secretariat for Education, Research and Innovation; EMBL Australia. Funding for open access charge: National Institutes of Health.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed human UniProtKB entries read on 2026-10-22 through rest.uniprot.org, annotation update 2026-09-02. ADRB1 (P08588, entry version 234): G-protein-coupled catecholamine receptor coupling to G(s) to activate adenylate cyclase and the cAMP pathway; binds adrenaline and noradrenaline with approximately equal affinity; stimulates cardiomyocyte contraction; involved in the regulation of sleep and wake behaviour, and ADRB1 variants are associated with inter-individual variation in resting heart rate and with familial natural short sleep 2. ADRB2 (P07550, version 260): couples to both G(s) and G(i); binds adrenaline with about 30-fold greater affinity than noradrenaline; in the heart (annotated by similarity) G(s) signalling regulates contraction rate and G(i)/PI3K/Akt signalling exerts cardioprotective effects under hypoxia and oxidative stress; regulates cellular pH through the Na+/H+ exchanger SLC9A3 independently of PKA; phosphorylated by PKA and GRK2 after agonist binding, which mediates homologous desensitisation; the Gly-16 allele is overrepresented in nocturnal asthma. ADRB3 (P13945, version 234): couples to G(s) and G(i); potency noradrenaline greater than adrenaline; expressed mainly in adipose tissue; involved in thermogenesis and lipolysis in brown and white adipose tissue through G(s) and the cAMP-PKA axis, annotated by similarity to the mouse protein (P25962); activates lipolysis through G(i) and the ERK1/2 MAP kinase cascade (experimental, PubMed:10207024, a study in mouse 3T3-F442A adipocytes and HEK-293 cells expressing the human receptor); participates in relaxation of blood vessels and of the urinary bladder (experimental, PubMed:10188996, a study of isolated human detrusor muscle); mediates negative inotropic effects in cardiomyocytes through nitric oxide synthase and cGMP; the Arg-64 variant is associated with weight gain and susceptibility to type 2 diabetes.",
+  "class": "reference",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11701636/"
+}

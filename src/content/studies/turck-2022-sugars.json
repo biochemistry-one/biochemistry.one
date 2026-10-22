@@ -1,0 +1,16 @@
+{
+  "title": "Tolerable upper intake level for dietary sugars",
+  "authors": "EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA), Turck D, Bohn T, Castenmiller J, de Henauw S, Hirsch-Ernst KI, et al.",
+  "journal": "EFSA Journal",
+  "year": 2022,
+  "doi": "10.2903/j.efsa.2022.7074",
+  "pmid": "35251356",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority. Requestor: European Commission, following a request from the national food competent authorities of Denmark, Finland, Iceland, Norway and Sweden (question EFSA-Q-2016-00414).",
+  "funderRole": "none",
+  "authorConflicts": "Declarations of interest of EFSA experts are published at https://ess.efsa.europa.eu/doi/doiweb/doisearch; not read.",
+  "dataAccess": "summary",
+  "result": "Systematic reviews of 49 RCTs and 66 cohorts on metabolic endpoints. Added sugars are mono- and disaccharides added during processing or preparation or at the table; free sugars are added sugars plus sugars naturally present in honey, syrups, fruit juices and juice concentrates. Sucrase-isomaltase hydrolyses sucrose; glucose enters enterocytes by SGLT1, fructose by facilitated diffusion through GLUT5, incompletely and enhanced by co-ingested glucose; GLUT2 moves all three monosaccharides into portal blood. Hepatic glycolysis is restrained at phosphofructokinase by ATP and citrate, fructolysis is not; almost all fructose entering hepatocytes becomes triose phosphates, from which lactate, glucose, glycogen, glycerol and fatty acids are formed. Large fructose loads transiently deplete hepatic ATP, with AMP formation and purine degradation. Dietary sugars are a well-established hazard for dental caries: plaque bacteria convert sugars to organic acids that demineralise enamel and dentine, and about 30% of plaque is matrix largely of glucans made from sucrose by bacterial glucosyltransferases. Certainty of a causal relationship for added and free sugars (RCTs on surrogate endpoints): moderate for obesity and dyslipidaemia, low for NAFLD and type 2 diabetes, very low for hypertension; too few RCTs below 10% of energy. Cohorts did not support a relationship of dietary sugars in isocaloric exchange with chronic metabolic disease. In RCTs, free fructose and free glucose had similar effects on body weight, liver fat, glucose tolerance, blood lipids and blood pressure, while free fructose increased hepatic insulin resistance and uric acid more; certainty for fructose and gout moderate (cohorts). Sugar-sweetened beverages: high certainty for obesity, type 2 diabetes, hypertension and cardiovascular disease, moderate for gout. Glucose-fructose syrups are made by hydrolysing starch to glucose and converting about half enzymatically to fructose; most contain 42% fructose (processed foods) or 55% (sugar-sweetened beverages), as free monosaccharides; called high-fructose corn syrup in the United States and isoglucose in the EU. No tolerable upper intake level could be set; intake of added and free sugars should be as low as possible in a nutritionally adequate diet.",
+  "class": "regulatory",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=8884083"
+}

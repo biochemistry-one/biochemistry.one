@@ -1,0 +1,19 @@
+{
+  "title": "Discontinuation of levothyroxine in adults aged 60 years or older",
+  "authors": "Ravensberg J, Gussekloo J, Le Cessie S, Dekkers OM, Mooijaart SP, Poortvliet RKE",
+  "journal": "JAMA",
+  "year": 2026,
+  "doi": "10.1001/jama.2026.2864",
+  "pmid": "41941226",
+  "design": "cohort",
+  "participants": 370,
+  "followUp": "1 year (mean 12.9 months)",
+  "population": "Community-dwelling adults aged 60 years or older at 58 Dutch general practices, on stable levothyroxine monotherapy of 150 µg/d or less for at least 1 year with TSH below 10 mIU/l; excluding thyroidectomy, radioactive iodine, neck irradiation, congenital or secondary hypothyroidism; median age 70.5 years, 79.5% women, mean dose 84 µg/d",
+  "funder": "The RELEASE trial was supported by research grant 839110026 from ZonMw for the Primary Care and Elderly Care program. ZonMw had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "None reported.",
+  "dataAccess": "individual",
+  "result": "Open-label, single-group, stepwise dose reduction with thyroid tests at least 6 weeks after each step. At 1 year 95 of 370 (25.7%, 95% CI 21.5% to 30.4%) had stopped levothyroxine with TSH below 10 mIU/l (median 5.0) and free T4 within the reference range; 46 of these 95 had TSH below 4.8 mIU/l. 56 of 88 (63.6%) taking 50 µg/d or less and 79 of 176 (44.9%) taking 75 µg/d or less stopped successfully; odds ratio for success 0.95 (95% CI 0.94 to 0.96) per 1-µg higher baseline dose. Of the 271 who did not stop, 142 halted dose reduction because TSH reached 10 mIU/l or more. Changes in thyroid-related quality of life stayed below minimal clinically important differences; 21 participants reported a clinically important rise in hypothyroid symptoms at the end of dose reduction. 17 serious adverse events in 16 participants, including 2 deaths, none judged related. Indication for treatment and thyroid antibodies were not recorded, and the design had no control group.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13054692/"
+}

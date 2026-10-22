@@ -1,0 +1,18 @@
+{
+  "title": "Reboxetine for acute treatment of major depression: systematic review and meta-analysis of published and unpublished placebo and selective serotonin reuptake inhibitor controlled trials",
+  "authors": "Eyding D, Lelgemann M, Grouven U, Härter M, Kromp M, Kaiser T, et al.",
+  "journal": "BMJ",
+  "year": 2010,
+  "doi": "10.1136/bmj.c4737",
+  "pmid": "20940209",
+  "design": "meta-analysis",
+  "participants": 4098,
+  "population": "Adults with major depressive disorder in 13 double-blind acute treatment trials of reboxetine versus placebo or SSRIs",
+  "funder": "This work was supported by IQWiG. The original health technology assessment report was commissioned by the German Federal Joint Committee.",
+  "funderRole": "none",
+  "authorConflicts": "No support from any company for the submitted work. Eyding was employed by H Lundbeck A/S from January 2006 to April 2007; Härter received remuneration from Boehringer Ingelheim and Lilly Pharma for three talks in 2008; five authors were IQWiG employees.",
+  "dataAccess": "summary",
+  "result": "Data on 3033 of 4098 patients (74%) were unpublished and were obtained as clinical study reports from the manufacturer. With these data, remission did not differ from placebo (OR 1.17, 95% CI 0.91 to 1.51) and was less frequent than with SSRIs (OR 0.80, 0.67 to 0.96). Published data overestimated benefit versus placebo by up to 115% and versus SSRIs by up to 23%. All trials were sponsored by predecessors of Pfizer, except one sponsored by Lundbeck.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2954275/"
+}

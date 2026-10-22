@@ -1,0 +1,16 @@
+{
+  "title": "Hypothyroidism",
+  "authors": "Chaker L, Bianco AC, Jonklaas J, Peeters RP",
+  "journal": "Lancet",
+  "year": 2017,
+  "doi": "10.1016/S0140-6736(17)30703-1",
+  "pmid": "28336049",
+  "design": "other",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "authorConflicts": "RPP received lecture fees from GoodLife Fertility BV and Institut Biochimique SA. All other authors declare no competing interests.",
+  "dataAccess": "summary",
+  "result": "Review. Most long-term consequences of hypothyroidism have been studied in subclinical hypothyroidism, because overt hypothyroidism is generally treated; few studies have examined hypothyroidism and all-cause mortality. Myxoedema coma, the outcome of long-standing untreated severe hypothyroidism, has a mortality of 40% despite treatment. An estimated 35% to 60% of levothyroxine-treated patients do not reach the target TSH range; overtreatment can cause atrial fibrillation and osteoporosis, and the review lists osteoporotic fracture among features of hypothyroidism as most probably caused by overtreatment. A substantial proportion of patients have persistent complaints despite biochemical targets.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6619426/"
+}

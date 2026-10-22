@@ -1,0 +1,18 @@
+{
+  "title": "Bronchodilator treatment and deaths from asthma: case-control study",
+  "authors": "Anderson HR, Ayres JG, Sturdy PM, Bland JM, Butland BK, Peckitt C, et al.",
+  "journal": "BMJ",
+  "year": 2005,
+  "doi": "10.1136/bmj.38316.729907.8F",
+  "pmid": "15618231",
+  "design": "case-control",
+  "participants": 1064,
+  "population": "532 patients under 65 years who died from asthma in 33 health authorities or health boards in Great Britain from 1994 to 1998, each matched to one control admitted to hospital for asthma",
+  "funder": "UK Department of Health, national research and development programme (contract AM1/05/002) and UK National Asthma Campaign, through a grant from GlaxoSmithKline. The paper states that no part of the design, conduct, analysis or interpretation was influenced by the funders, and that comment on an early draft was received from GlaxoSmithKline, which drew attention to an arithmetical error in one table and raised one point of clarification.",
+  "funderRole": "publication",
+  "authorConflicts": "One author had received funding for asthma epidemiology from GlaxoSmithKline; one owned shares in GlaxoSmithKline; one had received funding from several pharmaceutical companies for meetings, advisory work and research.",
+  "dataAccess": "unknown",
+  "result": "Prescription of a short-acting beta2-agonist in the period 1-5 years before the index date was recorded for 85.7% of controls and was associated with asthma death: odds ratio 1.54 (95% CI 1.06 to 2.24) adjusted for sex, rising to 2.05 (1.26 to 3.33) with adjustment for chronic obstructive pulmonary disease, previous admissions and number of other drug categories. The association was confined to ages 45-64, odds ratio 2.09 (1.31 to 3.36) against 0.80 (0.41 to 1.57) below 45 years. No association appeared in the year before death: 1.03 (0.80 to 1.32) for the past three months and 1.12 (0.85 to 1.47) for 4-12 months. Long-acting beta2-agonists showed no association at 1-5 years, 0.90 (0.70 to 1.16).",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC544425/"
+}

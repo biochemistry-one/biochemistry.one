@@ -1,0 +1,14 @@
+{
+  "title": "Scientific Opinion on the safety and efficacy of citric acid when used as a technological additive (acidity regulator) for all animal species",
+  "authors": "EFSA Panel on Additives and Products or Substances used in Animal Feed (FEEDAP)",
+  "journal": "EFSA Journal 13(2):4010; version published on 22 March 2016, replacing that of 17 February 2015",
+  "year": 2015,
+  "doi": "10.2903/j.efsa.2015.4010",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; on request from the European Commission, question EFSA-Q-2013-00612, adopted on 27 January 2015. The application was submitted by FEFANA asbl (companies Impextraco, Provimi and Selko), and the opinion is based in part on data from a consortium of three companies producing or distributing citric acid.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Citric acid occurs in all living organisms as an intermediate in the tricarboxylic acid cycle; it is a normal constituent of the diet of humans and animals and, when ingested, is rapidly and completely metabolised to carbon dioxide and water. pKa values 3.14, 4.77 and 6.39. Citric acid (E 330) is authorised as a food additive for general use following the quantum satis principle, with limits for some products such as juices and infant foods; JECFA (1974) allocated an ADI 'not limited' for citric acid and its calcium, potassium and sodium salts, a position retained by the Scientific Committee for Food in 1991. The three applicant companies produce citric acid by fermentation of carbohydrate-based substrates with non-genetically modified strains of Aspergillus niger, followed by removal of solids, purification, concentration and crystallisation; the dossier documented absence of viable cells of the production strain in the final product. Malformin C was below the limit of detection (1 µg/kg) in eight commercial batches from the three companies; aflatoxins B1, B2, G1 and G2 and ochratoxin A were below the limits of detection in 13 batches. Rumen microbes rapidly metabolise citric acid to carbon dioxide and acetic acid (Wright, 1971). The use of citric acid in animal nutrition is safe for the consumer.",
+  "class": "regulatory",
+  "fundingChecked": "https://web.archive.org/web/20160322144040id_/http://www.efsa.europa.eu/sites/default/files/scientific_output/files/main_documents/4010.pdf"
+}

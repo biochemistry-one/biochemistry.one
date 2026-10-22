@@ -1,0 +1,19 @@
+{
+  "title": "Prevention of neural tube defects: results of the Medical Research Council Vitamin Study",
+  "authors": "MRC Vitamin Study Research Group",
+  "journal": "Lancet",
+  "year": 1991,
+  "doi": "10.1016/0140-6736(91)90133-A",
+  "pmid": "1677062",
+  "design": "rct",
+  "participants": 1817,
+  "followUp": "Each woman until one informative pregnancy or the end of the trial; recruitment from July 1983, stopped in April 1991",
+  "population": "Women with a previous pregnancy affected by a neural tube defect who planned another pregnancy, at 33 centres in the UK, Hungary, Israel, Australia, Canada, the USSR and France; 1195 informative pregnancies",
+  "funder": "The trial was supported financially by the Medical Research Council.",
+  "funderRole": "none",
+  "inKindSupport": "The capsules were provided free of charge by the Boots Company plc; Hoffmann La Roche checked the potency of the capsule constituents without charge.",
+  "dataAccess": "summary",
+  "result": "Factorial design: 4 mg folic acid, a mixture of seven other vitamins (A, D, B1, B2, B6, C and nicotinamide), both or neither, one capsule daily from randomisation until 12 weeks of pregnancy. Neural tube defects occurred in 6 of 593 informative pregnancies (1.0%) in the folic acid groups and 21 of 602 (3.5%) in the other groups: relative risk 0.28 (95% CI 0.12 to 0.71), a 72% protective effect; calculated from the counts, an absolute difference of 2.5 percentage points and about 40 women treated per defect prevented. Relative risk for the other vitamins 0.80, not statistically significant. The data monitoring committee recommended stopping the trial on 12 April 1991.",
+  "class": "independent",
+  "fundingChecked": "https://www.sjsu.edu/faculty/gerstman/hs261/Lancet1991-338-8760-131-137.htm"
+}

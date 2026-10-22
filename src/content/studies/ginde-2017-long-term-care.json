@@ -1,0 +1,20 @@
+{
+  "title": "High-Dose Monthly Vitamin D for Prevention of Acute Respiratory Infection in Older Long-Term Care Residents: A Randomized Clinical Trial",
+  "authors": "Ginde AA, Blatchford P, Breese K, Zarrabi L, Linnebur SA, Wallace JI, et al.",
+  "journal": "Journal of the American Geriatrics Society",
+  "year": 2017,
+  "doi": "10.1111/jgs.14679",
+  "pmid": "27861708",
+  "design": "rct",
+  "participants": 107,
+  "followUp": "12 months",
+  "population": "Long-term care residents aged 60 years or older in Colorado long-term care facilities; phase II trial, June 2010 to January 2014",
+  "funder": "Beeson Career Development Award (NIH/NIA K23AG040708), NIH/NCATS Colorado CTSA grant UL1TR001082 and the American Geriatrics Society Jahnigen Career Development Scholars Award. The sponsors had no role in the design, methods, subject recruitment, data collection, analysis, interpretation or presentation of the paper.",
+  "funderRole": "none",
+  "inKindSupport": "Study drugs were provided by Pencol Compounding Pharmacy (Denver, CO).",
+  "authorConflicts": "Disclosure table present in the paper; individual entries not read reliably.",
+  "dataAccess": "individual",
+  "result": "High dose, monthly vitamin D3 100,000 IU (n=55), against standard dose (n=52): monthly placebo for residents taking 400 to 1000 IU/day as usual care, or monthly 12,000 IU for those taking less than 400 IU/day, for 12 months. Mean trough 25-hydroxyvitamin D 32 against 25.1 ng/mL. Acute respiratory infection 0.67 against 1.11 per person-year, incidence rate ratio 0.60 (95% CI 0.38 to 0.94). Falls were more common with the high dose: 1.47 against 0.63 per person-year, IRR 2.33 (1.49 to 3.63). Fractures 0.10 against 0.19 per person-year, IRR 0.56 (0.18 to 1.71). No hypercalcaemia or kidney stones occurred in either group.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5357189/"
+}

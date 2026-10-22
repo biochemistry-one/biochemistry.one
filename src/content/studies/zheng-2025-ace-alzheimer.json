@@ -1,0 +1,16 @@
+{
+  "title": "Association of antihypertensive drug target genes with alzheimer's disease: a mendelian randomization study",
+  "authors": "Zheng H, Chen C, Feng Y",
+  "journal": "Alzheimer's Research & Therapy",
+  "year": 2025,
+  "doi": "10.1186/s13195-025-01671-4",
+  "pmid": "39794838",
+  "design": "mendelian-randomisation",
+  "population": "Two-sample Mendelian randomisation using expression quantitative trait loci for antihypertensive drug target genes (eQTLGen, PsychENCODE, GTEx V8, BrainMeta V2) and Alzheimer's disease genome-wide association data from a meta-analysis (111,326 cases, 677,663 controls) with replication in FinnGen (9301 cases, 367,976 controls)",
+  "funder": "Updated funding statement (correction of 30 July 2025): This work was supported by the Noncommunicable Chronic Diseases-National Science and Technology Major Project of China (No. 2023ZD0508906 and No. 2024ZD0526803), The Climbing Plan of Guangdong Provincial People's Hospital (DFJH2020022), and Guangdong Special Funds for Science and Technology Innovation Strategy.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "A 1-SD lower expression of the ACE gene in blood was associated with 3.92 mm Hg (95% CI 2.69 to 5.15) lower systolic pressure and a higher risk of Alzheimer's disease (odds ratio 2.46, 1.82 to 3.33); lower ACE expression in prefrontal cortex (1.19, 1.10 to 1.28), frontal cortex (1.19, 1.11 to 1.27) and cerebellum (1.13, 1.09 to 1.17), and lower plasma ACE protein (1.13, 1.09 to 1.17), pointed the same way, with supporting colocalisation and external replication. Genetically estimated blood pressure itself was not associated with Alzheimer's disease. The authors call for pharmacovigilance and study of ACE inhibitors, particularly centrally acting ones, on neurodegeneration.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11720623/"
+}

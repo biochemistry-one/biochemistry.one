@@ -1,0 +1,16 @@
+{
+  "title": "Clinical Pharmacogenetics Implementation Consortium Guideline for CYP2D6, OPRM1, and COMT Genotypes and Select Opioid Therapy",
+  "authors": "Crews KR, Monte AA, Huddart R, Caudle KE, Kharasch ED, Gaedigk A, et al.",
+  "journal": "Clinical Pharmacology and Therapeutics",
+  "year": 2021,
+  "doi": "10.1002/cpt.2149",
+  "pmid": "33387367",
+  "design": "guideline",
+  "funder": "This work was funded by the National Institutes of Health (NIH) for CPIC (U24HG010135) and PharmGKB (U24HG010615), with additional NIH support (R24 GM123930, U01 HG007269, UL1 TR001427, U01 HG010245, R01 DA042985, U01 HG8666, R35 GM124939, UL1 TR001082) and grants from the National Health and Medical Research Council of Australia (1011251) and the Indiana University Grand Challenge Precision Health Initiative.",
+  "funderRole": "none",
+  "authorConflicts": "One author is a paid consultant for Admera Health and Veritas Genetics, one owns stock in Illumina, one received fees as medical director for Genomas, and one is a paid consultant for Indiana University Health and received travel funding from Tabula Rasa Healthcare.",
+  "dataAccess": "summary",
+  "result": "Each CYP2D6 allele is assigned an activity value from 0 to 1, multiplied by copy number where a functional gene is duplicated, and the values of the two alleles are summed into an activity score, which typically ranges from 0 to 3. Phenotypes: ultrarapid metaboliser above 2.25, normal 1.25 to 2.25, intermediate above 0 and below 1.25, poor 0. Codeine and tramadol are O-demethylated by CYP2D6 to the more active metabolites morphine and O-desmethyltramadol. Pharmacokinetic studies found 96% lower mean serum morphine area under the curve and 95% lower peak concentration in poor metabolisers than in normal and intermediate metabolisers, and 45% higher median morphine area under the curve in ultrarapid than in normal metabolisers. Codeine recommendations: avoid in ultrarapid metabolisers because of the potential for serious toxicity and in poor metabolisers because of possible diminished analgesia, both strong; use label-recommended dosing in normal metabolisers (strong) and in intermediate metabolisers (moderate). Tramadol recommendations follow the same pattern. For hydrocodone in ultrarapid metabolisers no recommendation is given. Variation among individuals carrying the same diplotype is large and its genomic or environmental causes are unknown.",
+  "class": "consensus",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8249478/"
+}

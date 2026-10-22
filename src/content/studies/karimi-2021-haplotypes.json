@@ -1,0 +1,18 @@
+{
+  "title": "ADRB2 haplotypes and asthma exacerbations in children and young adults: An individual participant data meta-analysis",
+  "authors": "Karimi L, Vijverberg SJ, Engelkes M, Hernandez-Pacheco N, Farzan N, Soares P, et al.",
+  "journal": "Clinical and Experimental Allergy",
+  "year": 2021,
+  "doi": "10.1111/cea.13965",
+  "pmid": "34128573",
+  "design": "meta-analysis",
+  "participants": 5903,
+  "population": "Children and young adults aged 3-21 years with asthma in ten studies of the multi-ethnic Pharmacogenomics in Childhood Asthma consortium",
+  "funder": "Funding is listed per contributing study and includes industry money: PACMAN was supported by an unrestricted grant from GSK, part of a strategic alliance between GSK and the Utrecht Institute for Pharmaceutical Sciences. Other listed sources are the UK Department of Health for PASS, the Slovenian Research Agency, Singapore public research agencies, the German charity Atemwegsliga and the German Ministry of Science and Education.",
+  "funderRole": "unknown",
+  "authorConflicts": "One author received a grant from GSK during the conduct of the study; another reports advisory board fees from AstraZeneca and Boehringer Ingelheim and unrestricted research grants from Boehringer Ingelheim and GSK; others report public grants or none.",
+  "dataAccess": "individual",
+  "result": "Among 832 participants treated with an inhaled corticosteroid plus a long-acting beta2-agonist, the ADRB2 Arg16/Gln27 haplotype was associated with asthma exacerbations compared with Gly16/Glu27 (odds ratio 1.40, 95% CI 1.05 to 1.87) and with Gly16/Gln27 (1.43, 1.05 to 1.94), while Gly16/Gln27 against Gly16/Glu27 showed no association (0.99, 0.71 to 1.39). Among 973 participants using as-required short-acting beta2-agonists, and among those on inhaled corticosteroid monotherapy (2623) or corticosteroid with a leukotriene receptor antagonist (338), no association between the haplotypes and exacerbations was found.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8503671/"
+}

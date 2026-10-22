@@ -1,0 +1,17 @@
+{
+  "title": "Black Americans have an increased rate of angiotensin converting enzyme inhibitor-associated angioedema",
+  "authors": "Brown NJ, Ray WA, Snowden M, Griffin MR",
+  "journal": "Clinical Pharmacology and Therapeutics",
+  "year": 1996,
+  "doi": "10.1016/S0009-9236(96)90161-7",
+  "pmid": "8689816",
+  "design": "cohort",
+  "followUp": "51,752 person-years of ACE inhibitor use, 1986 to 1992",
+  "population": "Tennessee Medicaid participants aged 15 years or older prescribed ACE inhibitors",
+  "funder": "not read: the publisher page is not accessible and the PubMed abstract carries no funding statement. PubMed lists grant FD-U-000073 from the US Food and Drug Administration.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "82 confirmed cases of angio-oedema, 1.6 per 1000 person-years of ACE inhibitor use. Adjusted relative risk in Black against white users 4.5 (95% CI 2.9 to 6.8); first 30 days of use against more than 1 year 4.6 (2.5 to 8.5); lisinopril 2.2 (1.2 to 3.9) and enalapril 2.2 (1.4 to 3.5) against captopril; hospitalisation within the previous 30 days 2.0 (1.1 to 3.6). Dose and concurrent diuretic use were not associated with risk.",
+  "class": "undetermined",
+  "fundingChecked": "https://doi.org/10.1016/S0009-9236(96)90161-7"
+}

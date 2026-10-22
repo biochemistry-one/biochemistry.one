@@ -1,0 +1,19 @@
+{
+  "title": "MRC trial of treatment of mild hypertension: principal results",
+  "authors": "Medical Research Council Working Party",
+  "journal": "British Medical Journal (Clinical Research Edition)",
+  "year": 1985,
+  "doi": "10.1136/bmj.291.6488.97",
+  "pmid": "2861880",
+  "design": "rct",
+  "participants": 17354,
+  "followUp": "85,572 patient-years; trial began in 1977",
+  "population": "Men and women aged 35 to 64 years with phase V diastolic pressure 90 to 109 mm Hg and systolic below 200 mm Hg, recruited almost entirely in general practices",
+  "funder": "The acknowledgements thank Duncan, Flockhart and Co Ltd for tablets of bendrofluazide and placebo and Imperial Chemical Industries Ltd for financial support and for tablets of propranolol. The trial was run by the Medical Research Council Working Party and its coordinating centre at the MRC Epidemiology and Medical Care Unit. Industry financial support sets the class to industry.",
+  "funderRole": "unknown",
+  "inKindSupport": "Duncan, Flockhart and Co supplied bendrofluazide and placebo; Imperial Chemical Industries supplied propranolol.",
+  "dataAccess": "summary",
+  "result": "Single-blind randomisation to bendrofluazide, propranolol or placebo. Active treatment against placebo: strokes 60 against 109 (1.4 against 2.6 per 1000 patient-years); coronary events 222 against 234 (5.2 against 5.5 per 1000 patient-years), no difference; all cardiovascular events 286 against 352 (6.7 against 8.2 per 1000 patient-years); deaths from all causes 248 against 253 (5.8 against 5.9 per 1000 patient-years). In post hoc subgroups, all-cause mortality fell in men on active treatment (157 against 181 deaths) and rose in women (91 against 72; 4.4 against 3.5 per 1000 patient-years), a significant sex difference (p = 0.05). The reduction in stroke was greater on bendrofluazide than on propranolol (p = 0.002); stroke fell only in non-smokers taking propranolol, and coronary events and all cardiovascular events fell in non-smokers but not in smokers taking propranolol. By five and a half years, 42% of men on propranolol, 43% on bendrofluazide and 47% on placebo had stopped their randomised treatment (women 40%, 33% and 40%). Withdrawals per 1000 patient-years on propranolol against placebo: impotence in men 50 reports (6.3) against 20 (1.3); Raynaud's phenomenon 41 (5.1) against 3 (0.2) in men and 34 (4.5) against 4 (0.3) in women; dyspnoea 57 (7.1) against 7 (0.4) in men and 53 (7.1) against 3 (0.2) in women; lethargy 42 (5.3) against 8 (0.5) in men and 62 (8.3) against 4 (0.3) in women. Body weight increased on propranolol and fell on bendrofluazide, each change differing significantly from placebo.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20231021215231/http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1416260/pdf/bmjcred00456-0011.pdf"
+}

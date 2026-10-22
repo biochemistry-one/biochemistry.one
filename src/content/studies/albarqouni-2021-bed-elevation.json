@@ -1,0 +1,19 @@
+{
+  "title": "Head of bed elevation to relieve gastroesophageal reflux symptoms: a systematic review",
+  "authors": "Albarqouni L, Moynihan R, Clark J, Scott AM, Duggan A, Del Mar C",
+  "journal": "BMC Family Practice",
+  "year": 2021,
+  "doi": "10.1186/s12875-021-01369-0",
+  "pmid": "33468060",
+  "registry": "osf.io/2hz3j",
+  "design": "systematic-review",
+  "participants": 228,
+  "population": "5 controlled trials (4 crossover, 1 factorial) of head-of-bed elevation with bed blocks or wedge pillows in adults with GORD",
+  "funder": "No specific funding for this research.",
+  "funderRole": "none",
+  "authorConflicts": "No support from any organisation for the submitted work; no other relationships or activities that could appear to have influenced the submitted work.",
+  "dataAccess": "summary",
+  "result": "All five trials were at high risk of performance bias and four of selection bias; heterogeneity precluded meta-analysis. The four trials reporting symptoms found improvement with head-of-bed elevation; a high-quality crossover trial showed a clinically important reduction in symptom scores at 6 weeks (RR 2.1, 95% CI 1.2 to 3.6), supported by intra-oesophageal pH measurements. The authors judge that the literature precludes definitive recommendations but that elevation could be considered a cheap and safe alternative.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7816499/fullTextXML"
+}

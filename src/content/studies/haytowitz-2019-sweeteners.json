@@ -1,0 +1,15 @@
+{
+  "title": "USDA National Nutrient Database for Standard Reference, Legacy Release",
+  "authors": "Haytowitz D, Ahuja J, Wu X, Somanchi M, Nickle M, Nguyen Q, et al.",
+  "journal": "Nutrient Data Laboratory, Beltsville Human Nutrition Research Center, Agricultural Research Service, USDA",
+  "year": 2019,
+  "doi": "10.15482/USDA.ADC/1529216",
+  "url": "https://fdc.nal.usda.gov/",
+  "design": "database",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "SR Legacy entries in FoodData Central (CSV release 2018-04, publication date 2019-04-01), per 100 g. Sugars, granulated (FDC 169655): sucrose 99.8 g, total sugars 99.8 g, glucose 0 g, fructose 0 g, water 0.02 g, energy 387 kcal. Honey (FDC 169640): total sugars 82.12 g, fructose 40.94 g, glucose 35.75 g, galactose 3.1 g, maltose 1.44 g, sucrose 0.89 g, water 17.1 g, energy 304 kcal. Syrups, corn, high-fructose (FDC 169659): total sugars 75.65 g, carbohydrate 76 g, water 24 g, energy 281 kcal; individual sugars not reported. Beverages, carbonated, cola, regular (FDC 174852): total sugars 9.94 g, fructose 5.84 g, glucose 4.1 g, sucrose 0 g, water 89.36 g, energy 42 kcal; 1 can or bottle (12 fl oz) 370 g.",
+  "class": "reference",
+  "fundingChecked": "https://api.datacite.org/dois/10.15482/usda.adc/1529216"
+}

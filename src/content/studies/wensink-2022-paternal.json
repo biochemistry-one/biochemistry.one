@@ -1,0 +1,18 @@
+{
+  "title": "Preconception Antidiabetic Drugs in Men and Birth Defects in Offspring: A Nationwide Cohort Study",
+  "authors": "Wensink MJ, Lu Y, Tian L, Shaw GM, Rizzi S, Jensen TK, et al.",
+  "journal": "Annals of Internal Medicine",
+  "year": 2022,
+  "doi": "10.7326/M21-4389",
+  "pmid": "35344380",
+  "design": "cohort",
+  "participants": 1116779,
+  "followUp": "one year from birth for the diagnosis of birth defects",
+  "population": "All liveborn offspring in Denmark from 1997 to 2016 with usable identification numbers for the child and both parents, excluding stillbirths; 7029 offspring were exposed to paternal diabetes medicines during the three months of sperm development before conception, among them 5298 to insulins, 1451 to metformin and 647 to sulfonylureas",
+  "funder": "Primary funding source: National Institutes of Health. Grant support from NIH grants HD096468 and 1UL1TR003142 and from Centers for Disease Control and Prevention grant U01DD001226. The funders had no role in the analysis, decision to publish, or writing of the manuscript.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "Major birth defects, classified by EUROCAT guidelines, affected 36,585 of 1,116,779 offspring (3.3%), and 51.4% of offspring were male. Insulin-exposed offspring had the reference frequency of defects (3.3%; adjusted odds ratio 0.98, 95% CI 0.85 to 1.14). Metformin-exposed offspring had 5.2% defects (adjusted odds ratio 1.40, 1.08 to 1.82, p = 0.012) and sulfonylurea-exposed offspring 5.1% (1.34, 0.94 to 1.92, p = 0.107). Offspring whose fathers filled a metformin prescription in the year before sperm development (n = 1751) or in the year after (n = 2484) had reference frequencies (0.88, 0.59 to 1.31 and 0.92, 0.68 to 1.26), and unexposed siblings of exposed offspring had 3.2% defects, with a within-father odds ratio of 1.54 (0.94 to 2.53) and a within-mother odds ratio of 1.66 (1.00 to 2.75). Among metformin-exposed offspring, genital birth defects were raised, 0.90% against 0.24% (adjusted odds ratio 3.39, 1.82 to 6.30); all occurred in boys, each from a different father, and genital defects were not raised with sulfonylureas (0.96). The proportion of male offspring was 49.4% against 51.4% (p = 0.073). The E-value was 2.15 to move the point estimate to the null and 1.37 to move the lower confidence limit to the null, so the authors state that unmeasured confounding of that strength would be needed to explain the association away, that the statistical significance may disappear after adjustment for unobserved confounding, and that a documented preconception diagnosis of type 2 diabetes gave the baseline defect frequency (3.1%) when the father was not receiving metformin and an elevated frequency (4.6%) when he was. They further report an elevated odds ratio for birth defects with paternal beta-blockers (1.25, 1.06 to 1.47).",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=9844982"
+}

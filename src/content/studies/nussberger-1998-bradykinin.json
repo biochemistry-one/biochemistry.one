@@ -1,0 +1,17 @@
+{
+  "title": "Plasma bradykinin in angio-oedema",
+  "authors": "Nussberger J, Cugno M, Amstutz C, Cicardi M, Pellacani A, Agostoni A",
+  "journal": "Lancet",
+  "year": 1998,
+  "doi": "10.1016/S0140-6736(97)09137-X",
+  "pmid": "9734886",
+  "design": "mechanistic",
+  "participants": 49,
+  "population": "22 patients with hereditary angio-oedema, 4 with acquired C1 esterase inhibitor deficiency, 1 hypertensive patient with captopril-associated angio-oedema and 22 healthy volunteers",
+  "funder": "not read: the publisher page is not accessible and the PubMed abstract carries no funding statement.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "With a specific assay (liquid-phase extraction, HPLC and radioimmunoassay), plasma bradykinin rose to two to twelve times the upper limit of normal during attacks of hereditary and acquired angio-oedema. In the single patient treated with captopril, plasma bradykinin was 47 fmol/ml during an acute attack and 3.2 fmol/ml in remission after withdrawal of the drug, against a geometric mean of 2.2 fmol/ml in healthy volunteers.",
+  "class": "undetermined",
+  "fundingChecked": "https://doi.org/10.1016/S0140-6736(97)09137-X"
+}

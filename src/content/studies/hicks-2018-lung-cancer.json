@@ -1,0 +1,19 @@
+{
+  "title": "Angiotensin converting enzyme inhibitors and risk of lung cancer: population based cohort study",
+  "authors": "Hicks BM, Filion KB, Yin H, Sakr L, Udell JA, Azoulay L",
+  "journal": "BMJ",
+  "year": 2018,
+  "doi": "10.1136/bmj.k4209",
+  "pmid": "30355745",
+  "design": "cohort",
+  "participants": 992061,
+  "followUp": "mean 6.4 years (SD 4.7), to 31 December 2016",
+  "population": "Patients newly treated with antihypertensive drugs between 1995 and 2015 in the UK Clinical Practice Research Datalink",
+  "funder": "This study was funded by a Foundation Scheme grant from the Canadian Institutes of Health Research. BMH holds a Cancer Research UK population research fellowship; KBF and LA hold awards from the Fonds de recherche du Québec – Santé and McGill University; JAU holds a Heart and Stroke Foundation of Canada award. The funding source had no influence on the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; or the decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Udell has participated in research projects funded by AstraZeneca, Janssen, Novartis and Sanofi and received consultancy fees and honorariums from Amgen, AstraZeneca, Boehringer-Ingelheim, Janssen, Merck, Novartis and Sanofi, stated as unrelated to this work.",
+  "dataAccess": "individual",
+  "result": "7952 incident lung cancers (crude incidence 1.3 per 1000 person-years). Against angiotensin receptor blockers, use of ACE inhibitors was associated with lung cancer, incidence 1.6 against 1.2 per 1000 person-years, hazard ratio 1.14 (95% CI 1.01 to 1.29); the association appeared after five years of use (1.22, 1.06 to 1.40) and peaked after more than ten years (1.31, 1.08 to 1.59). The authors cite accumulation of bradykinin and substance P in the lung as a possible mechanism and state that randomised trials of ACE inhibitors had median follow-up of 3.5 years.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6199558/"
+}

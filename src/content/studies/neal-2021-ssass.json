@@ -1,0 +1,21 @@
+{
+  "title": "Effect of salt substitution on cardiovascular events and death",
+  "authors": "Neal B, Wu Y, Feng X, Zhang R, Zhang Y, Shi J, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2021,
+  "doi": "10.1056/NEJMoa2105675",
+  "pmid": "34459569",
+  "registry": "NCT02092090",
+  "design": "rct",
+  "participants": 20995,
+  "followUp": "mean 4.74 years, median 5.12 years",
+  "population": "Open-label cluster-randomised trial in 600 villages in rural Hebei, Liaoning, Ningxia, Shanxi and Shaanxi, China; history of stroke (72.6%) or age 60 years or older with poorly controlled blood pressure; mean age 65.4 years; baseline 24-hour urinary sodium 4.3 g",
+  "funder": "Supported by research grants (APP1164206 and APP1049417) and an investigator grant (APP1197709, to Dr. Neal) from the National Health and Medical Research Council of Australia. The trial was sponsored by the George Institute for Global Health, where the analyses were performed; the first author wrote the first draft and all authors took the decision to submit. Registry lead sponsor: The George Institute; collaborators were universities and the Chinese Center for Disease Control and Prevention.",
+  "funderRole": "none",
+  "inKindSupport": "The salt substitute (75% sodium chloride, 25% potassium chloride) was purchased by the investigators from local manufacturers in each province for years 1, 2 and 5 and donated by Jiangsu Sinokone Technology for years 3 to 4.",
+  "authorConflicts": "Disclosure forms of 30 authors: Y. Wu reported institutional grants or contracts from China Salt General Company at Yulin, described as donating the study salt for intervention and control groups, and from Health Source (Chongqing) Cardiovascular Health Technology Co for a pilot study of a very low sodium salt substitute; P. Elliott is an unpaid member of Action on Salt and Health and of World Action on Salt, Sugar and Health; B. Neal reported an NHMRC fellowship; the other 27 forms declared no interests. Forms for S.-A. Pearson and the deceased J. Shi were absent from the archived file.",
+  "dataAccess": "unknown",
+  "result": "Stroke 29.14 versus 33.65 events per 1000 person-years with salt substitute versus regular salt (rate ratio 0.86, 95% CI 0.77 to 0.96); fatal stroke 6.78 versus 8.79 (0.77, 0.65 to 0.91); haemorrhagic 4.37 versus 6.30 (0.69, 0.56 to 0.85); ischaemic 21.36 versus 22.90 (0.93, 0.82 to 1.05); major adverse cardiovascular events 49.09 versus 56.29 (0.87, 0.80 to 0.94); death 39.28 versus 44.61 (0.88, 0.82 to 0.95); serious adverse events attributed to hyperkalaemia 3.35 versus 3.30 (1.04, 0.80 to 1.37). Mean differences: 24-hour urinary sodium -350 mg, potassium +803 mg, systolic blood pressure -3.34 mm Hg. Exclusions: potassium-sparing diuretic, potassium supplement or known serious kidney disease in the household; no routine kidney function or serum potassium measurement; 22.8% used an ACE inhibitor or angiotensin-receptor blocker.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20251205034752/https://www.nejm.org/doi/full/10.1056/NEJMoa2105675"
+}

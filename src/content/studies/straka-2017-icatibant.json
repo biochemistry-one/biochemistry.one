@@ -1,0 +1,19 @@
+{
+  "title": "Effect of bradykinin receptor antagonism on ACE inhibitor-associated angioedema",
+  "authors": "Straka BT, Ramirez CE, Byrd JB, Stone E, Woodard-Grice A, Nian H, et al.",
+  "journal": "Journal of Allergy and Clinical Immunology",
+  "year": 2017,
+  "doi": "10.1016/j.jaci.2016.09.051",
+  "pmid": "27913306",
+  "registry": "NCT00517582; NCT01574248",
+  "design": "rct",
+  "participants": 33,
+  "population": "Patients with ACE-inhibitor-associated angio-oedema of lips, tongue, pharynx or face at Vanderbilt University Medical Center (2007 to 2015) and Massachusetts General Hospital (2012); two-thirds African American and two-thirds women",
+  "funder": "This study was partially supported by UL1 RR024975 and R01HL079184 from the National Institutes of Health, and the Investigator-Initiated Research Program from Jerini AG/Shire Pharmaceuticals, Inc. Drs. Straka, Byrd, and Woodard-Grice were funded by T32GM007569.",
+  "funderRole": "unknown",
+  "authorConflicts": "Brown is a consultant for Novartis, serves on the scientific advisory board of Alnylam, has consulted for Shire and received research funding from New Haven Pharmaceuticals and Shire.",
+  "dataAccess": "individual",
+  "result": "33 randomised and 31 treated (13 icatibant 30 mg at 0 and 6 hours, 18 placebo). Time to resolution of symptoms was similar (P=0.19 for the primary symptom), as was use of antihistamines, corticosteroids and adrenaline. The authors conclude that the study does not support clinical efficacy of a bradykinin B2 receptor antagonist in ACE-inhibitor-associated angio-oedema.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5705179/"
+}

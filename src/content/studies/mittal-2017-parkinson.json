@@ -1,0 +1,18 @@
+{
+  "title": "β2-Adrenoreceptor is a regulator of the α-synuclein gene driving risk of Parkinson's disease",
+  "authors": "Mittal S, Bjørnevik K, Im DS, Flierl A, Dong X, Locascio JJ, et al.",
+  "journal": "Science",
+  "year": 2017,
+  "doi": "10.1126/science.aaf3934",
+  "pmid": "28860381",
+  "design": "other",
+  "followUp": "11 years (2004 to 2014) in the Norwegian Prescription Database",
+  "population": "Screen of 1126 compounds in human SK-N-MC neuroblastoma cells; rat primary cortical neurons; mice; neuronal precursor cells from a patient with SNCA triplication; the Norwegian population alive on 1 January 2004 (4.6 million)",
+  "funder": "Michael J. Fox Foundation; US National Institute of Neurological Disorders and Stroke (U01 NS082157, U01NS095736, R01 NS083845); US Department of Defense; M.E.M.O. Hoffman Foundation; Prinses Beatrix Spier Fonds; American Parkinson's Disease Association; Parkinson's Disease Foundation; Branfman Family Foundation; Canadian Institutes of Health Research; Brain Canada/Krembil Foundation; Heart and Stroke Foundation of Canada; Multiple System Atrophy Coalition; Harvard NeuroDiscovery Center.",
+  "funderRole": "unknown",
+  "authorConflicts": "One author has applied for a related US patent; another is named inventor on a patent application relating to beta-adrenoreceptor agonists as potential Parkinson's disease therapeutics.",
+  "dataAccess": "summary",
+  "result": "Cells: three beta2 agonists (metaproterenol, clenbuterol, salbutamol) lowered SNCA mRNA and alpha-synuclein protein in human neuroblastoma cells and rat neurons; beta2 knockout, silencing or propranolol raised them, and the effect tracked H3K27 acetylation at the SNCA promoter and enhancers. Mice: clenbuterol lowered nigral SNCA expression and protected dopaminergic neurons from MPTP. People: in Norway, salbutamol use was associated with a lower rate of Parkinson's disease (rate ratio 0.66, 95% CI 0.58 to 0.76), adjusted for sex, age and education, and propranolol with a higher rate (2.20, 1.62 to 3.00). Inhaled corticosteroid use was not associated (0.95, 0.80 to 1.12), which the authors cite against confounding by smoking.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5761666/"
+}

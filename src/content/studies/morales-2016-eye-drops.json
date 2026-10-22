@@ -1,0 +1,17 @@
+{
+  "title": "Respiratory effect of beta-blocker eye drops in asthma: population-based study and meta-analysis of clinical trials",
+  "authors": "Morales DR, Dreischulte T, Lipworth BJ, Donnan PT, Jackson C, Guthrie B",
+  "journal": "British Journal of Clinical Pharmacology",
+  "year": 2016,
+  "doi": "10.1111/bcp.13006",
+  "pmid": "27161880",
+  "design": "case-control",
+  "population": "People with asthma and ocular hypertension in the UK Clinical Practice Research Datalink, 2000 to 2012, in a nested case-control study of moderate exacerbations (rescue steroids in primary care) and severe exacerbations (hospitalisation), with a systematic review and meta-analysis of trials of ocular beta-blockers in people with asthma",
+  "funder": "The role of one author was funded by a Scottish Government Chief Scientist Office Clinical Academic Fellowship (CAF1107). No funding bodies had any role in study design, data collection and analysis, decision to publish or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "One author has received research support, consultancy and lecture fees from Chiesi, Teva, Pharmaxis, Nycomed, Gurnos, Hexal and GlaxoSmithKline; another has received consulting fees from the Scottish Medicines Consortium and grants from GlaxoSmithKline, Otsuka and Amgen.",
+  "dataAccess": "individual",
+  "result": "Prescribing of non-selective beta-blocker eye drops to people with asthma and ocular hypertension fell from 23.0% to 13.4% between 2000 and 2012, and of selective ones from 10.5% to 0.9%. Acute exposure to non-selective beta-blocker eye drops raised the relative incidence of moderate asthma exacerbations (incidence rate ratio 4.83, 95% CI 1.56 to 14.94); chronic exposure did not. In the meta-analysis, acute non-selective eye drops lowered FEV1 by a mean 10.9% (-14.9 to -6.9), with falls of 20% or more in one in three; selective eye drops in people sensitive to non-selective ones lowered FEV1 by 6.3% (-11.7 to -0.8).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5338116/"
+}

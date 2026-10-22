@@ -1,0 +1,20 @@
+{
+  "title": "Exercise and pharmacotherapy in the treatment of major depressive disorder",
+  "authors": "Blumenthal JA, Babyak MA, Doraiswamy PM, Watkins L, Hoffman BM, Barbour KA, et al.",
+  "journal": "Psychosomatic Medicine",
+  "year": 2007,
+  "doi": "10.1097/PSY.0b013e318148c19a",
+  "pmid": "17846259",
+  "design": "rct",
+  "participants": 202,
+  "followUp": "16 weeks",
+  "population": "Adults with major depressive disorder at a US tertiary teaching hospital, 2000 to 2005, randomised to supervised group aerobic exercise (51), home-based aerobic exercise (53), sertraline 50 to 200 mg (49) or placebo (49)",
+  "funder": "This research was supported by Grant MH 49679 from the National Institutes of Health and NIH Grant MO1-RR-30 from the National Center for Research Resources. Medication and matched placebo pills were provided by a grant from Pfizer Pharmaceuticals; Pfizer had no other role in the study design, data acquisition, data analysis, or preparation of this manuscript.",
+  "funderRole": "unknown",
+  "inKindSupport": "Sertraline and matching placebo provided by Pfizer.",
+  "authorConflicts": "Blumenthal previously received a Pfizer/Eisai grant for an unrelated study; Doraiswamy reported grants and honoraria from several antidepressant manufacturers, including Pfizer.",
+  "dataAccess": "summary",
+  "result": "Remission (no MDD diagnosis and HAM-D below 8) at 16 weeks: supervised exercise 45%, home exercise 40%, sertraline 47%, placebo 31% (p=0.057); HAM-D scores of active groups did not differ significantly from placebo (p=0.23). No treatment by severity interaction; with baseline HAM-D of 18 or more, remission 44%, 30%, 39% and 27%.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2702700/"
+}

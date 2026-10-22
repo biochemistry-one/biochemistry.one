@@ -1,0 +1,19 @@
+{
+  "title": "Pantoprazole to prevent gastroduodenal events in patients receiving rivaroxaban and/or aspirin in a randomized, double-blind, placebo-controlled trial",
+  "authors": "Moayyedi P, Eikelboom JW, Bosch J, Connolly SJ, Dyal L, Shestakovska O, et al.",
+  "journal": "Gastroenterology",
+  "year": 2019,
+  "doi": "10.1053/j.gastro.2019.04.041",
+  "pmid": "31054846",
+  "registry": "NCT01776424",
+  "design": "rct",
+  "participants": 17598,
+  "population": "Stable cardiovascular disease and peripheral artery disease in the COMPASS trial, 3 × 2 partial factorial with rivaroxaban 2.5 mg twice daily plus aspirin 100 mg, rivaroxaban 5 mg twice daily or aspirin 100 mg",
+  "funder": "The funding statement of the article was not read because the publisher page could not be accessed; Europe PMC lists Bayer and Bayer HealthCare among grant agencies. Registry NCT01776424: lead sponsor and responsible party Bayer; collaborators Population Health Research Institute and Janssen Research & Development. PubMed lists Bayer, Leverkusen, among the affiliations of three authors.",
+  "funderRole": "publication",
+  "authorConflicts": "Not read.",
+  "dataAccess": "unknown",
+  "result": "Pantoprazole 40 mg daily against placebo: upper gastrointestinal events in 102 of 8791 against 116 of 8807 (HR 0.88, 95% CI 0.67 to 1.15). Bleeding of gastroduodenal lesions reduced (HR 0.52, 0.28 to 0.94); with a post hoc definition HR 0.45 (0.27 to 0.74), number needed to treat 982 (609 to 2528).",
+  "class": "industry",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT01776424"
+}

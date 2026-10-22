@@ -1,0 +1,16 @@
+{
+  "title": "Folic acid supplementation to prevent neural tube defects: US Preventive Services Task Force reaffirmation recommendation statement",
+  "authors": "US Preventive Services Task Force, Barry MJ, Nicholson WK, Silverstein M, Chelmow D, Coker TR, et al.",
+  "journal": "JAMA",
+  "year": 2023,
+  "doi": "10.1001/jama.2023.12876",
+  "pmid": "37526713",
+  "design": "guideline",
+  "funder": "The USPSTF is an independent, voluntary body. The US Congress mandates that the Agency for Healthcare Research and Quality (AHRQ) support the operations of the USPSTF.",
+  "funderRole": "several",
+  "authorConflicts": "All members of the USPSTF receive travel reimbursement and an honorarium for participating in USPSTF meetings.",
+  "dataAccess": "summary",
+  "result": "Recommends that all persons planning to or who could become pregnant take a daily supplement containing 0.4 to 0.8 mg (400 to 800 µg) of folic acid (A recommendation), starting at least 1 month before conception and continuing through the first 2 to 3 months of pregnancy; high certainty of substantial net benefit. The recommendation does not apply to persons with a previous pregnancy affected by a neural tube defect, at very high risk for other reasons, or taking medicines that block folic acid function, such as methotrexate, carbamazepine and valproic acid. Adequate evidence that folic acid at usual doses is not associated with serious harms. AHRQ staff assisted with the research plan, the commissioning of the evidence review and the writing of the statement, and had no role in its approval or in the decision to submit it.",
+  "class": "consensus",
+  "fundingChecked": "https://web.archive.org/web/20261015064315/https://jamanetwork.com/journals/jama/fullarticle/2807739"
+}

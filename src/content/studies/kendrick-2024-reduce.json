@@ -1,0 +1,19 @@
+{
+  "title": "Internet and Telephone Support for Discontinuing Long-Term Antidepressants: The REDUCE Cluster Randomized Trial",
+  "authors": "Kendrick T, Stuart B, Bowers H, Haji Sadeghi M, Page H, Dowrick C, et al.",
+  "journal": "JAMA Network Open",
+  "year": 2024,
+  "doi": "10.1001/jamanetworkopen.2024.18383",
+  "pmid": "38913372",
+  "registry": "ISRCTN12417565 (main trial); ISRCTN15036829 (internal pilot)",
+  "design": "rct",
+  "participants": 325,
+  "followUp": "12 months; primary outcome at 6 months",
+  "population": "Adults in 131 UK family practices taking antidepressants for more than 1 year for a first episode of depression or more than 2 years for recurrent depression, well enough to consider stopping and at low risk of relapse (PHQ-9 below 12, GAD-7 below 10); 178 in intervention and 147 in control practices; 4.9% of 6725 invited patients enrolled",
+  "funder": "This study was funded by the NIHR Programme Grants for Applied Health Research (PGfAR) programme, grant reference RP-PG-1214-20004. The funder had no role in the design and conduct of the study; collection, management, interpretation, and analysis of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Internet modules and telephone support from psychological wellbeing practitioners, with practitioner guidance including hyperbolic tapering schedules, against usual care. PHQ-9 at 6 months 4.0 against 5.0 (adjusted difference -1.1, 95% CI -2.1 to -0.1), noninferior. Discontinuation at 6 months 66 of 145 (45.5%) against 54 of 129 (41.9%), adjusted OR 1.02 (0.52 to 1.99). DESS withdrawal scores over 6 months lower with support (difference -1.6, -2.9 to -0.3).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11197448/"
+}

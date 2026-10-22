@@ -1,0 +1,29 @@
+{
+  "title": "Activation of clopidogrel",
+  "layout": "chain",
+  "compartment": "Absorbed in the intestine; oxidised on the hepatocyte endoplasmic reticulum membrane",
+  "steps": [
+    {
+      "from": "Clopidogrel",
+      "to": "2-Oxo-clopidogrel",
+      "enzyme": "CYP2C19, with CYP1A2 and CYP2B6",
+      "cofactors": ["O2", "NADPH through cytochrome P450 oxidoreductase (POR)"],
+      "inhibitors": [{"name": "Omeprazole", "page": "medicines/proton-pump-inhibitors"}],
+      "note": "Esterases hydrolyse 85% of the dose to an inactive acid"
+    },
+    {
+      "from": "2-Oxo-clopidogrel",
+      "to": "Active thiol metabolite",
+      "enzyme": "CYP2C19, with CYP3A4, CYP2C9 and CYP2B6",
+      "cofactors": ["O2", "NADPH through cytochrome P450 oxidoreductase (POR)"],
+      "inhibitors": [{"name": "Omeprazole", "page": "medicines/proton-pump-inhibitors"}],
+      "note": "2-Oxo-clopidogrel is a thiolactone; ring opening frees the thiol"
+    },
+    {
+      "from": "Active thiol metabolite",
+      "to": "Blocked P2Y12 receptor",
+      "enzyme": "non-enzymatic binding to a free cysteine of P2RY12",
+      "note": "Irreversible; the platelet is affected for 7 to 10 days"
+    }
+  ]
+}

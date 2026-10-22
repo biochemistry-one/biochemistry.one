@@ -1,0 +1,17 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "url": "https://rest.uniprot.org/",
+  "design": "database",
+  "funder": "National Human Genome Research Institute (NHGRI) [HG002273]; Office of the Director, NIH OD [U24HG007822]; NIAID; NIA; NIGMS [R35GM141873]; NIDDK; NEI; NCI; NHLBI; Biotechnology and Biological Sciences Research Council (BBSRC) [BB/T015608/1]; National Science Foundation's Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 [825575]; State Secretariat for Education, Research and Innovation (SERI); EMBL Australia. Funding for open access charge: National Institutes of Health. Conflict of interest statement: none declared.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed human entries read 2026-10-21 through rest.uniprot.org. SLC22A1 (O15245, OCT1) is an electrogenic voltage-dependent uniporter of organic cations, including cationic drugs, that is primarily expressed at the basolateral membrane of hepatocytes and proximal tubules and takes up and disposes of cationic compounds by hepatic and renal clearance from the blood. SLC22A2 (O15244, OCT2) is a related Na+-independent bidirectional uniporter, mainly expressed in the kidney cortex and medulla; its isoform 2, unlike isoform 1, cannot transport guanidine, creatinine, cimetidine or metformin. SLC47A1 (Q96FL8, MATE1) is a multidrug efflux pump acting as an H+/organic cation antiporter at the apical cell membrane, which excretes cationic compounds through kidney and liver into urine and bile respectively. SLC47A2 (Q86VL8, MATE2-K) is an apical H+/organic cation antiporter expressed mainly in kidney that effluxes cationic compounds, cimetidine, cisplatin, oxaliplatin and the antidiabetic drug metformin among them, as well as creatinine, thiamine and estrone-3-sulfate. GPD1 (P21695) is the cytoplasmic NAD-dependent glycerol-3-phosphate dehydrogenase, EC 1.1.1.8, catalysing sn-glycerol 3-phosphate + NAD+ = dihydroxyacetone phosphate + NADH + H+. GPD2 (P43304) is the mitochondrial glycerol-3-phosphate dehydrogenase, EC 1.1.5.3, catalysing a quinone + sn-glycerol 3-phosphate = dihydroxyacetone phosphate + a quinol, and is calcium-responsive.",
+  "class": "reference",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11701636/fullTextXML"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "The diffusive component of intestinal glucose absorption is mediated by the glucose-induced recruitment of GLUT2 to the brush-border membrane",
+  "authors": "Kellett GL, Helliwell PA",
+  "journal": "Biochemical Journal",
+  "year": 2000,
+  "doi": "10.1042/bj3500155",
+  "pmid": "10926839",
+  "design": "animal",
+  "population": "Perfused rat jejunum in vivo",
+  "funder": "Not read: the Portland Press PDF returned HTTP 403, the PubMed Central copy is PDF-only behind a browser check, and the PubMed and Crossref records list no funder.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Read in the abstract. In perfused rat jejunum in vivo, phloretin, a GLUT2 inhibitor, strongly inhibited absorption; brush-border GLUT2 rose about 2-fold when luminal glucose was raised from 0 to 100 mM. The phloretin-sensitive component was carrier-mediated and co-operative (n = 1.6, half-maximal at 56 mM glucose), and paracellular flow was negligible; the SGLT1-mediated component was half-maximal at 27 mM. The authors conclude that GLUT2-mediated facilitated diffusion across the brush-border membrane is the principal route of glucose absorption, up to 3-fold greater than that by SGLT1.",
+  "class": "undetermined",
+  "fundingChecked": "https://portlandpress.com/biochemj/article-pdf/350/1/155/725188/bj3500155.pdf"
+}

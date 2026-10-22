@@ -1,0 +1,16 @@
+{
+  "title": "Role of thyroid hormones in skeletal development and bone maintenance",
+  "authors": "Bassett JH, Williams GR",
+  "journal": "Endocrine Reviews",
+  "year": 2016,
+  "doi": "10.1210/er.2015-1106",
+  "pmid": "26862888",
+  "design": "other",
+  "funder": "This work was supported by grants from the Medical Research Council (G108/502, G0501486, and G800261), the Wellcome Trust (GR076584), Arthritis Research UK (18292 and 19744), the European Union Marie-Curie Fellowship (509311), the Sir Jules Thorn Trust, the Society for Endocrinology, and the British Thyroid Foundation.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have nothing to disclose.",
+  "dataAccess": "summary",
+  "result": "Review. In genetically modified mice T3 is anabolic in the developing skeleton and catabolic in adult bone, mediated predominantly by TRα1, and DIO2 in osteoblasts optimises mineralisation and strength; effects of altered T3 action in bone predominate over skeletal responses to TSH. In humans hyperthyroidism shortens the bone remodelling cycle in favour of resorption, reducing formation and mineralisation time more than resorption time, with a net 10% loss of bone per remodelling cycle. Thyrotoxicosis is an established cause of secondary osteoporosis in adults, fracture risk is increased in subclinical hyperthyroidism, and thyroid status at the upper end of the euthyroid reference range is associated with fracture in postmenopausal women.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4823381/"
+}

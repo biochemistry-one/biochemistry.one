@@ -1,0 +1,19 @@
+{
+  "title": "Continuation of Antidepressants vs Sequential Psychological Interventions to Prevent Relapse in Depression: An Individual Participant Data Meta-analysis",
+  "authors": "Breedvelt JJF, Warren FC, Segal Z, Kuyken W, Bockting CL",
+  "journal": "JAMA Psychiatry",
+  "year": 2021,
+  "doi": "10.1001/jamapsychiatry.2021.0823",
+  "pmid": "34009273",
+  "design": "meta-analysis",
+  "participants": 714,
+  "followUp": "15 months",
+  "population": "Individual data from 4 randomised trials in adults with remitted recurrent depression comparing preventive cognitive therapy or mindfulness-based cognitive therapy during or after antidepressant tapering with continued antidepressants",
+  "funder": "This work was supported in part by the Alliance for Public Health–Research Alliance Fund from the Amsterdam Public Health Research Institute, which paid for material costs. The Amsterdam Public Health Research Institute had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Segal reported NIMH grants, Guilford Press royalties and co-founding MindfulNoggin.com, an online MBCT platform; Kuyken reported Guilford Press royalties; Bockting reported book royalties and unpaid guideline work.",
+  "dataAccess": "individual",
+  "result": "Time to relapse did not differ between a psychological intervention during or after tapering and continued antidepressants (hazard ratio 0.86, 95% CI 0.60 to 1.23). Younger age at onset, shorter remission and more residual symptoms predicted relapse in both arms; no factor modified the comparison.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=8135055"
+}

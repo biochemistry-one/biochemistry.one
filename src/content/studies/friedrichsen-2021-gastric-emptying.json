@@ -1,0 +1,18 @@
+{
+  "title": "The effect of semaglutide 2.4 mg once weekly on energy intake, appetite, control of eating, and gastric emptying in adults with obesity",
+  "authors": "Friedrichsen M, Breitschaft A, Tadayon S, Wizert A, Skovgaard D",
+  "journal": "Diabetes, Obesity and Metabolism",
+  "year": 2021,
+  "doi": "10.1111/dom.14280",
+  "pmid": "33269530",
+  "design": "rct",
+  "participants": 72,
+  "followUp": "20 weeks",
+  "population": "Adults with obesity, randomised to semaglutide escalated to 2.4 mg weekly or placebo, double-blind",
+  "funder": "This study was funded by Novo Nordisk A/S; medical writing was funded by Novo Nordisk A/S. Four authors are Novo Nordisk employees; the fifth is employed by Parexel, paid by Novo Nordisk to assist in conducting the study; the sponsor generated the randomisation schedule.",
+  "funderRole": "several",
+  "dataAccess": "summary",
+  "result": "Ad libitum lunch energy intake was 35% lower on semaglutide (1736 against 2676 kJ; difference -940 kJ). Hunger and prospective food consumption fell and fullness and satiety rose; food cravings were fewer and weaker. Weight fell 9.9% against 0.4%. Gastric emptying measured indirectly by paracetamol absorption after a standardised breakfast: AUC over 0 to 5 h was 8% higher on semaglutide (P = 0.005), not significant after correction for body weight, with no effect on 0 to 1 h AUC; the authors report no evidence of delayed gastric emptying at week 20.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7898914/"
+}

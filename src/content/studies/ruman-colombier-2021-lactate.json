@@ -1,0 +1,18 @@
+{
+  "title": "Prevalence and risk factors of lactic acidosis in children with acute moderate and severe asthma, a prospective observational study",
+  "authors": "Ruman-Colombier M, Rochat Guignard I, Di Paolo ER, Gehri M, Pauchard JY",
+  "journal": "European Journal of Pediatrics",
+  "year": 2021,
+  "doi": "10.1007/s00431-020-03834-x",
+  "pmid": "33089387",
+  "design": "cohort",
+  "participants": 154,
+  "followUp": "capillary blood gas 4 h after the first dose of salbutamol in hospital",
+  "population": "Children aged 2-17 years admitted with acute moderate or severe asthma to a Swiss tertiary hospital",
+  "funder": "Open access funding provided by University of Lausanne. Conflict of interest: the authors declare that they have no conflict of interest.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Four hours after the first hospital dose of salbutamol, 134 of 154 children (87%) had lactate above 2.2 mmol/l and 40 (26%) above 5 mmol/l with an anion gap of at least 16 mmol/l, of whom 6 (4%) had a pH below 7.35. Hyperglycaemia above 11 mmol/l was recorded in 56 children (36%); 146 (95%) had received corticosteroids, at a mean dose of 1.85 ± 0.75 mg/kg, and 108 (70%) received salbutamol by nebuliser. Adjusted odds ratios for lactic acidosis were 10 (95% CI 2.3 to 47) for nebulised rather than inhaler delivery, 3.2 (1.4 to 7.4) for hyperglycaemia and 2.8 (1.2 to 6.6) for age above 6 years. Mean salbutamol dose was 11.8 mg (SD 9.8) below 6 years and 12.3 mg (SD 10.5) above 6 years. The authors ascribe the lactate rise to beta2-adrenergic stimulation of glycogenolysis, gluconeogenesis and glycolysis together with lipolysis, free fatty acids inhibiting pyruvate dehydrogenase and so favouring conversion of pyruvate to lactate.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7940309/"
+}

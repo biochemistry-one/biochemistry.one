@@ -1,0 +1,19 @@
+{
+  "title": "Homocysteine and coronary heart disease: meta-analysis of MTHFR case-control studies, avoiding publication bias",
+  "authors": "Clarke R, Bennett DA, Parish S, Verhoef P, Dötsch-Klerk M, Lathrop M, et al.",
+  "journal": "PLoS Medicine",
+  "year": 2012,
+  "doi": "10.1371/journal.pmed.1001177",
+  "pmid": "22363213",
+  "design": "meta-analysis",
+  "participants": 116136,
+  "population": "19 unpublished case-control datasets with 48,175 coronary heart disease cases and 67,961 controls, compared with 86 published studies",
+  "funder": "Supported by grants from the British Heart Foundation and UK Medical Research Council to the University of Oxford Clinical Trial Service Unit and Epidemiological Studies Unit (CTSU), and the Oxford BHF Centre for Research Excellence (JCH). No funding bodies played any role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "inKindSupport": "Unpublished genotype datasets contributed by collaborating groups, among them deCODE (Reykjavik), whose dataset was contributed by an employee co-author.",
+  "authorConflicts": "Two authors were employees of Unilever R&D and one of deCODE; they contributed reagents, materials or analysis tools, while design, analysis and the first draft were by CTSU authors. CTSU authors follow a policy of not accepting honoraria or other payments from the pharmaceutical industry except reimbursement of meeting costs.",
+  "dataAccess": "summary",
+  "result": "In 19 unpublished datasets (48,175 CHD cases, 67,961 controls), the MTHFR 677TT against CC genotype gave a CHD odds ratio of 1.02 (95% CI 0.98-1.07), and 1.01 (0.95-1.07) in unsupplemented low-folate populations; homocysteine was expected to be about 20% higher with TT than CC. In 86 published studies (28,617 cases, 41,857 controls), the odds ratio was 1.15 (1.09-1.21), significantly discrepant (p = 0.001); the authors conclude that the discrepancy reflects publication bias or methodological problems.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3283559/"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "The physiology of the gastric parietal cell",
+  "authors": "Engevik AC, Kaji I, Goldenring JR",
+  "journal": "Physiological Reviews",
+  "year": 2020,
+  "doi": "10.1152/physrev.00016.2019",
+  "pmid": "31670611",
+  "design": "other",
+  "funder": "Supported by National Institutes of Health grants R01 DK48370, R01 DK101332 and R01 DK70856, Department of Veterans Affairs Merit Review 1I01BX000930 and a gift from the Christine Volpe Fund (to J. R. Goldenring); A. C. Engevik was supported by NIH grants F32 DK111101 and T32 CA106183.",
+  "funderRole": "none",
+  "authorConflicts": "No conflicts of interest, financial or otherwise, are declared by the authors.",
+  "dataAccess": "summary",
+  "result": "Narrative review. Parietal-cell HCl keeps luminal pH below 2 and promotes absorption of phosphate, calcium and iron. Histamine from enterochromaffin-like cells acts through Gs-coupled H2 receptors, adenylate cyclase, cAMP and protein kinase A, the rate-limiting trigger of secretion; acetylcholine acts through M3 and gastrin through CCK2 (CCKBR) receptors, both Gq-coupled with Ca2+ release; in humans gastrin acts mainly by releasing histamine from ECL cells. Somatostatin inhibits parietal, ECL and G cells; loss of acid secretion raises gastrin; CCK2R-deficient mice have fewer parietal and ECL cells. The H+/K+-ATPase, a P2-type ATPase of alpha (ATP4A) and beta (ATP4B) subunits in tubulovesicles that fuse with the canaliculus on stimulation, exchanges cytoplasmic H+ for luminal K+ supplied by KCNQ1-KCNE2. All PPIs bind Cys813 of the alpha subunit, arresting the pump in E2; Cys822, bound by pantoprazole, lies in the membrane domain and resists reducing agents. COX-1 (PTGS1) products PGE2 and PGI2 inhibit acid secretion and protect the mucosa; NSAIDs augment acid secretion.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7327232/"
+}

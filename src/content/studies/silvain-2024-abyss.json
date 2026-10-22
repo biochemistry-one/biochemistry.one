@@ -1,0 +1,20 @@
+{
+  "title": "Beta-blocker interruption or continuation after myocardial infarction",
+  "authors": "Silvain J, Cayla G, Ferrari E, Range G, Puymirat E, Delarche N, et al.; ABYSS Investigators of the ACTION Study Group",
+  "journal": "New England Journal of Medicine",
+  "year": 2024,
+  "doi": "10.1056/NEJMoa2404204",
+  "pmid": "39213187",
+  "registry": "NCT03498066",
+  "design": "rct",
+  "participants": 3698,
+  "followUp": "median 3.0 years (interquartile range 2.0 to 4.0)",
+  "population": "Patients with a history of myocardial infarction, a left ventricular ejection fraction of at least 40% while on long-term beta-blocker treatment and no cardiovascular event in the previous 6 months, at 49 sites in France; median 2.9 years (interquartile range 1.2 to 6.4) between the last infarction and randomisation",
+  "funder": "Supported by a grant (PHRC-2015) from the French Ministry of Health and the ACTION (Allies in Cardiovascular Trials, Initiatives, and Organized Networks) Study Group. Registry NCT03498066 names Assistance Publique - Hopitaux de Paris as lead sponsor and Groupe Hospitalier Pitie-Salpetriere as collaborator; no company is named as funder or sponsor.",
+  "funderRole": "none",
+  "authorConflicts": "Disclosure forms are published with the full text at NEJM.org; not read.",
+  "dataAccess": "unknown",
+  "result": "Open-label non-inferiority trial of interrupting against continuing beta-blocker treatment; 1846 patients were assigned interruption and 1852 continuation. Death, non-fatal myocardial infarction, non-fatal stroke or hospitalisation for cardiovascular reasons occurred in 432 of 1812 patients (23.8%) after interruption against 384 of 1821 (21.1%) with continuation, a risk difference of 2.8 percentage points (95% CI below 0.1 to 5.5) and a hazard ratio of 1.16 (1.01 to 1.33); the upper confidence boundary exceeded the 3-percentage-point non-inferiority margin, so interruption was not non-inferior. Interruption did not seem to improve quality of life measured with the European Quality of Life-5 Dimensions questionnaire.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20250928002850/https://www.nejm.org/doi/full/10.1056/NEJMoa2404204"
+}

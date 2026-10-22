@@ -1,0 +1,18 @@
+{
+  "title": "Biallelic mutations in CYP24A1 or SLC34A1 as a cause of infantile idiopathic hypercalcemia (IIH) with vitamin D hypersensitivity: molecular study of 11 historical IIH cases",
+  "authors": "Pronicka E, Ciara E, Halat P, Janiec A, Wójcik M, Rowińska E, et al.",
+  "journal": "Journal of Applied Genetics",
+  "year": 2017,
+  "doi": "10.1007/s13353-017-0397-2",
+  "pmid": "28470390",
+  "design": "genetic",
+  "participants": 11,
+  "population": "Adults in Poland diagnosed in infancy (1970s to 1990s) with idiopathic infantile hypercalcaemia attributed to 'hypersensitivity to vitamin D'",
+  "funder": "This study was supported by projects NSC 2014/15/B/NZ5/03541 (National Science Centre) and CMHI 180/09 (The Children's Memorial Health Institute grant). No statement on the role of the funders was found.",
+  "funderRole": "unknown",
+  "authorConflicts": "Conflict of interest: none.",
+  "dataAccess": "individual",
+  "result": "Idiopathic infantile hypercalcaemia presents with severe hypercalcaemia, failure to thrive, vomiting, dehydration and nephrocalcinosis; periodic rises in incidence in the UK in the 1950s and in Poland and Germany in the twentieth century followed rickets over-prophylaxis, in Poland with 'periodic' doses of 300,000 units three times a year, when at least 36 affected infants were treated at the authors' centre; some needed several months of hospital treatment. All 11 historical cases carried mutations, 9 in CYP24A1 and 2 in SLC34A1, biallelic in all but one. From the frequency of the recurrent CYP24A1 p.R396W allele, incidence in Poland is estimated at 1 in 32,465 births. The authors suggest molecular testing for both genes in each case of idiopathic hypercalcaemia or hypercalciuria in children and adults.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5509812/fullTextXML"
+}

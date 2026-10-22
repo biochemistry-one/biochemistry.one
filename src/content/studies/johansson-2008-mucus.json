@@ -1,0 +1,17 @@
+{
+  "title": "The inner of the two Muc2 mucin-dependent mucus layers in colon is devoid of bacteria",
+  "authors": "Johansson ME, Phillipson M, Petersson J, Velcich A, Holm L, Hansson GC",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 2008,
+  "doi": "10.1073/pnas.0803124105",
+  "pmid": "18806221",
+  "design": "animal",
+  "population": "C57BL/6 mice and Muc2-deficient mice",
+  "funder": "Swedish Research Council Grants 7461, 8646 and 20680, the Swedish Cancer Foundation, the Swedish Foundation for Strategic Research-Mucosal Immunobiology and Vaccine Center, and the IngaBritt and Arne Lundberg Foundation.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no conflict of interest.",
+  "dataAccess": "summary",
+  "result": "Mouse colonic mucus extended about 150 µm above the epithelium in two layers: a loose outer layer of about 100 µm that could be aspirated, and a firmly adherent inner layer about 25 µm thick after fixation. Fluorescence in situ hybridisation with a 16S rRNA probe detected bacteria in the outer layer and none in the inner stratified layer; both layers require Muc2.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2567493/"
+}

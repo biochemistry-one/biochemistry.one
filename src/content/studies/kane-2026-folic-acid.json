@@ -1,0 +1,15 @@
+{
+  "title": "Folic Acid: Drug Usage Statistics, United States, 2014 - 2024",
+  "authors": "Kane SP",
+  "journal": "ClinCalc DrugStats Database, version 2026.08, ClinCalc LLC",
+  "year": 2026,
+  "url": "https://clincalc.com/DrugStats/Drugs/FolicAcid",
+  "design": "database",
+  "population": "US prescriptions estimated from the Medical Expenditure Panel Survey (MEPS) 2014 to 2024 of the Agency for Healthcare Research and Quality",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Top drug rank 95 in 2024 (94 in 2023); estimated 7,503,346 prescriptions and 1,899,433 patients in the United States in 2024; 96.2% of dispensed products were 1 mg tablets or capsules. Rank is defined as the frequency of prescription within a calendar year compared with all other medications. Page updated 9 August 2026.",
+  "class": "reference",
+  "fundingChecked": "https://clincalc.com/DrugStats/Drugs/FolicAcid"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "A randomized trial of sugar-sweetened beverages and adolescent body weight",
+  "authors": "Ebbeling CB, Feldman HA, Chomitz VR, Antonelli TA, Gortmaker SL, Osganian SK, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2012,
+  "doi": "10.1056/NEJMoa1203388",
+  "pmid": "22998339",
+  "registry": "NCT00381160",
+  "design": "rct",
+  "participants": 224,
+  "followUp": "2 years: 1-year intervention, then 1 year without intervention",
+  "population": "Overweight and obese adolescents in grades 9 and 10 who drank at least one 12 oz serving per day of sugar-sweetened beverages or 100% fruit juice",
+  "funder": "Supported by grants from the National Institute of Diabetes and Digestive and Kidney Diseases (R01DK073025 and K24DK082730, to Dr. Ludwig) and from the National Center for Research Resources to the Boston Children's Hospital General Clinical Research Center (M01RR02172), the Harvard Catalyst Clinical and Translational Science Center (UL1RR025758), and the New Balance Foundation. Beverages for the intervention group were purchased from an online delivery service.",
+  "funderRole": "none",
+  "authorConflicts": "Disclosure forms are published with the full text at NEJM.org; not read.",
+  "dataAccess": "summary",
+  "result": "Home delivery of noncaloric beverages, telephone calls with parents and check-in visits for 1 year. Change in experimental minus control group: at 1 year, BMI -0.57 (P=0.045) and weight -1.9 kg (+1.6 against +3.5 kg; P=0.04); at 2 years, the primary outcome, BMI -0.30 (P=0.46) and weight -0.8 kg (+4.3 against +5.1 kg; P=0.55). Retention 97% at 1 year and 93% at 2 years.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3494993/"
+}

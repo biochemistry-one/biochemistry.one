@@ -1,0 +1,15 @@
+{
+  "title": "Re-evaluation of sucralose (E 955) as a food additive and evaluation of a new application on extension of use of sucralose (E 955) in fine bakery wares",
+  "authors": "EFSA Panel on Food Additives and Flavourings (FAF), Castle L, Andreassen M, Aquilina G, Bastos ML, Boon P, et al.",
+  "journal": "EFSA Journal",
+  "year": 2026,
+  "doi": "10.2903/j.efsa.2026.9854",
+  "pmid": "41710869",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission (question numbers EFSA-Q-2011-00724 and EFSA-Q-2021-00375). Adopted 10 December 2025.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Sucralose is 1,6-dichloro-1,6-dideoxy-beta-D-fructofuranosyl-4-chloro-4-deoxy-alpha-D-galactopyranoside, produced by a process that selectively replaces three hydroxyl groups of sucrose with chlorine. Oral absorption in humans varied between 8.8% and 21.7% of the dose; systemically available sucralose is eliminated mainly in urine, with less than 10% of urinary radioactivity in glucuronide-like metabolites; in two volunteers about 85% of a radiolabelled dose was recovered in faeces after 120 h; no 14CO2 was detected in expired air. From human studies, the Panel concluded that sucralose does not adversely affect glucose and insulin homeostasis (moderate level of confidence). Reference point BMDL 55 mg/kg bw per day for decreased body weight in rats; no need to revise the ADI of 15 mg/kg bw per day established by the SCF in 2000; exposure estimates did not exceed the ADI.",
+  "class": "regulatory",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12911467"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Major outcomes in high-risk hypertensive patients randomized to angiotensin-converting enzyme inhibitor or calcium channel blocker vs diuretic: The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT)",
+  "authors": "ALLHAT Officers and Coordinators for the ALLHAT Collaborative Research Group",
+  "journal": "JAMA",
+  "year": 2002,
+  "doi": "10.1001/jama.288.23.2981",
+  "pmid": "12479763",
+  "registry": "NCT00000542",
+  "design": "rct",
+  "participants": 33357,
+  "followUp": "mean 4.9 years; outcome rates reported at 6 years",
+  "population": "Adults aged 55 years or older with stage 1 or stage 2 hypertension and at least one further coronary risk factor, at 623 centres in the United States, Canada, Puerto Rico and the US Virgin Islands; mean age 67 years, 47% women, 35% Black and 36% with type 2 diabetes",
+  "funder": "This study was supported by contract NO1-HC-35130 with the National Heart, Lung, and Blood Institute (NHLBI). ALLHAT investigators received contributions of study medications supplied by Pfizer (amlodipine and doxazosin), AstraZeneca (atenolol and lisinopril), and Bristol-Myers Squibb (pravastatin), and financial support provided by Pfizer. Role of the Sponsor: the NHLBI sponsored the study and was involved in all aspects other than direct operations of the study centres, including collection, analysis and interpretation of the data and the decision to submit the manuscript for publication. Partial industry funding sets the class to industry; a role of Pfizer in design, analysis or publication is not stated.",
+  "funderRole": "unknown",
+  "inKindSupport": "Study medications supplied by Pfizer (amlodipine and doxazosin), AstraZeneca (atenolol and lisinopril) and Bristol-Myers Squibb (pravastatin).",
+  "authorConflicts": "The financial disclosures name authors who have served as consultants for, received personal compensation from, were grant recipients of, or own stock in listed companies, among them Pfizer, Merck, Novartis, Bristol-Myers Squibb, AstraZeneca and GlaxoSmithKline.",
+  "dataAccess": "individual",
+  "result": "Chlorthalidone 12.5 to 25 mg/day (n=15,255), amlodipine 2.5 to 10 mg/day (n=9048) or lisinopril 10 to 40 mg/day (n=9054), double-blind. Six-year rates, lisinopril versus chlorthalidone: fatal coronary heart disease or non-fatal myocardial infarction 11.4% versus 11.5% (relative risk 0.99, 95% CI 0.91 to 1.08); all-cause mortality 17.2% versus 17.3% (1.00, 0.94 to 1.08); stroke 6.3% versus 5.6% (1.15, 1.02 to 1.30); heart failure 8.7% versus 7.7% (1.19, 1.07 to 1.31); combined cardiovascular disease 33.3% versus 30.9% (1.10, 1.05 to 1.16). Stroke relative risk 1.40 (1.17 to 1.68) in Black and 1.00 (0.85 to 1.17) in non-Black participants. Mean follow-up systolic pressure was 2 mm Hg higher with lisinopril overall and 4 mm Hg higher in Black participants. Angio-oedema in 38 of 9054 (0.4%) on lisinopril versus 8 of 15,255 (0.1%) on chlorthalidone, with one fatal case in the lisinopril group. Serum potassium at 4 years 4.5 versus 4.1 mEq/l, with values below 3.5 mEq/l in 0.8% versus 8.5%; new fasting glucose of 126 mg/dl or more at 4 years in 8.1% versus 11.6% of participants without diabetes at baseline.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20220407211925/https://jamanetwork.com/journals/jama/articlepdf/195626/joc21962.pdf"
+}

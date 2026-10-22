@@ -1,0 +1,16 @@
+{
+  "title": "Zellweger Spectrum Disorder",
+  "authors": "Steinberg SJ, Raymond GV, Braverman NE, Moser AB",
+  "journal": "GeneReviews, University of Washington, Seattle",
+  "year": 2020,
+  "pmid": "20301621",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK1448/",
+  "design": "database",
+  "funder": "not stated in the chapter",
+  "funderRole": "unknown",
+  "authorConflicts": "not stated in the chapter",
+  "dataAccess": "summary",
+  "result": "Expert-authored, peer-reviewed chapter, first posted 2003, comprehensive update 29 October 2020. Biallelic pathogenic variants in any one of 13 PEX genes, which encode peroxins required for peroxisome membrane biogenesis, division and matrix protein import, cause Zellweger spectrum disorder. Screening findings include raised plasma C26:0 and C26:1 and C24/C22 and C26/C22 ratios, raised phytanic and pristanic acid, reduced erythrocyte C16 and C18 plasmalogens, raised pipecolic acid and raised C27 bile acid intermediates. About 15% of individuals with a ZSD-like phenotype and raised plasma VLCFA have a single-enzyme deficiency of peroxisomal beta-oxidation (D-bifunctional enzyme or acyl-CoA oxidase).",
+  "class": "reference",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/ca/84/gene_NBK1116.tar.gz"
+}

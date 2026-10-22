@@ -1,0 +1,17 @@
+{
+  "title": "Sick day management in people with chronic kidney disease: a scoping review",
+  "authors": "Duong H, Tesfaye W, Van C, Sud K, Truong M, Krass I, et al.",
+  "journal": "Journal of Nephrology",
+  "year": 2023,
+  "doi": "10.1007/s40620-022-01497-5",
+  "pmid": "36327038",
+  "design": "systematic-review",
+  "population": "Ten studies and seven guidelines on temporary medication discontinuation during acute illness in people with chronic kidney disease",
+  "funder": "Open Access funding enabled and organized by CAUL and its Member Institutions. The authors declare that they have no relevant financial or other conflicts of interest.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare that they have no relevant financial or other conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "Most guidelines recommended sick-day medication management, including temporary withholding of drugs that raise the risk of acute kidney injury, largely on expert consensus. There is little evidence on the effect of sick-day protocols on outcomes; a single randomised trial found no significant association between a sick-day protocol and change in kidney function, acute kidney injury or hospitalisation.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10333414/"
+}

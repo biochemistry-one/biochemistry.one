@@ -1,0 +1,19 @@
+{
+  "title": "Effects on blood pressure of reduced dietary sodium and the Dietary Approaches to Stop Hypertension (DASH) diet",
+  "authors": "Sacks FM, Svetkey LP, Vollmer WM, Appel LJ, Bray GA, Harsha D, et al.; DASH-Sodium Collaborative Research Group",
+  "journal": "New England Journal of Medicine",
+  "year": 2001,
+  "doi": "10.1056/NEJM200101043440101",
+  "pmid": "11136953",
+  "design": "rct",
+  "participants": 412,
+  "followUp": "three consecutive 30-day feeding periods",
+  "population": "Adults aged 22 years or older with systolic blood pressure 120 to 159 mm Hg and diastolic 80 to 95 mm Hg, without antihypertensive drugs, at four US centres; target enrolment 50% black and 50% women",
+  "funder": "Supported by cooperative agreements and grants from the National Heart, Lung, and Blood Institute (U01-HL57173, U01-HL57114, U01-HL57190, U01-HL57139, K08 HL03857-01, U01-HL57156) and by the General Clinical Research Center Program of the National Center for Research Resources (M01-RR02635, M01-RR00722).",
+  "funderRole": "none",
+  "inKindSupport": "Food donated by the Almond Board of California, Beatrice Foods, Bestfoods, Cabot Creamery, C.B. Foods, Dannon, Diamond Crystal Specialty Foods, Elwood International, Hershey Foods, Hormel Foods, Kellogg, Lipton, McCormick, Nabisco U.S. Foods Group, Procter & Gamble, Quaker Oats and Sun-Maid Growers; food storage by Frost Cold Storage.",
+  "dataAccess": "unknown",
+  "result": "Parallel assignment to a typical US control diet or the DASH diet, with high, intermediate and low sodium (targets 150, 100 and 50 mmol/day) for 30 days each in random order; urinary sodium 142, 107 and 65 mmol/day. High to low sodium lowered systolic pressure by 6.7 mm Hg (95% CI 5.4 to 8.0) with the control diet and 3.0 mm Hg (1.7 to 4.3) with the DASH diet. The low-sodium DASH diet versus the high-sodium control diet gave systolic pressure 7.1 mm Hg lower without hypertension and 11.5 mm Hg lower with hypertension.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20251121135543/https://www.nejm.org/doi/full/10.1056/NEJM200101043440101"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Metformin blunts muscle hypertrophy in response to progressive resistance exercise training in older adults: A randomized, double-blind, placebo-controlled, multicenter trial: The MASTERS trial",
+  "authors": "Walton RG, Dungan CM, Long DE, Tuggle SC, Kosmac K, Peck BD, et al.",
+  "journal": "Aging Cell",
+  "year": 2019,
+  "doi": "10.1111/acel.13039",
+  "pmid": "31557380",
+  "registry": "NCT02308228",
+  "design": "rct",
+  "participants": 94,
+  "followUp": "14 weeks of progressive resistance training, with assessments 3 days after the final exercise bout",
+  "population": "Healthy women and men aged 65 and older at two US centres; 109 randomised and 94 completed (46 metformin, 48 placebo); median age 69.3 years, mean body-mass index 26.3, 56% female, high baseline physical function (median Short Physical Performance Battery 11 of 12)",
+  "funder": "The study was funded by the National Institute on Aging, grant R01AG046920, and the National Center for Advancing Translational Sciences, grants UL1TR001998 and UL1TR003096.",
+  "funderRole": "none",
+  "authorConflicts": "The authors have no conflict of interests to disclose.",
+  "dataAccess": "summary",
+  "result": "Participants received 1700 mg metformin daily or placebo throughout, after a two-week drug wash-in and a two-week training ramp-up, and all performed 14 weeks of supervised progressive resistance training; 15 participants discontinued, 6 of them because of adverse events. Training reduced percentage body fat equally in both groups (-1.86 against -2.02 percentage points, p = 0.714). Placebo gained more lean mass than metformin (1.95%, SD 2.69, against 0.41%, SD 2.25; between-group p = 0.003) and more thigh muscle mass by dual-energy X-ray absorptiometry (3.90%, SD 5.54, against 0.45%, SD 3.95; p < 0.001). By computed tomography, placebo gained more total thigh muscle area (6.43%, SD 5.45, against 2.27%, SD 6.91; p = 0.005), more normal-density muscle area (10.5% against 4.16%, p = 0.001) and more muscle density (p = 0.020). Strength gains tended to be lower with metformin without reaching significance: knee extension one-repetition maximum 23.1% against 15.3% (p = 0.055), isometric strength 11.8% against 6.7% (p = 0.082), peak power 29.4% against 14.3% (p = 0.064); strength per unit thigh muscle mass did not differ (19.7% against 14.5%, p = 0.188). Metformin did not alter fibre cross-sectional area, satellite cell or macrophage abundance, but prevented the fall in type I fibre percentage seen with placebo (p = 0.007), raised AMPK signalling and tended to blunt mTORC1 signalling; in cultured human myotubes metformin inhibited p70S6K1 phosphorylation after electrical pulse stimulation. The authors conclude that these results do not support the use of metformin to enhance the benefits of physical activity in healthy older people.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6826125/fullTextXML"
+}

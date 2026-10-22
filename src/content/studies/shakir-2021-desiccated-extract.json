@@ -1,0 +1,20 @@
+{
+  "title": "Comparative effectiveness of levothyroxine, desiccated thyroid extract, and levothyroxine+liothyronine in hypothyroidism",
+  "authors": "Shakir MKM, Brooks DI, McAninch EA, Fonseca TL, Mai VQ, Bianco AC, et al.",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2021,
+  "doi": "10.1210/clinem/dgab478",
+  "pmid": "34185829",
+  "registry": "NCT02317926",
+  "design": "rct",
+  "participants": 75,
+  "followUp": "three 22-week treatment periods",
+  "population": "Hypothyroid patients at Walter Reed National Military Medical Center, excluding cardiac disease, malabsorption and use of psychotropic drugs, iron, sucralfate and proton pump inhibitors",
+  "funder": "Provided by Walter Reed National Military Medical Center Institutional Research Board.",
+  "funderRole": "unknown",
+  "authorConflicts": "A.B. is a consultant for Synthonics, BLA Technology and Allergan; the other authors declared no competing financial interests.",
+  "dataAccess": "unknown",
+  "result": "Double-blind crossover of levothyroxine, levothyroxine plus liothyronine and desiccated thyroid extract. TSH stayed within the reference range in all arms; thyroid symptoms, general health questionnaire, memory and depression scores and treatment preference did not differ, except a minor rise in heart rate on desiccated extract; DIO2 Thr92Ala and aetiology did not modify outcomes. In a subgroup analysis of the third most symptomatic on levothyroxine, patients preferred and scored better on T3-containing treatment; the number homozygous for the DIO2 variant was likely too small for meaningful evaluation.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8530721/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Egg consumption and risk of cardiovascular disease: three large prospective US cohort studies, systematic review, and updated meta-analysis",
+  "authors": "Drouin-Chartier JP, Chen S, Li Y, Schwab AL, Stampfer MJ, Sacks FM, et al.",
+  "journal": "BMJ",
+  "year": 2020,
+  "doi": "10.1136/bmj.m513",
+  "pmid": "32132002",
+  "registry": "PROSPERO CRD42019129650",
+  "design": "cohort",
+  "participants": 215618,
+  "followUp": "up to 32 years",
+  "population": "83,349 women in the Nurses' Health Study, 90,214 women in NHS II and 42,055 men in the Health Professionals Follow-Up Study, free of cardiovascular disease, type 2 diabetes and cancer at baseline",
+  "funder": "The NHS, NHS II and HPFS cohorts are supported by National Institutes of Health grants (P01 CA87969, R01 HL034594, R01 HL088521, UM1 CA186107, UM1 CA176726, UM1 CA167552, R01 HL35464, R01 HL60712, U01 CA167552); JPDC by a Banting postdoctoral fellowship from the Canadian Institutes of Health Research; FBH and SNB by NIH grants. The funders had no role in the design and conduct of the study, the analysis and interpretation of the data, the preparation of the manuscript or the decision to submit it.",
+  "funderRole": "none",
+  "authorConflicts": "Drouin-Chartier received speaker and consulting honorariums from the Dairy Farmers of Canada; Li received grants and Hu research support from the California Walnut Commission; Hu received honorariums from Metagenics, Standard Process and Diet Quality Photo Navigation; all outside the submitted work.",
+  "dataAccess": "individual",
+  "result": "14,806 incident cardiovascular disease (CVD) cases over 5.54 million person-years. At least one egg per day against less than one per month: 393 events in 123,726 person-years (318 per 100,000) against 1058 in 457,330 (231 per 100,000); age-adjusted hazard ratio 1.10 (95% CI 0.97 to 1.23); 0.93 (0.82 to 1.05) after adjustment for updated lifestyle and dietary factors; 0.98 (0.92 to 1.04) per egg per day. In 1998-99, 2524 of 203,364 participants (1.24%) ate at least one egg per day. Egg intake was reported every 2 to 4 years and modelled as cumulative averages. Updated meta-analysis of 33 risk estimates (1,720,108 participants, 139,195 CVD events): relative risk per one egg per day 0.98 (0.93 to 1.03), I2 62.3%; US cohorts 1.01 (0.96 to 1.06), European 1.05 (0.92 to 1.19), Asian 0.92 (0.85 to 0.99).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7190072/"
+}

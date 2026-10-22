@@ -1,0 +1,17 @@
+{
+  "title": "Iodised salt for preventing iodine deficiency disorders",
+  "authors": "Wu T, Liu GJ, Li P, Clar C",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2002,
+  "doi": "10.1002/14651858.CD003204",
+  "pmid": "12137681",
+  "design": "systematic-review",
+  "population": "Six prospective controlled studies in areas of iodine deficiency: four described as randomised, one prospective controlled trial without specified allocation and one repeated cross-sectional study; 35 to 334 participants per trial and more than 20,000 in the cross-sectional study",
+  "funder": "Internal sources: Chinese Cochrane Centre, China. External sources: Australia Cochrane Centre, Australia. The acknowledgements thank the China Medical Board of New York for supporting the review.",
+  "funderRole": "none",
+  "authorConflicts": "None known.",
+  "dataAccess": "summary",
+  "result": "Studies were too dissimilar and of insufficient quality for meta-analysis. Goitre tended to decrease with iodised salt, though not significantly in all studies; iodine status improved in most studies. The abstract states that no study observed adverse effects of iodised salt, but none assessed mortality, physical and mental development in children, symptoms of hypothyroidism or adverse effects. No conclusions could be drawn on physical and mental development in children or on mortality, and no study specifically investigated iodine-induced hyperthyroidism.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9006116/"
+}

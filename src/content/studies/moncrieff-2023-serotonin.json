@@ -1,0 +1,18 @@
+{
+  "title": "The serotonin theory of depression: a systematic umbrella review of the evidence",
+  "authors": "Moncrieff J, Cooper RE, Stockmann T, Amendola S, Hengartner MP, Horowitz MA",
+  "journal": "Molecular Psychiatry",
+  "year": 2023,
+  "doi": "10.1038/s41380-022-01661-0",
+  "pmid": "35854107",
+  "registry": "PROSPERO CRD42020207203",
+  "design": "systematic-review",
+  "population": "17 systematic reviews, meta-analyses and large data-set analyses on serotonin and 5-HIAA concentrations, 5-HT1A receptor and SERT binding, tryptophan depletion and SERT gene associations in depression, searched to December 2020",
+  "funder": "There was no specific funding for this review. MAH is supported by a Clinical Research Fellowship from North East London NHS Foundation Trust (NELFT). This funder had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "MAH reported being co-founder, in April 2022, of a company aiming to help people safely stop antidepressants in Canada; MPH reported book royalties from Palgrave Macmillan; JM reported royalties for books about psychiatric drugs, NIHR grants outside the submitted work and unpaid positions in the Critical Psychiatry Network and the Council for Evidence-based Psychiatry; TS is co-chairperson of the Critical Psychiatry Network; RC is an unpaid board member of the International Institute for Psychiatric Drug Withdrawal; SA declared no conflicts.",
+  "dataAccess": "summary",
+  "result": "Two meta-analyses of 5-HIAA (largest n=1002) showed no association with depression; a meta-analysis of cohort studies of plasma serotonin (n=1869) showed no relationship with depression; 5-HT1A receptor and SERT binding studies gave weak and inconsistent evidence; tryptophan depletion had no effect in most healthy volunteers, with weak evidence of an effect in those with a family history of depression (n=75); the largest SERT gene studies (n=115,257 and n=43,165) found no association with depression and no gene-stress interaction. The authors concluded that the main areas of serotonin research provide no consistent evidence of an association between serotonin and depression.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10618090/fullTextXML"
+}

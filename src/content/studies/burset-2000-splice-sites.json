@@ -1,0 +1,17 @@
+{
+  "title": "Analysis of canonical and non-canonical splice sites in mammalian genomes",
+  "authors": "Burset M, Seledtsov IA, Solovyev VV",
+  "journal": "Nucleic Acids Research",
+  "year": 2000,
+  "doi": "10.1093/nar/28.21.4364",
+  "pmid": "11058137",
+  "design": "other",
+  "population": "43,337 splice-site pairs of mammalian genes annotated in GenBank (InfoGene database), 22,489 of them supported by expressed sequence tags",
+  "funder": "This work was supported by the Wellcome Trust grant to V.S. and grant FPI95 from Ministerio de Educación y Ciencia to M.B.",
+  "funderRole": "none",
+  "authorConflicts": "None stated. The work was done at the Sanger Centre; the corresponding author's present address is given as EOS Biotechnology, South San Francisco.",
+  "dataAccess": "individual",
+  "result": "Of 22,489 EST-supported mammalian splice-site pairs, 98.71% had the canonical dinucleotides GT at the donor and AG at the acceptor site and 0.56% were GC-AG; after correction with human genomic sequence the authors estimate 99.24% GT-AG, 0.69% GC-AG, 0.05% AT-AC and 0.02% other pairs. Introns flanked by GT-AG are excised from pre-mRNA by the spliceosome containing the U1, U2, U4/U6 and U5 snRNPs; AT-AC introns by a spliceosome of U11, U12, U4atac/U6atac and U5 snRNPs.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC113136/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Paternal metformin use and risk of congenital malformations in offspring in Norway and Taiwan: population based, cross national cohort study",
+  "authors": "Meng LC, van Gelder MMHJ, Chuang HM, Chen LK, Hsiao FY, Nordeng HME",
+  "journal": "BMJ",
+  "year": 2024,
+  "doi": "10.1136/bmj-2024-080127",
+  "pmid": "39414354",
+  "design": "cohort",
+  "participants": 3183201,
+  "followUp": "congenital malformations diagnosed up to one year after birth",
+  "population": "619,389 liveborn singletons with paternal data for the three months before pregnancy in Norway during 2010 to 2021 and 2,563,812 in Taiwan during 2004 to 2018, excluding pregnancies in which the mother filled a prescription for a known teratogenic drug; paternal metformin use covered 2075 offspring (0.3%) in Norway and 15,276 (0.6%) in Taiwan",
+  "funder": "This study was supported by the International Alliance for PharmacoGenetic Epidemiology Excellence project funded by the Norwegian Research Council (grant 322176) and the National Science and Technology Council of Taiwan (NSTC 113-2314-B-002-167-MY3). The funders had no role in the study design; the collection, analysis, and interpretation of data; the writing of the report; or the decision to submit the article for publication.",
+  "funderRole": "none",
+  "authorConflicts": "No financial relationships with any organisations that might have an interest in the submitted work in the previous three years and no other relationships or activities that could appear to have influenced the submitted work.",
+  "dataAccess": "individual",
+  "result": "Congenital malformations, classified by EUROCAT guidelines, affected 104 of 2075 offspring of metformin-using fathers in Norway (5.0%) against 24,041 of the remainder (3.9%), and 512 of 15,276 in Taiwan (3.4%) against 79,278 (3.1%). Unadjusted relative risks were 1.29 (95% CI 1.07 to 1.55) in Norway and 1.08 (0.99 to 1.17) in Taiwan. Restricting the cohort to fathers with diagnosed type 2 diabetes gave 1.20 (0.94 to 1.53) and 0.93 (0.80 to 1.07); adding overlap propensity score weighting for diabetes severity and other confounders gave 0.98 (0.72 to 1.33) and 0.87 (0.74 to 1.02), pooled 0.89 (0.77 to 1.03). No association was observed with any organ-specific malformation. Sibling-matched comparisons, from 76 pairs in Norway and 581 in Taiwan, gave adjusted odds ratios of 0.83 (0.43 to 1.59) and 0.84 (0.68 to 1.04). The authors conclude that paternal metformin use during sperm development is not associated with congenital malformations in offspring and that metformin can continue to be considered a suitable initial oral agent for men with type 2 diabetes who plan on having children.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11480814/fullTextXML"
+}

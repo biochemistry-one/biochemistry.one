@@ -1,0 +1,18 @@
+{
+  "title": "Uricosuric action of losartan via the inhibition of urate transporter 1 (URAT 1) in hypertensive patients",
+  "authors": "Hamada T, Ichida K, Hosoyamada M, Mizuta E, Yanagihara K, Sonoyama K, et al.",
+  "journal": "American Journal of Hypertension",
+  "year": 2008,
+  "doi": "10.1038/ajh.2008.245",
+  "pmid": "18670416",
+  "design": "mechanistic",
+  "participants": 41,
+  "followUp": "1 month of treatment, with single-dose clearance studies",
+  "population": "32 patients with hypertension given losartan 50 mg/day or candesartan 8 mg/day, and 9 patients with idiopathic renal hypouricaemia, 5 of them hypertensive, some carrying loss-of-function URAT1 (SLC22A12) mutations",
+  "funder": "not read: the publisher page is not accessible and the PubMed abstract carries no funding statement.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Losartan lowered serum urate with a concomitant rise in the urate-to-creatinine clearance ratio, whereas candesartan altered neither. In patients with loss-of-function URAT1 mutations neither losartan nor the URAT1 inhibitor benzbromarone changed serum urate or fractional urate clearance, whereas both raised fractional urate clearance in patients carrying the wild-type gene; the authors conclude that losartan lowers serum urate by inhibiting URAT1.",
+  "class": "undetermined",
+  "fundingChecked": "https://doi.org/10.1038/ajh.2008.245"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Once-weekly semaglutide in adults with alcohol use disorder: a randomized clinical trial",
+  "authors": "Hendershot CS, Bremmer MP, Paladino MB, Kostantinis G, Gilmore TA, Sullivan NR, et al.",
+  "journal": "JAMA Psychiatry",
+  "year": 2025,
+  "doi": "10.1001/jamapsychiatry.2024.4789",
+  "pmid": "39937469",
+  "registry": "NCT05520775",
+  "design": "rct",
+  "participants": 48,
+  "followUp": "9 weeks of treatment, assessment at week 10",
+  "population": "Non-treatment-seeking adults with alcohol use disorder at one US academic centre; 71% women, mean age 39.9 years; semaglutide 0.25 mg for 4 weeks, 0.5 mg for 4 weeks and 1.0 mg for 1 week, or placebo",
+  "funder": "Supported by National Institute on Alcohol Abuse and Alcoholism grant R21AA026931 and NCATS award UM1TR004406; investigator-initiated. The funders had no role in design, conduct, collection, analysis, interpretation, preparation, review or approval of the manuscript, or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "One author reported consulting fees from Novo Nordisk and institutional research contracts with Eli Lilly, Novo Nordisk and other companies, outside the submitted work.",
+  "dataAccess": "summary",
+  "result": "Low-dose semaglutide reduced grams of alcohol consumed in a laboratory self-administration task (beta -0.48, 95% CI -0.85 to -0.11) and peak breath alcohol (-0.46, -0.87 to -0.06). It did not change drinks per calendar day or number of drinking days, but reduced drinks per drinking day (-0.41, -0.73 to -0.09) and weekly craving (-0.39, -0.73 to -0.06). Weight fell 5.05% against +0.18%. No serious adverse events or treatment-related discontinuations were recorded.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11822619/"
+}

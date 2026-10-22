@@ -1,0 +1,19 @@
+{
+  "title": "Blood pressure lowering and risk of new-onset type 2 diabetes: an individual participant data meta-analysis",
+  "authors": "Nazarzadeh M, Bidel Z, Canoy D, Copland E, Wamil M, Majert J, et al.; on behalf of the Blood Pressure Lowering Treatment Trialists' Collaboration",
+  "journal": "Lancet",
+  "year": 2021,
+  "doi": "10.1016/S0140-6736(21)01920-6",
+  "pmid": "34774144",
+  "design": "meta-analysis",
+  "participants": 145939,
+  "followUp": "median 4.5 years (IQR 2.0)",
+  "population": "Participants without a diagnosis of diabetes at baseline in 19 randomised trials of blood-pressure-lowering drugs against placebo or another drug class conducted between 1973 and 2008, each with at least 1000 person-years of follow-up per arm; 88,500 men and 57,429 women",
+  "funder": "British Heart Foundation (MN, grant FS/19/36/34346; KR and DC, grant PG/18/65/33872), the National Institute for Health Research Oxford Biomedical Research Centre, the Oxford Martin School and the UKRI Global Challenge Research Fund (ES/P011055/1). The funders of the study had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "Rahimi reports personal fees from the journals Heart and PLoS Medicine; Sundstrom reports stock ownership in companies providing services to Itrim, Amgen, Janssen, Novo Nordisk, Eli Lilly, Boehringer Ingelheim, Bayer, Pfizer and AstraZeneca, outside the submitted work; Chalmers reports a grant from the National Health and Medical Research Council of Australia; all other authors declare no competing interests.",
+  "dataAccess": "individual",
+  "result": "Of 145,939 participants followed for a median 4.5 years, 9883 were diagnosed with new-onset type 2 diabetes; the incidence per 1000 person-years was 16.44 (95% CI 16.01 to 16.87) in the comparator group and 15.94 (15.47 to 16.42) in the intervention group. A 5 mm Hg reduction in systolic blood pressure reduced the risk of type 2 diabetes by 11% (hazard ratio 0.89, 95% CI 0.84 to 0.95). In a network meta-analysis of 22 trials, compared with placebo, calcium channel blockers had no material effect (relative risk 1.02, 95% CI 0.92 to 1.13, 11% direct evidence), angiotensin-converting enzyme inhibitors (0.84, 0.76 to 0.93) and angiotensin II receptor blockers (0.84, 0.76 to 0.92) reduced the risk, and beta blockers (1.48, 1.27 to 1.72) and thiazide diuretics (1.20, 1.07 to 1.35) raised it. In a complementary mendelian randomisation analysis, each 5 mm Hg genetically influenced lower systolic blood pressure was associated with a 12% lower risk of type 2 diabetes (0.88, 0.84 to 0.92), and the pattern across drug classes was reproduced except for thiazide diuretics, for which the genetic evidence lacked power.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8585669/"
+}

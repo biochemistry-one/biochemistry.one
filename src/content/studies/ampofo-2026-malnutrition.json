@@ -1,0 +1,17 @@
+{
+  "title": "A systematic review and meta-analysis of malnutrition and metabolic failure in high-potency incretin therapy",
+  "authors": "Ampofo E, Apprey C, Amoako M, Turkson FD",
+  "journal": "Obesity Science and Practice",
+  "year": 2026,
+  "doi": "10.1002/osp4.70188",
+  "pmid": "42707648",
+  "design": "meta-analysis",
+  "population": "19 randomised trials from the SURMOUNT, STEP, SCALE and OASIS programmes of tirzepatide, semaglutide and liraglutide 3.0 mg in adults with obesity; search to July 2026",
+  "funder": "Funding: the authors have nothing to report. The authors state that the synthesis received no corporate support, while the included trials were primarily funded by Eli Lilly or Novo Nordisk.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no direct financial conflicts.",
+  "dataAccess": "summary",
+  "result": "Daily energy intake fell by 24.00% to 39.20% across drug classes. Investigator-reported malnutrition adverse events occurred in 0.12% of participants (SURMOUNT 1 to 4 relative risk 2.38, 95% CI 0.68 to 8.35), whereas total lymphocyte counts below 910 per microlitre occurred in 2.90% on active drug against 1.77% on placebo. Tirzepatide 15 mg reduced fat-free mass by a mean 1.60 kg. The authors state that SURMOUNT and STEP did not include systematic, predetermined assessments of specific micronutrients or total protein and that none of the 19 trials prespecified DXA bone density, so malnutrition prevalence was likely underestimated.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13547837/"
+}

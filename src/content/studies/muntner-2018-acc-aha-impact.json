@@ -1,0 +1,18 @@
+{
+  "title": "Potential US Population Impact of the 2017 ACC/AHA High Blood Pressure Guideline",
+  "authors": "Muntner P, Carey RM, Gidding S, Jones DW, Taler SJ, Wright JT Jr, et al.",
+  "journal": "Circulation",
+  "year": 2018,
+  "doi": "10.1161/CIRCULATIONAHA.117.032582",
+  "pmid": "29133599",
+  "design": "cross-sectional",
+  "participants": 9623,
+  "population": "Participants of the US National Health and Nutrition Examination Survey 2011 to 2014 with three standardised blood-pressure measurements, weighted to the US adult population; all seven authors are listed among the writing committee of the 2017 ACC/AHA guideline (PMID 30354655)",
+  "funder": "Paul Muntner receives research support through grant 15SFRN2390002 from the American Heart Association.",
+  "funderRole": "unknown",
+  "authorConflicts": "Muntner has received research support and honoraria from Amgen, Inc., stated as unrelated; all other authors report no disclosures.",
+  "dataAccess": "individual",
+  "result": "The crude prevalence of hypertension among US adults was 45.6% (95% CI 43.6% to 47.6%) by the 2017 ACC/AHA definition (130/80 mm Hg) against 31.9% (30.1% to 33.7%) by JNC7 (140/90 mm Hg); antihypertensive medication was recommended for 36.2% against 34.3%. Among adults taking antihypertensive medication, 53.4% were above the 2017 goal against 39.0% above the JNC7 goal. 103.3 million US adults had hypertension by the 2017 guideline, of whom 81.9 million were recommended medication.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5873602/"
+}

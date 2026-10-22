@@ -1,0 +1,44 @@
+{
+  "title": "Butyrate synthesis by colonic bacteria (acetyl-CoA pathway)",
+  "layout": "chain",
+  "compartment": "Colonic lumen; cytosol of butyrate-producing bacteria",
+  "steps": [
+    {
+      "from": "Fermentable polysaccharides",
+      "to": "Acetyl-CoA",
+      "enzyme": "several steps",
+      "note": "Starch, xylan and other polysaccharides that escape digestion; via pyruvate"
+    },
+    {
+      "from": "Acetyl-CoA",
+      "to": "Acetoacetyl-CoA",
+      "enzyme": "Thiolase (Thl)",
+      "cofactors": ["Acetyl-CoA"],
+      "note": "Condenses two acetyl-CoA and releases CoA"
+    },
+    {
+      "from": "Acetoacetyl-CoA",
+      "to": "3-Hydroxybutyryl-CoA",
+      "enzyme": "β-Hydroxybutyryl-CoA dehydrogenase (Hbd)"
+    },
+    {
+      "from": "3-Hydroxybutyryl-CoA",
+      "to": "Crotonyl-CoA",
+      "enzyme": "Crotonase (Cro)"
+    },
+    {
+      "from": "Crotonyl-CoA",
+      "to": "Butyryl-CoA",
+      "enzyme": "Butyryl-CoA dehydrogenase–electron-transferring flavoprotein complex (Bcd-Etfαβ)",
+      "cofactors": ["Ferredoxin"],
+      "note": "Shared by all four butyrate pathways; postulated energy conservation"
+    },
+    {
+      "from": "Butyryl-CoA",
+      "to": "Butyrate",
+      "enzyme": "Butyryl-CoA:acetate CoA-transferase (But)",
+      "cofactors": ["Acetate → acetyl-CoA"],
+      "note": "Alternative: phosphate butyryltransferase (Ptb) and butyrate kinase (Buk)"
+    }
+  ]
+}

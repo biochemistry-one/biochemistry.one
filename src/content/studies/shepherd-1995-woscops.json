@@ -1,0 +1,18 @@
+{
+  "title": "Prevention of coronary heart disease with pravastatin in men with hypercholesterolemia",
+  "authors": "Shepherd J, Cobbe SM, Ford I, Isles CG, Lorimer AR, MacFarlane PW, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 1995,
+  "doi": "10.1056/NEJM199511163332001",
+  "pmid": "7566020",
+  "design": "rct",
+  "participants": 6595,
+  "followUp": "average 4.9 years",
+  "population": "Men aged 45 to 64 years in the West of Scotland with mean plasma cholesterol 7.0 mmol/L and LDL cholesterol 5.0 mmol/L and no history of myocardial infarction (West of Scotland Coronary Prevention Study, WOSCOPS)",
+  "funder": "Supported by a research grant from the Bristol-Myers Squibb Pharmaceutical Research Institute, Princeton, N.J.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Double-blind pravastatin 40 mg each evening against placebo. Pravastatin lowered plasma cholesterol by 20% and LDL cholesterol by 26%. Definite coronary events (non-fatal myocardial infarction or death from coronary heart disease): 248 with placebo and 174 with pravastatin, relative risk reduction 31% (95% CI 17 to 43; P < 0.001), absolute difference in 5-year risk 2.4 percentage points. Death from any cause 22% lower (0 to 40; P = 0.051). Authors' estimate per 1000 men treated for 5 years: 20 fewer non-fatal myocardial infarctions, 7 fewer deaths from cardiovascular causes and 2 fewer deaths from other causes.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20140329080744/http://www.nejm.org/doi/full/10.1056/NEJM199511163332001"
+}

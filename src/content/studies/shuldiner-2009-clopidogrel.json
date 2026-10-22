@@ -1,0 +1,19 @@
+{
+  "title": "Association of cytochrome P450 2C19 genotype with the antiplatelet effect and clinical efficacy of clopidogrel therapy",
+  "authors": "Shuldiner AR, O'Connell JR, Bliden KP, Gandhi A, Ryan K, Horenstein RB, et al.",
+  "journal": "JAMA",
+  "year": 2009,
+  "doi": "10.1001/jama.2009.1232",
+  "pmid": "19706858",
+  "design": "genetic",
+  "participants": 656,
+  "followUp": "1 year in the percutaneous coronary intervention sample",
+  "population": "429 healthy Amish adults given clopidogrel for 7 days (Pharmacogenomics of Antiplatelet Intervention study, 2006 to 2008) and an independent sample of 227 patients undergoing percutaneous coronary intervention",
+  "funder": "National Institutes of Health grants U01 GM074518 and U01 HL084756, the Clinical Nutrition Research Unit of Maryland (P30 DK072488), the University of Maryland General Clinical Research Center (M01 RR 16500), the Baltimore Veterans Administration Geriatric Research and Education Clinical Center, and Sinai Hospital of Baltimore. The funding organizations had no role in the design and conduct of the study; the collection, analysis, and interpretation of the data; or the preparation, review, or approval of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "One author reported a patent application on novel anti-thrombotic agents. One author reported grant support from Schering-Plough, AstraZeneca, Bayer Healthcare, Sanofi-Aventis, Portola Pharmaceuticals, Daiichi-Sankyo and Lilly, and honoraria or consulting income from those companies and Pozen. No other authors reported disclosures.",
+  "dataAccess": "summary",
+  "result": "Platelet response to clopidogrel was heritable (h2 = 0.73, P < 0.001). Thirteen single-nucleotide polymorphisms in the CYP2C18-CYP2C19-CYP2C9-CYP2C8 cluster on chromosome 10q24 were associated with diminished response; rs12777823, in strong linkage disequilibrium with CYP2C19*2, accounted for 12% of the variation in ADP-stimulated platelet aggregation (P = 4.3 × 10-11). Among 227 patients after percutaneous coronary intervention, a cardiovascular ischaemic event or death occurred within 1 year in 20.9% of CYP2C19*2 carriers and 10.0% of non-carriers (hazard ratio 2.42, 95% CI 1.18 to 4.99; P = 0.02), an absolute difference of 10.9 percentage points.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3641569/"
+}

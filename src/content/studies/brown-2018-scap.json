@@ -1,0 +1,16 @@
+{
+  "title": "Retrospective on Cholesterol Homeostasis: The Central Role of Scap",
+  "authors": "Brown MS, Radhakrishnan A, Goldstein JL",
+  "journal": "Annual Review of Biochemistry",
+  "year": 2018,
+  "doi": "10.1146/annurev-biochem-062917-011852",
+  "pmid": "28841344",
+  "design": "other",
+  "funder": "National Institutes of Health (HL20948 to J.L.G., M.S.B. and A.R.) and The Welch Foundation (I-1793 to A.R.).",
+  "funderRole": "none",
+  "authorConflicts": "The authors are not aware of any affiliations, memberships, funding or financial holdings that might be perceived as affecting the objectivity of this review.",
+  "dataAccess": "summary",
+  "result": "Review. SREBPs are ER membrane proteins with an NH2-terminal bHLH-Zip domain, two transmembrane helices and a COOH-terminal domain that binds Scap; SREBP-2 is specialised for cholesterol homeostasis. In cholesterol-deprived cells the MELADL sequence in cytosolic Loop 6 of Scap binds Sec23-Sec24 of COPII and Scap carries SREBPs to the Golgi, where S1P cleaves the luminal loop and S2P cleaves within the transmembrane helix, releasing the bHLH-Zip domain to the nucleus. Cholesterol binds luminal Loop 1 of Scap (apparent Kd 67 nM for the purified loop); Scap then binds Insig-1 or Insig-2 and MELADL becomes inaccessible to COPII. 25-Hydroxycholesterol binds Insig, not Scap. Insig-1 and Insig-2 also bind the membrane domain of HMG CoA reductase, the rate-controlling enzyme of cholesterol biosynthesis, and trigger its ubiquitination and degradation. Sterol-sensing domains occur in Scap, HMG CoA reductase, 7-dehydrocholesterol reductase (last step of cholesterol synthesis), NPC1 (export of LDL-derived cholesterol from lysosomes) and NPC1L1 (intestinal cholesterol absorption).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5828883/"
+}

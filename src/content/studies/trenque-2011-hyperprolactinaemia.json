@@ -1,0 +1,16 @@
+{
+  "title": "Serotonin reuptake inhibitors and hyperprolactinaemia: a case/non-case study in the French pharmacovigilance database",
+  "authors": "Trenque T, Herlem E, Auriche P, Dramé M",
+  "journal": "Drug Safety",
+  "year": 2011,
+  "doi": "10.2165/11595660-000000000-00000",
+  "pmid": "22077504",
+  "design": "case-control",
+  "population": "Spontaneous adverse drug reaction reports to the French Pharmacovigilance Database, 1985 to December 2009; 11,863 reports with serotonin reuptake inhibitors, 187 of hyperprolactinaemia",
+  "funder": "not read: the publisher full text is behind a paywall.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Reporting odds ratio for hyperprolactinaemia with serotonin reuptake inhibitors 3.3 (95% CI 2.8 to 3.8): fluvoxamine 4.5, citalopram 3.9, fluoxetine 3.6, paroxetine 3.1; sertraline, duloxetine and milnacipran were not associated with increased reporting. Spontaneous reports give no incidence. Results read from the abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=22077504&rettype=abstract&retmode=text"
+}

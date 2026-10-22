@@ -1,0 +1,14 @@
+{
+  "title": "Depression in adults: treatment and management",
+  "authors": "National Institute for Health and Care Excellence",
+  "journal": "NICE guideline NG222, published 29 June 2022",
+  "year": 2022,
+  "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations",
+  "design": "guideline",
+  "funder": "not stated in the guideline text or its PDF.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Less severe depression is defined as a PHQ-9 score below 16. Do not routinely offer antidepressant medication as first-line treatment for less severe depression; only offer it if that is the person's informed preference (1.5.3). For more severe depression, SSRIs are generally well tolerated, have a good safety profile and should be considered as the first choice for most people. When stopping an antidepressant, slowly reduce the dose to zero in a step-wise fashion, at each step prescribing a proportion of the previous dose (for example 50%), consider smaller reductions (for example 25%) as the dose becomes lower, agree the speed with the person, and recognise that withdrawal may take weeks or months to complete (1.4.16). Withdrawal symptoms usually go away within 1 to 2 weeks but can last longer, in some cases several weeks and occasionally several months (1.4.14).",
+  "class": "consensus",
+  "fundingChecked": "https://www.nice.org.uk/guidance/ng222/resources/depression-in-adults-treatment-and-management-pdf-66143832307909"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Tirzepatide as compared with semaglutide for the treatment of obesity",
+  "authors": "Aronne LJ, Horn DB, le Roux CW, Ho W, Falcon BL, Gomez Valderas E, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2025,
+  "doi": "10.1056/NEJMoa2416394",
+  "pmid": "40353578",
+  "registry": "NCT05822830",
+  "design": "rct",
+  "participants": 751,
+  "followUp": "72 weeks",
+  "population": "Adults with obesity and without type 2 diabetes; open-label phase 3b trial of maximum tolerated doses",
+  "funder": "Funded by Eli Lilly, as stated in the abstract; the sponsor's role was not read.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Weight changed by -20.2% (95% CI -21.4 to -19.1) on tirzepatide 10 or 15 mg against -13.7% (-14.9 to -12.6) on semaglutide 1.7 or 2.4 mg; waist circumference by -18.4 cm against -13.0 cm. The trial was open-label and sponsored by the maker of tirzepatide. Gastrointestinal events were the most common adverse events in both groups.",
+  "class": "industry",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/40353578/"
+}

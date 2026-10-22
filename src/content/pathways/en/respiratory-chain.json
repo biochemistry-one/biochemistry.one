@@ -1,0 +1,28 @@
+{
+  "title": "Electron flow through the respiratory chain",
+  "layout": "chain",
+  "compartment": "Inner mitochondrial membrane; cytochrome c in the intermembrane space",
+  "steps": [
+    {
+      "from": "NADH",
+      "to": "Ubiquinol",
+      "enzyme": "Complex I, NADH:ubiquinone oxidoreductase",
+      "cofactors": ["FMN", "Iron-sulfur clusters"],
+      "note": "4 H+ out of the matrix per NADH; complex II also reduces ubiquinone"
+    },
+    {
+      "from": "Ubiquinol",
+      "to": "Reduced cytochrome c",
+      "enzyme": "Complex III, cytochrome bc1 complex",
+      "cofactors": ["2 haem b", "Rieske [2Fe-2S] cluster", "Haem c1"],
+      "note": "Q cycle: 4 H+ released outside, 2 H+ taken from the matrix per ubiquinol"
+    },
+    {
+      "from": "Reduced cytochrome c",
+      "to": "Water",
+      "enzyme": "Complex IV, cytochrome c oxidase",
+      "cofactors": ["O2", "CuA", "Haem a", "Haem a3 and CuB"],
+      "note": "Per 2 electrons: 2 H+ pumped out; 2 matrix H+ and ½ O2 form H2O"
+    }
+  ]
+}

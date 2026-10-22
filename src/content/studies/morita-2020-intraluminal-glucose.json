@@ -1,0 +1,18 @@
+{
+  "title": "Enhanced Release of Glucose Into the Intraluminal Space of the Intestine Associated With Metformin Treatment as Revealed by [18F]Fluorodeoxyglucose PET-MRI",
+  "authors": "Morita Y, Nogami M, Sakaguchi K, Okada Y, Hirota Y, Sugawara K, et al.",
+  "journal": "Diabetes Care",
+  "year": 2020,
+  "doi": "10.2337/dc20-0093",
+  "pmid": "32493754",
+  "design": "cross-sectional",
+  "participants": 48,
+  "population": "24 pairs of people with type 2 diabetes who underwent PET-MRI, matched for age, body-mass index and HbA1c, one of each pair receiving metformin and the other not, selected from 244 patients",
+  "funder": "No funding statement appears in the article; only a duality of interest statement is given, so study funding could not be determined.",
+  "funderRole": "unknown",
+  "authorConflicts": "Four authors report lecture fees from Dainippon-Sumitomo Pharma, Novartis, Takeda Pharmaceutical and Sanwa Kagaku Kenkyusho, and one of them also research support from Dainippon-Sumitomo Pharma, Novartis and Takeda Pharmaceutical; no other potential conflicts were reported.",
+  "dataAccess": "summary",
+  "result": "Maximum standardised uptake values of fluorodeoxyglucose in the jejunum, ileum and right and left hemicolon were greater in the metformin group than in the matched control group. Discriminating wall from lumen, the uptake was greater in the metformin group in the intraluminal space of the ileum and of the right and left hemicolon, but not in the intestinal wall, suggesting that metformin promotes transport of glucose from the circulation into the intestinal lumen and so into stool. The authors state that the absence of an increase in the jejunum suggests release through the intestinal mucosa rather than the biliary tract, that metformin has been shown to increase apical GLUT2 in enterocytes and that GLUT2 transport is bidirectional. Limitations given: small number of subjects, retrospective design precluding definitive conclusions, the semiquantitative nature of the maximum standardised uptake value, possible underestimation in small structures and possible spillover of signal between wall and lumen; the amount of glucose released was not quantified.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20230130013632/https://diabetesjournals.org/care/article/43/8/1796/35606/Enhanced-Release-of-Glucose-Into-the-Intraluminal"
+}

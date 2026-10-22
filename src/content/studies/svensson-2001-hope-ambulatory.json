@@ -1,0 +1,18 @@
+{
+  "title": "Comparative effects of ramipril on ambulatory and office blood pressures: a HOPE Substudy",
+  "authors": "Svensson P, de Faire U, Sleight P, Yusuf S, Ostergren J",
+  "journal": "Hypertension",
+  "year": 2001,
+  "doi": "10.1161/hy1101.099502",
+  "pmid": "11751742",
+  "design": "rct",
+  "participants": 38,
+  "followUp": "1 year",
+  "population": "Patients with peripheral arterial disease enrolled in the HOPE trial, with 24-hour ambulatory blood pressure measured before randomisation and after 1 year",
+  "funder": "not read: the publisher page is not accessible and the PubMed abstract carries no funding statement. The parent HOPE trial was part-funded by manufacturers.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Ramipril was given once daily at bedtime and office pressure was measured during the day. After 1 year, ramipril did not significantly reduce office pressure (8/2 mm Hg) or daytime ambulatory pressure (6/2 mm Hg), whereas 24-hour ambulatory pressure fell by 10/4 mm Hg (P=0.03) and night-time pressure by 17/8 mm Hg (P<0.001). The authors state that the HOPE benefit, attributed in the main report only partly to a 3/2 mm Hg office difference, may relate to blood-pressure effects over 24 hours to a larger extent than previously ascribed.",
+  "class": "undetermined",
+  "fundingChecked": "https://doi.org/10.1161/hy1101.099502"
+}

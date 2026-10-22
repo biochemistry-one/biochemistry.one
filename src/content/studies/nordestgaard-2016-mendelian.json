@@ -1,0 +1,19 @@
+{
+  "title": "Coffee intake, cardiovascular disease and all-cause mortality: observational and Mendelian randomization analyses in 95 000-223 000 individuals",
+  "authors": "Nordestgaard AT, Nordestgaard BG",
+  "journal": "International Journal of Epidemiology",
+  "year": 2016,
+  "doi": "10.1093/ije/dyw325",
+  "pmid": "28031317",
+  "design": "mendelian-randomisation",
+  "participants": 112509,
+  "followUp": "median 6.0 years for all-cause mortality; to November 2014",
+  "population": "White Danes in the Copenhagen General Population Study (95,366 with coffee intake), Copenhagen City Heart Study and Copenhagen Ischaemic Heart Disease Study; CARDIoGRAM and C4D consortia for ischaemic heart disease, up to 223,414 individuals",
+  "funder": "This work was supported by Herlev and Gentofte Hospital, Copenhagen University Hospital and the Danish Heart Foundation. The funding organizations had no role in the design and conduct of the study, the collection, analysis and interpretation of the data or in the writing of the paper.",
+  "funderRole": "none",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Observationally, among 95,366 people with 5422 deaths, coffee intake had U-shaped associations with ischaemic heart disease, ischaemic stroke and all-cause mortality, lowest at medium intake; current smokers were 12% of non-drinkers and 36% of those drinking more than 5 cups a day. A caffeine intake allele score (variants near AHR and CYP1A1/2) was associated with 42% higher coffee intake from 0 to 4 alleles (2.2 against 3.1 cups a day; R2 0.009). Among 112,509 people with 12,656 deaths, hazard ratios per allele were 1.01 (95% CI 0.99 to 1.03) for all-cause mortality, 1.02 (0.99 to 1.06) for cardiovascular mortality and 1.02 (1.00 to 1.03) for ischaemic heart disease. With 80% power the genetic analysis could exclude a per-allele odds ratio of 0.97; about 225,000 cases and 225,000 controls would be needed to exclude the observational hazard ratio of 0.86 for 4 to 5 against 0 cups a day.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20260725030102/https://academic.oup.com/ije/article/45/6/1938/2731240"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Use of proton pump inhibitors and histamine-2 receptor antagonists and risk of gastric cancer in two population-based studies",
+  "authors": "Liu P, McMenamin ÚC, Johnston BT, Murchie P, Iversen L, Lee AJ, et al.",
+  "journal": "British Journal of Cancer",
+  "year": 2020,
+  "doi": "10.1038/s41416-020-0860-4",
+  "pmid": "32367073",
+  "design": "other",
+  "participants": 478292,
+  "followUp": "UK Biobank cohort entry 2006 to 2010, cancer registry follow-up to 2014",
+  "population": "Case-control study in the Scottish Primary Care Clinical Informatics Unit database (1119 gastric cancer cases, 5394 matched controls, 1999 to 2011) and cohort study in UK Biobank (250 cases among 471,779 participants)",
+  "funder": "Access to the UK Biobank was funded by a Cancer Research UK Population Research Postdoctoral Fellowship awarded to ÚCMcM. Liu P. was supported by a joint scholarship from Queen's University Belfast and the Chinese Scholarship Council (201708060458).",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare no competing interests.",
+  "dataAccess": "individual",
+  "result": "With a 1-year lag, PPI use was associated with gastric cancer in the case-control study (adjusted OR 1.49, 95% CI 1.24 to 1.80) and not significantly in UK Biobank (adjusted HR 1.28, 0.86 to 1.90); with a 2-year lag, adjusted OR 1.13 (0.91 to 1.40) and HR 1.15 (0.73 to 1.82). With a 3-year lag, OR 1.03 (0.80 to 1.33). The association did not follow exposure response, the shortest use carrying the highest risk, and weakened with longer lags, which the authors interpret as suggesting reverse causation; they observed little consistent evidence of increased risk.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7374738/fullTextXML"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Impact of CYP2C19 genotype on sertraline exposure in 1200 Scandinavian patients",
+  "authors": "Bråten LS, Haslemo T, Jukic MM, Ingelman-Sundberg M, Molden E, Kringen MK",
+  "journal": "Neuropsychopharmacology",
+  "year": 2020,
+  "doi": "10.1038/s41386-019-0554-x",
+  "pmid": "31649299",
+  "design": "genetic",
+  "participants": 1202,
+  "population": "Patients with CYP2C19 genotype and steady-state serum sertraline measurements (2190 samples) in the therapeutic drug monitoring database of Diakonhjemmet Hospital, Oslo, 2007 to 2018",
+  "funder": "The project was partly funded by the South-Eastern Norway Regional Health Authority.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing interests.",
+  "dataAccess": "individual",
+  "result": "In vitro studies suggest that CYP2C19, CYP2B6, CYP2C9, CYP2D6 and CYP3A4 are all involved in sertraline metabolism, but CYP2C19 and CYP2B6 are regarded as the most relevant enzymes. Against CYP2C19 normal metabolisers, dose-harmonised serum sertraline was 2.68-fold (95% CI 2.16 to 3.31) higher in poor metabolisers (n=35) and 1.38-fold (1.26 to 1.50) higher in intermediate metabolisers; about 10% lower in ultrarapid metabolisers. Odds ratio for a concentration above the 250 nM target range 8.69 (3.88 to 19.19) in poor metabolisers.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6969041/"
+}

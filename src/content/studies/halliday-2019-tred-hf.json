@@ -1,0 +1,20 @@
+{
+  "title": "Withdrawal of pharmacological treatment for heart failure in patients with recovered dilated cardiomyopathy (TRED-HF): an open-label, pilot, randomised trial",
+  "authors": "Halliday BP, Wassall R, Lota AS, Khalique Z, Gregson J, Newsome S, et al.",
+  "journal": "Lancet",
+  "year": 2019,
+  "doi": "10.1016/S0140-6736(18)32484-X",
+  "pmid": "30429050",
+  "registry": "NCT02859311",
+  "design": "rct",
+  "participants": 51,
+  "followUp": "6 months randomised, then 6 months single-arm crossover",
+  "population": "Asymptomatic patients with previous dilated cardiomyopathy whose ejection fraction had improved from below 40% to 50% or more, with normalised left ventricular volume and NT-pro-BNP below 250 ng/l, recruited from UK hospitals",
+  "funder": "The study was funded by a Clinical Research Training Fellowship from the British Heart Foundation (FS/15/29/31492) and received additional support from the Alexander Jansons Foundation, the Cardiovascular Research Centre and NIHR Biomedical Research Unit at Royal Brompton Hospital, the NIHR Imperial College Biomedical Research Centre, the Wellcome Trust and Rosetrees Trust. The British Heart Foundation provided peer review of the grant proposal and had no other role; the other funders had no role in study design, data collection, analysis, interpretation or writing.",
+  "funderRole": "none",
+  "authorConflicts": "Several authors report fees or grants from AstraZeneca, GlaxoSmithKline, Pfizer, Bayer, Novartis, Servier, Roche Diagnostics, Johnson & Johnson, Medtronic, Vifor, Amgen and others, outside the submitted work.",
+  "dataAccess": "individual",
+  "result": "All 51 patients took an ACE inhibitor or angiotensin receptor blocker at enrolment. Phased withdrawal (loop diuretic, then mineralocorticoid receptor antagonist, then beta-blocker, finally ACE inhibitor or angiotensin receptor blocker) against continuation. Relapse within 6 months in 11 of 25 (44%) after withdrawal against none of 26 with continuation (Kaplan-Meier event rate 45.7%, 95% CI 28.5 to 67.2). In the crossover phase, 9 of 25 who then withdrew relapsed within 6 months (36.0%, 20.6 to 57.8). No deaths; three serious adverse events in the withdrawal group. Anonymised participant data are available on request.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6319251/"
+}

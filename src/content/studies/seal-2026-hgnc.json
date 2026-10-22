@@ -1,0 +1,16 @@
+{
+  "title": "Genenames.org: the HGNC and PGNC resources in 2026",
+  "authors": "Seal RL, Braschi B, Gray K, McClay J, Tweedie S, Bruford EA",
+  "journal": "Nucleic Acids Research",
+  "year": 2026,
+  "doi": "10.1093/nar/gkaf1229",
+  "pmid": "41287213",
+  "design": "database",
+  "funder": "National Human Genome Research Institute of the National Institutes of Health [U24HG003345], the U.S. Department of Energy [DE-AC05-00OR22725], and SciBite (Elsevier). SciBite suggested additional gene groups, initially for drug-target genes, and funds their addition.",
+  "funderRole": "design",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "The HGNC, based at the University of Cambridge, approves unique symbols and descriptive names for human genes; the database contains over 44,400 approved symbols, over 19,250 of them for protein-coding genes. When a symbol changes, the HGNC ID stays the same.",
+  "class": "reference",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12807706/"
+}

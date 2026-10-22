@@ -1,0 +1,19 @@
+{
+  "title": "Glucagon-like peptide 1 receptor agonist use and risk of thyroid cancer: Scandinavian cohort study",
+  "authors": "Pasternak B, Wintzell V, Hviid A, Eliasson B, Gudbjörnsdottir S, Jonasson C, et al.",
+  "journal": "BMJ",
+  "year": 2024,
+  "doi": "10.1136/bmj-2023-078225",
+  "pmid": "38683947",
+  "design": "cohort",
+  "participants": 437077,
+  "followUp": "mean 3.9 years (SD 3.5) on GLP-1 receptor agonists and 5.4 years (SD 3.5) on DPP-4 inhibitors; 2007 to 2021",
+  "population": "New users of GLP-1 receptor agonists (145,410) or DPP-4 inhibitors (291,667) in Denmark, Norway and Sweden, with an additional comparison against SGLT2 inhibitor users",
+  "funder": "Supported by the Swedish Cancer Society and the Swedish Research Council; individual authors by Karolinska Institutet, the Novo Nordisk Foundation, the Lundbeck Foundation, the Independent Research Foundation Denmark, Konung Gustaf V:s och Drottning Victorias Frimurarestiftelse and the Danish Cancer Society. The funding sources had no role in design, conduct, collection, analysis, interpretation, preparation, review or approval of the manuscript, or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "One author is employed by NordicRWE; one reports personal fees from Novo Nordisk, Eli Lilly and other manufacturers outside the work; one is a former IQVIA employee.",
+  "dataAccess": "summary",
+  "result": "Thyroid cancer developed in 76 of 145,410 GLP-1 receptor agonist users (1.33 per 10,000 person-years) and 184 of 291,667 DPP-4 inhibitor users (1.46): hazard ratio 0.93 (95% CI 0.66 to 1.31), rate difference -0.13 (-0.61 to 0.36) per 10,000 person-years; medullary thyroid cancer 1.19 (0.37 to 3.86); against SGLT2 inhibitors 1.16 (0.65 to 2.05). The upper confidence limit excludes more than a 31% relative increase over a mean 3.9 years.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11004669"
+}

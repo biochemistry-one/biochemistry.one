@@ -1,0 +1,19 @@
+{
+  "title": "Assessing the cardiovascular effects of levothyroxine use in an ageing UK population with subclinical hypothyroidism: emulated target trial (ACEL-UK-ETT)",
+  "authors": "Holley M, Razvi S, Maxwell I, Dew R, Wilkes S",
+  "journal": "Thyroid",
+  "year": 2026,
+  "doi": "10.1177/10507256261426576",
+  "pmid": "41712269",
+  "design": "cohort",
+  "participants": 22621,
+  "followUp": "10 years",
+  "population": "Adults over 50 years in The Health Improvement Network with TSH 4.1 to 10.0 mU/l and free T4 10.0 to 24.0 pmol/l, 2006 to 2022; median age 66 years, 76.7% women; analysed as an emulated target trial with inverse probability of treatment weighting",
+  "funder": "Funding statement not read: the publisher's full text returned HTTP 403 to automated access. The PubMed record lists the author disclosure only.",
+  "funderRole": "unknown",
+  "authorConflicts": "S.R. has received speaker fees from Merck KGaA and Berlin Chemie AG, makers of levothyroxine; all other authors declared no conflicts.",
+  "dataAccess": "individual",
+  "result": "62% received levothyroxine. Levothyroxine was associated with fewer cardiovascular events (adjusted HR 0.82, 95% CI 0.74 to 0.91) and lower all-cause mortality (0.71, 0.67 to 0.75), without a significant association with bone events (1.04, 0.93 to 1.17); cardiovascular associations were limited to TSH above the age-specific range and to at least five years of treatment. The same group's 2025 time-varying cohort analysis of the same database reported HR 1.17 for mortality and 1.21 for bone events. Results read from the PubMed abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://journals.sagepub.com/doi/10.1177/10507256261426576"
+}

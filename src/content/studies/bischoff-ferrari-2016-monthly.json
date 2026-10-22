@@ -1,0 +1,20 @@
+{
+  "title": "Monthly High-Dose Vitamin D Treatment for the Prevention of Functional Decline: A Randomized Clinical Trial",
+  "authors": "Bischoff-Ferrari HA, Dawson-Hughes B, Orav EJ, Staehelin HB, Meyer OW, Theiler R, et al.",
+  "journal": "JAMA Internal Medicine",
+  "year": 2016,
+  "doi": "10.1001/jamainternmed.2015.7148",
+  "pmid": "26747333",
+  "registry": "NCT01017354",
+  "design": "rct",
+  "participants": 200,
+  "followUp": "12 months",
+  "population": "Community-dwelling men and women aged 70 years or older with a prior fall, Zurich, Switzerland; 58.0% had 25-hydroxyvitamin D below 20 ng/mL at baseline",
+  "funder": "The primary funding sources for this trial were professorship grant PP00B-114864 from the Swiss National Science Foundation and The VELUX Foundations. Supplementary funding was provided by investigator-initiated funds from Merck Sharp & Dohme AG, WILD, and DSM Nutritional Products. The funding sources had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Bischoff-Ferrari: speaker fees from and advisory boards for Merck Sharp & Dohme AG, Amgen, WILD, DSM Nutritional Products, Roche Diagnostics, Nestlé, Pfizer and Sanofi. No other disclosures were reported.",
+  "dataAccess": "individual",
+  "result": "Monthly vitamin D3 24,000 IU (control), 60,000 IU, or 24,000 IU plus calcifediol 300 µg for one year. Lower extremity function did not differ between groups (P=0.26). Incidence of falls: 66.9% (95% CI 54.4% to 77.5%) with 60,000 IU and 66.1% (53.5% to 76.8%) with 24,000 IU plus calcifediol, against 47.9% (35.8% to 60.3%) with 24,000 IU (P=0.048); mean number of falls 1.47, 1.24 and 0.94 (P=0.09).",
+  "class": "industry",
+  "fundingChecked": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/10.1001/jamainternmed.2015.7148"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "葉酸回路のメチル基分岐",
+  "layout": "cycle",
+  "compartment": "細胞質ゾル",
+  "steps": [
+    {
+      "from": "テトラヒドロ葉酸（THF）",
+      "to": "5,10-メチレン-THF",
+      "enzyme": "セリンヒドロキシメチルトランスフェラーゼ1（SHMT1）",
+      "cofactors": ["L-セリン → グリシン", "ピリドキサール5′-リン酸"],
+      "reversible": true,
+      "note": "ミトコンドリアではSHMT2が同じ反応を触媒する"
+    },
+    {
+      "from": "5,10-メチレン-THF",
+      "to": "5-メチル-THF",
+      "enzyme": "メチレンテトラヒドロ葉酸還元酵素（MTHFR）",
+      "cofactors": ["NADPH", "FAD"],
+      "note": "生体内では不可逆。SAMにより阻害される。Ala222Val（677C>T）型の酵素はFADをより速く失う"
+    },
+    {
+      "from": "5-メチル-THF",
+      "to": "テトラヒドロ葉酸（THF）",
+      "enzyme": "メチオニン合成酵素（MTR）",
+      "cofactors": ["ホモシステイン → メチオニン", "メチルコバラミン"],
+      "inhibitors": [{"name": "亜酸化窒素", "page": "medicines/nitrous-oxide"}],
+      "note": "5-メチル-THFを消費する唯一の反応。ビタミンB12欠乏で遅くなる（メチル葉酸トラップ）"
+    }
+  ]
+}

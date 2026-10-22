@@ -1,0 +1,32 @@
+---
+import type { Lang } from "../i18n/languages";
+import { stringsFor, uiFor } from "../i18n/strings";
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const strings = stringsFor(lang);
+const ui = uiFor(lang);
+const CLASSES = ["independent", "industry", "regulatory", "consensus", "reference", "undetermined"] as const;
+const LAYERS = ["", "k-industry", "k-consensus", "k-unresolved"];
+---
+<aside class="side" aria-label={ui.keyTitle}>
+  <div class="side-inner">
+    <div class="side-card">
+      <h2>{ui.keyTitle}</h2>
+      <ul class="key">
+        {CLASSES.map((name) => (
+          <li><span class={`class-marker class-${name}`} aria-hidden="true"></span><b>{strings.classes[name]}</b><span>{ui.keyText[name]}</span></li>
+        ))}
+      </ul>
+    </div>
+    <div class="side-card">
+      <h2>{ui.layerKeyTitle}</h2>
+      <ul class="layer-key">
+        {ui.layerKey.map((text, index) => <li class={LAYERS[index] || undefined}>{text}</li>)}
+      </ul>
+    </div>
+  </div>
+</aside>

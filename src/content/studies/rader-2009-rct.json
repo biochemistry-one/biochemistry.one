@@ -1,0 +1,15 @@
+{
+  "title": "The role of reverse cholesterol transport in animals and humans and relationship to atherosclerosis",
+  "authors": "Rader DJ, Alexander ET, Weibel GL, Billheimer J, Rothblat GH",
+  "journal": "Journal of Lipid Research",
+  "year": 2009,
+  "doi": "10.1194/jlr.R800088-JLR200",
+  "pmid": "19064999",
+  "design": "other",
+  "funder": "P01-HL22633 from the NHLBI.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Review. Most peripheral cells cannot catabolise cholesterol and dispose of it by efflux to extracellular acceptors such as HDL. ABCA1 mediates efflux to lipid-poor apoA-I and ABCG1 efflux to mature HDL; LCAT esterifies HDL cholesterol; HDL cholesterol reaches the liver directly through SR-BI or after CETP-mediated transfer to apoB-containing lipoproteins and uptake by the LDL receptor; hepatic cholesterol is excreted into bile as cholesterol or after conversion to bile acids. Rodents lack CETP. A tracer study in healthy humans suggested that almost all HDL-derived labelled cholesterol excreted into bile was first transferred to apoB-containing lipoproteins. In animals, the rate of macrophage reverse cholesterol transport is more strongly associated with atherosclerosis than steady-state HDL cholesterol; methods to measure it in humans were still being developed and validated.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2674717/"
+}

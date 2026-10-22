@@ -1,0 +1,16 @@
+{
+  "title": "Implications of recent clinical trials for the National Cholesterol Education Program Adult Treatment Panel III guidelines",
+  "authors": "Grundy SM, Cleeman JI, Merz CN, Brewer HB Jr, Clark LT, Hunninghake DB, et al.",
+  "journal": "Circulation",
+  "year": 2004,
+  "doi": "10.1161/01.CIR.0000133317.49796.0E",
+  "pmid": "15249516",
+  "design": "guideline",
+  "funder": "not stated; approved by the National Heart, Lung, and Blood Institute, the American Heart Association and the American College of Cardiology Foundation",
+  "funderRole": "unknown",
+  "authorConflicts": "Financial disclosure published by the NHLBI: of nine working group members, eight reported relationships with manufacturers of lipid-lowering drugs. Grundy: honoraria from Merck, Pfizer, Sankyo, Bayer, Merck/Schering-Plough, Kos, Abbott, Bristol-Myers Squibb and AstraZeneca and research grants from Merck, Abbott and GlaxoSmithKline. Bairey Merz: lecture honoraria from Pfizer, Merck and Kos, consultancy for Pfizer, Bayer and EHC (Merck), research grant from Merck, stock in several companies. Brewer: honoraria and consultancy from AstraZeneca, Pfizer, Merck, Merck/Schering-Plough, Novartis and others. Clark: honoraria and research support from Abbott, AstraZeneca, Bristol-Myers Squibb, Merck and Pfizer. Hunninghake: consulting, speakers bureau and research grants from AstraZeneca, Merck, Merck/Schering-Plough, Pfizer, Kos, Bristol-Myers Squibb and Novartis. Pasternak: speaker for Pfizer, Merck, Merck/Schering-Plough, Takeda, Kos, BMS-Sanofi and Novartis and consultant for Merck, Merck/Schering-Plough, Sanofi, Pfizer Health Solutions, Johnson & Johnson-Merck and AstraZeneca. Smith: institutional research support from Merck. Stone: honoraria from Abbott, AstraZeneca, Bristol-Myers Squibb, Kos, Merck, Merck/Schering-Plough, Novartis, Pfizer, Reliant and Sankyo and consultancy for several of them. Cleeman: none.",
+  "dataAccess": "summary",
+  "result": "Based on five statin trials published after 2001 (including HPS and PROVE IT), the update kept an LDL cholesterol goal below 100 mg/dL for high-risk people but made a goal below 70 mg/dL a therapeutic option for very high risk, including people with baseline LDL below 100 mg/dL; for moderately high-risk people (2 or more risk factors, 10-year risk 10 to 20%) the goal stayed below 130 mg/dL with below 100 mg/dL as an option; drug therapy should lower LDL cholesterol by at least 30 to 40%. The authors state that HPS and PROVE IT cannot be taken as the final word on lowering LDL well below 100 mg/dL.",
+  "class": "consensus",
+  "fundingChecked": "http://web.archive.org/web/20050123151745/http://www.nhlbi.nih.gov:80/guidelines/cholesterol/atp3upd04_disclose.htm"
+}

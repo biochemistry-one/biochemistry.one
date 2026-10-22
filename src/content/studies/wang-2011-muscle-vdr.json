@@ -1,0 +1,16 @@
+{
+  "title": "Is the vitamin D receptor found in muscle?",
+  "authors": "Wang Y, DeLuca HF",
+  "journal": "Endocrinology",
+  "year": 2011,
+  "doi": "10.1210/en.2010-1109",
+  "pmid": "21190957",
+  "design": "animal",
+  "population": "Mouse tissues, including tissues from vitamin D receptor null mice as antibody controls",
+  "funder": "not stated in the abstract; the full text was not accessible (paywall), so the funding statement was not read.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Abstract: most available antibodies against the vitamin D receptor detect proteins other than the receptor and may give false-positive results. With antibodies that detect no protein in tissues of vitamin D receptor null mice, a specific immunohistochemical assay found the receptor undetectable in skeletal, cardiac and smooth muscle, suggesting that the action of vitamin D on muscle is indirect or does not involve the known receptor.",
+  "class": "undetermined",
+  "fundingChecked": "https://academic.oup.com/endo/article-lookup/doi/10.1210/en.2010-1109"
+}

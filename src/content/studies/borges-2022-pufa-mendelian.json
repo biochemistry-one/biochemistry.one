@@ -1,0 +1,18 @@
+{
+  "title": "Role of circulating polyunsaturated fatty acids on cardiovascular diseases risk: analysis using Mendelian randomization and fatty acid genetic association data from over 114,000 UK Biobank participants",
+  "authors": "Borges MC, Haycock PC, Zheng J, Hemani G, Holmes MV, Davey Smith G, et al.",
+  "journal": "BMC Medicine",
+  "year": 2022,
+  "doi": "10.1186/s12916-022-02399-w",
+  "pmid": "35692035",
+  "design": "mendelian-randomisation",
+  "participants": 114999,
+  "population": "Genome-wide association study of plasma polyunsaturated fatty acids in 114,999 UK Biobank participants; cardiovascular outcomes in up to 1,153,768 individuals of European ancestry",
+  "funder": "Bristol BHF Accelerator Award (AA/18/7/34219) and the UK Medical Research Council Integrative Epidemiology Unit; individual fellowships from the UK Medical Research Council, University of Bristol, Cancer Research UK, Academy of Medical Sciences, Wellcome Trust, British Heart Foundation, Diabetes UK, Royal Society and NIHR. No funder influenced the study design, analyses or interpretation of results.",
+  "funderRole": "none",
+  "authorConflicts": "DAL acknowledges support from Roche Diagnostics and Medtronic Ltd for unrelated research; other authors declare none.",
+  "dataAccess": "summary",
+  "result": "55 genetic instruments explained 4.8% of plasma linoleic acid variance. Per SD of genetically predicted linoleic acid, coronary artery disease OR 1.26 (95% CI 1.06 to 1.49) by inverse-variance weighting, not passing the multiple-testing threshold (P < 0.006); MR-Egger 0.99 (0.70 to 1.38); multivariable MR adjusted for LDL cholesterol and triglycerides 0.77 (0.61 to 0.96). Instruments mapped to lipoprotein genes; the authors consider horizontal pleiotropy via lipoprotein-related traits a key source of bias.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9190170/"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Antidepressant use during pregnancy and the risk of major congenital malformations in a cohort of depressed pregnant women: an updated analysis of the Quebec Pregnancy Cohort",
+  "authors": "Bérard A, Zhao JP, Sheehy O",
+  "journal": "BMJ Open",
+  "year": 2017,
+  "doi": "10.1136/bmjopen-2016-013372",
+  "pmid": "28082367",
+  "design": "cohort",
+  "participants": 18487,
+  "population": "Pregnancies in the Quebec Pregnancy Cohort, 1998 to 2009, with a diagnosis of depression or anxiety or antidepressant exposure in the 12 months before pregnancy, ending in a live-born singleton; 3640 exposed to antidepressants in the first trimester, 365 to sertraline",
+  "funder": "This study was supported by the Canadian Institutes of Health Research (grant number 132750). AB is the recipient of a research chair from the Fonds de la recherche du Québec—Santé.",
+  "funderRole": "unknown",
+  "authorConflicts": "AB is a consultant for plaintiffs in litigations involving antidepressants and birth defects.",
+  "dataAccess": "individual",
+  "result": "First-trimester sertraline and major congenital malformations: adjusted OR 1.09 (95% CI 0.80 to 1.50); nervous system 1.72 (0.69 to 4.26). Citalopram: major malformations 1.36 (1.08 to 1.73), craniosynostosis 3.95 (2.08 to 7.52); paroxetine: cardiac defects 1.45 (1.12 to 1.88).",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=5278249"
+}

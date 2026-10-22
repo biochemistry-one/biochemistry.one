@@ -1,0 +1,17 @@
+{
+  "title": "Pharmacokinetics of codeine and its metabolite morphine in ultra-rapid metabolizers due to CYP2D6 duplication",
+  "authors": "Kirchheiner J, Schmidt H, Tzvetkov M, Keulen JT, Lötsch J, Roots I, et al.",
+  "journal": "The Pharmacogenomics Journal",
+  "year": 2007,
+  "doi": "10.1038/sj.tpj.6500406",
+  "pmid": "16819548",
+  "design": "genetic",
+  "participants": 26,
+  "population": "Healthy volunteers genotyped as CYP2D6 ultrarapid metabolisers with a gene duplication, extensive metabolisers or poor metabolisers",
+  "funder": "This study was supported by a grant from the German Ministry of Education and Research (GG 9845/5, Pharmacogenetic diagnostics).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "After a single 30 mg oral dose of codeine, median morphine area under the plasma concentration curve was 11 µg·h/l (range 5 to 17) in extensive metabolisers and 16 µg·h/l (10 to 24) in ultrarapid metabolisers (P = 0.02), about 50% higher plasma concentrations of morphine and its glucuronides. Urinary metabolic ratios of codeine plus codeine-6-glucuronide to morphine plus its glucuronides were 11 (6 to 17) and 9 (6 to 16) (P = 0.05). Sedation occurred in 91% of ultrarapid and 50% of extensive metabolisers (P = 0.03); no severe adverse effect occurred, which the authors attribute to the low dose. The abstract states the group sizes inconsistently: 12 ultrarapid and 11 extensive metabolisers for the pharmacokinetic comparison, 11 and 12 for the sedation counts.",
+  "class": "independent",
+  "fundingChecked": "https://www.nature.com/articles/6500406"
+}

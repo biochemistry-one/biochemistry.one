@@ -1,0 +1,17 @@
+{
+  "title": "Diet and the evolution of human amylase gene copy number variation",
+  "authors": "Perry GH, Dominy NJ, Claw KG, Lee AS, Fiegler H, Redon R, et al.",
+  "journal": "Nature Genetics",
+  "year": 2007,
+  "doi": "10.1038/ng2123",
+  "pmid": "17828263",
+  "design": "genetic",
+  "participants": 226,
+  "population": "Populations with high-starch diets (50 European-Americans, 45 Japanese, 38 Hadza) and low-starch diets (36 Biaka, 15 Mbuti, 17 Datog, 25 Yakut)",
+  "funder": "L.S.B. Leakey Foundation and Wenner-Gren Foundation (to N.J.D.), Department of Pathology, Brigham & Women's Hospital (to C.L.), National Institutes of Health (to the University of Louisiana at Lafayette New Iberia Research Center; RR015087, RR014491, RR016483) and the Wellcome Trust (H.F., R.R., N.P.C.).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Diploid copy number of the salivary amylase gene AMY1 correlated positively with salivary amylase protein in 50 European-Americans (P < 0.001; R2 = 0.351). At least 6 AMY1 copies were found in 70% of individuals from the combined high-starch sample and in 37% from low-starch populations. Fifteen wild-born western chimpanzees had 2 diploid AMY1 copies; the human genome reference sequence contains three AMY1 copies.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2377015/"
+}

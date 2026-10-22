@@ -1,0 +1,19 @@
+{
+  "title": "Causal associations of blood lipids with risk of ischemic stroke and intracerebral hemorrhage in Chinese adults",
+  "authors": "Sun L, Clarke R, Bennett D, Guo Y, Walters RG, Hill M, et al.",
+  "journal": "Nature Medicine",
+  "year": 2019,
+  "doi": "10.1038/s41591-019-0366-x",
+  "pmid": "30858617",
+  "design": "mendelian-randomisation",
+  "participants": 16541,
+  "followUp": "median 9 years",
+  "population": "Nested case-control study in the China Kadoorie Biobank: 5475 ischaemic stroke cases, 4776 intracerebral haemorrhage cases and 6290 controls without prior cardiovascular disease, cancer, or lipid-lowering, anticoagulant or antiplatelet treatment; mean baseline LDL cholesterol 2.4 mmol/L",
+  "funder": "Kadoorie Charitable Foundation (baseline survey); Wellcome Trust (202922/Z/16/Z, 104085/Z/14/Z, 088158/Z/09/Z); Chinese National Natural Science Foundation; National Key Research and Development Program of China; core funding to the CTSU from the British Heart Foundation, UK Medical Research Council and Cancer Research UK. The funders played no role in the design or conduct of the study, including data collection, management, analysis, or interpretation of the results; preparation, review, or approval of the manuscript; or the decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "We declare that we have no conflicts of interest.",
+  "dataAccess": "individual",
+  "result": "Each 1 mmol/L lower usual LDL cholesterol (range 1.7 to 3.2 mmol/L) was associated with intracerebral haemorrhage rate ratio 1.16 (95% CI 1.08 to 1.25) and ischaemic stroke 0.85 (0.80 to 0.91). Each 1 mmol/L lower genetically instrumented LDL cholesterol (46-variant score) gave rate ratios of 1.13 (0.91 to 1.40) for intracerebral haemorrhage and 0.75 (0.60 to 0.95) for ischaemic stroke. In a meta-analysis of randomised trials of LDL-lowering with statins, ezetimibe or PCSK9 inhibitors, rate ratios per 1 mmol/L were 1.17 (1.03 to 1.32) for intracerebral haemorrhage and 0.80 (0.76 to 0.84) for ischaemic stroke. Applying trial estimates to Chinese absolute risks, the authors predict that ischaemic strokes and major coronary events avoided greatly exceed the excess haemorrhages.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6795549"
+}

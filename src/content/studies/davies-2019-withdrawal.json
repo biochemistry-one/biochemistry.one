@@ -1,0 +1,16 @@
+{
+  "title": "A systematic review into the incidence, severity and duration of antidepressant withdrawal effects: Are guidelines evidence-based?",
+  "authors": "Davies J, Read J",
+  "journal": "Addictive Behaviors",
+  "year": 2019,
+  "doi": "10.1016/j.addbeh.2018.08.027",
+  "pmid": "30292574",
+  "design": "systematic-review",
+  "population": "24 studies of antidepressant withdrawal with diverse methods, including online surveys of antidepressant users",
+  "funder": "not read: the archived publisher page shows only the abstract, the university repository returned HTTP 403, and Crossref metadata list no funder. Davies is affiliated with the All-Party Parliamentary Group for Prescribed Drug Dependence and Read with the International Institute for Psychiatric Drug Withdrawal.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Withdrawal incidence in 14 studies ranged from 27% to 86%, weighted average 56%. In four large studies of severity, a weighted average of 46% of those with withdrawal effects endorsed the most extreme severity rating offered. Seven of ten studies on duration found that a significant proportion had withdrawal for more than two weeks; mean durations in the four studies that calculated one were 5 days, 10 days, 43 days and 79 weeks. Results read from the abstract.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20241230104652/https://www.sciencedirect.com/science/article/pii/S0306460318308347"
+}

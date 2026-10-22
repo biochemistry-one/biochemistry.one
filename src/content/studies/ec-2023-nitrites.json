@@ -1,0 +1,14 @@
+{
+  "title": "Commission Regulation (EU) 2023/2108 of 6 October 2023 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council and the Annex to Commission Regulation (EU) No 231/2012 as regards food additives nitrites (E 249-250) and nitrates (E 251-252)",
+  "authors": "European Commission",
+  "journal": "Official Journal of the European Union, L series, 2023/2108, 9 October 2023",
+  "year": 2023,
+  "url": "https://eur-lex.europa.eu/eli/reg/2023/2108/oj",
+  "design": "regulatory",
+  "funder": "European Commission.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Recital 4: nitrites and nitrates are used as preservatives to secure the preservation and microbiological safety of foods, in particular meat, fish and cheese products, protecting against the multiplication of bacteria, in particular C. botulinum; their presence can give rise to nitrosamines, some of which are carcinogenic. Recital 20: revised maximum levels are expressed as nitrite ion; the conversion factor from sodium nitrite is 0.67. Annex I, from 9 October 2025, E 249-250: non-heat-treated meat products (08.3.1) and heat-treated meat products other than sterilised (08.3.2), 80 mg/kg maximum added amount as NO2 ion and at most 45 mg/kg residual from all sources throughout shelf-life, replacing 150 mg/kg; sterilised meat products (Fo > 3.00), 55 mg/kg added and at most 25 mg/kg residual, replacing 100 mg/kg; listed meat preparations (08.2), 80 mg/kg added; traditional and traditionally cured meat products (08.3.4) carry product-specific limits.",
+  "class": "regulatory",
+  "fundingChecked": "http://publications.europa.eu/resource/cellar/e8600120-6640-11ee-9220-01aa75ed71a1.0006.03/DOC_1"
+}

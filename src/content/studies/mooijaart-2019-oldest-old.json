@@ -1,0 +1,20 @@
+{
+  "title": "Association between levothyroxine treatment and thyroid-related symptoms among adults aged 80 years and older with subclinical hypothyroidism",
+  "authors": "Mooijaart SP, Du Puy RS, Stott DJ, Kearney PM, Rodondi N, Westendorp RGJ, et al.",
+  "journal": "JAMA",
+  "year": 2019,
+  "doi": "10.1001/jama.2019.17274",
+  "pmid": "31664429",
+  "design": "rct",
+  "participants": 251,
+  "followUp": "1 year",
+  "population": "Community-dwelling adults aged 80 years or older with subclinical hypothyroidism: the IEMO 80-plus trial (105) and the TRUST subgroup aged 80 or more (146); mean age 85 years, 47% women",
+  "funder": "The IEMO trial was supported by research grant (627001001) from ZonMw and by grants from the Swiss National Science Foundation. The TRUST trial was supported by research grant (278148) from the European Union FP7-HEALTH-2011 program and by grants from the Swiss National Science Foundation and the Swiss Heart Foundation and Velux Stiftung. Study medication (levothyroxine and matching placebo) was supplied free of charge by Merck KGaA. The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "inKindSupport": "Levothyroxine and matching placebo supplied free of charge by Merck KGaA.",
+  "authorConflicts": "Several authors reported nonfinancial support from Merck KGaA (study medication) during the conduct of the study.",
+  "dataAccess": "individual",
+  "result": "Prospectively planned combined analysis of two placebo-controlled trials: levothyroxine 112, placebo 139. At 1 year the hypothyroid symptoms score changed from 21.7 to 19.3 on levothyroxine and from 19.8 to 17.4 on placebo (adjusted difference 1.3, 95% CI -2.7 to 5.2); tiredness from 25.5 to 28.2 and from 25.1 to 28.7 (difference -0.1, -4.5 to 4.3); minimal clinically important difference 9. At least one adverse event in 33 (29.5%) on levothyroxine and 40 (28.8%) on placebo; cerebrovascular accident in 3 participants on levothyroxine.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6822162/"
+}

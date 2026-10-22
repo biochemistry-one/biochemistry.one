@@ -1,0 +1,18 @@
+{
+  "title": "Dietary factors associated with dental erosion: a meta-analysis",
+  "authors": "Li H, Zou Y, Ding G",
+  "journal": "PLoS One",
+  "year": 2012,
+  "doi": "10.1371/journal.pone.0042626",
+  "pmid": "22952601",
+  "design": "meta-analysis",
+  "participants": 8877,
+  "population": "Nine studies published from 1997 to 2011 in Brazil, the Netherlands, Sri Lanka, China, the UK and Greece; mean or median ages 5 to 17 years",
+  "funder": "These authors have no support or funding to report.",
+  "funderRole": "none",
+  "authorConflicts": "The authors have declared that no competing interests exist.",
+  "dataAccess": "summary",
+  "result": "Pooled odds ratios (Mantel-Haenszel) for dental erosion: soft drinks 2.41 (95% CI 2.03 to 2.85; 9 studies, 8877 participants), vitamin C 1.16 (1.10 to 1.22; 4 studies, 3975), sports drinks 1.58 (0.88 to 2.85), juice 0.90 (0.25 to 3.24), milk 0.67 (0.11 to 4.01), yoghurt 1.05 (0.28 to 3.96). Multivariate estimates were used when available, otherwise unadjusted ones. Citric acid was not analysed as a separate exposure. A 2016 correction (PLoS One 11:e0161518) changed only the location of one study, from the UK to Brazil.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3432030/fullTextXML"
+}

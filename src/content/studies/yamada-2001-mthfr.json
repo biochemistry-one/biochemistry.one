@@ -1,0 +1,15 @@
+{
+  "title": "Effects of common polymorphisms on the properties of recombinant human methylenetetrahydrofolate reductase",
+  "authors": "Yamada K, Chen Z, Rozen R, Matthews RG",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 2001,
+  "doi": "10.1073/pnas.261469998",
+  "pmid": "11742092",
+  "design": "in-vitro",
+  "funder": "These studies were supported in part by National Institutes of Health Grant GM24908 (to R.G.M.) and by funds from the Medical Research Council of Canada (to R.R.).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Human MTHFR is a dimer of about 70 kDa subunits, each with non-covalently bound FAD, that reduces 5,10-methylene-THF to 5-methyl-THF with NADPH; SAM binds the C-terminal regulatory domain as an allosteric inhibitor, and SAH competes with SAM there without inhibiting. Purified recombinant Ala222Val enzyme (677C>T) had the same Km for NADPH and 5,10-methylene-THF, the same Vmax and the same SAM inhibition as wild type, but released FAD about 3-fold faster after dilution to 50 nM subunits at 37 degrees C; 5-methyl-THF and SAM slowed FAD loss. Background cited: cell extracts from TT homozygotes have about 30% of CC activity; about 10-15% of Caucasians of European origin and of Japanese are TT, more in Mediterranean countries and fewer among African Americans; 677C>T is the most frequent genetic cause of mild hyperhomocysteinaemia, seen in TT homozygotes with plasma folate below the median.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC64948/"
+}

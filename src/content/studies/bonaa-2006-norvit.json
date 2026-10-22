@@ -1,0 +1,21 @@
+{
+  "title": "Homocysteine lowering and cardiovascular events after acute myocardial infarction",
+  "authors": "Bønaa KH, Njølstad I, Ueland PM, Schirmer H, Tverdal A, Steigen T, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2006,
+  "doi": "10.1056/NEJMoa055227",
+  "pmid": "16531614",
+  "registry": "NCT00266487",
+  "design": "rct",
+  "participants": 3749,
+  "followUp": "median 40 months",
+  "population": "Men and women aged 30 to 85 years within 7 days of an acute myocardial infarction, 35 Norwegian hospitals, without folic acid fortification",
+  "funder": "Supported by the Norwegian Research Council, the Council on Health and Rehabilitation, the University of Tromsø, the Norwegian Council on Cardiovascular Disease, the Northern Norway Regional Health Authority, the Norwegian Red Cross, the Foundation to Promote Research into Functional Vitamin B12 Deficiency, and an unrestricted private donation. Study medication was provided without charge by Alpharma. The sponsors had no role in the design, conduct, or reporting of the study. The later combined NORVIT and WENBIT report (Ebbing 2009, JAMA) states that Alpharma also rendered a limited grant to finance the initial phase of the trials.",
+  "funderRole": "none",
+  "inKindSupport": "Study capsules manufactured by Alpharma, which also performed randomisation in blocks of 20",
+  "authorConflicts": "Dr Ueland reported consulting fees from Nycomed, membership of the steering board of the Foundation to Promote Research into Functional Vitamin B12 Deficiency and of Bevital, a company owned by the foundation, and is an inventor on a Bevital patent application on folate determination.",
+  "dataAccess": "summary",
+  "result": "Factorial trial of folic acid 0.8 mg (5 mg daily for the first 2 weeks) with vitamin B12 0.4 mg, vitamin B6 40 mg, both or placebo. Folic acid with B12 lowered homocysteine by 27% but not the composite of myocardial infarction, stroke and sudden coronary death (risk ratio 1.08, 95% CI 0.93 to 1.25). Folic acid, B12 and B6 together: risk ratio 1.22 (1.00 to 1.50, P = 0.05) against placebo, cumulative hazard ratio 1.20 (1.02 to 1.41) against the other three groups; nonfatal myocardial infarction 30% higher (P = 0.05). Adverse effects were collected by a yes-or-no questionnaire; 18 to 24% answered yes in each group. The authors conclude that a harmful effect of combined B-vitamin treatment was suggested. Classed industry because of the Alpharma grant disclosed in 2009.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20250715073641/https://www.nejm.org/doi/full/10.1056/NEJMoa055227"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Geographical and ethnic variation of the 677C>T allele of 5,10 methylenetetrahydrofolate reductase (MTHFR): findings from over 7000 newborns from 16 areas world wide",
+  "authors": "Wilcken B, Bamforth F, Li Z, Zhu H, Ritvanen A, Redlund M, et al.",
+  "journal": "Journal of Medical Genetics",
+  "year": 2003,
+  "doi": "10.1136/jmg.40.8.619",
+  "pmid": "12920077",
+  "design": "genetic",
+  "participants": 7130,
+  "population": "Newborns sampled from screening programmes and birth hospitals in 16 areas of Europe, Russia, Israel, China, Australia and the Americas, under the International Clearinghouse for Birth Defect Monitoring Systems",
+  "funder": "The study was supported in part by grant U50/CCU207141 from the US Centers for Disease Control and Prevention. The work by Generoso Andria (Napoli) was partially supported by grants from CNR Rome.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "TT homozygosity: Mexico 32.2%, Campania 26.4%, Sicily 20.1%, northern Han China 19.8%, southern Han China 8.1%, Spanish whites 11.8%, Hungary 11.1%, Atlanta whites 10.7%, Atlanta Hispanics 17.7%, Atlanta blacks 2.7%, Australian whites 8.0%, Russia 7.0%, the Netherlands 6.4%, Alberta whites 5.8%, Helsinki 4.0%. CT heterozygosity was 20% in Atlanta blacks and 34% to 53% in the other main groups. T allele frequency 12.6% (Atlanta blacks) to 57.0% (Mexico).",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/2024id_/https://jmg.bmj.com/content/40/8/619.full.pdf"
+}

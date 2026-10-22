@@ -1,0 +1,16 @@
+{
+  "title": "Origin and evolution of the genetic code: the universal enigma",
+  "authors": "Koonin EV, Novozhilov AS",
+  "journal": "IUBMB Life",
+  "year": 2009,
+  "doi": "10.1002/iub.146",
+  "pmid": "19117371",
+  "design": "other",
+  "funder": "The authors' research is supported by the Department of Health and Human Services intramural program (NIH, National Library of Medicine).",
+  "funderRole": "none",
+  "authorConflicts": "No statement in the PMC author manuscript.",
+  "dataAccess": "summary",
+  "result": "Review. The standard genetic code maps 64 codons, each a triplet of nucleotides, to 20 amino acids and two punctuation marks, start and stop signals; 61 codons code for amino acids and three are stop codons; the code is shared, with relatively minor modifications, by all known life forms. Selenocysteine and pyrrolysine are encoded by special schemes in subsets of organisms.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3293468/"
+}

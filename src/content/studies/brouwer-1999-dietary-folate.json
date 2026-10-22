@@ -1,0 +1,19 @@
+{
+  "title": "Dietary folate from vegetables and citrus fruit decreases plasma homocysteine concentrations in humans in a dietary controlled trial",
+  "authors": "Brouwer IA, van Dusseldorp M, West CE, Meyboom S, Thomas CM, Duran M, et al.",
+  "journal": "Journal of Nutrition",
+  "year": 1999,
+  "doi": "10.1093/jn/129.6.1135",
+  "pmid": "10356077",
+  "design": "rct",
+  "participants": 66,
+  "followUp": "4 weeks",
+  "population": "Healthy adults aged 18 to 45 years in the Netherlands on fully controlled diets: high in vegetables and citrus fruit (about 560 µg folate) with placebo, low-folate diet (about 210 µg) with 250 µg/day folic acid, or low-folate diet with placebo",
+  "funder": "This work was supported by the Zorg Onderzoek Nederland/Dutch Prevention Fund (28-2559), The Hague, and Unilever Research Vlaardingen.",
+  "funderRole": "unknown",
+  "inKindSupport": "Tablets were supplied by Pharmachemie BV, Haarlem; Abbott Diagnostics provided the IMx diagnostic kits.",
+  "dataAccess": "summary",
+  "result": "Results read from the published abstract. After 4 weeks folate status improved and homocysteine fell with both the dietary folate and the folic acid diets against placebo. From the additional 350 µg/day food folate and 250 µg/day folic acid, the bioavailability of dietary folate relative to folic acid was calculated as 60% to 98%, depending on the endpoint.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20240415211854/https://www.sciencedirect.com/science/article/pii/S0022316623020655"
+}

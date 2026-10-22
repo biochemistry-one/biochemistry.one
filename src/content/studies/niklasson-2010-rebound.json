@@ -1,0 +1,18 @@
+{
+  "title": "Dyspeptic symptom development after discontinuation of a proton pump inhibitor: a double-blind placebo-controlled trial",
+  "authors": "Niklasson A, Lindström L, Simrén M, Lindberg G, Björnsson E",
+  "journal": "American Journal of Gastroenterology",
+  "year": 2010,
+  "doi": "10.1038/ajg.2010.81",
+  "pmid": "20332770",
+  "design": "rct",
+  "participants": 48,
+  "followUp": "28 days of treatment and 6 weeks after",
+  "population": "Healthy Helicobacter pylori-negative volunteers (24 women) randomised to pantoprazole 40 mg or placebo once daily for 28 days",
+  "funder": "Not read: the publisher page required payment and the article is not in PubMed Central.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "In the first week after stopping, 11 of 25 (44%) on pantoprazole developed dyspepsia against 2 of 23 (9%) on placebo (P < 0.01); mean Glasgow dyspepsia score 5.7 against 0.74 in week 1 and 1.6 against 0 in week 2, with no significant difference in week 3. Symptom scores in week 1 correlated with basal and meal-stimulated gastrin at the end of treatment.",
+  "class": "undetermined",
+  "fundingChecked": "https://doi.org/10.1038/ajg.2010.81"
+}

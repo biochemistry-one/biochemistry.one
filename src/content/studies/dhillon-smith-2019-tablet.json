@@ -1,0 +1,20 @@
+{
+  "title": "Levothyroxine in women with thyroid peroxidase antibodies before conception",
+  "authors": "Dhillon-Smith RK, Middleton LJ, Sunner KK, Cheed V, Baker K, Farrell-Carver S, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2019,
+  "doi": "10.1056/NEJMoa1812537",
+  "pmid": "30907987",
+  "registry": "ISRCTN15948785",
+  "design": "rct",
+  "participants": 952,
+  "followUp": "from before conception to the end of pregnancy",
+  "population": "Euthyroid women with thyroid peroxidase antibodies and a history of miscarriage or infertility, from 19,585 women tested at 49 UK hospitals",
+  "funder": "Supported by the United Kingdom NIHR efficacy and mechanism evaluation program (project number 09/100/10). Generic levothyroxine and placebo were packaged and supplied by Sharp HealthCare (formerly Bilcare United Kingdom), which had no role in the design of the trial; the collection, analysis or interpretation of the data.",
+  "funderRole": "unknown",
+  "authorConflicts": "Disclosure forms are available with the full text at NEJM.org; not read.",
+  "dataAccess": "unknown",
+  "result": "Levothyroxine 50 µg daily or placebo. Live birth after at least 34 weeks: 176 of 470 (37.4%) against 178 of 470 (37.9%); relative risk 0.97 (95% CI 0.83 to 1.14), absolute difference -0.4 percentage points (-6.6 to 5.8). Pregnancy loss, preterm birth and neonatal outcomes did not differ. Serious adverse events in 28 women (5.9%) on levothyroxine and 18 (3.8%) on placebo (P = 0.14).",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20220408122829/https://www.nejm.org/doi/full/10.1056/NEJMoa1812537"
+}

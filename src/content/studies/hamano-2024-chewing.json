@@ -1,0 +1,18 @@
+{
+  "title": "Ultra-processed foods cause weight gain and increased energy intake associated with reduced chewing frequency: a randomized, open-label, crossover study",
+  "authors": "Hamano S, Sawada M, Aihara M, Sakurai Y, Sekine R, Usami S, et al.",
+  "journal": "Diabetes, Obesity and Metabolism",
+  "year": 2024,
+  "doi": "10.1111/dom.15922",
+  "pmid": "39267249",
+  "design": "rct",
+  "participants": 9,
+  "followUp": "1 week on each diet with a 2-week washout",
+  "population": "Japanese men with overweight or obesity at the University of Tokyo Hospital",
+  "funder": "Funding statement not read: the publisher's full text and PDF returned HTTP 403 to automated access, and the article is absent from PubMed Central. Publisher-deposited Crossref metadata name the Ministry of Education, Culture, Sports, Science and Technology, Grant-in-Aid for Scientific Research (B) 21H02976.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Open-label crossover; meals matched for total energy and macronutrients. During the ultra-processed period participants gained 1.1 kg more (95% CI 0.2 to 2.0; P = 0.021) and ate 813.5 kcal/day more (342.4 to 1284.7; P = 0.0041); chews per kilocalorie were lower (P = 0.016). Results read from the PubMed abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://api.crossref.org/works/10.1111/dom.15922"
+}

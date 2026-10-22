@@ -1,0 +1,19 @@
+{
+  "title": "Levothyroxine dose and risk of fractures in older adults: nested case-control study",
+  "authors": "Turner MR, Camacho X, Fischer HD, Austin PC, Anderson GM, Rochon PA, et al.",
+  "journal": "BMJ",
+  "year": 2011,
+  "doi": "10.1136/bmj.d2238",
+  "pmid": "21527461",
+  "design": "case-control",
+  "participants": 213511,
+  "followUp": "mean 3.8 years",
+  "population": "Ontario residents aged 70 years or more prescribed levothyroxine between April 2002 and March 2007, excluding those with thyroid cancer or previous hyperthyroidism; cases with a first fracture leading to an emergency visit or hospital admission were matched with up to five controls from the cohort",
+  "funder": "This work was supported by a team grant (OTG-88591) from the Canadian Institutes of Health Research (CIHR) and by a CIHR interdisciplinary capacity enhancement grant (HOA-80075). LLL is supported by a Canadian Diabetes Association/CIHR clinician scientist award. PCA is supported by a career investigator award from the Heart and Stroke Foundation of Ontario. GMA is supported by the University of Toronto chair in health management strategies. No endorsement by the Ministry of Health and Long-Term Care or by the Institute for Clinical Evaluative Sciences is intended.",
+  "funderRole": "none",
+  "authorConflicts": "All authors declared no financial relationships with any organisations that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "individual",
+  "result": "Of 213,511 levothyroxine users aged 70 or more, 22,236 (10.4%; 88% women) had a fracture over a mean 3.8 years. Current against remote use: adjusted odds ratio 1.88 (95% CI 1.71 to 2.05). Among current users, high (more than 0.093 mg/day) and medium (0.044 to 0.093 mg/day) against low (less than 0.044 mg/day) cumulative doses in the preceding year: adjusted odds ratios 3.45 (3.27 to 3.65) and 2.62 (2.50 to 2.76). Serum thyroid stimulating hormone was not available in the databases.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3084377/"
+}

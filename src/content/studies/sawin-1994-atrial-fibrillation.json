@@ -1,0 +1,18 @@
+{
+  "title": "Low serum thyrotropin concentrations as a risk factor for atrial fibrillation in older persons",
+  "authors": "Sawin CT, Geller A, Wolf PA, Belanger AJ, Baker E, Bacharach P, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 1994,
+  "doi": "10.1056/NEJM199411103311901",
+  "pmid": "7935681",
+  "design": "cohort",
+  "participants": 2007,
+  "followUp": "10 years",
+  "population": "Framingham Heart Study participants aged 60 years or older without atrial fibrillation at the 15th biennial examination (1978 to 1980); 814 men and 1193 women",
+  "funder": "Supported in part by the Medical Research Service, Department of Veterans Affairs; by grants from the National Institute of Neurological Disorders and Stroke (2-R01-NS-17950-12), the National Heart, Lung, and Blood Institute (R01-HL40423-04), and Boots Pharmaceuticals; and by a contract (NO1-HC-38038) with the National Heart, Lung, and Blood Institute.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Atrial fibrillation occurred in 13 of 61 people with TSH 0.1 mU/l or lower, 23 of 187 with 0.1 to 0.4, 133 of 1576 with 0.4 to 5.0 and 23 of 183 above 5.0. Cumulative 10-year incidence 28% with TSH 0.1 or lower against 11% with normal TSH; age-adjusted incidence 28 against 10 per 1000 person-years; adjusted relative risk 3.1 (95% CI 1.7 to 5.5). Thirty of the 46 people with low TSH who did not develop atrial fibrillation or overt hyperthyroidism were taking thyroid hormone; excluding subjects taking thyroid hormone had only a limited effect on the relative risks. The authors state that in people receiving thyroid hormone with low TSH the risk can be lessened by avoiding excessively high doses.",
+  "class": "industry",
+  "fundingChecked": "https://web.archive.org/web/20220619183244/http://www.nejm.org/doi/full/10.1056/NEJM199411103311901"
+}

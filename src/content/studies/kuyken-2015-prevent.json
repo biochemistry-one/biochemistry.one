@@ -1,0 +1,19 @@
+{
+  "title": "Effectiveness and cost-effectiveness of mindfulness-based cognitive therapy compared with maintenance antidepressant treatment in the prevention of depressive relapse or recurrence (PREVENT): a randomised controlled trial",
+  "authors": "Kuyken W, Hayes R, Barrett B, Byng R, Dalgleish T, Kessler D, et al.",
+  "journal": "Lancet",
+  "year": 2015,
+  "doi": "10.1016/S0140-6736(14)62222-4",
+  "pmid": "25907157",
+  "registry": "ISRCTN26666654",
+  "design": "rct",
+  "participants": 424,
+  "followUp": "24 months",
+  "population": "Adults with three or more previous major depressive episodes taking a therapeutic dose of maintenance antidepressants, recruited from 95 UK general practices",
+  "funder": "National Institute for Health Research (NIHR) Health Technology Assessment (HTA) programme, and NIHR Collaboration for Leadership in Applied Health Research and Care South West Peninsula. The funder of the study had no role in study design, data collection, data analysis, interpretation of data, or writing of the paper.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Mindfulness-based cognitive therapy with support to taper or stop antidepressants against maintenance antidepressants, assessor-masked: relapse or recurrence over 24 months in 94 of 212 (44%) against 100 of 212 (47%), hazard ratio 0.89 (95% CI 0.67 to 1.18). Of 176 who attended at least four MBCT sessions, 124 (71%) discontinued their antidepressant and 29 (17%) reduced it. Five adverse events, including two deaths, in each group, none attributed to the interventions.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20260118144110/https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)62222-4/fulltext"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Semaglutide and cardiovascular outcomes in patients with type 2 diabetes",
+  "authors": "Marso SP, Bain SC, Consoli A, Eliaschewitz FG, Jódar E, Leiter LA, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2016,
+  "doi": "10.1056/NEJMoa1607141",
+  "pmid": "27633186",
+  "registry": "NCT01720446",
+  "design": "rct",
+  "participants": 3297,
+  "followUp": "median observation 2.1 years; planned 104 weeks of treatment and 5 weeks of follow-up",
+  "population": "Adults with type 2 diabetes and HbA1c of 7% or more, aged 50 or over with established cardiovascular disease, heart failure or stage 3 chronic kidney disease, or aged 60 or over with cardiovascular risk factors, at 230 sites in 20 countries; 83.0% had cardiovascular disease, chronic kidney disease or both; mean diabetes duration 13.9 years, mean HbA1c 8.7%",
+  "funder": "Funded by Novo Nordisk. The sponsor designed the study and performed site monitoring, data collection and data analysis; a working group including the first and last authors wrote the first draft; editorial support was funded by the sponsor and provided by medical writers from AXON Communications.",
+  "funderRole": "several",
+  "dataAccess": "summary",
+  "result": "Pre-approval non-inferiority safety trial with a margin of 1.8; superiority testing was not prespecified. Cardiovascular death, non-fatal myocardial infarction or non-fatal stroke occurred in 108 of 1648 (6.6%) on semaglutide 0.5 or 1.0 mg weekly against 146 of 1649 (8.9%) on placebo (hazard ratio 0.74, 95% CI 0.58 to 0.95); the authors report a number needed to treat of 45 over 24 months. Non-fatal stroke 27 (1.6%) against 44 (2.7%) (0.61, 0.38 to 0.99); non-fatal myocardial infarction 47 (2.9%) against 64 (3.9%) (0.74, 0.51 to 1.08); cardiovascular death 44 (2.7%) against 46 (2.8%) (0.98, 0.65 to 1.48). Diabetic retinopathy complications 50 (3.0%) against 29 (1.8%) (1.76, 1.11 to 2.78), appearing early: photocoagulation 38 against 20, intravitreal agent 16 against 13, vitreous haemorrhage 16 against 7, diabetes-related blindness 5 against 1; 42 of the 50 had retinopathy at baseline. New or worsening nephropathy 62 (3.8%) against 100 (6.1%) (0.64, 0.46 to 0.88). Pulse 2.0 and 2.5 beats per minute higher on 0.5 and 1.0 mg. Acute pancreatitis 9 against 12, gallbladder disorders 58 against 61, pancreatic cancer 1 against 4; no medullary thyroid carcinoma was confirmed. Discontinuation because of adverse events, mainly gastrointestinal, was more frequent on semaglutide; serious adverse events were fewer. More placebo patients received additional antihypertensive, lipid-lowering and glucose-lowering drugs, insulin more than twice as often.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20260507212658/https://www.nejm.org/doi/full/10.1056/NEJMoa1607141"
+}

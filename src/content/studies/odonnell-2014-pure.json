@@ -1,0 +1,19 @@
+{
+  "title": "Urinary sodium and potassium excretion, mortality, and cardiovascular events",
+  "authors": "O'Donnell M, Mente A, Rangarajan S, McQueen MJ, Wang X, Liu L, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2014,
+  "doi": "10.1056/NEJMoa1311889",
+  "pmid": "25119607",
+  "design": "cohort",
+  "participants": 101945,
+  "followUp": "mean 3.7 years",
+  "population": "Adults aged 35 to 70 years in 17 low-, middle- and high-income countries (42% from China) in the Prospective Urban Rural Epidemiology (PURE) study; 24-hour excretion estimated with the Kawasaki formula from one morning fasting urine",
+  "funder": "Supported by the Population Health Research Institute, the Canadian Institutes of Health Research, the Heart and Stroke Foundation of Ontario and unrestricted grants from several pharmaceutical companies (major contributions from Boehringer Ingelheim, AstraZeneca, Sanofi-Aventis, Servier and GlaxoSmithKline; additional contributions from Novartis and King Pharma), and national or local organisations including the Unilever Health Institute (Brazil), the South Africa Sugar Association, AstraZeneca and Sanofi-Aventis (Turkey), and government, university and charitable bodies in other countries. The PURE-Salt substudy was funded by the Heart and Stroke Foundation of Ontario. The authors state that the funders had no role in design, conduct, data collection, analysis, interpretation, writing or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "Disclosure forms are published with the full text at NEJM.org; not read.",
+  "dataAccess": "unknown",
+  "result": "Composite of death and major cardiovascular events in 3317 participants (3.3%). By estimated sodium excretion (Table 2): 462 of 10,810 (4.3%) below 3.00 g/day, 662 of 21,131 (3.1%) at 3.00 to 3.99 g/day, 1437 of 46,663 (3.1%) at 4.00 to 5.99 g/day, 391 of 12,324 (3.2%) at 6.00 to 6.99 g/day and 365 of 11,017 (3.3%) at 7.00 g/day or more. Versus estimated sodium excretion of 4.00 to 5.99 g/day: odds ratio 1.27 (95% CI 1.12 to 1.44) below 3.00 g/day and 1.15 (1.02 to 1.30) at 7.00 g/day or more. The high-sodium association was attenuated after adjustment for blood pressure; the low-sodium association was not. The authors state that reverse causation cannot be completely ruled out and that the findings do not show the effect of intentionally reducing sodium intake.",
+  "class": "industry",
+  "fundingChecked": "https://web.archive.org/web/20250716003716/https://www.nejm.org/doi/full/10.1056/NEJMoa1311889"
+}

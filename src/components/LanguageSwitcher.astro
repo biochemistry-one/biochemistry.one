@@ -1,0 +1,25 @@
+---
+import { LANGUAGES, hreflangOf, localePath, type Lang } from "../i18n/languages";
+import { stringsFor } from "../i18n/strings";
+
+interface Props {
+  lang: Lang;
+  path: string;
+  alternates: Lang[];
+}
+
+const { lang, path, alternates } = Astro.props;
+const strings = stringsFor(lang);
+const available = LANGUAGES.filter((language) => alternates.includes(language.code));
+---
+<nav class="language-switcher" aria-label={strings.language}>
+  <ul>
+    {available.map((language) => (
+      <li>
+        {language.code === lang
+          ? <span class="language-current" lang={language.hreflang} aria-current="page">{language.name}</span>
+          : <a href={localePath(language.code, path)} lang={language.hreflang} hreflang={hreflangOf(language.code)}>{language.name}</a>}
+      </li>
+    ))}
+  </ul>
+</nav>

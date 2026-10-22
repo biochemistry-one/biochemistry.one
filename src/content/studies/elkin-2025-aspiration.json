@@ -1,0 +1,19 @@
+{
+  "title": "Association between glucagon-like peptide-1 receptor agonist use and peri-operative pulmonary aspiration: a systematic review and meta-analysis",
+  "authors": "Elkin J, Rele S, Sumithran P, Hii M, Thuraisingam S, Spelman T, et al.",
+  "journal": "Anaesthesia",
+  "year": 2025,
+  "doi": "10.1111/anae.16601",
+  "pmid": "40230298",
+  "registry": "PROSPERO CRD42024532229",
+  "design": "meta-analysis",
+  "participants": 466373,
+  "population": "28 observational studies of fasted patients or volunteers using GLP-1 receptor agonists before procedures under anaesthesia or sedation; search to January 2025; no randomised trials were found",
+  "funder": "The first author was supported by an Australian Government Research Training Program Scholarship; open access publishing was facilitated by the University of Melbourne. No statement on funder role was given.",
+  "funderRole": "unknown",
+  "authorConflicts": "Two authors received research support paid to their institutions from Eli Lilly for investigator-initiated studies; one co-authored manuscripts with medical writers provided by Novo Nordisk and Eli Lilly; one reported orthopaedic device company fees.",
+  "dataAccess": "summary",
+  "result": "In 9 studies of 185,414 patients with 471 aspiration events, GLP-1 receptor agonist exposure was not associated with pulmonary aspiration (odds ratio 1.04, 95% CI 0.87 to 1.25; low certainty). In 18 studies of 165,522 patients with 3831 cases, exposure was associated with residual gastric contents despite appropriate fasting (5.96, 3.96 to 8.98; low certainty). Withholding at least one dose was associated with lower odds of residual gastric contents in 5 studies of 1706 patients (0.51, 0.33 to 0.81; very low certainty).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12171790/"
+}

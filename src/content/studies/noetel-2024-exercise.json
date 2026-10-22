@@ -1,0 +1,18 @@
+{
+  "title": "Effect of exercise for depression: systematic review and network meta-analysis of randomised controlled trials",
+  "authors": "Noetel M, Sanders T, Gallardo-Gómez D, Taylor P, del Pozo Cruz B, van den Hoek D, et al.",
+  "journal": "BMJ",
+  "year": 2024,
+  "doi": "10.1136/bmj-2023-075847",
+  "pmid": "38355154",
+  "design": "meta-analysis",
+  "participants": 14170,
+  "population": "218 randomised trials with 495 arms in people meeting clinical cut-offs for major depression, comparing exercise with active controls, waitlist, SSRIs, psychotherapy or combinations",
+  "funder": "Funding: None received.",
+  "funderRole": "none",
+  "authorConflicts": "No support from any organisation and no relevant financial relationships declared.",
+  "dataAccess": "summary",
+  "result": "Against active controls: walking or jogging Hedges g -0.62 (95% credible interval -0.80 to -0.45; 51 trials, 1210 participants), yoga -0.55, strength training -0.49, mixed aerobic exercise -0.43, tai chi or qigong -0.42; exercise combined with SSRIs -0.55; SSRIs alone -0.26 (-0.50 to -0.01; 16 trials, 432 participants); cognitive behavioural therapy -0.55. Effects rose with prescribed intensity. Only one trial met Cochrane criteria for low risk of bias, few blinded participants or staff, and confidence was low for walking or jogging and very low for other modalities; funded studies showed larger effects than unfunded ones.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10870815"
+}

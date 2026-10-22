@@ -1,0 +1,15 @@
+{
+  "title": "Sulfation of ractopamine and salbutamol by the human cytosolic sulfotransferases",
+  "authors": "Ko K, Kurogi K, Davidson G, Liu MY, Sakakibara Y, Suiko M, et al.",
+  "journal": "Journal of Biochemistry",
+  "year": 2012,
+  "doi": "10.1093/jb/mvs073",
+  "pmid": "22763752",
+  "design": "in-vitro",
+  "funder": "National Institutes of Health (GM085756) and a startup fund from College of Pharmacy, The University of Toledo. Conflict of interest: none declared.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "HepG2 human hepatoma cells labelled with [35S]sulfate released sulfated salbutamol. Of 11 purified human cytosolic sulfotransferases, SULT1A3 was the major enzyme sulfating salbutamol. Among cytosol or S9 fractions of human lung, liver, kidney and small intestine, the small intestine showed the highest salbutamol-sulfating activity, in line with the tissue distribution of SULT1A3. Salbutamol inhibited SULT1A3-mediated dopamine sulfation, with an IC50 in line with the Km of SULT1A3 for salbutamol.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3529569/"
+}

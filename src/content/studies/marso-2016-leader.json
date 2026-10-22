@@ -1,0 +1,20 @@
+{
+  "title": "Liraglutide and cardiovascular outcomes in type 2 diabetes",
+  "authors": "Marso SP, Daniels GH, Brown-Frandsen K, Kristensen P, Mann JF, Nauck MA, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2016,
+  "doi": "10.1056/NEJMoa1603827",
+  "pmid": "27295427",
+  "registry": "NCT01179048",
+  "design": "rct",
+  "participants": 9340,
+  "followUp": "median 3.8 years",
+  "population": "Type 2 diabetes with glycated haemoglobin of 7.0% or more and high cardiovascular risk",
+  "funder": "Supported by Novo Nordisk and by grants from the National Institutes of Health. A steering committee of 11 academic investigators and 4 sponsor employees designed the protocol in collaboration with the sponsor; the sponsor performed site monitoring and data collection; the data were analysed by Statogen Consulting and the sponsor; editorial support was funded by the sponsor.",
+  "funderRole": "several",
+  "authorConflicts": "Four authors were employees of and held stock in Novo Nordisk; most other authors reported fees or grants from Novo Nordisk and other companies.",
+  "dataAccess": "summary",
+  "result": "Cardiovascular death, non-fatal myocardial infarction or non-fatal stroke in 608 of 4668 (13.0%) with liraglutide versus 694 of 4672 (14.9%) with placebo (HR 0.87, 95% CI 0.78 to 0.97); median follow-up 3.8 years; number needed to treat 66 over 3 years.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4985288/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Statins for the prevention of dementia",
+  "authors": "McGuinness B, Craig D, Bullock R, Passmore P",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2016,
+  "doi": "10.1002/14651858.CD003160.pub3",
+  "pmid": "26727124",
+  "design": "systematic-review",
+  "participants": 26340,
+  "followUp": "mean 3.2 years in one trial and 5 years in the other",
+  "population": "Two double-blind placebo-controlled trials (HPS, simvastatin; PROSPER, pravastatin) of people aged 40 to 82 with vascular disease or its risk factors; 11,610 aged 70 or older",
+  "funder": "Internal sources: no sources of support supplied. External sources: NIHR, UK; the review was supported by the National Institute for Health Research via a Cochrane Programme Grant to the Cochrane Dementia and Cognitive Improvement Group.",
+  "funderRole": "unknown",
+  "authorConflicts": "None known for any author.",
+  "dataAccess": "summary",
+  "result": "Only HPS reported dementia incidence: 31 cases in each group of 20,536 participants (odds ratio 1.00, 95% CI 0.61 to 1.65, moderate-quality evidence). Neither trial showed a difference between statin and placebo on five cognitive tests (high-quality evidence); cognitive scales and timings differed, so results were not pooled. Withdrawal due to adverse events did not differ (26,340 participants, odds ratio 0.94, 0.83 to 1.05). The authors conclude that statins given in late life to people at vascular risk do not prevent cognitive decline or dementia, and note limitations in the cognitive assessments and the restriction to moderate- to high-risk participants.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20170906140149/http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD003160.pub3/full"
+}

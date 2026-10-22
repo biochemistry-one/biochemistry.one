@@ -1,0 +1,19 @@
+{
+  "title": "Exercise training and resting blood pressure: a large-scale pairwise and network meta-analysis of randomised controlled trials",
+  "authors": "Edwards JJ, Deenmamode AHP, Griffiths M, Arnold O, Cooper NJ, Wiles JD, et al.",
+  "journal": "British Journal of Sports Medicine",
+  "year": 2023,
+  "doi": "10.1136/bjsports-2022-106503",
+  "pmid": "37491419",
+  "design": "meta-analysis",
+  "participants": 15827,
+  "followUp": "interventions of 2 weeks or longer",
+  "population": "270 randomised trials published 1990 to February 2023 comparing exercise training with a non-intervention control",
+  "funder": "No sources of funding were used to assist in the preparation of this article. NJC is supported by the National Institute for Health and Care Research (NIHR) Complex Reviews Support Unit (project number 14/178/29) and NIHR Applied Research Collaboration East Midlands (ARC EM).",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "summary",
+  "result": "Resting systolic/diastolic blood pressure fell by 4.49/2.53 mm Hg with aerobic training, 4.55/3.04 with dynamic resistance training, 6.04/2.54 with combined training, 4.08/2.50 with high-intensity interval training and 8.24/4.00 with isometric training (all p<0.001). The outcomes analysed were resting systolic and diastolic blood pressure.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20260608012147/https://bjsm.bmj.com/content/57/20/1317"
+}

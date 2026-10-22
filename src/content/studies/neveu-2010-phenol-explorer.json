@@ -1,0 +1,17 @@
+{
+  "title": "Phenol-Explorer: an online comprehensive database on polyphenol contents in foods",
+  "authors": "Neveu V, Perez-Jiménez J, Vos F, Crespy V, du Chaffaut L, Mennen L, et al.",
+  "journal": "Database (Oxford)",
+  "year": 2010,
+  "doi": "10.1093/database/bap024",
+  "pmid": "20428313",
+  "url": "http://phenol-explorer.eu/contents/food/822",
+  "design": "database",
+  "funder": "French Ministry of Research (grant NUTRIALIS, 2002-04) and Unilever, Danone and Nestlé (2005-09). Open access charges paid by the Institut National de la Recherche Agronomique.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "summary",
+  "result": "Olive, oil, extra virgin (food 822, Olea europaea L.), Phenol-Explorer version 3.6, read 2026-10-21; mean content per 100 g (minimum to maximum; n): 3,4-DHPEA-EDA (oleuropein-aglycone di-aldehyde) 25.16 mg (0.08 to 94.20; 36); p-HPEA-EDA (ligstroside-aglycone di-aldehyde) 14.28 mg (1.18 to 33.50; 29); 3,4-DHPEA-EA 7.22 mg; p-HPEA-EA 3.80 mg; oleuropein aglycone 3.66 mg (0.17 to 8.37; 15); ligstroside aglycone 1.74 mg; tyrosol 1.13 mg; hydroxytyrosol 0.77 mg (0.01 to 3.47; 43); oleuropein 0.17 mg (0.00 to 0.47; 9); total polyphenols 55.14 mg (5.70 to 140.64; 67).",
+  "class": "reference",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2860900/"
+}

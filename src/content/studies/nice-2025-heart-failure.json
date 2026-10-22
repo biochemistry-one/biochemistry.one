@@ -1,0 +1,14 @@
+{
+  "title": "Chronic heart failure in adults: diagnosis and management. NICE guideline NG106",
+  "authors": "National Institute for Health and Care Excellence",
+  "journal": "National Institute for Health and Care Excellence, published 12 September 2018, last updated 3 September 2025",
+  "year": 2025,
+  "url": "https://www.nice.org.uk/guidance/ng106/chapter/Recommendations",
+  "design": "guideline",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "For heart failure with reduced ejection fraction, offer an angiotensin-converting enzyme inhibitor, a beta-blocker, a mineralocorticoid receptor antagonist and a sodium-glucose cotransporter-2 inhibitor (1.4.1, marked 2025); where an ACE inhibitor is not tolerated, offer an angiotensin receptor-neprilysin inhibitor with the beta-blocker, mineralocorticoid receptor antagonist and SGLT2 inhibitor (1.4.3, 2025); after angio-oedema on an ACE inhibitor, or intolerance of an ARNI, offer a beta-blocker, mineralocorticoid receptor antagonist and SGLT2 inhibitor and consider an angiotensin receptor blocker (1.4.4, 2025). For heart failure with mildly reduced ejection fraction, consider an ACE inhibitor, a beta-blocker, a mineralocorticoid receptor antagonist and an SGLT2 inhibitor (1.5.1, 2025); evidence suggested each of these medicines reduces hospitalisation for heart failure, and possibly mortality, in this group. Prescribing a beta-blocker: do not withhold treatment solely because of age or the presence of peripheral vascular disease, erectile dysfunction, diabetes, interstitial pulmonary disease or chronic obstructive pulmonary disease (1.7.9, 2010); assess heart rhythm, rate and conduction with a 12-lead electrocardiogram before deciding whether to prescribe one (1.7.10, 2025); do not offer a beta-blocker to people with second- or third-degree heart block without a pacemaker or with a heart rate below 50 beats per minute (1.7.11, 2025); assess heart rate and clinical status after each dose increment (1.7.12, 2010) and consider repeating the electrocardiogram after each increment in people with symptoms and bradycardia (1.7.13, 2025).",
+  "class": "consensus",
+  "fundingChecked": "https://www.nice.org.uk/guidance/ng106/chapter/Finding-more-information-and-committee-details"
+}

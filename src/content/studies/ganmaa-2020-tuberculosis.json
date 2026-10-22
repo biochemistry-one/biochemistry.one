@@ -1,0 +1,20 @@
+{
+  "title": "Vitamin D Supplements for Prevention of Tuberculosis Infection and Disease",
+  "authors": "Ganmaa D, Uyanga B, Zhou X, Gantsetseg G, Delgerekh B, Enkhmaa D, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2020,
+  "doi": "10.1056/NEJMoa1915176",
+  "pmid": "32706534",
+  "registry": "NCT02276755",
+  "design": "rct",
+  "participants": 8851,
+  "followUp": "3 years",
+  "population": "Schoolchildren aged 6 to 13 years in 18 public schools of Ulaanbaatar, Mongolia, with a negative QuantiFERON-TB Gold In-Tube result; mean baseline 25-hydroxyvitamin D 11.9 ng/ml, 95.6% below 20 ng/ml and 31.8% below 10 ng/ml",
+  "funder": "Supported by an award (1R01HL122624-01) from the National Institutes of Health. The author manuscript read contains no statement on the role of the funder.",
+  "funderRole": "unknown",
+  "authorConflicts": "Disclosure forms available with the full text at NEJM.org; not read.",
+  "dataAccess": "individual",
+  "result": "Weekly vitamin D3 14,000 IU (n=4418) against placebo (n=4433) for 3 years: positive QuantiFERON result 147 of 4074 (3.6%) against 134 of 4043 (3.3%), adjusted RR 1.10 (95% CI 0.87 to 1.38); tuberculosis disease 21 of 4401 against 25 of 4418, RR 0.87 (0.49 to 1.55); hospitalisation for acute respiratory infection 29 against 34, RR 0.86 (0.52 to 1.40). End-of-trial 25-hydroxyvitamin D 31.0 against 10.7 ng/ml. Deaths 4 against 6; one child in the vitamin D group developed symptomatic hypercalcaemia (corrected calcium 2.70 mmol/L), which resolved after vitamin D was stopped; three children had 25-hydroxyvitamin D above 80 ng/ml at 3 years without symptoms.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7476371"
+}

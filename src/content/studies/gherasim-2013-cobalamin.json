@@ -1,0 +1,15 @@
+{
+  "title": "Navigating the B12 Road: Assimilation, Delivery, and Disorders of Cobalamin",
+  "authors": "Gherasim C, Lofgren M, Banerjee R",
+  "journal": "Journal of Biological Chemistry",
+  "year": 2013,
+  "doi": "10.1074/jbc.R113.458810",
+  "pmid": "23539619",
+  "design": "other",
+  "funder": "This work was supported, in whole or in part, by National Institutes of Health Grant DK45776.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Review. Mammals have two B12-dependent enzymes: methionine synthase, which uses methylcobalamin, and methylmalonyl-CoA mutase, which uses adenosylcobalamin to convert methylmalonyl-CoA to succinyl-CoA. Methionine synthase works in two half-reactions: methylcobalamin methylates homocysteine to methionine, leaving cob(I)alamin, which removes the methyl group from 5-methyl-THF to give THF and methylcobalamin; occasional oxidation to cob(II)alamin is repaired by reductive methylation needing NADPH, methionine synthase reductase and S-adenosylmethionine. Food cobalamin binds haptocorrin; in the duodenum pancreatic proteases release it, intrinsic factor binds it, and intestinal cells take it up by cubilin/AMN receptor-mediated endocytosis. About 20% of circulating cobalamin is bound to transcobalamin, which delivers it to cells through the transcobalamin receptor. Mutations in the cblG (methionine synthase) and cblE (reductase) loci cause isolated hyperhomocysteinaemia without methylmalonic aciduria.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3650358/"
+}

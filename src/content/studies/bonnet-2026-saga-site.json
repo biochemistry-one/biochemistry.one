@@ -1,0 +1,20 @@
+{
+  "title": "Discontinuation of statins for primary prevention of atherosclerotic cardiovascular disease in adults aged 75 years or older (SAGA/SITE): a multicentre, open-label, pragmatic, non-inferiority randomised trial",
+  "authors": "Bonnet F, Poulizac P, Rousselot N, Couffinhal T, Galli G, Berdaï D, et al.",
+  "journal": "Lancet Healthy Longevity",
+  "year": 2026,
+  "doi": "10.1016/j.lanhl.2026.100884",
+  "pmid": "42580354",
+  "registry": "NCT02547883",
+  "design": "rct",
+  "participants": 1180,
+  "followUp": "36 months",
+  "population": "People aged 75 or older prescribed a statin for at least 1 year for primary prevention, without atherosclerotic cardiovascular disease or dementia, in 297 French primary care offices; median age 80, 66.8% women, 29.5% with diabetes",
+  "funder": "French Ministry of Health within the framework of the Medico Economical Research Program (PRME) 2014. Registry: sponsor University Hospital, Bordeaux; grant PRME 14-0037 from the French Ministry of Health.",
+  "funderRole": "unknown",
+  "authorConflicts": "One author reported non-financial support and personal fees from Gilead, ViiV Healthcare and MSD outside the submitted work; all others declared none.",
+  "dataAccess": "unknown",
+  "result": "Open-label randomisation 5:4 to continue (639) or stop (521) statins; 1160 analysed for the primary estimand. Death at 36 months: 48 of 604 (7.9%) continuing against 35 of 484 (7.2%) stopping; absolute difference -0.68% (95% CI -3.95 to 2.60), within the prespecified non-inferiority margin of 5%. Adverse events in 461 of 631 (73.1%) continuing and 390 of 527 (74.0%) stopping; non-cardiovascular adverse events 72.3% against 72.7%. The authors conclude that discontinuation was non-inferior to continuation for 3-year all-cause mortality.",
+  "class": "independent",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT02547883"
+}

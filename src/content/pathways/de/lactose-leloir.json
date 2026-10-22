@@ -1,0 +1,42 @@
+{
+  "title": "Laktoseverdauung und Leloir-Weg",
+  "layout": "chain",
+  "compartment": "Bürstensaum der Enterozyten, dann Zytosol, vor allem der Hepatozyten",
+  "steps": [
+    {
+      "from": "Laktose",
+      "to": "β-D-Galaktose",
+      "enzyme": "Laktase-Phlorizin-Hydrolase (LCT)",
+      "cofactors": ["H2O"],
+      "note": "Apikale Membran der Enterozyten des Dünndarms; setzt auch D-Glukose frei"
+    },
+    {
+      "from": "β-D-Galaktose",
+      "to": "α-D-Galaktose",
+      "enzyme": "Galaktose-Mutarotase (GALM)",
+      "reversible": true,
+      "note": "Nach Aufnahme über SGLT1 (SLC5A1) und Austritt über GLUT2 (SLC2A2)"
+    },
+    {
+      "from": "α-D-Galaktose",
+      "to": "α-D-Galaktose-1-Phosphat",
+      "enzyme": "Galaktokinase (GALK1)",
+      "cofactors": ["ATP"],
+      "note": "Erster spezifischer Schritt des Galaktoseabbaus"
+    },
+    {
+      "from": "α-D-Galaktose-1-Phosphat",
+      "to": "α-D-Glukose-1-Phosphat",
+      "enzyme": "Galaktose-1-Phosphat-Uridylyltransferase (GALT)",
+      "cofactors": ["UDP-Glukose"],
+      "note": "Setzt UDP-Galaktose frei; UDP-Glukose-4-Epimerase (GALE) regeneriert UDP-Glukose"
+    },
+    {
+      "from": "α-D-Glukose-1-Phosphat",
+      "to": "α-D-Glukose-6-Phosphat",
+      "enzyme": "Phosphoglukomutase 1 (PGM1)",
+      "reversible": true,
+      "note": "Über Glukose-1,6-Bisphosphat; das Produkt ist ein Zwischenprodukt der Glykolyse"
+    }
+  ]
+}

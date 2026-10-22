@@ -1,0 +1,19 @@
+{
+  "title": "Association of proton pump inhibitor use with incident dementia and cognitive decline in older adults: a prospective cohort study",
+  "authors": "Mehta RS, Kochar B, Zhou Z, Broder JC, Chung P, Yang K, et al.",
+  "journal": "Gastroenterology",
+  "year": 2023,
+  "doi": "10.1053/j.gastro.2023.05.052",
+  "pmid": "37315867",
+  "design": "cohort",
+  "participants": 18934,
+  "followUp": "more than 6 years",
+  "population": "Community-dwelling adults 65 years or older in the ASPREE aspirin trial in the United States and Australia; post hoc observational analysis with medication review at annual visits and DSM-IV dementia adjudication",
+  "funder": "The ASPREE clinical trial was supported by grants from the National Institute on Aging and the National Cancer Institute, the National Health and Medical Research Council of Australia, Monash University and the Victorian Cancer Agency; this work was also supported by NIH grant RF1 AG067744 and an MGH Research Scholar Award. The funders had no role in the design of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Chan served as a consultant for Bayer Pharma AG, Pfizer and Boehringer Ingelheim; Kochar served on a Pfizer advisory board; the study was not funded by these companies.",
+  "dataAccess": "individual",
+  "result": "Baseline PPI use against non-use: incident dementia multivariable HR 0.88 (95% CI 0.72 to 1.08); cognitive impairment without dementia HR 1.00 (0.92 to 1.09); no association with change in cognitive test scores (B -0.002, SE 0.01). H2-receptor antagonist use was likewise not associated.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10527011/fullTextXML"
+}

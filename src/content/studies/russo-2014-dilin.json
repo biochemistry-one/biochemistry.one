@@ -1,0 +1,19 @@
+{
+  "title": "Spectrum of statin hepatotoxicity: experience of the drug-induced liver injury network",
+  "authors": "Russo MW, Hoofnagle JH, Gu J, Fontana RJ, Barnhart H, Kleiner DE, et al.",
+  "journal": "Hepatology",
+  "year": 2014,
+  "doi": "10.1002/hep.27157",
+  "pmid": "24700436",
+  "design": "cohort",
+  "participants": 22,
+  "followUp": "at least 6 months after onset",
+  "population": "Cases of drug-induced liver injury attributed to a statin among 1188 cases enrolled 2004 to 2012 in the prospective US Drug Induced Liver Injury Network registry",
+  "funder": "DILIN is supported by the National Institute of Diabetes and Digestive and Kidney Diseases under cooperative agreements 1UO1DK065201, 1UO1DK065193, 1UO1DKO65184, 1UO1DK065211, 1UO1DK065238 and 1UO1DK06F5176; supported in part by the Intramural Research Program of the NIH, National Cancer Institute.",
+  "funderRole": "several",
+  "authorConflicts": "Two NIDDK employees took part in design, analysis and editing; several investigators reported speaking, consultancy or research support from pharmaceutical companies, including Merck.",
+  "dataAccess": "individual",
+  "result": "22 of 1188 drug-induced liver injury cases were attributed to a statin; all commonly used statins were implicated. Median age 60 (41 to 80), 68% female; latency 34 days to 10 years (median 155 days); median peak ALT 892 U/L and bilirubin 6.1 mg/dL. Nine had cholestatic hepatitis and 12 hepatocellular injury, 6 of these with an autoimmune phenotype. Nine were hospitalised, 4 developed hepatic failure and 1 died; 4 (18%) developed chronic liver injury, 3 of them with an autoimmune phenotype. Mild aminotransferase rises occur in up to 3% of treated patients.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=4110177"
+}

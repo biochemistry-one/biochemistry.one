@@ -1,0 +1,16 @@
+{
+  "title": "Evidence-based use of levothyroxine/liothyronine combinations in treating hypothyroidism: a consensus document",
+  "authors": "Jonklaas J, Bianco AC, Cappola AR, Celi FS, Fliers E, Heuer H, et al.",
+  "journal": "Thyroid",
+  "year": 2021,
+  "doi": "10.1089/thy.2020.0720",
+  "pmid": "33276704",
+  "design": "guideline",
+  "funder": "No funding of any kind was provided for the development of this consensus statement. The ATA, BTA and ETA supported and sponsored the symposium on which the document is based.",
+  "funderRole": "none",
+  "authorConflicts": "A.C.B. is a consultant for Synthonics, Allergan and BLA Technology; F.S.C. is a consultant for IBSA and Acella; T.W. is a consultant for AbbVie and Allergan and developer of ThyPRO; two authors lead government-funded combination therapy trials.",
+  "dataAccess": "summary",
+  "result": "Joint ATA, BTA and ETA conference of 3 November 2019 with 12 content experts. Fourteen trials have not shown a consistent benefit of combination therapy, which is nonetheless widely used; the authors judged equipoise for a new trial. During levothyroxine monotherapy free T4 and the free T4 to T3 ratio rise and T3 falls; T3 may be below the reference range in up to 15% of athyreotic individuals, and in NHANES data T3 and free T3 were 10% lower in levothyroxine-treated patients than in controls matched for sex, age, ethnicity and TSH. The document states that levothyroxine normalises TSH but fails to restore euthyroidism in some tissues, judged by serum cholesterol and other biomarkers that remain abnormal despite normal TSH. Of 34 consensus statements, 28 reached at least 75% agreement.",
+  "class": "consensus",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8035928/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Levothyroxine treatment of subclinical hypothyroidism, fatal and nonfatal cardiovascular events, and mortality",
+  "authors": "Razvi S, Weaver JU, Butler TJ, Pearce SH",
+  "journal": "Archives of Internal Medicine",
+  "year": 2012,
+  "doi": "10.1001/archinternmed.2012.1159",
+  "pmid": "22529180",
+  "design": "cohort",
+  "participants": 4735,
+  "followUp": "median 7.6 years",
+  "population": "UK General Practice Research Database patients with new subclinical hypothyroidism (TSH 5.01 to 10.0 mIU/l, normal free T4) in 2001: 3093 aged 40 to 70 and 1642 older than 70",
+  "funder": "Dr Pearce has been funded to work on subclinical thyroid disease by Medical Research Council grant G0500783. Access to the GPRD was funded through the Medical Research Council's license agreement.",
+  "funderRole": "unknown",
+  "authorConflicts": "Dr Pearce has received a speaker's fee from Merck Serono.",
+  "dataAccess": "individual",
+  "result": "About half were treated with levothyroxine, modelled as a time-dependent covariate. Aged 40 to 70: ischaemic heart disease events in 68 of 1634 treated (4.2%) against 97 of 1459 untreated (6.6%), adjusted HR 0.61 (95% CI 0.39 to 0.95). Older than 70: 104 of 819 treated (12.7%) against 88 of 823 untreated (10.7%), HR 0.99 (0.59 to 1.33). The authors called for an adequately powered randomised trial with vascular outcomes.",
+  "class": "independent",
+  "fundingChecked": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1149639"
+}

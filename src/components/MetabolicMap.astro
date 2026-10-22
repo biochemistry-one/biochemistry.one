@@ -1,0 +1,55 @@
+---
+import { renderMetabolicMap } from "../lib/metabolic-map.mjs";
+import { pageHref } from "../markdown/html.mjs";
+import type { Lang } from "../i18n/languages";
+import { uiFor } from "../i18n/strings";
+const labelFiles = import.meta.glob<Record<string, Record<string, string>>>("../data/map-labels.json", { eager: true, import: "default" });
+const labels = Object.values(labelFiles)[0] ?? {};
+
+interface Props {
+  lang: Lang;
+  variant: "hero" | "full";
+}
+
+const { lang, variant } = Astro.props;
+const ui = uiFor(lang);
+const table = labels[lang] ?? {};
+const svg = renderMetabolicMap({
+  label: (id: string, fallback: string) => table[id] ?? fallback,
+  href: (page: string) => pageHref(lang, page) ?? `#map-${variant}-title`,
+  idPrefix: `map-${variant}`,
+});
+const legend = ["carbohydrate", "lipid", "energy", "amino", "one-carbon", "xenobiotic"];
+---
+<figure class:list={["map-panel", `map-${variant}`]}>
+  <div class="metabolic-map" data-map set:html={svg} />
+  <p class="map-readout" aria-live="polite" data-map-readout>{ui.mapReadout}</p>
+  <ul class="legend">
+    {legend.map((family, index) => (
+      <li><svg viewBox="0 0 24 10" aria-hidden="true"><line x1="0" y1="5" x2="24" y2="5" stroke={`var(--c-${family})`} stroke-width="3" stroke-linecap="round" /></svg>{ui.legend[index]}</li>
+    ))}
+    <li><svg viewBox="0 0 24 10" aria-hidden="true"><line x1="0" y1="5" x2="24" y2="5" stroke="var(--ink-3)" stroke-width="2" /><line x1="12" y1="0" x2="12" y2="10" stroke="var(--inhibitor)" stroke-width="4" stroke-linecap="round" /></svg>{ui.legend[6]}</li>
+  </ul>
+</figure>
+<script>
+  document.querySelectorAll<HTMLElement>(".map-panel").forEach((panel) => {
+    const map = panel.querySelector<HTMLElement>("[data-map]");
+    const readout = panel.querySelector<HTMLElement>("[data-map-readout]");
+    if (!map || !readout) return;
+    const resting = readout.textContent ?? "";
+    const show = (event: Event) => {
+      const pathway = (event.target as Element).closest(".map-pathway");
+      readout.replaceChildren();
+      if (pathway) {
+        const name = document.createElement("b");
+        name.textContent = pathway.getAttribute("aria-label");
+        readout.append(name);
+      } else {
+        readout.textContent = resting;
+      }
+    };
+    map.addEventListener("pointerover", show);
+    map.addEventListener("focusin", show);
+    map.addEventListener("pointerleave", () => { readout.textContent = resting; });
+  });
+</script>

@@ -1,0 +1,21 @@
+{
+  "title": "Effects of intensive glucose lowering in type 2 diabetes",
+  "authors": "Action to Control Cardiovascular Risk in Diabetes Study Group, Gerstein HC, Miller ME, Byington RP, Goff DC Jr, Bigger JT, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2008,
+  "doi": "10.1056/NEJMoa0802743",
+  "pmid": "18539917",
+  "registry": "NCT00000620",
+  "design": "rct",
+  "participants": 10251,
+  "followUp": "mean 3.5 years; the intensive regimen was stopped early for excess mortality",
+  "population": "Adults with type 2 diabetes and a median HbA1c of 8.1% at 77 clinical centres in the United States and Canada, aged 40 to 79 with cardiovascular disease or 55 to 79 with anatomical atherosclerosis, albuminuria, left ventricular hypertrophy or at least two further risk factors; mean age 62.2 years, 38% women, 35% with a previous cardiovascular event; serum creatinine above 1.5 mg/dL and recent severe hypoglycaemia were exclusions",
+  "funder": "Supported by grants from the National Heart, Lung, and Blood Institute, by other components of the National Institutes of Health including the National Institute of Diabetes and Digestive and Kidney Diseases, the National Institute on Aging and the National Eye Institute, by the Centers for Disease Control and Prevention and by General Clinical Research Centers. Abbott Laboratories, Amylin Pharmaceutical, AstraZeneca, Bayer HealthCare, Closer Healthcare, GlaxoSmithKline, King Pharmaceuticals, Merck, Novartis, Novo Nordisk, Omron Healthcare, Sanofi-Aventis and Schering-Plough provided study medications, equipment or supplies.",
+  "funderRole": "none",
+  "inKindSupport": "Study medications, equipment or supplies donated by thirteen companies.",
+  "authorConflicts": "Most writing-group members report consulting, lecture or grant relationships with manufacturers of glucose-lowering drugs; one holds a patent assigned to Sanofi-Aventis without royalties.",
+  "dataAccess": "individual",
+  "result": "Patients were randomised to intensive therapy targeting an HbA1c below 6.0% or standard therapy targeting 7.0% to 7.9%; stable median HbA1c values of 6.4% and 7.5% were achieved at one year and an absolute difference of 1.1 percentage points maintained for 3.5 years. The primary composite outcome of non-fatal myocardial infarction, non-fatal stroke or cardiovascular death occurred in 352 patients on intensive therapy against 371 on standard therapy (hazard ratio 0.90, 95% CI 0.78 to 1.04, p = 0.16). Deaths numbered 257 against 203 (hazard ratio 1.22, 1.01 to 1.46, p = 0.04), a relative increase of 22% and an absolute increase of 1.0 percentage point over the follow-up period, equivalent to one extra death for every 95 patients treated for 3.5 years, with similar differences in cardiovascular death. The annualised rate of hypoglycaemia requiring medical assistance was 3.1% on intensive therapy against 1.0% on standard therapy and mean weight gain at three years was 3.5 kg against 0.4 kg; one death in each group was adjudicated as probably related to hypoglycaemia. Glucose-lowering regimens were altered a mean 4.4 times per year on intensive therapy against 2.0 times on standard therapy, with greater exposure to every drug class. On 8 January 2008 the data and safety monitoring committee concluded that the harm from the increased rate of death outweighed any potential benefit and recommended that the intensive regimen be discontinued; patients were informed on 5 February 2008. The authors state that these findings identify a previously unrecognised harm of intensive glucose lowering in high-risk patients.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20260328043526/https://www.nejm.org/doi/full/10.1056/NEJMoa0802743"
+}

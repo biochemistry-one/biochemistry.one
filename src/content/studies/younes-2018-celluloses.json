@@ -1,0 +1,15 @@
+{
+  "title": "Re-evaluation of celluloses E 460(i), E 460(ii), E 461, E 462, E 463, E 464, E 465, E 466, E 468 and E 469 as food additives",
+  "authors": "EFSA Panel on Food Additives and Nutrient Sources added to Food (ANS), Younes M, Aggett P, Aguilar F, Crebelli R, Di Domenico A, et al.",
+  "journal": "EFSA Journal",
+  "year": 2018,
+  "doi": "10.2903/j.efsa.2018.5047",
+  "pmid": "32625652",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Modified celluloses, including sodium carboxymethylcellulose (E 466), are not absorbed intact, not fermented and are excreted intact in faeces. No need for a numerical ADI and no safety concern at reported uses; indicative total exposure of 660 to 900 mg/kg bw per day for all celluloses. The Panel noted that microbiota and inflammation endpoints reported in mice (Chassaing et al., 2015) are not systematically studied in guideline toxicity studies.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009359/"
+}

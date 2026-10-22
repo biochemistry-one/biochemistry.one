@@ -1,0 +1,20 @@
+{
+  "title": "A daily dose of 5 mg folic acid for 90 days is associated with increased serum unmetabolized folic acid and reduced natural killer cell cytotoxicity in healthy Brazilian adults",
+  "authors": "Paniz C, Bertinato JF, Lucena MR, De Carli E, Amorim PMDS, Gomes GW, et al.",
+  "journal": "Journal of Nutrition",
+  "year": 2017,
+  "doi": "10.3945/jn.117.247445",
+  "pmid": "28724658",
+  "registry": "RBR-2pr7zp",
+  "design": "other",
+  "participants": 30,
+  "followUp": "90 days, samples at baseline, 45 and 90 days",
+  "population": "Healthy Brazilian adults (15 women), mean age 27.7 years, in a country with mandatory fortification at 150 µg folic acid per 100 g flour, where the government recommends 5 mg daily to women who want to conceive or are pregnant and the 5 mg tablet is the main formulation; uncontrolled before-after trial",
+  "funder": "This study was supported by Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP 2012/12912-1) and Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), Brazil; fellowships from CNPq, CAPES and FAPESP.",
+  "funderRole": "none",
+  "authorConflicts": "The authors have no conflicts of interest to declare.",
+  "dataAccess": "summary",
+  "result": "Folic acid 5 mg daily raised serum folate about 5-fold; unmetabolised folic acid rose 11.9-fold at 45 days and 5.9-fold at 90 days, exceeding 1.12 nmol/L in 29 of 30 and 26 of 30 participants. The number (P < 0.001) and cytotoxicity (P = 0.003) of natural killer cells fell at 45 and 90 days; mononuclear-cell DHFR mRNA rose at 90 days and IL8 and TNFA mRNA at 45 and 90 days. The authors describe the trial as non-controlled.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5712455/"
+}

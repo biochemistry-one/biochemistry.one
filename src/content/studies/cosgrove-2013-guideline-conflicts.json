@@ -1,0 +1,16 @@
+{
+  "title": "Conflicts of interest and the quality of recommendations in clinical guidelines",
+  "authors": "Cosgrove L, Bursztajn HJ, Erlich DR, Wheeler EE, Shaughnessy AF",
+  "journal": "Journal of Evaluation in Clinical Practice",
+  "year": 2013,
+  "doi": "10.1111/jep.12016",
+  "pmid": "23731207",
+  "design": "cross-sectional",
+  "population": "The American Psychiatric Association Practice Guideline for the Treatment of Patients with Major Depressive Disorder (2010), its development group, independent review panel and cited references",
+  "funder": "not read: the publisher full text is behind a paywall, no archived copy was found, and Crossref metadata list no funder.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "All members of the guideline development committee disclosed financial ties to industry, a mean of 20.5 relationships (range 9 to 33), most on speakers' bureaus; members of the independent review panel had undeclared financial relationships. 44.4% of studies supporting recommendations met criteria for high quality, 34.2% of cited research did not study outpatients with major depressive disorder, 17.2% did not measure clinically relevant results and 19.7% of references were not congruent with the recommendations; 13% of references supporting recommendations were co-authored by the six developers. Results read from the abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://api.crossref.org/works/10.1111/jep.12016"
+}

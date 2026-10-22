@@ -1,0 +1,16 @@
+{
+  "title": "The structure and function of G-protein-coupled receptors",
+  "authors": "Rosenbaum DM, Rasmussen SG, Kobilka BK",
+  "journal": "Nature",
+  "year": 2009,
+  "doi": "10.1038/nature08144",
+  "pmid": "19458711",
+  "design": "other",
+  "funder": "This work was supported by the US National Institute of General Medical Sciences (grant F32 GM082028 to D.M.R. and grant RO1-GM083118 to B. K.), the Lundbeck Foundation (to S.G.F.R.), the National Institute of Neurological Disorders and Stroke (grant RO1-NS28471 to B.K.) and the Mather Charitable Foundation (to B. K.).",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing financial interests.",
+  "dataAccess": "summary",
+  "result": "Review. GPCRs are the largest family of membrane proteins and mediate most cellular responses to hormones and neurotransmitters; all have seven membrane-spanning alpha-helical segments. At the human beta2 adrenoceptor, adrenaline and noradrenaline activate the stimulatory G-protein subunit Gs alpha, which stimulates adenylyl cyclase; cAMP accumulates and activates protein kinase A, and specific phosphodiesterases lower cAMP. Activated receptors are phosphorylated by G-protein-coupled receptor kinases and bind arrestin, which prevents G-protein activation and promotes internalisation.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3967846"
+}

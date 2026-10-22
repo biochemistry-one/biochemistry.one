@@ -1,0 +1,20 @@
+{
+  "title": "Clopidogrel with or without omeprazole in coronary artery disease",
+  "authors": "Bhatt DL, Cryer BL, Contant CF, Cohen M, Lanas A, Schnitzer TJ, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2010,
+  "doi": "10.1056/NEJMoa1007964",
+  "pmid": "20925534",
+  "registry": "NCT00557921",
+  "design": "rct",
+  "participants": 3873,
+  "followUp": "event rates at 180 days; terminated early when the sponsor lost financing",
+  "population": "Patients with an indication for dual antiplatelet therapy with aspirin and clopidogrel; 3761 included in analyses",
+  "funder": "Funded by Cogentus Pharmaceuticals (statement in the abstract). Registry NCT00557921: lead sponsor Cogentus Pharmaceuticals; responsible party Pablo Lapuerta, Cogentus Pharmaceuticals, an author; intervention CGT-2168, clopidogrel 75 mg with omeprazole 20 mg, against clopidogrel 75 mg; terminated by the sponsor.",
+  "funderRole": "publication",
+  "authorConflicts": "Not read.",
+  "dataAccess": "unknown",
+  "result": "Gastrointestinal events 1.1% with omeprazole against 2.9% with placebo at 180 days (HR 0.34, 95% CI 0.18 to 0.63); overt upper gastrointestinal bleeding HR 0.13 (0.03 to 0.56). Cardiovascular events 4.9% against 5.7% (HR 0.99, 0.68 to 1.44). Diarrhoea was more frequent with omeprazole.",
+  "class": "industry",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT00557921"
+}

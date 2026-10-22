@@ -1,0 +1,17 @@
+{
+  "title": "Beta-blocker therapy and symptoms of depression, fatigue, and sexual dysfunction",
+  "authors": "Ko DT, Hebert PR, Coffey CS, Sedrakyan A, Curtis JP, Krumholz HM",
+  "journal": "JAMA",
+  "year": 2002,
+  "doi": "10.1001/jama.288.3.351",
+  "pmid": "12117400",
+  "design": "meta-analysis",
+  "followUp": "trials of at least 6 months",
+  "population": "15 randomised placebo-controlled, non-crossover trials with at least 100 patients in myocardial infarction, heart failure or hypertension that reported depressive symptoms, fatigue or sexual dysfunction; MEDLINE 1966 to 2001, English language",
+  "funder": "not read: the publisher page refused access and the archived copy holds no article text.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "In trials involving more than 35,000 subjects, beta-blockers did not significantly raise the annual risk of reported depressive symptoms (6 per 1000 patients, 95% CI -7 to 19). They raised reported fatigue by 18 per 1000 patients a year (5 to 30), one additional report per 57 patients treated for a year, and reported sexual dysfunction by 5 per 1000 a year (2 to 8), one per 199. Risks did not differ by lipid solubility; fatigue was significantly more frequent with early-generation than late-generation beta-blockers (P = 0.04). Adverse events were abstracted from trial reports.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/12117400/"
+}

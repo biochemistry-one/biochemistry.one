@@ -1,0 +1,19 @@
+{
+  "title": "Proton pump inhibitor use and the risk of chronic kidney disease",
+  "authors": "Lazarus B, Chen Y, Wilson FP, Sang Y, Chang AR, Coresh J, et al.",
+  "journal": "JAMA Internal Medicine",
+  "year": 2016,
+  "doi": "10.1001/jamainternmed.2015.7193",
+  "pmid": "26752337",
+  "design": "cohort",
+  "participants": 10482,
+  "followUp": "median 13.9 years; replication cohort median 6.2 years",
+  "population": "Atherosclerosis Risk in Communities (ARIC) participants with eGFR of at least 60 mL/min/1.73 m2 from 1996 to 1999; replication in 248,751 Geisinger Health System patients",
+  "funder": "The ARIC study is supported by National Heart, Lung, and Blood Institute contracts HHSN268201100005C to HHSN268201100012C; M. E. Grams receives support from the National Institute of Diabetes and Digestive and Kidney Diseases (K08DK092287). Some data were supplied by the United States Renal Data System.",
+  "funderRole": "none",
+  "authorConflicts": "Not shown in the PMC author manuscript.",
+  "dataAccess": "individual",
+  "result": "ARIC: incident chronic kidney disease in 56 of 322 baseline PPI users (14.2 per 1000 person-years) and 1382 of 10,160 non-users (10.7 per 1000 person-years); adjusted HR 1.50 (95% CI 1.14 to 1.96); 10-year absolute risk 11.8% against an expected 8.5% without PPI (difference 3.3 percentage points). Replication: adjusted HR 1.17 (1.12 to 1.23); 10-year risk 15.6% against 13.9%. PPI users were more often obese and taking antihypertensive drugs; the authors state that the observational design does not establish causality.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4772730/"
+}

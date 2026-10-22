@@ -1,0 +1,20 @@
+{
+  "title": "Ingestion of the Non-Nutritive Sweetener Erythritol, but Not Glucose, Enhances Platelet Reactivity and Thrombosis Potential in Healthy Volunteers—Brief Report",
+  "authors": "Witkowski M, Wilcox J, Province V, Wang Z, Nemet I, Tang WHW, et al.",
+  "journal": "Arteriosclerosis, Thrombosis, and Vascular Biology",
+  "year": 2024,
+  "doi": "10.1161/ATVBAHA.124.321019",
+  "pmid": "39114916",
+  "registry": "NCT04731363",
+  "design": "other",
+  "participants": 20,
+  "followUp": "30 minutes after a single dose",
+  "population": "Healthy non-smoking volunteers without cardiovascular disease, hypertension or diabetes, with normal renal function, at the Cleveland Clinic; 10 given 30 g erythritol and 10 given 30 g glucose in water; allocation non-randomised and unmasked according to the registry entry",
+  "funder": "This work was supported by grants from the NIH and Office of Dietary Supplements P01 HL147823, R01 HL167831 and R01 HL103866 (S.L.H.). M.W. was partially supported by an award from the Deutsche Forschungsgemeinschaft WI 5229/1-1 and the Corona Foundation (S0199/10098/2023). Lead sponsor in the registry: The Cleveland Clinic.",
+  "funderRole": "none",
+  "authorConflicts": "S.L.H. and Z.W. reported Cleveland Clinic patents on cardiovascular diagnostics and therapeutics and royalties from Procter & Gamble and Cleveland HeartLab; S.L.H. is a paid consultant for, and has research funds from, Zehna Therapeutics; the authors state these are unrelated to the paper.",
+  "dataAccess": "summary",
+  "result": "After 30 g erythritol, plasma erythritol rose from a median 3.8 (IQR 3.4 to 3.9) to 6480 (5930 to 7300) umol/L at 30 min, and ADP- and TRAP6-stimulated platelet aggregation increased in every subject; stimulus-dependent release of serotonin rose (P<0.0001 with TRAP6, P=0.004 with ADP), as did release of CXCL4 with TRAP6 (P<0.0001; P=0.064 with ADP). After 30 g glucose, plasma glucose rose from 87 to 127 mg/dL and platelet aggregation and granule release did not increase.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11338701"
+}

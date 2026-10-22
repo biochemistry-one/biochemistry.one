@@ -1,0 +1,19 @@
+{
+  "title": "Antidepressant use and risk of adverse outcomes in older people: population based cohort study",
+  "authors": "Coupland C, Dhiman P, Morriss R, Arthur A, Barton G, Hippisley-Cox J",
+  "journal": "BMJ",
+  "year": 2011,
+  "doi": "10.1136/bmj.d4551",
+  "pmid": "21810886",
+  "design": "cohort",
+  "participants": 60746,
+  "followUp": "new depression diagnoses from 1996 to 2007, followed to 31 December 2008; absolute risks estimated at 1 year",
+  "population": "Patients aged 65 to 100 years with a new diagnosis of depression in 570 UK general practices contributing to the QResearch database",
+  "funder": "This project was funded by the NIHR Health Technology Assessment Programme (project number 06/42/01).",
+  "funderRole": "unknown",
+  "authorConflicts": "JH-C is director of QResearch, a not-for-profit venture between the University of Nottingham and EMIS, a commercial supplier of general practice computer systems, and director of ClinRisk Ltd, a medical software company; RM received financial support for speaking at meetings sponsored by several pharmaceutical companies about the non-drug treatment of depression and bipolar disorder.",
+  "dataAccess": "individual",
+  "result": "Adjusted hazard ratios for SSRIs against no antidepressant use: upper gastrointestinal bleeding 1.22 (95% CI 1.07 to 1.40), hyponatraemia 1.52 (1.33 to 1.75). Adjusted absolute risks over 1 year: upper gastrointestinal bleeding 0.42% without antidepressants, 0.51% with SSRIs, 0.44% with sertraline; hyponatraemia 0.29% without antidepressants, 0.44% with SSRIs, 0.29% with sertraline. Citalopram, escitalopram and fluoxetine were associated with significantly increased risks of hyponatraemia, paroxetine and sertraline were not. Observational design susceptible to confounding by indication, channelling bias and residual confounding.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3149102/fullTextXML"
+}

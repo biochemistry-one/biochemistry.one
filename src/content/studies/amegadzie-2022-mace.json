@@ -1,0 +1,18 @@
+{
+  "title": "Association between Inhaled β2-agonists Initiation and Risk of Major Adverse Cardiovascular Events: A Population-based Nested Case-Control Study",
+  "authors": "Amegadzie JE, Gamble JM, Farrell J, Gao Z",
+  "journal": "International Journal of Chronic Obstructive Pulmonary Disease",
+  "year": 2022,
+  "doi": "10.2147/COPD.S358927",
+  "pmid": "35645559",
+  "design": "case-control",
+  "participants": 180567,
+  "population": "New users of inhaled respiratory drugs aged 18 and over with asthma, COPD or asthma-COPD overlap in the UK Clinical Practice Research Datalink linked to hospital and death records, January 1998 to July 2018; 686 cases of major adverse cardiovascular events each matched to up to 10 controls",
+  "funder": "This work was supported by a research grant from Canada Research Respiratory Network (CRRN), Ottawa, Canada (Young Investigator Award, 2017). The study funder was not involved in the study design or the writing of the protocol. The network's partnerships page lists CIHR, AstraZeneca, Boehringer Ingelheim, GlaxoSmithKline and Novartis as CRRN funding partners in 2017 (https://web.archive.org/web/20170628185311/http://respiratoryresearchnetwork.ca/partnerships) and AstraZeneca, Boehringer Ingelheim, GlaxoSmithKline, Merck, Novartis and Sanofi among current or previous partners in 2026 (https://respiratoryresearchnetwork.ca/partnerships/), so freedom of the grant from industry money cannot be established.",
+  "funderRole": "none",
+  "authorConflicts": "The authors report no conflicts of interest in this work.",
+  "dataAccess": "unknown",
+  "result": "The cohort included 111,829 new users of short-acting beta2-agonists; 686 people had a first major adverse cardiovascular event (stroke, heart failure, myocardial infarction, arrhythmia or cardiovascular death): 359 with asthma, 239 with COPD and 88 with overlap. In asthma, short-acting beta2-agonists were not significantly associated with events against inhaled corticosteroid (HR 1.29, 95% CI 0.96 to 1.73). In COPD, short-acting beta2-agonists were associated with events against short-acting muscarinic antagonists (HR 2.02, 1.13 to 3.59), and in asthma-COPD overlap against inhaled corticosteroid (HR 2.57, 1.26 to 5.24). Mean age at cohort entry of cases was 63.8 years in asthma and 74.3 years in COPD.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9130098/"
+}

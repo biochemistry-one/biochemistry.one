@@ -1,0 +1,20 @@
+{
+  "title": "Maintenance or discontinuation of antidepressants in primary care",
+  "authors": "Lewis G, Marston L, Duffy L, Freemantle N, Gilbody S, Hunter R, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2021,
+  "doi": "10.1056/NEJMoa2106356",
+  "pmid": "34587384",
+  "registry": "ISRCTN15969819",
+  "design": "rct",
+  "participants": 478,
+  "followUp": "52 weeks",
+  "population": "Adults aged 18 to 74 years in 150 UK general practices with at least two previous depressive episodes or at least 2 years of antidepressant use, taking citalopram 20 mg, sertraline 100 mg, fluoxetine 20 mg or mirtazapine 30 mg daily for at least 9 months, who had recovered and felt well enough to consider stopping",
+  "funder": "Supported by the National Institute for Health Research (HTA Program 13/115/48). The trial was sponsored by University College London and funded by the National Institute for Health Research, with no commercial involvement.",
+  "funderRole": "unknown",
+  "authorConflicts": "Disclosure forms are available with the full text at NEJM.org; they are not itemised in the article text that was read.",
+  "dataAccess": "individual",
+  "result": "Double-blind; 238 assigned to maintenance and 240 to discontinuation, of whom 41 and 37 took sertraline. In the discontinuation group, citalopram, sertraline or mirtazapine was given at half dose for 1 month, then half dose on alternate days with placebo for 1 month, then placebo; fluoxetine 20 mg on alternate days for 1 month, then placebo. Relapse by 52 weeks in 92 of 238 (39%) with maintenance and 135 of 240 (56%) with discontinuation (hazard ratio 2.06, 95% CI 1.56 to 2.70). At 12 weeks, new or worsened withdrawal symptoms on the modified DESS 1.3 against 3.1 (difference 1.9, 95% CI 1.5 to 2.3). Serious adverse events 9 (4%) against 8 (3%); no deaths or suicide attempts.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250801005259/https://www.nejm.org/doi/full/10.1056/NEJMoa2106356"
+}

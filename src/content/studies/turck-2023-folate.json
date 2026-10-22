@@ -1,0 +1,16 @@
+{
+  "title": "Scientific opinion on the tolerable upper intake level for folate",
+  "authors": "EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA Panel), Turck D, Bohn T, Castenmiller J, de Henauw S, Hirsch-Ernst KI, et al.",
+  "journal": "EFSA Journal",
+  "year": 2023,
+  "doi": "10.2903/j.efsa.2023.8353",
+  "pmid": "37965303",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (question EFSA-Q-2021-00366). Preparatory systematic reviews were conducted by a contractor, Karolinska Institutet in collaboration with the University of Oslo, under an EFSA procurement procedure.",
+  "funderRole": "none",
+  "authorConflicts": "Declarations of interest of contributing experts are available on request from EFSA; not read.",
+  "dataAccess": "summary",
+  "result": "Folates consist of a pterin moiety linked to p-aminobenzoic acid and one or more glutamates, substituted at N5 or N10 by one-carbon units; natural folates are reduced polyglutamates usually with five to seven glutamates. A jejunal hydrolase (EC 3.4.17.21) converts polyglutamates to monoglutamates, which PCFT (SLC46A1), the most important intestinal transporter, and RFC (SLC19A1) move into enterocytes; 5-methyl-THF is the main circulating form; RFC, the main transporter from blood to tissues, has about 100 times lower affinity for folic acid than for reduced folates. Folylpolyglutamate synthase retains folates as THF polyglutamates; 5-methyl-THF monoglutamate and folic acid are poor substrates, and 5-methyl-THF is lost from cells unless methionine synthase converts it to THF. Folic acid, a fully oxidised monoglutamate, is reduced by DHFR via dihydrofolate to THF. The MTHFR reaction is essentially irreversible under physiological conditions and SAM is its allosteric inhibitor; in cobalamin deficiency 5-methyl-THF is metabolically trapped, SAM falls, MTHFR becomes fully active, and a functional folate deficiency develops with raised plasma 5-methyl-THF and homocysteine, depleted erythrocyte folate and fewer methyl groups for transmethylation. The megaloblastic anaemia of cobalamin deficiency is identical to that of folate deficiency; neurological manifestations (myeloneuropathy from demyelination) can occur with or without anaemia, are almost never seen in folate deficiency, and have an unknown mechanism, with congenital defects of MTHFR and methionine synthase pointing to methionine synthase rather than methylmalonyl-CoA mutase. Folic acid can initiate DNA synthesis in cobalamin deficiency through DHFR but cannot correct the methylation defect. MTHFR 677TT is associated with lower serum folate and higher homocysteine; in a genome-wide study of 2232 Irish adults aged 18 to 28 years MTHFR 677C>T was the only significant modifier of red cell and serum folate. ULs for folic acid retained: 1000 ug/day for adults including pregnant and lactating women, with progression of neurological symptoms in cobalamin-deficient patients as critical effect.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10641704/fullTextXML"
+}

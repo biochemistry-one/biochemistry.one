@@ -1,0 +1,19 @@
+{
+  "title": "Effects and safety of periconceptional oral folate supplementation for preventing birth defects",
+  "authors": "De-Regil LM, Peña-Rosas JP, Fernández-Gaxiola AC, Rayco-Solon P",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2015,
+  "doi": "10.1002/14651858.CD007950.pub3",
+  "pmid": "26662928",
+  "design": "systematic-review",
+  "participants": 7391,
+  "followUp": "Supplementation from before conception to up to 12 weeks of pregnancy; outcome at birth or termination",
+  "population": "Five randomised or quasi-randomised trials: 2033 women with a previous pregnancy affected by a neural tube defect and 5358 without; folic acid 0.36 to 4 mg daily, alone or with other vitamins and minerals",
+  "funder": "Internal sources: The University of Liverpool; Evidence and Programme Guidance Unit, Department of Nutrition for Health and Development, World Health Organization; Micronutrient Initiative, Canada. External sources: National Institute for Health Research, UK; The Bill & Melinda Gates Foundation; Centers for Disease Control and Prevention (National Center on Birth Defects and Developmental Disabilities); UNDP/UNFPA/UNICEF/WHO/World Bank Special Programme of Research, Development and Research Training in Human Reproduction. WHO states that donors do not participate in guideline development decisions or in the conduct and interpretation of systematic reviews.",
+  "funderRole": "none",
+  "authorConflicts": "L.M. De-Regil is a full-time employee of the Micronutrient Initiative, an NGO supporting vitamin and mineral programmes; WHO acknowledges funding of its nutrition work by the Gates Foundation, Micronutrient Initiative, CDC, USAID, GAIN and HarvestPlus.",
+  "dataAccess": "summary",
+  "result": "Neural tube defects, any folate against none (5 trials, 6708 births): RR 0.31 (95% CI 0.17 to 0.58), high-quality evidence; first occurrence (1 trial, 4862 births): RR 0.07 (0.00 to 1.32), no events with folic acid; recurrence (4 trials, 1846 births): RR 0.34 (0.18 to 0.64). The effect did not differ by daily dose (0.36 or 0.4 mg and above) or by use with other micronutrients. Only one trial was judged at low risk of bias. Miscarriage RR 1.10 (0.94 to 1.28; 7391 pregnancies); multiple pregnancy RR 1.38 (0.89 to 2.14; 4 trials, 7280 pregnancies); cleft palate, cleft lip, cardiovascular and other birth defects without clear effect (low-quality evidence). Only one trial reported side effects such as nausea or diarrhoea; no trial assessed neonatal death, maternal blood folate or anaemia at term. The authors state that the best dose, scheme and form, including 5-methyltetrahydrofolate, are not established.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8783750/"
+}

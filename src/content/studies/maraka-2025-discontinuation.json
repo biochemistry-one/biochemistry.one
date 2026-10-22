@@ -1,0 +1,20 @@
+{
+  "title": "Discontinuation of levothyroxine therapy in patients with subclinical hypothyroidism: a pilot randomized clinical trial",
+  "authors": "Maraka S, Owen RR, Singh Ospina NM, Knox M, Dodds T, Thostenson JD, et al.",
+  "journal": "Endocrine",
+  "year": 2025,
+  "doi": "10.1007/s12020-025-04371-z",
+  "pmid": "40736623",
+  "registry": "NCT04288115",
+  "design": "rct",
+  "participants": 45,
+  "followUp": "6 months",
+  "population": "US veterans with subclinical hypothyroidism documented before starting levothyroxine and taking 75 µg/d or less; mean age 68.2 years, 80% men",
+  "funder": "Dr. Maraka and Dr. Owen were supported to conduct this research by the U.S. Department of Veterans Affairs Health Services Research and Development Service Pilot Merit Review Award, grant number 1I21HX003268-01A1. Dr. Singh Ospina was supported by the National Cancer Institute of the National Institutes of Health under Award Number K08CA248972.",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors have no relevant financial or non-financial interests to disclose.",
+  "dataAccess": "unknown",
+  "result": "Double-blind pilot: 50 randomised, 45 analysed (21 continued levothyroxine, 24 switched to over-encapsulated placebo); 98% completed. At 6 months ThyPRO hypothyroid symptoms 28.3 (SD 22.8) on placebo against 22.9 (19.5) on levothyroxine, tiredness 27.6 (22.8) against 32.8 (22.1), EQ-5D 0.750 against 0.741, none significantly different. Two placebo participants restarted levothyroxine, one for TSH above 10 mIU/l and one for fatigue; the only notable adverse event was rib fractures in a placebo participant.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12364413/"
+}

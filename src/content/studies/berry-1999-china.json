@@ -1,0 +1,18 @@
+{
+  "title": "Prevention of neural-tube defects with folic acid in China",
+  "authors": "Berry RJ, Li Z, Erickson JD, Li S, Moore CA, Wang H, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 1999,
+  "doi": "10.1056/NEJM199911113412001",
+  "pmid": "10559448",
+  "design": "cohort",
+  "participants": 247831,
+  "followUp": "Pregnancies registered from 1 October 1993 to 30 September 1995, with outcome at 20 weeks of gestation or later",
+  "population": "Women in a public health campaign in one northern Chinese province with high neural tube defect rates and two southern provinces with low rates, asked at the premarital examination to take 400 µg folic acid alone daily until the end of the first trimester; non-randomised comparison of users and non-users",
+  "funder": "not stated. The project was conducted by the US Centers for Disease Control and Prevention and Beijing Medical University with the Chinese Ministry of Health; women purchased the pills.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Neural tube defects in 102 fetuses or infants of 130,142 women who took folic acid and 173 of 117,689 who did not. Among women registered before their last menstrual period without folic acid, rates were 4.8 per 1000 pregnancies in the north and 1.0 per 1000 in the south; with periconceptional use, 1.0 and 0.6 per 1000. Reduction in risk with any use 79% in the north and 16% in the south; with periconceptional use 79% and 41% (95% CI 3 to 64); with periconceptional use and over 80% compliance 85% and 40%, rates 0.7 and 0.6 per 1000. Users were about 2 years younger, more often registered before conception and more often primigravid. The authors state that neural tube formation is complete within 28 days after conception.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20250326031535/https://www.nejm.org/doi/full/10.1056/NEJM199911113412001"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Opinion on the re-evaluation of sodium carboxy methyl cellulose (E 466) as a food additive in foods for infants below 16 weeks of age and follow-up of its re-evaluation as food additive for uses in foods for all population groups",
+  "authors": "EFSA Panel on Food Additives and Flavourings (FAF), Younes M, Aquilina G, Castle L, Degen G, Engel KH, et al.",
+  "journal": "EFSA Journal",
+  "year": 2022,
+  "doi": "10.2903/j.efsa.2022.7665",
+  "pmid": "36514369",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "The mouse studies of carboxymethylcellulose gave inconsistent results on fasting glucose, spleen weight, colon length and fat-pad weight, with small effects, and were obtained under non-blinded conditions with a high risk of bias. In the 11-day human study, glucose tolerance, insulin sensitivity, six cytokines, anti-lipopolysaccharide and anti-flagellin IgG and body weight were unchanged. The Panel considered that the preliminary results do not allow identifying specific health concerns and that the field needs investigation on a large scale.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9732683/"
+}

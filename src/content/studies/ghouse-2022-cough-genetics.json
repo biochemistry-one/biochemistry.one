@@ -1,0 +1,18 @@
+{
+  "title": "Polygenic risk score for ACE-inhibitor-associated cough based on the discovery of new genetic loci",
+  "authors": "Ghouse J, Tragante V, Muhammad A, Ahlberg G, Skov MW, Roden DM, et al.",
+  "journal": "European Heart Journal",
+  "year": 2022,
+  "doi": "10.1093/eurheartj/ehac322",
+  "pmid": "35751511",
+  "design": "genetic",
+  "participants": 78000,
+  "population": "33,959 people who switched from an ACE inhibitor to an angiotensin receptor blocker and 44,041 who continued an ACE inhibitor for at least 1 year, from prescription data in three population-based cohorts; authors at institutions in Denmark, Iceland (deCODE genetics/Amgen) and the United States (eMERGE)",
+  "funder": "Funding listed includes the Novo Nordisk Foundation (BRIDGE programme and grants), the John and Birthe Meyer Foundation, the Capital Region Research Foundation, Innovation Fund Denmark, the Villadsen Family Foundation, the Arvid Nilsson Foundation and NHGRI/NIH grants to eMERGE sites. Authors affiliated with deCODE genetics/Amgen Inc. declare competing financial interests as employees.",
+  "funderRole": "unknown",
+  "authorConflicts": "deCODE genetics/Amgen employees among the authors; Torp-Pedersen reports grants from Bayer and Novo Nordisk; Køber reports fees from Novartis, AstraZeneca and Boehringer; others report fees from Bristol-Myers Squibb and Merck Sharp and Dohme.",
+  "dataAccess": "individual",
+  "result": "Genome-wide association study of ACE inhibitor discontinuation identified seven loci, six previously unreported; the strongest was at 20q13.3 near NTSR1, encoding neurotensin receptor 1 (odds ratio 1.21, 95% CI 1.17 to 1.24, P=2.1×10^-34). Five of seven lead variants were associated with ACE-inhibitor cough and none with angio-oedema; a polygenic risk score was associated with cough in a dose-response manner but not with angio-oedema. Discontinuation was genetically correlated with gastro-oesophageal reflux, allergic rhinitis, hay fever and asthma.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10148738/"
+}

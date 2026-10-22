@@ -1,0 +1,18 @@
+{
+  "title": "Hypertension and antihypertensive therapy as risk factors for type 2 diabetes mellitus",
+  "authors": "Gress TW, Nieto FJ, Shahar E, Wofford MR, Brancati FL",
+  "journal": "New England Journal of Medicine",
+  "year": 2000,
+  "doi": "10.1056/NEJM200003303421301",
+  "pmid": "10738048",
+  "design": "cohort",
+  "participants": 12550,
+  "followUp": "6 years, with fasting glucose measured at 3 and 6 years",
+  "population": "Adults aged 45 to 64 years without diabetes in the Atherosclerosis Risk in Communities study, four US communities",
+  "funder": "Supported by contracts with the National Heart, Lung, and Blood Institute (N01-HC-55015, N01-HC-55016, N01-HC-55018, N01-HC-55019, N01-HC-55020, N01-HC-55021 and N01-HC-55022) for the ARIC collaborative study; by a National Institutes of Health training grant (T32HL07180); and by an Established Investigator grant from the American Heart Association.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "After adjustment for age, sex, race, education, adiposity, family history of diabetes, physical activity, other health-related behaviour and coexisting illness, people with hypertension taking beta-blockers had a 28% higher risk of subsequent diabetes than people with hypertension taking no antihypertensive drug (relative hazard 1.28, 95% CI 1.04 to 1.57). Thiazide diuretics (0.91, 0.73 to 1.13), ACE inhibitors and calcium channel antagonists were not associated with greater risk.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240214011551/https://www.nejm.org/doi/full/10.1056/NEJM200003303421301"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Effect of ramipril vs amlodipine on renal outcomes in hypertensive nephrosclerosis: a randomized controlled trial",
+  "authors": "Agodoa LY, Appel L, Bakris GL, Beck G, Bourgoignie J, Briggs JP, et al.; African American Study of Kidney Disease and Hypertension (AASK) Study Group",
+  "journal": "JAMA",
+  "year": 2001,
+  "doi": "10.1001/jama.285.21.2719",
+  "pmid": "11386927",
+  "design": "rct",
+  "participants": 1094,
+  "followUp": "interim analysis at 3 years; enrolment February 1995 to September 1998",
+  "population": "African Americans aged 18 to 70 years with hypertensive renal disease (GFR 20 to 65 ml/min per 1.73 m2) in a double-blind 3 by 2 factorial trial: amlodipine 5 to 10 mg (n=217), ramipril 2.5 to 10 mg (n=436) or metoprolol 50 to 200 mg (n=441)",
+  "funder": "Study drugs and some financial support were provided by Pfizer Inc, Astra-Zeneca Pharmaceuticals, and King Pharmaceuticals Inc. In addition to funding under a cooperative agreement from National Institute of Diabetes and Digestive and Kidney Diseases, this study was supported in part by the following general clinical research center grants from the National Institutes of Health: M01 RR-00080, 5M01 RR-00071, M01 00032, P20-RR11145, M01 RR00827, and 2P20 RR11104.",
+  "funderRole": "unknown",
+  "inKindSupport": "Study drugs provided by Pfizer, AstraZeneca and King Pharmaceuticals.",
+  "authorConflicts": "Most authors report speaker honoraria, research funding, consultancy or stock in manufacturers of antihypertensive drugs, Pfizer among them.",
+  "dataAccess": "individual",
+  "result": "The amlodipine arm was terminated in September 2000 on the recommendation of the data and safety monitoring board, on safety concerns from interim analyses showing slower GFR decline and fewer clinical end points with ramipril and metoprolol than with amlodipine in proteinuric participants. With urinary protein to creatinine ratio above 0.22 (about 300 mg/day, one third of participants), ramipril slowed mean GFR decline by 36% (2.02 ml/min per 1.73 m2 per year, P=0.006) and reduced the composite of GFR decline over 50% or 25 ml/min, end-stage renal disease or death by 48% (95% CI 20% to 66%) against amlodipine. In the whole cohort, mean GFR decline from baseline to 3 years did not differ (P=0.38), but the composite occurred in 87 of 436 on ramipril (0.058 per person-year) against 56 of 217 on amlodipine (0.077 per person-year), a 38% reduction (13% to 56%); ramipril also slowed GFR decline after 3 months by 36% (P=0.002) and lowered proteinuria (P<0.001). Termination of the entire amlodipine arm was recommended partly because protein excretion increased significantly in participants with and without proteinuria. The proteinuria cut-point of 0.22 was chosen post hoc.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20100117143137/http://jama.ama-assn.org:80/cgi/content/full/285/21/2719?"
+}

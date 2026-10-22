@@ -1,0 +1,19 @@
+{
+  "title": "Late Pregnancy beta Blocker Exposure and Risks of Neonatal Hypoglycemia and Bradycardia",
+  "authors": "Bateman BT, Patorno E, Desai RJ, Seely EW, Mogun H, Maeda A, et al.",
+  "journal": "Pediatrics",
+  "year": 2016,
+  "doi": "10.1542/peds.2016-0731",
+  "pmid": "27577580",
+  "design": "cohort",
+  "participants": 2292116,
+  "followUp": "infant records from birth to day 30",
+  "population": "Completed pregnancies linked to liveborn infants of Medicaid-enrolled women in the United States, 2003 to 2007; 10,585 (0.5%) exposed to a beta-blocker at delivery, most often labetalol (6748), metoprolol (1485) or atenolol (1121)",
+  "funder": "Supported by the Eunice Kennedy Shriver National Institute of Child Health and Human Development (K08HD075831), the National Heart Lung and Blood Institute (K24HL096141) and the National Institute of Mental Health (K01MH099141); the Medicaid Analytic eXtract pregnancy cohort was supported by Agency for Healthcare Research and Quality grant R01HS018533.",
+  "funderRole": "unknown",
+  "authorConflicts": "Several authors are investigators on grants to Brigham and Women's Hospital from Lilly, Pfizer and Baxalta, and one has consulted for AstraZeneca and UCB, all on unrelated projects; the Pharmacoepidemiology Program at the Harvard School of Public Health is supported by Pfizer, Takeda, Bayer and Asisa.",
+  "dataAccess": "individual",
+  "result": "Neonatal hypoglycaemia occurred in 4.3% of exposed against 1.2% of unexposed neonates and neonatal bradycardia in 1.6% against 0.5%. After propensity-score matching (10,561 exposed, 31,683 unexposed), adjusted odds ratios were 1.68 (95% CI 1.50 to 1.89) for hypoglycaemia and 1.29 (1.07 to 1.55) for bradycardia. Hypoglycaemia odds ratios by drug: labetalol 1.78 (1.55 to 2.04), metoprolol 1.64 (1.15 to 2.33), atenolol 1.54 (0.99 to 2.40).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5005024/"
+}

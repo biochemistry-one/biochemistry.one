@@ -1,0 +1,20 @@
+{
+  "title": "Long term treatment with metformin in patients with type 2 diabetes and risk of vitamin B-12 deficiency: randomised placebo controlled trial",
+  "authors": "de Jager J, Kooy A, Lehert P, Wulffele MG, van der Kolk J, Bets D, et al.",
+  "journal": "BMJ",
+  "year": 2010,
+  "doi": "10.1136/bmj.c2181",
+  "pmid": "20488910",
+  "registry": "NCT00375388",
+  "design": "rct",
+  "participants": 390,
+  "followUp": "4.3 years (52 months); samples at baseline and 4, 17, 30, 43 and 52 months",
+  "population": "Patients aged 30 to 80 years with type 2 diabetes treated with insulin at the outpatient clinics of three non-academic hospitals in the Netherlands; mean age 64 years on metformin and 59 on placebo, mean diabetes duration 14 and 12 years, baseline HbA1c 7.9% in both groups, baseline vitamin B12 378 and 380 pmol/L",
+  "funder": "The Hyperinsulinaemia: the Outcome of its Metabolic Effects (HOME) trial was supported by grants from Altana, Lifescan, Merck Sante, Merck Sharp & Dohme and Novo Nordisk. The sponsors had no role in the design and conduct of the study; in the collection, analysis and interpretation of the data; or in the preparation, review or approval of the manuscript. All authors declare financial support for the submitted work from Merck Sharp & Dohme.",
+  "funderRole": "none",
+  "authorConflicts": "All authors declare financial support for the submitted work from Merck Sharp & Dohme and no other financial relationships with commercial entities with an interest in the work.",
+  "dataAccess": "unavailable",
+  "result": "Randomisation to metformin 850 mg three times daily (n = 196) or identical placebo (n = 194) added to insulin; mean achieved dose 2050 mg daily; 277 of 390 (72%) were still taking study drug at the end, and 46 patients (30 on metformin, 16 on placebo) discontinued because of adverse effects. Against placebo, metformin lowered vitamin B12 by 19% (95% CI -24% to -14%, p < 0.001) and folate by 5% (-10% to -0.4%, p = 0.033; not significant after adjustment for body-mass index and smoking) and raised homocysteine by 5% (-1% to 11%, p = 0.091). Vitamin B12 fell by 89.8 pmol/L from baseline on metformin and by 0.2 pmol/L on placebo, and the interaction between treatment and time was significant (p = 0.023), the fall increasing with time. At study end, deficiency (below 150 pmol/L) affected 19 patients (9.9%) on metformin against 5 (2.7%) on placebo, an absolute risk difference of 7.2 percentage points (2.3 to 12.1, p = 0.004) and a number needed to harm of 13.8 per 4.3 years (43.5 to 8.3); low concentrations (150 to 220 pmol/L) affected 35 (18.2%) against 13 (7.0%), a difference of 11.2 percentage points (4.6 to 17.9, p = 0.001) and a number needed to harm of 8.9 per 4.3 years (21.7 to 5.6). The hazard ratio for developing deficiency was 5.5 (1.6 to 19.1, p = 0.01) and for a low concentration 3.0 (1.3 to 6.6, p = 0.007). Patients deficient at study end had a mean homocysteine of 23.7 micromol/L (18.8 to 30.0) against 18.1 (16.7 to 19.6) with low B12 and 14.9 (14.3 to 15.5) with normal B12. The authors state that they measured only total vitamin B12, not holotranscobalamin or methylmalonic acid; that all participants received repeated dietary counselling, which may have attenuated the effect; that eight patients deficient at baseline or interim analysis were supplemented and excluded; and that no additional data are available.",
+  "class": "industry",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2874129/fullTextXML"
+}

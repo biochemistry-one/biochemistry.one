@@ -1,0 +1,18 @@
+{
+  "title": "Effect of metoprolol CR/XL in chronic heart failure: Metoprolol CR/XL Randomised Intervention Trial in Congestive Heart Failure (MERIT-HF)",
+  "authors": "MERIT-HF Study Group",
+  "journal": "Lancet",
+  "year": 1999,
+  "doi": "10.1016/S0140-6736(99)04440-2",
+  "pmid": "10376614",
+  "design": "rct",
+  "participants": 3991,
+  "followUp": "mean 1 year; stopped early at the second interim analysis",
+  "population": "Patients aged 40 to 80 years with chronic heart failure for at least 3 months, New York Heart Association class II to IV and an ejection fraction of 0.40 or less, stabilised on optimum standard therapy including diuretics and ACE inhibitors, at 313 sites in the United States and 13 European countries; 41% were in class II and 55% in class III, mean ejection fraction 0.28",
+  "funder": "The funding statement of the trial report could not be read: the publisher page is behind a subscription, the archived copy stops at the abstract and the article is absent from PubMed Central; the archived full text of the companion report in JAMA (doi 10.1001/jama.283.10.1295) contains no funding section. The design paper of the Beta-Blockers in Heart Failure Collaborative Group, which lists this trial among those proposed for pooling, states that of those trials only BEST was principally sponsored by public bodies and that all the others were funded by pharmaceutical companies. Metoprolol CR/XL is marketed as TOPROL-XL, a trademark of the AstraZeneca group of companies.",
+  "funderRole": "unknown",
+  "dataAccess": "unavailable",
+  "result": "Double-blind randomisation, after a 2-week single-blind placebo run-in, to metoprolol CR/XL 12.5 mg once daily in class III or IV or 25 mg in class II (n = 1990), titrated over 8 weeks towards 200 mg, or placebo (n = 2001); the mean daily dose reached was 159 mg. All-cause mortality, the primary endpoint, occurred in 145 patients against 217 (7.2% against 11.0% per patient-year of follow-up; relative risk 0.66, 95% CI 0.53 to 0.81; p = 0.00009, p = 0.0062 adjusted for interim analyses): 7.3% against 10.8% of those randomised, an absolute difference of 3.6 percentage points over a mean 1 year, so 28 patients treated for a year avoid one death. Sudden death occurred in 79 against 132 patients (0.59, 0.45 to 0.78; p = 0.0002) and death from worsening heart failure in 30 against 58 (0.51, 0.33 to 0.79; p = 0.0023). In the companion report, all-cause mortality or all-cause hospitalisation occurred in 641 against 767 patients (risk reduction 19%, 95% CI 10% to 27%).",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3564787/"
+}

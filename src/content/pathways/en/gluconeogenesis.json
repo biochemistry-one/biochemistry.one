@@ -1,0 +1,94 @@
+{
+  "title": "Gluconeogenesis from pyruvate",
+  "layout": "chain",
+  "compartment": "Mitochondrial matrix, cytosol and endoplasmic reticulum of liver and kidney cortex",
+  "steps": [
+    {
+      "from": "Pyruvate",
+      "to": "Oxaloacetate",
+      "enzyme": "Pyruvate carboxylase (PC), mitochondrial",
+      "cofactors": ["ATP to ADP", "HCO3−", "Biotin"],
+      "note": "Acetyl-CoA activates allosterically; two pyruvate enter per glucose"
+    },
+    {
+      "from": "Oxaloacetate",
+      "to": "Malate",
+      "enzyme": "Malate dehydrogenase 2 (MDH2), mitochondrial",
+      "cofactors": ["NADH to NAD+"],
+      "reversible": true,
+      "note": "Malate then crosses the inner mitochondrial membrane"
+    },
+    {
+      "from": "Malate",
+      "to": "Oxaloacetate",
+      "enzyme": "Malate dehydrogenase 1 (MDH1), cytosolic",
+      "cofactors": ["NAD+ to NADH"],
+      "reversible": true,
+      "note": "Supplies the cytosolic NADH used by GAPDH"
+    },
+    {
+      "from": "Oxaloacetate",
+      "to": "Phosphoenolpyruvate",
+      "enzyme": "Phosphoenolpyruvate carboxykinase 1 (PCK1), cytosolic",
+      "cofactors": ["GTP to GDP"],
+      "note": "Releases CO2; PCK2 catalyses the same reaction in mitochondria"
+    },
+    {
+      "from": "Phosphoenolpyruvate",
+      "to": "2-Phosphoglycerate",
+      "enzyme": "Enolase 1 (ENO1)",
+      "cofactors": ["H2O"],
+      "reversible": true
+    },
+    {
+      "from": "2-Phosphoglycerate",
+      "to": "3-Phosphoglycerate",
+      "enzyme": "Phosphoglycerate mutase 1 (PGAM1)",
+      "reversible": true
+    },
+    {
+      "from": "3-Phosphoglycerate",
+      "to": "1,3-Bisphosphoglycerate",
+      "enzyme": "Phosphoglycerate kinase 1 (PGK1)",
+      "cofactors": ["ATP to ADP"],
+      "reversible": true
+    },
+    {
+      "from": "1,3-Bisphosphoglycerate",
+      "to": "Glyceraldehyde 3-phosphate",
+      "enzyme": "Glyceraldehyde-3-phosphate dehydrogenase (GAPDH)",
+      "cofactors": ["NADH to NAD+"],
+      "reversible": true,
+      "note": "Releases phosphate"
+    },
+    {
+      "from": "Glyceraldehyde 3-phosphate",
+      "to": "Fructose 1,6-bisphosphate",
+      "enzyme": "Aldolase B (ALDOB)",
+      "cofactors": ["Dihydroxyacetone phosphate"],
+      "reversible": true,
+      "note": "DHAP comes from a second triose by triose-phosphate isomerase (TPI1)"
+    },
+    {
+      "from": "Fructose 1,6-bisphosphate",
+      "to": "Fructose 6-phosphate",
+      "enzyme": "Fructose-1,6-bisphosphatase 1 (FBP1)",
+      "cofactors": ["H2O"],
+      "inhibitors": [{"name": "Fructose 2,6-bisphosphate"}, {"name": "AMP"}],
+      "note": "Releases phosphate; glucagon lowers fructose 2,6-bisphosphate"
+    },
+    {
+      "from": "Fructose 6-phosphate",
+      "to": "Glucose 6-phosphate",
+      "enzyme": "Glucose-6-phosphate isomerase (GPI)",
+      "reversible": true
+    },
+    {
+      "from": "Glucose 6-phosphate",
+      "to": "Glucose",
+      "enzyme": "Glucose-6-phosphatase (G6PC1), endoplasmic reticulum",
+      "cofactors": ["H2O"],
+      "note": "SLC37A4 moves the substrate into the ER lumen; releases phosphate"
+    }
+  ]
+}

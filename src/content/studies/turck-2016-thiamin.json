@@ -1,0 +1,15 @@
+{
+  "title": "Dietary reference values for thiamin",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA), Turck D, Bresson JL, Burlingame B, Dean T, Fairweather-Tait S, et al.",
+  "journal": "EFSA Journal",
+  "year": 2016,
+  "doi": "10.2903/j.efsa.2016.4653",
+  "pmid": "42006014",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (question EFSA-Q-2011-01225).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Free thiamin is the precursor of thiamin diphosphate (TDP, thiamin pyrophosphate), the coenzyme of pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase and branched-chain alpha-keto acid dehydrogenase and of transketolase in the pentose phosphate pathway; the three dehydrogenases also require cofactors derived from pantothenic acid, riboflavin and niacin. Thiamin deficiency causes several forms of beriberi, dry (sensory and motor peripheral neuropathy) and wet (with congestive heart failure), and Wernicke's encephalopathy and Korsakoff's syndrome.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13088889/fullTextXML"
+}

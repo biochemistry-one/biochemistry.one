@@ -1,0 +1,20 @@
+{
+  "title": "Effects of fluoxetine on functional outcomes after acute stroke (FOCUS): a pragmatic, double-blind, randomised, controlled trial",
+  "authors": "FOCUS Trial Collaboration",
+  "journal": "Lancet",
+  "year": 2019,
+  "doi": "10.1016/S0140-6736(18)32823-X",
+  "pmid": "30528472",
+  "registry": "ISRCTN83290762",
+  "design": "rct",
+  "participants": 3127,
+  "followUp": "6 and 12 months",
+  "population": "Adults 2 to 15 days after acute stroke with focal deficits at 103 UK hospitals, excluding people with epileptic seizures, previous overdose or suicide attempt; fluoxetine 20 mg daily or placebo for 6 months",
+  "funder": "UK Stroke Association and NIHR Health Technology Assessment Programme. None of the funding organisations had any role in study design, data collection, data analysis, data interpretation, or writing of this report, or the decision to publish.",
+  "funderRole": "none",
+  "authorConflicts": "We declare no competing interests.",
+  "dataAccess": "summary",
+  "result": "At 6 months, bone fractures in 45 of 1564 (2.88%) on fluoxetine against 23 of 1563 (1.47%) on placebo, difference 1.41 percentage points (95% CI 0.38 to 2.43), about 1 extra fracture per 71 treated; new depression 13.43% against 17.21%; functional outcome did not differ (common OR 0.951, 0.839 to 1.079). Epileptic seizures 3.71% against 2.56% and hyponatraemia below 125 mmol/L 1.41% against 0.90% were not significantly different.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=6336936"
+}

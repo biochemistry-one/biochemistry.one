@@ -1,0 +1,17 @@
+{
+  "title": "Prophylactic effects or withdrawal reactions? An analysis of time-to-event data from antidepressant relapse prevention trials submitted to the FDA",
+  "authors": "Hengartner MP, Plöderl M",
+  "journal": "Therapeutic Advances in Psychopharmacology",
+  "year": 2021,
+  "doi": "10.1177/20451253211032051",
+  "pmid": "34394912",
+  "design": "meta-analysis",
+  "population": "Kaplan-Meier curves of 14 antidepressant relapse prevention trials of 13 drugs submitted to the FDA from 1987 to 2012, mean observation 38.9 weeks, in which remitted patients were randomised to continuation or to abrupt or rapid switch to placebo",
+  "funder": "The authors received no financial support for the research, authorship, and/or publication of this article.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare that there is no conflict of interest.",
+  "dataAccess": "summary",
+  "result": "20.6% (95% CI 10.9% to 30.3%) of the total drug-placebo difference in relapse had accrued by week 3, 50.3% by week 6 and 69.0% by week 12, with no further separation from week 24 (101.0%); around week 6 the separation was about three times larger than expected for a constant prophylactic effect. The authors interpret the early excess of relapses in placebo arms as possibly due to withdrawal reactions after abrupt or rapid discontinuation, in which case long-term prophylactic effects are overestimated. They also report that the FDA's own censoring of relapses in the first 4 weeks reduced the absolute risk difference from 19% to 12%.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=8361519"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Vitamin D for the Prevention of Disease: An Endocrine Society Clinical Practice Guideline",
+  "authors": "Demay MB, Pittas AG, Bikle DD, Diab DL, Kiely ME, Lazaretti-Castro M, et al.",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2024,
+  "doi": "10.1210/clinem/dgae290",
+  "pmid": "38828931",
+  "design": "guideline",
+  "funder": "Funding for the development of this guideline was provided by The Endocrine Society. No other entity provided financial support.",
+  "funderRole": "several",
+  "authorConflicts": "14 panel members; 7% with relevant or potentially relevant conflicts of interest. Marise Lazaretti-Castro was marked as having a relevant conflict and agreed to refrain from future consultation for products related to vitamin D; several members report relationships with companies including Mantecorp-Farmasa, Alexion, Amgen, Radius, Ajinomoto and Dexcom.",
+  "dataAccess": "summary",
+  "result": "Suggests empiric vitamin D supplementation for children and adolescents aged 1 to 18 years, adults aged 75 years or older, pregnancy, and high-risk prediabetes; suggests against supplementation beyond the Dietary Reference Intake in adults under 50 and against routine supplementation beyond it at 50 to 74 years; suggests against routine 25-hydroxyvitamin D testing in these groups; for adults 50 years or older with an indication, suggests daily lower-dose instead of non-daily higher-dose vitamin D. The Endocrine Society no longer endorses the target 25-hydroxyvitamin D level of 30 ng/mL (75 nmol/L) or specific levels to define vitamin D sufficiency.",
+  "class": "consensus",
+  "fundingChecked": "https://academic.oup.com/jcem/article/109/8/1907/7685305"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Effects of prolonged ethanol intake: production of fatty liver despite adequate diets",
+  "authors": "Lieber CS, Jones DP, DeCarli LM",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1965,
+  "doi": "10.1172/JCI105200",
+  "pmid": "14322019",
+  "design": "mechanistic",
+  "participants": 5,
+  "population": "Five people aged 36 to 62 years, four of them men, with a history of alcoholism and of biopsy-proven alcoholic fatty liver, abstinent and with normal liver morphology at entry; pair-fed rats",
+  "funder": "Supported in part by the U. S. Army Medical Research and Development Command, Department of the Army contract DA-49-193-MD-2013, and U. S. Public Health Service research grant AM 06284 from the National Institute of Arthritis and Metabolic Diseases. Lieber held a U. S. Public Health Service Research Career Development Award.",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "Under metabolic ward conditions, isocaloric substitution of ethanol for carbohydrate in an adequate diet, or addition of ethanol (up to 300 g per day) to it, produced fat accumulation in liver biopsies of all five subjects. In rats given 36% of energy as ethanol for 24 days, hepatic triglycerides were 89.4 mg/g against 11.3 mg/g in pair-fed controls (19 pairs); replacing the same carbohydrate with fat produced no fatty liver.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/105200/version/1/pdf/render.pdf"
+}

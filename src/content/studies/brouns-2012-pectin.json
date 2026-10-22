@@ -1,0 +1,18 @@
+{
+  "title": "Cholesterol-lowering properties of different pectin types in mildly hyper-cholesterolemic men and women",
+  "authors": "Brouns F, Theuwissen E, Adam A, Bell M, Berger A, Mensink RP",
+  "journal": "European Journal of Clinical Nutrition",
+  "year": 2012,
+  "doi": "10.1038/ejcn.2011.208",
+  "pmid": "22190137",
+  "design": "rct",
+  "followUp": "4 weeks per period at 15 g/day; 3 weeks in a subsequent trial at 6 g/day",
+  "population": "Mildly hypercholesterolaemic men and women",
+  "funder": "This study was funded by a research grant from Cargill European R&D Center (Vilvoorde, Belgium).",
+  "funderRole": "publication",
+  "authorConflicts": "Brouns is an academic researcher and science consultant to Cargill. Adam was, at the time of the study, a nutrition scientist at Cargill Inc. (Vilvoorde, Belgium). Berger is North American Nutrition Leader in Global Food Research at Cargill Inc. (Minneapolis). Bell is an independent biostatistician at Clinical Data Services; Theuwissen and Mensink are independent academic researchers at Maastricht University. The two Cargill employees are co-authors of the publication; the roles of the funder in design and analysis are not stated.",
+  "dataAccess": "unknown",
+  "result": "Cross-over studies with 15 g/day pectin or cellulose with food for 4 weeks: LDL cholesterol lowering was citrus pectin DE-70 = apple pectin DE-70 (7-10% reduction versus control) > apple DE-35 = citrus DE-35 > orange pulp fibre DE-70 and low-molecular-weight DE-70 > citrus DE-0. In a subsequent 3-week trial with 6 g/day, citrus DE-70 and high-molecular-weight DE-70 pectin reduced LDL cholesterol 6-7% versus control without change in total cholesterol. Numbers read in the abstract; the full text is behind a paywall.",
+  "class": "industry",
+  "fundingChecked": "https://www.nature.com/articles/ejcn2011208"
+}

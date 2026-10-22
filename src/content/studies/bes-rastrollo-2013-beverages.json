@@ -1,0 +1,16 @@
+{
+  "title": "Financial conflicts of interest and reporting bias regarding the association between sugar-sweetened beverages and weight gain: a systematic review of systematic reviews",
+  "authors": "Bes-Rastrollo M, Schulze MB, Ruiz-Canela M, Martinez-Gonzalez MA",
+  "journal": "PLoS Medicine",
+  "year": 2013,
+  "doi": "10.1371/journal.pmed.1001578",
+  "pmid": "24391479",
+  "design": "systematic-review",
+  "funder": "No funding was received for this work.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declared that no competing interests exist.",
+  "dataAccess": "summary",
+  "result": "17 systematic reviews with 18 conclusions on sugar-sweetened beverages and weight gain or obesity. Five of 6 conclusions (83.3%) from reviews disclosing a financial conflict of interest with the food industry found insufficient evidence of a positive association; 10 of 12 conclusions (83.3%) from reviews reporting no such conflict found a potential risk. Relative risk of a conclusion of no positive association 5.0 (95% CI 1.3 to 19.3).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3876974/"
+}

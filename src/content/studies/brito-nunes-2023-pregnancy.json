@@ -1,0 +1,18 @@
+{
+  "title": "Mendelian randomization study of maternal coffee consumption and its influence on birthweight, stillbirth, miscarriage, gestational age and pre-term birth",
+  "authors": "Brito Nunes C, Huang P, Wang G, Lundberg M, D'Urso S, Wootton RE, et al.",
+  "journal": "International Journal of Epidemiology",
+  "year": 2023,
+  "doi": "10.1093/ije/dyac121",
+  "pmid": "35679582",
+  "design": "mendelian-randomisation",
+  "population": "Coffee GWAS of 91,462 Europeans (Coffee and Caffeine Genetics Consortium); outcome data on miscarriage (49,996 cases, 174,109 controls), stillbirth (60,453 UK Biobank women), gestational age and pre-term birth (43,568 women, 23andMe) and birthweight (EGG consortium and UK Biobank); one-sample genetic risk score analyses in up to 194,196 UK Biobank women and 6845 ALSPAC mothers",
+  "funder": "The UK Medical Research Council and Wellcome (217065/Z/19/Z) and the University of Bristol provide core support for ALSPAC; genotyping of ALSPAC mothers was funded by the Wellcome Trust (WT088806) and offspring samples were genotyped by the Wellcome Trust Sanger Institute and LabCorp using support from 23andMe. Author support from the Norwegian Research Council, Nils Normans minnegave, NHMRC, South-Eastern Norway Regional Health Authority, British Heart Foundation, UK Medical Research Council, University of Bristol, University of Queensland and CSIRO. The funders have no role in the study design, analyses or interpretation of results.",
+  "funderRole": "none",
+  "inKindSupport": "23andMe provided summary statistics for gestational age and pre-term birth under a data-access agreement.",
+  "authorConflicts": "One author receives support from Roche Diagnostics and Medtronic Ltd for research unrelated to this study; two authors are Associate Editors at IJE.",
+  "dataAccess": "individual",
+  "result": "In two-sample and one-sample genetic analyses, genetically predicted coffee consumption showed no change in risk of sporadic miscarriage, stillbirth or pre-term birth, or effect on gestational age. Birthweight associations were positive and inconsistent in size (two-sample, six variants: 0.050 SD per cup a day, 95% CI 0.001 to 0.098). Assuming the genetic score explained 0.37% of variance in coffee intake, UK Biobank had 80% power to detect a 26.9 g difference in birthweight or 0.03 more stillbirths per daily cup. In ALSPAC, self-reported coffee at week 32 was associated with -9.63 g birthweight per cup (-17.57 to -1.69), attenuated to -4.52 g (-14.92 to 5.88) after adjustment for smoking and alcohol. The authors note that a null association may reflect a lack of power.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9908064/"
+}

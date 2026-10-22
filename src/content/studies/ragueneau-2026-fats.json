@@ -1,0 +1,17 @@
+{
+  "title": "The Reactome Knowledgebase 2026",
+  "authors": "Ragueneau E, Gong C, Sinquin P, Sevilla C, Beavers D, Grentner A, et al.",
+  "journal": "Nucleic Acids Research",
+  "year": 2026,
+  "doi": "10.1093/nar/gkaf1223",
+  "pmid": "41251150",
+  "url": "https://reactome.org/content/detail/R-HSA-200425",
+  "design": "database",
+  "funder": "The development of Reactome is supported by grants from the National Institutes of Health (U24HG012198 and U24HG012198-02S1 for Core Trust Seal development; U24HG011851), European Bioinformatics Institute (EMBL-EBI), Open Targets (The Target Validation Platform), and Connected Minds Prototyping (York University). Funding to pay the Open Access publication charges for this article was provided by the National Institutes of Health (U24HG012198). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reactome release 97, pathway and reaction summaries read through reactome.org/ContentService on 2026-10-21. Carnitine shuttle (R-HSA-200425): the malonyl-CoA-sensitive CPT1 of the mitochondrial outer membrane, the carnitine:acylcarnitine translocase SLC25A20 of the inner membrane and CPT2 on the matrix side of the inner membrane transport long-chain fatty acids into the matrix; CPT1A is most abundant in liver and CPT1B in muscle, and malonyl-CoA inhibits both; regulation at ACACA and ACACB minimises simultaneous mitochondrial catabolism and cytosolic biosynthesis of long-chain fatty acids. ACACB, on the outer mitochondrial membrane, regulates fatty acid oxidation through inhibition of CPT1 by its product malonyl-CoA, and phosphorylated AMPK inactivates ACACB in muscle cells (R-HSA-8876889, R-HSA-200423). Mitochondrial fatty acid beta-oxidation (R-HSA-77289): repetitive removal of two-carbon units in four steps, oxidation, hydration, a second oxidation and thiolysis; each turn produces one NADH, one FADH2 and one acetyl-CoA. Beta-oxidation of saturated fatty acids (R-HSA-77286): the first pass for palmitoyl-CoA uses VLCAD (ACADVL) with FAD and the trifunctional protein with H2O, NAD+ and CoA, yielding myristoyl-CoA and acetyl-CoA; later passes use ACADL, ACADM, ACADS, ECHS1 and HADH; the seventh and final pass converts butanoyl-CoA to acetoacetyl-CoA, which yields 2 acetyl-CoA. ATP-citrate synthase (R-HSA-75848): fatty acid synthesis proceeds in the cytosol, while most acetyl-CoA is generated in mitochondria from pyruvate derived from glycolysis and reaches the cytosol as citrate, which ACLY cleaves; ACLY is highly expressed in lipogenic tissues such as liver and white adipose tissue and links carbohydrate metabolism to fatty acid production (R-HSA-9734540). ACACA, a biotin enzyme, is positively regulated by citrate (R-HSA-75851). Fatty acid synthase (R-HSA-75872): acetyl-CoA + 7 malonyl-CoA + 14 NADPH + 14 H+ = palmitate + 7 CO2 + 14 NADP+ + 8 CoA + 6 H2O. Synthesis of very long-chain fatty acyl-CoAs (R-HSA-75876): humans lack the desaturases to synthesise polyunsaturated fatty acids from stearate. SLC27A3 (R-HSA-8875077): members of the ACSVL subfamily were first thought to be fatty acid transport proteins (FATPs), but their transport function has never been proven, and their sequences carry two conserved acyl-CoA synthetase motifs.",
+  "class": "reference",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12807730&retmode=xml"
+}

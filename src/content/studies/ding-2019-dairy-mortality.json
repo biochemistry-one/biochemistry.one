@@ -1,0 +1,19 @@
+{
+  "title": "Associations of dairy intake with risk of mortality in women and men: three prospective cohort studies",
+  "authors": "Ding M, Li J, Qi L, Ellervik C, Zhang X, Manson JE, et al.",
+  "journal": "BMJ",
+  "year": 2019,
+  "doi": "10.1136/bmj.l6204",
+  "pmid": "31776125",
+  "design": "cohort",
+  "participants": 217755,
+  "followUp": "up to 32 years",
+  "population": "Nurses' Health Study, Nurses' Health Study II and Health Professionals Follow-up Study, 168,153 women and 49,602 men without cardiovascular disease or cancer at baseline, about 95% of European ancestry",
+  "funder": "National Institutes of Health grants UM1 CA186107, P01 CA87969, R01 CA49449, R01 HL034594, R01 HL088521, UM1 CA176726, R01 CA67262, UM1 CA167552, R01 HL35464 and R01 HL60712. The funding sources did not participate in design, conduct, data collection, management, analysis, interpretation, or preparation, review or approval of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "FBH reports research support from the California Walnut Commission and honorariums from Metagenics, Standard Process and Diet Quality Photo Navigation, outside the submitted work.",
+  "dataAccess": "unavailable",
+  "result": "51,438 deaths, including 12,143 cardiovascular. Highest (average 4.2 servings/day) versus lowest (0.8 servings/day) total dairy: total mortality HR 1.07 (95% CI 1.04 to 1.10); cardiovascular mortality 1.02 (0.95 to 1.08); cancer mortality 1.05 (0.99 to 1.11). Whole milk per additional 0.5 serving/day: total mortality 1.11 (1.09 to 1.14), cardiovascular mortality 1.09 (1.03 to 1.15). Cheese and yogurt were not associated with total or cause-specific mortality.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6880246/"
+}

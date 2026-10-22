@@ -1,0 +1,33 @@
+{
+  "title": "Acid activation of proton-pump inhibitors",
+  "layout": "chain",
+  "compartment": "Secretory canaliculus of the stimulated parietal cell",
+  "steps": [
+    {
+      "from": "Prodrug (substituted pyridylmethylsulfinyl benzimidazole)",
+      "to": "Pyridine-protonated prodrug",
+      "enzyme": "Non-enzymatic protonation of the pyridine (pKa about 4)",
+      "reversible": true,
+      "note": "Charged form concentrates about 1000-fold over blood at canalicular pH about 1"
+    },
+    {
+      "from": "Pyridine-protonated prodrug",
+      "to": "Benzimidazole-protonated prodrug",
+      "enzyme": "Non-enzymatic protonation of the benzimidazole (pKa about 1)",
+      "reversible": true,
+      "note": "Second protonation at the luminal surface of the pump"
+    },
+    {
+      "from": "Benzimidazole-protonated prodrug",
+      "to": "Sulfenic acid or tetracyclic sulfenamide",
+      "enzyme": "Non-enzymatic acid-catalysed conversion",
+      "note": "Thiophilic species; the inhibitory form"
+    },
+    {
+      "from": "Sulfenic acid or tetracyclic sulfenamide",
+      "to": "Disulfide-linked H+/K+-ATPase (ATP4A Cys813), arrested in E2",
+      "enzyme": "Non-enzymatic reaction with luminal cysteine thiols",
+      "note": "Also Cys892 (omeprazole), Cys321 (lansoprazole), Cys822 (pantoprazole)"
+    }
+  ]
+}

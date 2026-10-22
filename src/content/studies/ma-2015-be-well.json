@@ -1,0 +1,18 @@
+{
+  "title": "Behavioral weight loss and physical activity intervention in obese adults with asthma. A randomized trial",
+  "authors": "Ma J, Strub P, Xiao L, Lavori PW, Camargo CA Jr, Wilson SR, et al.",
+  "journal": "Annals of the American Thoracic Society",
+  "year": 2015,
+  "doi": "10.1513/AnnalsATS.201406-271OC",
+  "pmid": "25496399",
+  "design": "rct",
+  "participants": 330,
+  "followUp": "12 months",
+  "population": "Obese adults (mean BMI 37.5) with uncontrolled asthma; 12-month lifestyle intervention for modest weight loss and activity against enhanced usual care",
+  "funder": "The BE WELL study was supported by grant R01HL094466 from the National Heart, Lung, and Blood Institute and internal funding from the Palo Alto Medical Foundation Research Institute; one author was supported by a Clinical and Translational Science Award. No sponsor or funding source had a role in the design or conduct of the study; collection, management, analysis or interpretation of the data; or preparation, review, or approval of the manuscript.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Weight change at 12 months was -4.0 kg with the intervention against -2.1 kg with control (p = 0.01), and leisure-time activity rose more. The change in Asthma Control Questionnaire score did not differ (-0.3 against -0.2, p = 0.92), nor did spirometry, quality of life or exacerbations. Across all participants regardless of group, weight loss of 10% or more was associated with 3.78 (95% CI 1.72 to 8.31) times the odds of a clinically important ACQ improvement against stable weight; other weight change categories showed small effects.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4342805/"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Intestinal lipid absorption",
+  "authors": "Iqbal J, Hussain MM",
+  "journal": "American Journal of Physiology. Endocrinology and Metabolism",
+  "year": 2009,
+  "doi": "10.1152/ajpendo.90899.2008",
+  "pmid": "19158321",
+  "design": "other",
+  "funder": "This work was supported in part by National Institute of Diabetes and Digestive and Kidney Diseases Grant DK-46700 and a Grant-in-Aid from the American Heart Association to M. M. Hussain.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Narrative review. Pancreatic lipase, with colipase and bile salts, acts on the sn-1 and sn-3 positions of triacylglycerol and releases 2-monoacylglycerol and free fatty acids; 2-monoacylglycerol is the predominant form in which monoacylglycerol is absorbed. In enterocytes, monoacylglycerol acyltransferases join monoacylglycerol and fatty acyl-CoA to diacylglycerol, and DGAT1 and DGAT2 form triacylglycerol, which is incorporated into apoB48-containing chylomicrons in an MTP-dependent manner. Vitamin E occurs as tocopherols and tocotrienols that vary in biological activity owing to differences in bioavailability; its absorption requires micelles, involves SR-BI and occurs mainly through chylomicron secretion.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20171003193729/http://ajpendo.physiology.org/content/296/6/E1183.full"
+}

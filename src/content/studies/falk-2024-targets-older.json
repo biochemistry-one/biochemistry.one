@@ -1,0 +1,19 @@
+{
+  "title": "Higher blood pressure targets for hypertension in older adults",
+  "authors": "Falk JM, Froentjes L, Kirkwood JE, Heran BS, Kolber MR, Allan GM, et al.",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2024,
+  "doi": "10.1002/14651858.CD011575.pub3",
+  "pmid": "39688187",
+  "design": "meta-analysis",
+  "participants": 16732,
+  "followUp": "2 to 4 years",
+  "population": "Four randomised trials in adults aged 65 or older (mean 70.3 years) comparing a higher target (systolic below 150 to 160 or diastolic below 95 to 105 mm Hg; in the newest trial 130 to 150 mm Hg) with a lower target (140/90 mm Hg or lower; 110 to 130 mm Hg); search to June 2024",
+  "funder": "Internal sources: academic salaries from the University of Alberta, University of Manitoba and University of British Columbia, clinical practice income from Alberta Health Services and salary from the College of Family Physicians of Canada. External sources: none.",
+  "funderRole": "none",
+  "authorConflicts": "Garrison holds government grants from Alberta Innovates and the Canadian Institutes of Health Research for antihypertensive timing trials; other authors none.",
+  "dataAccess": "summary",
+  "result": "Higher against lower target: all-cause mortality RR 1.14 (95% CI 0.95 to 1.37; low certainty), stroke 1.33 (1.06 to 1.67; high certainty), total serious cardiovascular events 1.25 (1.09 to 1.45; moderate certainty), withdrawals for adverse effects 0.99 (0.74 to 1.33; 3 trials, 16,008; moderate certainty). Adverse effects were not available from all trials. The authors call for research in people aged 80 or older and in frail people, in whom risks and benefits may differ.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11650777/"
+}

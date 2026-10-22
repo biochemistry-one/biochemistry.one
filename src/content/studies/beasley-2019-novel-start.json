@@ -1,0 +1,19 @@
+{
+  "title": "Controlled Trial of Budesonide-Formoterol as Needed for Mild Asthma",
+  "authors": "Beasley R, Holliday M, Reddel HK, Braithwaite I, Ebmeier S, Hancox RJ, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2019,
+  "doi": "10.1056/NEJMoa1901963",
+  "pmid": "31112386",
+  "registry": "ACTRN12615000999538",
+  "design": "rct",
+  "participants": 675,
+  "followUp": "52 weeks",
+  "population": "Adults aged 18 to 75 years with mild asthma using only a short-acting beta2-agonist; as-needed albuterol 100 µg two inhalations, budesonide 200 µg twice daily plus as-needed albuterol, or as-needed budesonide 200 µg-formoterol 6 µg, open label with electronic inhaler monitoring",
+  "funder": "Funded by AstraZeneca and the Health Research Council of New Zealand; the registry lists AstraZeneca AB under commercial sector funding and the Medical Research Institute of New Zealand as primary sponsor.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "668 of 675 randomised patients were analysed. Annualised exacerbation rate 0.195 with as-needed budesonide-formoterol against 0.400 with as-needed albuterol (relative rate 0.49, 95% CI 0.33 to 0.72) and 0.175 with budesonide maintenance (relative rate 1.12, 0.70 to 1.79). Severe exacerbations: 9 with budesonide-formoterol against 23 with albuterol (relative risk 0.40, 0.18 to 0.86) and 21 with budesonide maintenance. Mean inhaled budesonide was 107 µg/day with as-needed budesonide-formoterol and 222 µg/day with maintenance.",
+  "class": "industry",
+  "fundingChecked": "https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12615000999538"
+}

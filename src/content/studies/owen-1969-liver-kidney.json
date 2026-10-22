@@ -1,0 +1,18 @@
+{
+  "title": "Liver and kidney metabolism during prolonged starvation",
+  "authors": "Owen OE, Felig P, Morgan AP, Wahren J, Cahill GF Jr",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1969,
+  "doi": "10.1172/JCI106016",
+  "pmid": "5773093",
+  "design": "mechanistic",
+  "participants": 11,
+  "followUp": "35 to 41 days of fasting",
+  "population": "Eleven obese adults, six men and five women aged 16 to 49 years, in therapeutic starvation; hepatic and renal vein catheterisation in five after 35 to 41 days",
+  "funder": "This work was supported in part by grants from the U. S. Public Health Service, AM-05077, AM-09584, AM-09748, AM-02657, HE-05679, HE-08591, HE-11306, and FR-31, the Adler Foundation, Inc., Rye, N. Y., and the U. S. Army Medical Research and Development Command (DA-49-193-MO-2337).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Venous 3-hydroxybutyrate was 0.07 mmol/L on day 0, 1.21 on day 3, 4.30 on day 10, 5.10 on day 17 and 5.85 mmol/L on days 35 to 38; blood glucose 4.79, 3.63 and 3.70 mmol/L and serum insulin 37, 20 and 14 µU/ml on days 0, 3 and 35 to 38. Fatty acids and ketone bodies reached a plateau after 17 days. After 5 to 6 weeks, estimated glucose production was about 86 g/24 h, about 55% from liver and 45% from kidney; about half of the glucose formed came from recycled lactate and pyruvate; liver and kidney removed about 19 g glycerol per day; urinary nitrogen was 4.66 g/24 h, 42% as ammonia.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/106016/version/1/pdf/render.pdf"
+}

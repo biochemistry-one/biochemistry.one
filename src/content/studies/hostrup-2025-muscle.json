@@ -1,0 +1,17 @@
+{
+  "title": "Beta2-adrenergic agonist salbutamol exhibits enantioselective disposition in skeletal muscle of lean young men following oral administration",
+  "authors": "Hostrup M, Jacobson GA, Eibye K, Narkowicz CK, Nichols DS, Jessen S",
+  "journal": "Drug Testing and Analysis",
+  "year": 2025,
+  "doi": "10.1002/dta.3787",
+  "pmid": "39148405",
+  "design": "other",
+  "participants": 12,
+  "population": "Healthy lean men aged 19-32 years, beta2-agonist naive, one oral dose of 24 mg salbutamol with a light meal",
+  "funder": "The study was supported by the Danish Ministry of Culture and Anti-Doping Danmark.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "The pharmacological actions of salbutamol reside with the (R)-enantiomer, the (S)-enantiomer being regarded as pharmacodynamically inert. After 24 mg orally, mean arterial plasma concentrations were about 10-fold higher for (S)- than (R)-salbutamol: 33 (range 9-62) ng/ml and 49 (30-84) ng/ml for (S)-salbutamol against 4 (1-6) ng/ml and 4 (2-5) ng/ml for (R)-salbutamol at 2.5 h and 7 h. Vastus lateralis concentrations were 0.17 (0.1-0.26) against 0.04 (0.02-0.06) ng/mg dry weight at 2.5 h and 0.31 (0.21-0.46) against 0.06 (0.04-0.12) ng/mg at 7 h. The median muscle:plasma partition coefficient at 7 h was 3.69 (2.4-14.1) for (R)-salbutamol and 0.99 (0.5-3.9) for (S)-salbutamol (p = 0.003).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12151713/"
+}

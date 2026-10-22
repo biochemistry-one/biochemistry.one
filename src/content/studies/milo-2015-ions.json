@@ -1,0 +1,15 @@
+{
+  "title": "Cell Biology by the Numbers",
+  "authors": "Milo R, Phillips R",
+  "journal": "Garland Science",
+  "year": 2015,
+  "doi": "10.1201/9780429258770",
+  "url": "https://book.bionumbers.org/",
+  "design": "textbook",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Textbook, online edition read 2026-10-21 at book.bionumbers.org. Vignette 'What are the concentrations of different ions in cells?': in mammalian cells potassium is the dominant positive ion, at more than 10-fold the concentration of sodium, and outside the cell sodium dominates; potassium, about 10 to 30-fold more concentrated inside than outside, is usually close to electrochemical equilibrium in animal cells: its outward diffusion creates a potential difference that grows until it balances the diffusive flux, leaving the cell interior negative; in the extreme case of calcium the concentration outside is 10,000-fold that inside. Vignette 'What is the power consumption of a cell?', Table 1, adapted from Rolfe and Brown, Physiological Reviews 1997, rounded to one significant digit, with tissues described as rat ('rate tissues') in the caption and mouse in the text: share of the Na+/K+-ATPase in the oxygen consumption of tissues in the standard state, liver 5-10%, kidney 40-70%, heart 1-5%, brain 50-60%, skeletal muscle 5-10%.",
+  "class": "reference",
+  "fundingChecked": "https://book.bionumbers.org/preface/"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Angioedema incidence in US veterans initiating angiotensin-converting enzyme inhibitors",
+  "authors": "Miller DR, Oliveria SA, Berlowitz DR, Fincke BG, Stang P, Lillienfeld DE",
+  "journal": "Hypertension",
+  "year": 2008,
+  "doi": "10.1161/HYPERTENSIONAHA.108.110270",
+  "pmid": "18413488",
+  "design": "cohort",
+  "participants": 595081,
+  "followUp": "prescriptions from April 1999 to December 2000, with rates reported by time since first prescription up to beyond 1 year",
+  "population": "Patients of the US Veterans Affairs Health Care System starting an antihypertensive medicine: 195,192 starting an ACE inhibitor (lisinopril 72%, fosinopril 22%, captopril 6%) and 399,889 starting another antihypertensive class; angio-oedema identified from diagnosis codes in linked medical and pharmacy records, with confirmation for over 95% of a national sample of 869 cases",
+  "funder": "This project was supported in part by Department of Veterans Affairs, Boston University School of Public Health, and Bristol-Myers Squibb in association with Galt Associates. The funding sources had no role in the design, conduct, and reporting of the study or in the decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "D.R.B. has served as a consultant for Bristol-Myers Squibb, a manufacturer of antihypertensive medications. The remaining authors report no conflicts.",
+  "dataAccess": "individual",
+  "result": "Angio-oedema arose in 0.20% of patients starting an ACE inhibitor while on the medicine, a rate of 1.97 cases per 1000 person-years (95% CI 1.77 to 2.18), against 0.51 (0.43 to 0.59) in those starting another antihypertensive class and 0.47 (0.34 to 0.63) in the same patients before starting an ACE inhibitor; adjusted relative risk 3.56 (2.82 to 4.44). Rates were highest in the first 30 days after the prescription, 7.38 per 1000 person-years (6.12 to 8.82), and 4.13 (3.57 to 4.75) within 90 days, which covered 55% of cases, and remained raised beyond 1 year of use at 0.93 (0.64 to 1.31). Adjusted relative risks were 3.88 (2.99 to 4.95) for Black patients, 1.45 (1.15 to 1.88) for women, 1.22 (1.08 to 1.38) with chronic heart failure, 1.31 (1.16 to 1.48) with coronary artery disease and 0.88 (0.82 to 0.95) with diabetes. Rates in patients starting other classes varied little, from 0.28 per 1000 person-years for alpha-blockers to 0.99 for angiotensin receptor blockers. Inpatient angio-oedema occurred at 0.136 per 1000 for ACE inhibitor initiators against 0.031 for other classes. The authors estimated that 58.3% of angio-oedema among all patients starting an antihypertensive was attributable to ACE inhibitors, and that standardising to the general United States population reporting hypertension gives 2.7 cases per 1000 person-years of use.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20130111130901/http://hyper.ahajournals.org:80/content/51/6/1624.full"
+}

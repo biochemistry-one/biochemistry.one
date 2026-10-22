@@ -1,0 +1,14 @@
+{
+  "title": "Proton pump inhibitors in long-term use: reports of hypomagnesaemia",
+  "authors": "Medicines and Healthcare products Regulatory Agency",
+  "journal": "MHRA Drug Safety Update, volume 5, issue 9, April 2012: A1 (republished on GOV.UK 11 December 2014)",
+  "year": 2012,
+  "url": "https://www.gov.uk/drug-safety-update/proton-pump-inhibitors-in-long-term-use-reports-of-hypomagnesaemia",
+  "design": "regulatory",
+  "funder": "Medicines and Healthcare products Regulatory Agency",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Severe hypomagnesaemia has been reported infrequently with PPIs; the exact incidence is unknown. A review of case reports in the literature and to European regulators suggests that PPIs may cause hypomagnesaemia; some cases occurred after 3 months and most after 1 year of treatment. Serious manifestations include fatigue, tetany, delirium, convulsions, dizziness and ventricular arrhythmia, which may begin insidiously and be overlooked. In most case reports hypomagnesaemia improved after magnesium replacement and discontinuation of the PPI. Magnesium measurement should be considered before and periodically during prolonged treatment, especially with digoxin or diuretics. Over-the-counter PPIs should not be used for more than 4 weeks without consulting a doctor.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.gov.uk/api/content/drug-safety-update/proton-pump-inhibitors-in-long-term-use-reports-of-hypomagnesaemia"
+}

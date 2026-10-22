@@ -1,0 +1,19 @@
+{
+  "title": "Antihypertensive drugs and risk of incident gout among patients with hypertension: population based case-control study",
+  "authors": "Choi HK, Soriano LC, Zhang Y, Rodríguez LA",
+  "journal": "BMJ",
+  "year": 2012,
+  "doi": "10.1136/bmj.d8190",
+  "pmid": "22240117",
+  "design": "case-control",
+  "participants": 74768,
+  "followUp": "UK general practice records, 2000 to 2007",
+  "population": "All 24,768 incident cases of gout among adults aged 20 to 79 years in a UK general practice database and 50,000 matched controls; 29,138 with hypertension",
+  "funder": "This work was supported in part by grants from the National Institutes of Health (AR056291 and P60AR047785). The Spanish Centre for Pharmacoepidemiological Research has received an unrestricted research grant from Novartis to work on other projects related to gout. The funding sources had no role in the design, conduct, or reporting of the study or in the decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Choi has received research funding for other projects from Takeda and served on advisory boards for Takeda, Savient and URL Pharma; the authors' centre has an unrestricted Novartis grant for other gout projects.",
+  "dataAccess": "individual",
+  "result": "Among people with hypertension, multivariable relative risks of incident gout with current use were 0.81 (95% CI 0.70 to 0.94) for losartan, 1.29 (1.16 to 1.43) for other angiotensin receptor blockers, 1.24 (1.17 to 1.32) for ACE inhibitors, 0.87 (0.82 to 0.93) for calcium channel blockers, 2.36 (2.21 to 2.52) for diuretics and 1.48 (1.40 to 1.57) for beta blockers. With losartan the relative risk fell from 0.98 below one year of use to 0.87 at 1 to 1.9 years and 0.71 at two years or more (P<0.05 for trend).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3257215/"
+}

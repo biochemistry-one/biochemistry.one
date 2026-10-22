@@ -1,0 +1,19 @@
+{
+  "title": "Risk of nonarteritic anterior ischemic optic neuropathy in patients prescribed semaglutide",
+  "authors": "Hathaway JT, Shah MP, Hathaway DB, Zekavat SM, Krasniqi D, Gittinger JW Jr, et al.",
+  "journal": "JAMA Ophthalmology",
+  "year": 2024,
+  "doi": "10.1001/jamaophthalmol.2024.2296",
+  "pmid": "38958939",
+  "design": "cohort",
+  "participants": 1689,
+  "followUp": "36 months; December 2017 to November 2023",
+  "population": "Propensity-matched patients evaluated by neuro-ophthalmologists at one academic institution: 710 with type 2 diabetes (194 prescribed semaglutide, 516 other antidiabetic drugs) and 979 with overweight or obesity (361 semaglutide, 618 other weight-loss drugs)",
+  "funder": "This work was funded in part by a grant from Research to Prevent Blindness, which had no role in design, conduct, analysis, interpretation, preparation or approval of the manuscript, or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "None reported.",
+  "dataAccess": "summary",
+  "result": "In type 2 diabetes, 17 NAION events occurred on semaglutide against 6 on other drugs; 36-month cumulative incidence 8.9% (95% CI 4.5 to 13.1) against 1.8% (0 to 3.5); hazard ratio 4.28 (1.62 to 11.29). In overweight or obesity, 20 against 3 events; 6.7% (3.6 to 9.7) against 0.8% (0 to 1.8); hazard ratio 7.64 (2.21 to 26.36). The population was a tertiary neuro-ophthalmology referral registry; the authors state that causality requires further study.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11223051"
+}

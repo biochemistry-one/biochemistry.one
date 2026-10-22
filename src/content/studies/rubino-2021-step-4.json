@@ -1,0 +1,19 @@
+{
+  "title": "Effect of continued weekly subcutaneous semaglutide vs placebo on weight loss maintenance in adults with overweight or obesity: the STEP 4 randomized clinical trial",
+  "authors": "Rubino D, Abrahamsson N, Davies M, Hesse D, Greenway FL, Jensen C, et al.",
+  "journal": "JAMA",
+  "year": 2021,
+  "doi": "10.1001/jama.2021.3224",
+  "pmid": "33755728",
+  "registry": "NCT03548987",
+  "design": "rct",
+  "participants": 803,
+  "followUp": "20-week open-label run-in, then 48 weeks randomised",
+  "population": "Adults without diabetes with BMI of 30 or more, or 27 or more with a weight-related comorbidity, at 73 sites in 10 countries; 902 entered the run-in and 803 (89.0%) who reached 2.4 mg weekly were randomised 2:1; 79% women, mean age 46 years",
+  "funder": "This trial was funded by Novo Nordisk A/S. Representatives of Novo Nordisk were involved in design and conduct; collection, management, analysis and interpretation of the data; and preparation, review and approval of the manuscript; Novo Nordisk undertook site monitoring, data collation and analysis; two medical writers funded by Novo Nordisk assisted with drafting. Novo Nordisk did not have the right to veto publication.",
+  "funderRole": "several",
+  "dataAccess": "summary",
+  "result": "During the run-in mean weight fell by 10.6%. From week 20 to week 68 weight changed by -7.9% with continued semaglutide against +6.9% after switching to placebo (difference -14.8 percentage points, 95% CI -16.0 to -13.5). Against the switch to placebo, continued semaglutide changed waist circumference by -9.7 cm (95% CI -10.9 to -8.5), systolic blood pressure by -3.9 mm Hg (-5.8 to -2.0) and the SF-36 physical functioning score by 2.5 (1.6 to 3.3). Gastrointestinal events 49.1% against 26.1%; discontinuation for adverse events 2.4% against 2.2% in the randomised phase. Patients who stopped during the run-in or did not reach the 2.4 mg dose were not randomised.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7988425"
+}

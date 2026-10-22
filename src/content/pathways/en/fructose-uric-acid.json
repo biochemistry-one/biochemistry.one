@@ -1,0 +1,59 @@
+{
+  "title": "Uric acid formation after a fructose load",
+  "layout": "chain",
+  "compartment": "Hepatocyte cytosol",
+  "steps": [
+    {
+      "from": "ATP",
+      "to": "ADP",
+      "enzyme": "Ketohexokinase C (KHK)",
+      "cofactors": ["Fructose to fructose 1-phosphate"],
+      "note": "Rapid phosphorylation of large loads lowers ATP and free phosphate"
+    },
+    {
+      "from": "ADP",
+      "to": "AMP",
+      "enzyme": "Adenylate kinase",
+      "cofactors": ["ADP to ATP"],
+      "reversible": true,
+      "note": "2 ADP ⇌ ATP + AMP"
+    },
+    {
+      "from": "AMP",
+      "to": "IMP",
+      "enzyme": "AMP deaminase (AMPD)",
+      "cofactors": ["H2O"],
+      "note": "Releases NH4+; activated as free phosphate falls"
+    },
+    {
+      "from": "IMP",
+      "to": "Inosine",
+      "enzyme": "Cytosolic purine 5′-nucleotidase (NT5C2)",
+      "cofactors": ["H2O"],
+      "note": "Releases phosphate"
+    },
+    {
+      "from": "Inosine",
+      "to": "Hypoxanthine",
+      "enzyme": "Purine nucleoside phosphorylase (PNP)",
+      "cofactors": ["Phosphate"],
+      "reversible": true,
+      "note": "Releases ribose 1-phosphate"
+    },
+    {
+      "from": "Hypoxanthine",
+      "to": "Xanthine",
+      "enzyme": "Xanthine oxidoreductase (XDH)",
+      "cofactors": ["NAD+ to NADH or O2 to H2O2", "Mo-molybdopterin", "FAD", "2 [2Fe-2S]"],
+      "inhibitors": [{"name": "Allopurinol"}, {"name": "Febuxostat"}]
+    },
+    {
+      "from": "Xanthine",
+      "to": "Uric acid",
+      "enzyme": "Xanthine oxidoreductase (XDH)",
+      "cofactors": ["NAD+ to NADH or O2 to H2O2", "Mo-molybdopterin", "FAD", "2 [2Fe-2S]"],
+      "inhibitors": [{"name": "Allopurinol"}, {"name": "Febuxostat"}],
+      "note": "End product of purine metabolism in humans"
+    }
+  ]
+}

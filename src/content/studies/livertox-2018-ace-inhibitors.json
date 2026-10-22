@@ -1,0 +1,15 @@
+{
+  "title": "Angiotensin-Converting Enzyme Inhibitors",
+  "authors": "National Institute of Diabetes and Digestive and Kidney Diseases",
+  "journal": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-, entry updated 2018",
+  "year": 2018,
+  "pmid": "31644219",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK548912/",
+  "design": "database",
+  "funder": "National Institute of Diabetes and Digestive and Kidney Diseases (publisher of LiverTox).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Read as the PubMed and Europe PMC abstract of the entry. ACE inhibitors are rare causes of clinically apparent liver injury. All currently used ACE inhibitors are associated with serum aminotransferase elevations in 0.2% to 2% during chronic therapy, minimally different from placebo; the elevations are usually mild to moderate, self-limited and rarely require dose modification or discontinuation.",
+  "class": "reference",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31644219%20AND%20SRC:MED&format=json&resultType=core"
+}

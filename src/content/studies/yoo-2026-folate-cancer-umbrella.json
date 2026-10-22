@@ -1,0 +1,18 @@
+{
+  "title": "Folate and global health umbrella review series, part 2: syntheses on cancers",
+  "authors": "Yoo S, Montazeri A, Bennett D, Bo Y, Chen P, Duthie S, et al.",
+  "journal": "Journal of Global Health",
+  "year": 2026,
+  "doi": "10.7189/jogh.16.04102",
+  "pmid": "41718012",
+  "registry": "CRD42021265041",
+  "design": "systematic-review",
+  "population": "67 systematic reviews, 57 with meta-analyses, to February 2024, on folate intake, supplementation or blood concentration and cancer; 168 unique associations",
+  "funder": "This study was funded by Canadian Institutes for Health Research (CIHR) Grant FRN-PJT-175263. The funder had no direct or indirect involvement in the design of the review, data abstraction, synthesis, writing of the report and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "The authors disclose no relevant interests.",
+  "dataAccess": "summary",
+  "result": "Over half of the syntheses had a high risk of bias. 15 associations reached a highly suggestive level of credibility; those reported linked higher dietary or total folate intake or serum folate with lower risk of oesophageal (dietary folate OR 0.55, 0.43 to 0.67), head and neck, colorectal (total folate RR 0.88, 0.83 to 0.92), digestive system and total cancer, all from observational data; maternal folic acid supplementation was associated with fewer childhood brain and spinal cord tumours (OR 0.77, 95% CI 0.66 to 0.90) and acute lymphoblastic leukaemia (OR 0.75, 0.66 to 0.86). The authors call for robust primary studies to follow the signal of a positive relationship with prostate cancer; evidence for other sites was weak.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12922470/"
+}

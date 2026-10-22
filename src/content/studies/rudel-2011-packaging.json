@@ -1,0 +1,19 @@
+{
+  "title": "Food packaging and bisphenol A and bis(2-ethyhexyl) phthalate exposure: findings from a dietary intervention",
+  "authors": "Rudel RA, Gray JM, Engel CL, Rawsthorne TW, Dodson RE, Ackerman JM, et al.",
+  "journal": "Environmental Health Perspectives",
+  "year": 2011,
+  "doi": "10.1289/ehp.1003170",
+  "pmid": "21450549",
+  "design": "other",
+  "participants": 20,
+  "followUp": "8 days: usual diet, 3 days of fresh foods, usual diet",
+  "population": "Five families, 10 adults and 10 children, in the San Francisco Bay Area selected for frequent consumption of canned and packaged foods",
+  "funder": "This research was supported by the Passport Foundation (Charlotte, NC, USA) and the Susan S. Bailis Breast Cancer Research Fund at Silent Spring Institute.",
+  "funderRole": "none",
+  "authorConflicts": "Four authors are employed by Silent Spring Institute, a public charity; three by the Breast Cancer Fund, which advocates stricter regulation of chemicals including bisphenol A; one by AXYS Analytical Services Ltd, an analytical chemistry laboratory. The authors declare no competing financial interests.",
+  "dataAccess": "unknown",
+  "result": "Uncontrolled before-after intervention. During 3 days of fresh foods not canned or packaged in plastic, geometric mean urinary bisphenol A fell from 3.7 to 1.2 ng/ml (66%) and DEHP metabolites by 53% to 56% (MEHHP 57 to 25 ng/ml); maxima fell by 76% for bisphenol A and 93% to 96% for DEHP metabolites.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3223004/"
+}

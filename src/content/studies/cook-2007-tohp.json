@@ -1,0 +1,19 @@
+{
+  "title": "Long term effects of dietary sodium reduction on cardiovascular disease outcomes: observational follow-up of the trials of hypertension prevention (TOHP)",
+  "authors": "Cook NR, Cutler JA, Obarzanek E, Buring JE, Rexrode KM, Kumanyika SK, et al.",
+  "journal": "BMJ",
+  "year": 2007,
+  "doi": "10.1136/bmj.39147.604896.55",
+  "pmid": "17449506",
+  "design": "rct",
+  "participants": 3126,
+  "followUp": "observational follow-up 10 to 15 years after trials of 18 months (TOHP I) and 36 to 48 months (TOHP II)",
+  "population": "US adults aged 30 to 54 years with prehypertension randomised to sodium-reduction counselling or control in TOHP I (744) and TOHP II (2382)",
+  "funder": "TOHP I and II were supported by cooperative agreements HL37849, HL37852, HL37853, HL37854, HL37872, HL37884, HL37899, HL37904, HL37906, HL37907 and HL37924, and the TOHP follow-up study by grant HL057915, all from the National Heart, Lung and Blood Institute, National Institutes of Health.",
+  "funderRole": "several",
+  "authorConflicts": "None declared. Two authors (Cutler, Obarzanek) are at the National Heart, Lung, and Blood Institute and contributed to the design and conduct of the study and to interpretation and revision of the manuscript.",
+  "dataAccess": "unknown",
+  "result": "Net sodium reductions 44 and 33 mmol/24 h. Morbidity follow-up for 2415 of 3126 (77%). Cardiovascular events in 88 of 1169 (7.5%) intervention versus 112 of 1246 (9.0%) control responders (unadjusted P = 0.19); relative risk 0.75 (95% CI 0.57 to 0.99) adjusted for trial, clinic, age, race, sex and weight-loss assignment, the difference reaching significance after adjustment for baseline characteristics, particularly an age imbalance; 0.70 (0.53 to 0.94) after further adjustment for baseline sodium excretion and weight.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1857760/"
+}

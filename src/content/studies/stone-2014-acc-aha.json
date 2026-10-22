@@ -1,0 +1,16 @@
+{
+  "title": "2013 ACC/AHA guideline on the treatment of blood cholesterol to reduce atherosclerotic cardiovascular risk in adults: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines",
+  "authors": "Stone NJ, Robinson JG, Lichtenstein AH, Bairey Merz CN, Blum CB, Eckel RH, et al.",
+  "journal": "Circulation",
+  "year": 2014,
+  "doi": "10.1161/01.cir.0000437738.63853.7a",
+  "pmid": "24222016",
+  "design": "guideline",
+  "funder": "not stated; the NHLBI initiated the guideline in 2008 by sponsoring systematic evidence reviews by expert panels, and transferred it to the ACC and AHA in June 2013",
+  "funderRole": "unknown",
+  "authorConflicts": "Panel members' relationships with industry relevant to the guideline are disclosed in Appendix 1 (table not read); ACC/AHA expert reviewers had none relevant. Panel authors resubmitted disclosures as of July 2013.",
+  "dataAccess": "summary",
+  "result": "Four statin benefit groups: clinical atherosclerotic cardiovascular disease; LDL cholesterol 190 mg/dL or more; diabetes at age 40 to 75 with LDL 70 to 189 mg/dL; and, without diabetes, age 40 to 75 with LDL 70 to 189 mg/dL and estimated 10-year risk of 7.5% or more (moderate evidence also for 5% to below 7.5%). The panel found no randomised trials that titrated treatment to specific LDL targets below 100 or 70 mg/dL or compared two targets. No primary prevention trial data were available for ages 21 to 39 and few for ages above 75; in people aged 40 to 75 with 10-year risk below 5% the net benefit over 10 years may be small. Moderate-intensity statin should be considered above 75 years with clinical atherosclerotic disease.",
+  "class": "consensus",
+  "fundingChecked": "http://web.archive.org/web/20180705200722/http://circ.ahajournals.org:80/content/129/25_suppl_2/S1.full"
+}

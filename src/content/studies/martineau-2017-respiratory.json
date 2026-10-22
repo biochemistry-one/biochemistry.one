@@ -1,0 +1,19 @@
+{
+  "title": "Vitamin D supplementation to prevent acute respiratory tract infections: systematic review and meta-analysis of individual participant data",
+  "authors": "Martineau AR, Jolliffe DA, Hooper RL, Greenberg L, Aloia JF, Bergman P, et al.",
+  "journal": "BMJ",
+  "year": 2017,
+  "doi": "10.1136/bmj.i6583",
+  "pmid": "28202713",
+  "design": "meta-analysis",
+  "participants": 10933,
+  "followUp": "trial duration 7 weeks to 1.5 years",
+  "population": "Individual data from 25 randomised placebo-controlled trials of oral vitamin D3 (11,321 participants aged 0 to 95 years in 14 countries); mean baseline 25-hydroxyvitamin D 18.9 to 88.9 nmol/L in the 19 trials that measured it",
+  "funder": "Supported by a grant from the National Institute for Health Research (NIHR) under its Health Technology Assessment programme (reference 13/03/25). The NIHR was not involved in the study design, the collection, analysis or interpretation of data, the writing of the report or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "No author had any financial relationship with any organisation that might have an interest in the submitted work in the previous three years.",
+  "dataAccess": "individual",
+  "result": "At least one acute respiratory tract infection: adjusted OR 0.88 (95% CI 0.81 to 0.96), number needed to treat 33; daily or weekly dosing without boluses OR 0.81 (0.72 to 0.91; 5133 participants), regimens with at least one bolus of 30,000 IU or more OR 0.97 (0.86 to 1.10; 5800), P for interaction 0.05. Among those dosed daily or weekly, baseline 25-hydroxyvitamin D below 25 nmol/L: OR 0.30 (0.17 to 0.53), NNT 4 (234 participants, 6 trials); 25 nmol/L or higher: OR 0.75 (0.60 to 0.95), NNT 15 (1603 participants). Bolus dosing gave no protection even below 25 nmol/L (OR 0.82, 0.51 to 1.33). Serious adverse events OR 0.98 (0.80 to 1.20); hypercalcaemia in 21 of 3850 (0.5%) and renal stones in 6 of 3841 (0.2%), evenly distributed between arms.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5310969/fullTextXML"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "S-adenosylmethionine in liver health, injury, and cancer",
+  "authors": "Lu SC, Mato JM",
+  "journal": "Physiological Reviews",
+  "year": 2012,
+  "doi": "10.1152/physrev.00047.2011",
+  "pmid": "23073625",
+  "design": "other",
+  "funder": "This work was supported by National Institutes of Health Grants R01DK51719, R01DK092407 and P30DK48522 (to S. C. Lu), R01AT1576 and R01AT004896 (to S. C. Lu and J. M. Mato) as well as Plan Nacional of I+D SAF 2011-29851 and Departamento de Educación Gobierno Vasco 2011 (to J. M. Mato).",
+  "funderRole": "none",
+  "authorConflicts": "No conflicts of interest, financial or otherwise, are declared by the authors.",
+  "dataAccess": "summary",
+  "result": "Review. Methionine adenosyltransferase synthesises S-adenosylmethionine (SAM) from methionine and ATP; tripolyphosphate formed in the reaction is hydrolysed to orthophosphate and pyrophosphate before product release. MAT1A is largely expressed in normal liver and MAT2A in all extrahepatic tissues. Over 200 human proteins are known or putative SAM-dependent methyltransferases; GNMT is the most abundant in liver (1% of cytosolic protein); the liver carries out up to 85% of all methylation reactions. S-adenosylhomocysteine (SAH) inhibits methyltransferases with a Ki in the micromolar range of their Km for SAM. AHCY cleaves SAH reversibly into adenosine and homocysteine; the thermodynamics favour SAH synthesis, and hydrolysis proceeds only if adenosine and homocysteine are rapidly removed. Homocysteine is remethylated by methionine synthase, expressed in all tissues, or by BHMT, limited to liver and kidney, with betaine; transsulfuration converts it to cysteine through CBS and cystathionase, both requiring vitamin B6. SAM inhibits MTHFR and activates CBS.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3698976/"
+}

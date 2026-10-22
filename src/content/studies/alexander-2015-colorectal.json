@@ -1,0 +1,17 @@
+{
+  "title": "Red Meat and Colorectal Cancer: A Quantitative Update on the State of the Epidemiologic Science",
+  "authors": "Alexander DD, Weed DL, Miller PE, Mohamed MA",
+  "journal": "Journal of the American College of Nutrition",
+  "year": 2015,
+  "doi": "10.1080/07315724.2014.992553",
+  "pmid": "25941850",
+  "design": "meta-analysis",
+  "population": "27 independent prospective cohort studies published to 2013",
+  "funder": "This manuscript was partially funded by Meat & Livestock Australia (MLA). MLA did not contribute to the writing, analysis, or interpretation of study findings.",
+  "funderRole": "unknown",
+  "authorConflicts": "Authors affiliated with EpidStat Institute, DLW Consulting Services and Doctors Without Borders; no conflict-of-interest statement in the article.",
+  "dataAccess": "summary",
+  "result": "High against low red meat intake, 27 cohorts: summary relative risk 1.11 (95% CI 1.03 to 1.19), heterogeneity P = 0.014, I2 33.6%. Associations attenuated in models of fresh red meat separated from processed meat, in better adjusted models, in women and outside the United States. Categories of median intake above 100 g/day (6 studies): 1.20 (1.11 to 1.29); categories up to 100 g/day 1.00 to 1.03, not significant; each 70 g increment (13 studies) 1.05 (0.97 to 1.13). The authors conclude that red meat intake does not appear to be an independent predictor of colorectal cancer risk.",
+  "class": "industry",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4673592/fullTextXML"
+}

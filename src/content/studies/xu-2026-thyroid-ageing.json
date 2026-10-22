@@ -1,0 +1,19 @@
+{
+  "title": "Natural history of thyroid function in ageing: an individual participant data analysis of 137 488 participants from 31 prospective cohort studies",
+  "authors": "Xu Y, Hysaj O, Qi X, Feller M, Pingitore A, Brown SJ, et al.",
+  "journal": "Lancet Diabetes and Endocrinology",
+  "year": 2026,
+  "doi": "10.1016/S2213-8587(26)00009-4",
+  "pmid": "42061390",
+  "registry": "PROSPERO CRD42023408086",
+  "design": "cohort",
+  "participants": 137488,
+  "population": "31 population-based cohorts in Europe, the USA, Asia, Brazil and Australia; median age 60 years (range 18 to 106); participants with thyroid disease or thyroid-altering medication at baseline or during follow-up excluded",
+  "funder": "There was no funding source for this study.",
+  "funderRole": "none",
+  "authorConflicts": "Several authors reported grants or fees from companies, including personal fees from Merck KGaA and Berlin Chemie for one author and consulting fees from IBSA and others for another.",
+  "dataAccess": "individual",
+  "result": "Cross-sectionally, older age was associated with higher TSH in iodine-sufficient regions and lower TSH in iodine-insufficient regions; longitudinally TSH rose with age regardless of iodine status. From age 18 to 100 years TSH rose by 0.61 mIU/l in women and 0.99 mIU/l in men from iodine-sufficient regions, with greater variability from age 65. Against stable thyroid function, rising TSH with stable or falling free T4 carried a mortality hazard ratio of 1.80 (95% CI 1.57 to 2.06), and falling TSH with stable or rising free T4 1.94 (1.68 to 2.24).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13590157/"
+}

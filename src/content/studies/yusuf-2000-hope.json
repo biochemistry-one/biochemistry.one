@@ -1,0 +1,18 @@
+{
+  "title": "Effects of an angiotensin-converting-enzyme inhibitor, ramipril, on cardiovascular events in high-risk patients",
+  "authors": "Heart Outcomes Prevention Evaluation Study Investigators; writing group Yusuf S, Sleight P, Pogue J, Bosch J, Davies R, Dagenais G",
+  "journal": "New England Journal of Medicine",
+  "year": 2000,
+  "doi": "10.1056/NEJM200001203420301",
+  "pmid": "10639539",
+  "design": "rct",
+  "participants": 9297,
+  "followUp": "mean 5 years; stopped early for benefit on 22 March 1999",
+  "population": "Patients aged 55 years or older with coronary, cerebrovascular or peripheral vascular disease, or diabetes plus one further risk factor, without known ejection fraction below 0.40 or heart failure, at centres in Canada, the United States, 14 western European countries, Argentina, Brazil and Mexico",
+  "funder": "Funded by the Medical Research Council of Canada, Hoechst-Marion Roussel, AstraZeneca, King Pharmaceuticals, Natural Source Vitamin E Association and Negma, and the Heart and Stroke Foundation of Ontario. Yusuf was supported by a Senior Scientist Award of the Medical Research Council of Canada and a Heart and Stroke Foundation of Ontario Research Chair. The writing group assumed responsibility for the content and integrity of the manuscript; the roles of the company funders are not stated.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "Ramipril 10 mg once daily (n=4645) versus matching placebo (n=4652) in a two-by-two factorial design with vitamin E. Death from cardiovascular causes, myocardial infarction or stroke in 651 (14.0%) versus 826 (17.8%) (relative risk 0.78, 95% CI 0.70 to 0.86); death from any cause 10.4% versus 12.2% (0.84, 0.75 to 0.95); stroke 3.4% versus 4.9% (0.68, 0.56 to 0.84); new diagnosis of diabetes 102 versus 155 (0.66). The authors report a mean blood-pressure difference of 3/2 mm Hg and state that treating 1000 patients for four years prevents about 150 events in approximately 70 patients. Treatment was stopped because of cough in 7.3% versus 1.8%.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20250729031756/https://www.nejm.org/doi/full/10.1056/NEJM200001203420301"
+}

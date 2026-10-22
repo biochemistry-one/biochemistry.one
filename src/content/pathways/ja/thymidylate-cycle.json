@@ -1,0 +1,33 @@
+{
+  "title": "チミジル酸回路",
+  "layout": "cycle",
+  "compartment": "細胞質ゾル、核、ミトコンドリア",
+  "steps": [
+    {
+      "from": "テトラヒドロ葉酸（THF）",
+      "to": "5,10-メチレン-THF",
+      "enzyme": "セリンヒドロキシメチルトランスフェラーゼ（SHMT1、SHMT2）",
+      "cofactors": ["L-セリン → グリシン", "ピリドキサール5′-リン酸"],
+      "reversible": true
+    },
+    {
+      "from": "5,10-メチレン-THF",
+      "to": "ジヒドロ葉酸（DHF）",
+      "enzyme": "チミジル酸合成酵素（TYMS）",
+      "cofactors": ["dUMP → dTMP"],
+      "inhibitors": [
+        {"name": "フルオロウラシル", "page": "medicines/fluorouracil"},
+        {"name": "ペメトレキセド", "page": "medicines/pemetrexed"}
+      ],
+      "note": "葉酸が炭素原子と、それをメチル基まで還元する2個の電子を供給する"
+    },
+    {
+      "from": "ジヒドロ葉酸（DHF）",
+      "to": "テトラヒドロ葉酸（THF）",
+      "enzyme": "ジヒドロ葉酸還元酵素（DHFR）",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "メトトレキサート", "page": "medicines/methotrexate"}],
+      "note": "合成葉酸をDHFに還元する反応も触媒するが、ヒトの肝臓ではこの反応は遅い"
+    }
+  ]
+}

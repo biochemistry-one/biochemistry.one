@@ -1,0 +1,19 @@
+{
+  "title": "Efficacy and safety of more intensive lowering of LDL cholesterol: a meta-analysis of data from 170,000 participants in 26 randomised trials",
+  "authors": "Cholesterol Treatment Trialists' (CTT) Collaboration, Baigent C, Blackwell L, Emberson J, Holland LE, Reith C, et al.",
+  "journal": "Lancet",
+  "year": 2010,
+  "doi": "10.1016/S0140-6736(10)61350-5",
+  "pmid": "21067804",
+  "design": "meta-analysis",
+  "participants": 169138,
+  "followUp": "median 4.8 years in trials of statin against control; 5.1 years in trials of more against less intensive statin",
+  "population": "Individual participant data from 21 trials of statin against control and 5 trials of more against less intensive statin regimens",
+  "funder": "This work is supported at the CTSU by the UK Medical Research Council, British Heart Foundation, and, previously, the European Community Biomed Programme, and at the CTC by the Australian National Health and Medical Research Council and National Heart Foundation. The funding sources had no involvement in study design, data collection, analysis, interpretation, report writing or publication.",
+  "funderRole": "none",
+  "authorConflicts": "Most contributing trials were supported by research grants from the pharmaceutical industry; representatives of statin manufacturers are listed as observers in the collaboration.",
+  "dataAccess": "individual",
+  "result": "Across all 26 trials, haemorrhagic stroke occurred in 257 against 220 participants (rate ratio per 1.0 mmol/L LDL cholesterol reduction 1.12, 95% CI 0.93 to 1.35), while ischaemic stroke fell (1427 against 1751, 0.79, 0.74 to 0.85). First haemorrhagic strokes were fatal in 94 against 75; first non-fatal haemorrhagic strokes 163 against 145. In the more against less intensive trials haemorrhagic stroke occurred in 69 against 57 (1.21, 99% CI 0.76 to 1.91). SPARCL (55 against 33 haemorrhagic strokes) and CORONA (15 against 9) were not available; adding their published data gave a rate ratio of 1.21 (1.05 to 1.41) per 1.0 mmol/L, which the authors estimate at perhaps a few extra haemorrhagic strokes a year per 10,000 treated. Rhabdomyolysis was sought only as myopathy progressing to rhabdomyolysis: excess 1 (SE 1) per 10,000 in trials of statin against control (14 against 9 cases) and 4 (SE 2) per 10,000 in trials of more against less intensive therapy (14 against 6).",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=2988224"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Risk thresholds for alcohol consumption: combined analysis of individual-participant data for 599 912 current drinkers in 83 prospective studies",
+  "authors": "Wood AM, Kaptoge S, Butterworth AS, Willeit P, Warnakula S, Bolton T, et al.",
+  "journal": "Lancet",
+  "year": 2018,
+  "doi": "10.1016/S0140-6736(18)30134-X",
+  "pmid": "29676281",
+  "design": "cohort",
+  "participants": 599912,
+  "followUp": "median 7.5 years",
+  "population": "Current drinkers without cardiovascular disease in 83 prospective studies from 19 high-income countries (Emerging Risk Factors Collaboration, EPIC-CVD, UK Biobank)",
+  "funder": "UK Medical Research Council, British Heart Foundation, National Institute for Health Research, European Union Framework 7, and European Research Council. The funders of the study did not have any role in the study design, data analysis, or reporting of this manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "Several authors report grants or fees from pharmaceutical and device companies, including Merck, Novartis, Pfizer, AstraZeneca and Johnson & Johnson, outside the submitted work.",
+  "dataAccess": "individual",
+  "result": "40 310 deaths over 5.4 million person-years. All-cause mortality was lowest at or below about 100 g of alcohol per week. Per 100 g per week higher consumption, hazard ratios were 1.14 (95% CI 1.10 to 1.17) for stroke, 1.09 (1.03 to 1.15) for heart failure, 1.24 (1.15 to 1.33) for fatal hypertensive disease and 0.94 (0.91 to 0.97) for myocardial infarction. Against >0 to 100 g per week, drinking >100 to 200, >200 to 350 and >350 g per week corresponded to about 6 months, 1 to 2 years and 4 to 5 years lower life expectancy at age 40 years.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5899998/"
+}

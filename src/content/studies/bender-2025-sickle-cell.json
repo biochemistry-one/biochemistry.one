@@ -1,0 +1,16 @@
+{
+  "title": "Sickle Cell Disease",
+  "authors": "Bender MA, Carlberg K",
+  "journal": "GeneReviews, University of Washington, Seattle",
+  "year": 2025,
+  "pmid": "20301551",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK1377/",
+  "design": "database",
+  "funder": "not stated in the chapter",
+  "funderRole": "unknown",
+  "authorConflicts": "not stated in the chapter",
+  "dataAccess": "summary",
+  "result": "Expert-authored, peer-reviewed chapter, first posted 15 September 2003, comprehensive update 17 November 2022, revised 13 February 2025. Sickle haemoglobin (HbS) results from HBB c.20A>T, p.Glu6Val in the hemoglobin convention that starts numbering after the initiator methionine (p.Glu7Val in standard HGVS numbering). Sickle cell disease is inherited in an autosomal recessive manner; Hb S/S is the most common form. In deoxygenated HbS, an interaction between Val6 and complementary regions on adjacent molecules forms highly ordered, insoluble polymers that distort red blood cells; HbS polymerises in the T conformation associated with deoxygenation but not in the R conformation. Heterozygotes (Hb A/S, sickle cell trait) are not anaemic, have normal red cell indices and HbS near 40%, and Hb A/S confers a survival advantage in children who contract malaria.",
+  "class": "reference",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/ca/84/gene_NBK1116.tar.gz"
+}

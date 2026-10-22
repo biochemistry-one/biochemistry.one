@@ -1,0 +1,15 @@
+{
+  "title": "Scientific Opinion on Dietary Reference Values for calcium",
+  "authors": "EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA)",
+  "journal": "EFSA Journal",
+  "year": 2015,
+  "doi": "10.2903/j.efsa.2015.4101",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority, on request from the European Commission (Question No EFSA-Q-2011-01206). Support from USDA Agricultural Research Service Grand Forks Human Nutrition Research Center staff is acknowledged.",
+  "funderRole": "none",
+  "authorConflicts": "Declarations of interest of panel members are held by EFSA; not read.",
+  "dataAccess": "summary",
+  "result": "Active transcellular calcium absorption is controlled by 1,25-dihydroxyvitamin D: TRPV6 is proposed to mediate uptake across the brush border, calbindin moves calcium through the enterocyte and PMCA1b extrudes it basolaterally; paracellular transport accounts for an estimated 8-23% of absorbed calcium. Adult dietary calcium absorption is approximately 25%; absorption from milk and milk products, grains and water is fairly similar, and lower from foods rich in oxalate or phytate. Measures of bone health could not be used to derive requirements; evidence on health outcomes was inconsistent. Average Requirement 750 mg/day and Population Reference Intake 950 mg/day for adults aged 25 years or more; PRI 1000 mg/day at 18-24 years.",
+  "class": "regulatory",
+  "fundingChecked": "http://web.archive.org/web/20220317133602/https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2015.4101"
+}

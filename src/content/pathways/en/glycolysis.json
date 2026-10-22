@@ -1,0 +1,73 @@
+{
+  "title": "Glycolysis",
+  "layout": "chain",
+  "compartment": "Cytosol",
+  "steps": [
+    {
+      "from": "Glucose",
+      "to": "Glucose 6-phosphate",
+      "enzyme": "Hexokinases 1–3 (HK1–HK3); glucokinase (GCK) in liver and β cells",
+      "cofactors": ["ATP to ADP"],
+      "inhibitors": [{"name": "Glucose 6-phosphate (HK1–HK3)"}],
+      "note": "Irreversible; GCK has a higher Km and less product inhibition"
+    },
+    {
+      "from": "Glucose 6-phosphate",
+      "to": "Fructose 6-phosphate",
+      "enzyme": "Glucose-6-phosphate isomerase (GPI)",
+      "reversible": true
+    },
+    {
+      "from": "Fructose 6-phosphate",
+      "to": "Fructose 1,6-bisphosphate",
+      "enzyme": "Phosphofructokinase-1 (PFKL, PFKM, PFKP)",
+      "cofactors": ["ATP to ADP", "Mg2+"],
+      "inhibitors": [{"name": "ATP"}, {"name": "Citrate"}],
+      "note": "Committed step; AMP, ADP and fructose 2,6-bisphosphate activate"
+    },
+    {
+      "from": "Fructose 1,6-bisphosphate",
+      "to": "Glyceraldehyde 3-phosphate",
+      "enzyme": "Aldolase (ALDOA, ALDOB, ALDOC)",
+      "reversible": true,
+      "note": "Also yields DHAP, which TPI1 isomerises; later steps run twice per glucose"
+    },
+    {
+      "from": "Glyceraldehyde 3-phosphate",
+      "to": "1,3-Bisphosphoglycerate",
+      "enzyme": "Glyceraldehyde-3-phosphate dehydrogenase (GAPDH)",
+      "cofactors": ["NAD+ to NADH", "Phosphate"],
+      "reversible": true
+    },
+    {
+      "from": "1,3-Bisphosphoglycerate",
+      "to": "3-Phosphoglycerate",
+      "enzyme": "Phosphoglycerate kinase 1 (PGK1)",
+      "cofactors": ["ADP to ATP", "Mg2+"],
+      "reversible": true,
+      "note": "First substrate-level phosphorylation"
+    },
+    {
+      "from": "3-Phosphoglycerate",
+      "to": "2-Phosphoglycerate",
+      "enzyme": "Phosphoglycerate mutase (PGAM1, PGAM2)",
+      "cofactors": ["2,3-Bisphosphoglycerate (primer)"],
+      "reversible": true
+    },
+    {
+      "from": "2-Phosphoglycerate",
+      "to": "Phosphoenolpyruvate",
+      "enzyme": "Enolase (ENO1, ENO2, ENO3)",
+      "cofactors": ["Mg2+"],
+      "reversible": true,
+      "note": "Releases water"
+    },
+    {
+      "from": "Phosphoenolpyruvate",
+      "to": "Pyruvate",
+      "enzyme": "Pyruvate kinase (PKLR in liver and red cells; PKM)",
+      "cofactors": ["ADP to ATP", "Mg2+", "K+"],
+      "note": "Irreversible; fructose 1,6-bisphosphate activates PKLR and PKM2"
+    }
+  ]
+}

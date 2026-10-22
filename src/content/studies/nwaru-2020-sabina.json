@@ -1,0 +1,19 @@
+{
+  "title": "Overuse of short-acting β2-agonists in asthma is associated with increased risk of exacerbation and mortality: a nationwide cohort study of the global SABINA programme",
+  "authors": "Nwaru BI, Ekström M, Hasvold P, Wiklund F, Telg G, Janson C",
+  "journal": "European Respiratory Journal",
+  "year": 2020,
+  "doi": "10.1183/13993003.01872-2019",
+  "pmid": "31949111",
+  "design": "cohort",
+  "participants": 365324,
+  "followUp": "average 85.4 months after a one-year baseline period",
+  "population": "People aged 12-45 years in Sweden with two or more collections of drugs for obstructive lung disease in any year from 2006 to 2014, identified in national registries",
+  "funder": "The study was sponsored by AstraZeneca. Two authors were employees of AstraZeneca and one was an employee of Statisticon, for which AstraZeneca is a client; statistical analysis was conducted by the Statisticon employee and the first author, and analysis, interpretation and drafting were conducted by the first author with an AstraZeneca employee in cooperation with the other authors.",
+  "funderRole": "several",
+  "authorConflicts": "Two authors report personal fees for advisory board work from AstraZeneca during the study; one reports payments for educational activities and advisory boards from several manufacturers.",
+  "dataAccess": "summary",
+  "result": "A standard canister was defined as 150 doses and overuse as three or more canisters in the baseline year. Overuse was recorded in 30%: 76 619 patients (21.0%) collected three to five canisters, 27 065 (7.4%) six to 10 and 7140 (2%) 11 or more. Adjusted hazard ratios for exacerbation against two or fewer canisters were 1.26 (95% CI 1.24 to 1.28), 1.44 (1.41 to 1.46) and 1.77 (1.72 to 1.83). Deaths numbered 1365 of 254 500 (0.5%) with two or fewer canisters against 608 of 76 619 (0.8%), 375 of 27 065 (1.4%) and 216 of 7140 (3.0%); adjusted hazard ratios for all-cause mortality were 1.26 (1.14 to 1.39), 1.67 (1.49 to 1.87) and 2.35 (2.02 to 2.72). Asthma was recorded as the cause in 7, 4, 5 and 12 of those deaths.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7160635/"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Calcium and vitamin D: no prescribing changes",
+  "authors": "Medicines and Healthcare products Regulatory Agency",
+  "journal": "MHRA Drug Safety Update, volume 5, issue 3, October 2011: H1 (republished on GOV.UK 11 December 2014)",
+  "year": 2011,
+  "url": "https://www.gov.uk/drug-safety-update/calcium-and-vitamin-d-no-prescribing-changes",
+  "design": "regulatory",
+  "funder": "Medicines and Healthcare products Regulatory Agency",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Review of Bolland et al. (BMJ 2011) reanalysis of WHI: in women not self-medicating with calcium at baseline, clinical myocardial infarction 209 events with calcium plus vitamin D against 168 with placebo (3.5 against 2.9 per 1000 patient-years; HR 1.22, 95% CI 1.00 to 1.50), with all-cause mortality not increased (HR 0.99, 0.86 to 1.14); in women self-medicating with calcium, mortality was lower with calcium plus vitamin D (HR 0.84, 0.73 to 0.97). The Commission on Human Medicines advised that the data did not provide convincing evidence of increased cardiovascular risk, citing borderline significance, exclusion of more than half of WHI participants from the meta-analysis, differing endpoints, multiple testing and possible misclassification of gastrointestinal symptoms, and recommended studying calcium and vitamin D separately. Prescribers should weigh benefits and risks individually.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.gov.uk/api/content/drug-safety-update/calcium-and-vitamin-d-no-prescribing-changes"
+}

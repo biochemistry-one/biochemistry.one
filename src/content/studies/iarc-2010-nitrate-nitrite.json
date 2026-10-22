@@ -1,0 +1,17 @@
+{
+  "title": "Ingested nitrate and nitrite, and cyanobacterial peptide toxins",
+  "authors": "IARC Working Group on the Evaluation of Carcinogenic Risks to Humans",
+  "journal": "IARC Monographs on the Evaluation of Carcinogenic Risks to Humans, volume 94, International Agency for Research on Cancer, Lyon",
+  "year": 2010,
+  "pmid": "21141240",
+  "url": "https://publications.iarc.fr/Book-And-Report-Series/Iarc-Monographs-On-The-Identification-Of-Carcinogenic-Hazards-To-Humans/Ingested-Nitrate-And-Nitrite-And-Cyanobacterial-Peptide-Toxins-2010",
+  "design": "other",
+  "population": "IARC Working Group that met in Lyon, 14 to 21 June 2006",
+  "funder": "The IARC Monographs programme has been supported since 1982 by Cooperative Agreement U01 CA33193 with the United States National Cancer Institute, since 1986 by the Health, Safety and Hygiene at Work Unit of the European Commission Directorate-General for Employment, Social Affairs and Equal Opportunities, and since 1992 by the United States National Institute of Environmental Health Sciences. This volume was made possible, in part, through Cooperative Agreement CR 834012 with the United States Environmental Protection Agency. The contents of the volume are solely the responsibility of the Working Group.",
+  "funderRole": "none",
+  "authorConflicts": "Working Group member S. Mirvish received research support from the Institute for Science and Health, which is funded by tobacco corporations. Writing on the exposure sections was funded by the US National Cancer Institute under a past contract to Technical Resources International and a subcontract to the International Life Sciences Institute (two invited specialists, unable to attend). One invited specialist held a patent on microcystin and nodularin detection. An observer sponsored by the American Meat Institute Foundation served as its consultant.",
+  "dataAccess": "summary",
+  "result": "Inadequate evidence in humans for the carcinogenicity of nitrate in food and in drinking water. Limited evidence in humans for the carcinogenicity of nitrite in food; nitrite in food is associated with an increased incidence of stomach cancer. Sufficient evidence in experimental animals for the carcinogenicity of nitrite in combination with amines or amides; limited evidence for nitrite per se; inadequate evidence for nitrate. Overall evaluation: ingested nitrate or nitrite under conditions that result in endogenous nitrosation is probably carcinogenic to humans (Group 2A). Nitrosating agents that arise from nitrite under acidic gastric conditions react readily with nitrosatable compounds, especially secondary amines and amides, to generate N-nitroso compounds; their formation is inhibited by vitamin C and other antioxidants.",
+  "class": "consensus",
+  "fundingChecked": "http://web.archive.org/web/20230530050210/https://monographs.iarc.who.int/wp-content/uploads/2018/06/mono94.pdf"
+}

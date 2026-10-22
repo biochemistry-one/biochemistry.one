@@ -1,0 +1,14 @@
+{
+  "title": "Usage Standard for Food Additives Finalized",
+  "authors": "FAS China Staff",
+  "journal": "USDA Foreign Agricultural Service, GAIN report CH2024-0059, Beijing; unofficial translation of National Food Safety Standard GB 2760-2024, announced on 12 March 2024 by the National Health Commission and the State Administration for Market Regulation, in force from 8 February 2025",
+  "year": 2024,
+  "url": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Usage%20Standard%20for%20Food%20Additives%20Finalized_Beijing_China%20-%20People%27s%20Republic%20of_CH2024-0059.pdf",
+  "design": "regulatory",
+  "funder": "US Department of Agriculture, Foreign Agricultural Service; voluntary report for public distribution, dated 6 May 2024.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Table A.1 of GB 2760-2024: citric acid, CNS No. 01.101, INS No. 330, functions acidity regulator and antioxidant, permitted based on production necessity in all categories of food except food categories 1 to 15, 17 to 53, 59 to 62 and 64 to 68 of Table A.2, 61 categories that include pasteurised milk, raw and fresh meat, fresh eggs, honey and drinking waters. Table C.1 lists citric acid among processing aids permitted in processing of all kinds of foods without a residue limit. The report states that the translation is unofficial and that stakeholders should conduct their own review of the regulation.",
+  "class": "regulatory",
+  "fundingChecked": "https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Usage%20Standard%20for%20Food%20Additives%20Finalized_Beijing_China%20-%20People%27s%20Republic%20of_CH2024-0059.pdf"
+}

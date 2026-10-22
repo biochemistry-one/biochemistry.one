@@ -1,0 +1,18 @@
+{
+  "title": "Evidence on antidepressant withdrawal: an appraisal and reanalysis of a recent systematic review",
+  "authors": "Moncrieff J, Hobday H, Sørensen A, Read J, Plöderl M, Hengartner M, et al.",
+  "journal": "Psychological Medicine",
+  "year": 2025,
+  "doi": "10.1017/S0033291725100652",
+  "pmid": "40692314",
+  "design": "meta-analysis",
+  "participants": 601,
+  "population": "The 62 study cohorts in the incidence analysis and the 19 studies in the severity analysis of Henssler and colleagues (2024); reanalysis restricted to 5 studies with a systematic, relevant measure of withdrawal symptoms",
+  "funder": "This study received no specific funding.",
+  "funderRole": "none",
+  "authorConflicts": "JM receives book royalties and was co-applicant on the NIHR-funded REDUCE trial; MAH and JM are co-applicants on the RELEASE trials of hyperbolic tapering; MAH co-founded and consults for Outro Health, a US clinic supporting antidepressant tapering, and receives royalties for the Maudsley Deprescribing Guidelines; MPH, JD and AS receive book royalties; JR chairs the International Institute for Psychiatric Drug Withdrawal (unpaid).",
+  "dataAccess": "summary",
+  "result": "46 of the 62 cohorts (74%) had definite or probable pharmaceutical company funding and held 96.2% (12,119 of 12,603) of participants. In 52 of 62 cohorts withdrawal figures came from adverse events, open questions, clinician judgement or an unspecified method, mostly spontaneous reports; only 5 studies (601 participants, 4.8%) measured withdrawal systematically. In 11 of 19 studies, severe withdrawal was proxied by leaving the study or by serious adverse events. Pooled incidence in the 5 studies was 0.55 (N=601; the results section gives a 95% CI of 0.36 to 0.72, the abstract 31% to 81%), 0.25 to 0.39 after deducting a 30% placebo rate; prior use was 12 weeks or less in 4 of the 5.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12315658/fullTextXML"
+}

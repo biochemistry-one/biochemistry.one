@@ -1,0 +1,17 @@
+{
+  "title": "The extremely slow and variable activity of dihydrofolate reductase in human liver and its implications for high folic acid intake",
+  "authors": "Bailey SW, Ayling JE",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 2009,
+  "doi": "10.1073/pnas.0902072106",
+  "pmid": "19706381",
+  "design": "in-vitro",
+  "population": "Fresh liver from 6 human donors (5 organ donors, 1 surgical sample) and from rats",
+  "funder": "This research was supported by American Heart Association Grant 0150942B and National Institutes of Health Grant HL68165.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no conflict of interest.",
+  "dataAccess": "summary",
+  "result": "At physiological pH, reduction of folic acid by DHFR per gram of human liver (n = 6) averaged less than 2% of that in rat liver, and DHFR activity varied almost 5-fold among the human samples. In the human liver with the highest activity, folic acid was reduced at 0.02 nmol/min/g, 1300 times more slowly than 7,8-dihydrofolate (26.1 nmol/min/g).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2730961/"
+}

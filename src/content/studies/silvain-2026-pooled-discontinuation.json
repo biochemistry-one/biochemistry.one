@@ -1,0 +1,20 @@
+{
+  "title": "Discontinuation of beta-blockers in stable patients with previous myocardial infarction, preserved left ventricular ejection fraction, and no heart failure: a pooled analysis of individual patient data",
+  "authors": "Silvain J, Choi KH, Monguillon V, Kang D, Cayla G, Kim W, et al.; ABYSS and SMART-DECISION investigators",
+  "journal": "Lancet",
+  "year": 2026,
+  "doi": "10.1016/S0140-6736(26)01426-1",
+  "pmid": "42669300",
+  "registry": "PROSPERO CRD420261299839",
+  "design": "meta-analysis",
+  "participants": 6238,
+  "followUp": "median 3.0 years (interquartile range 2.3 to 3.8)",
+  "population": "Individual patient data from the ABYSS (3698 patients) and SMART-DECISION (2540) randomised trials in stable patients more than 6 months after myocardial infarction with an ejection fraction of at least 40% and no heart failure; median 3.6 years (interquartile range 1.6 to 7.5) from the index infarction to randomisation",
+  "funder": "Funding: None, as stated in the published abstract. The pooled trials were funded by the French Ministry of Health with the ACTION Study Group (ABYSS) and by the Ministry of Health and Welfare of South Korea (SMART-DECISION).",
+  "funderRole": "none",
+  "authorConflicts": "Several authors report fees, grants or equity from Abbott, Amgen, AstraZeneca, Bayer, Boehringer Ingelheim, Bristol-Myers Squibb, Medtronic, Novo Nordisk, Pfizer, Sanofi and other companies; all other authors declare none.",
+  "dataAccess": "individual",
+  "result": "One-stage mixed-effects Cox model with trial as random effect; 3092 patients assigned to discontinuation and 3146 to continuation. Death, myocardial infarction, stroke or hospitalisation for cardiovascular reasons occurred in 532 (17.2%) against 500 (15.9%), hazard ratio 1.09 (95% CI 0.97 to 1.24), non-inferior against a margin of 1.25 (P = 0.016). Death, myocardial infarction or hospitalisation for heart failure occurred in 201 (6.5%) against 201 (6.4%), hazard ratio 1.01 (0.83 to 1.23), non-inferior against a margin of 1.40 (P = 0.0006). Findings were consistent across ejection fraction; the authors state that interpretation of the primary end point is limited by its hospitalisation-heavy and trial-dependent composition.",
+  "class": "independent",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/42669300/"
+}

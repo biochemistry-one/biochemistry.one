@@ -1,0 +1,18 @@
+{
+  "title": "Combination fixed-dose beta agonist and steroid inhaler as required for adults or children with mild asthma",
+  "authors": "Crossingham I, Turner S, Ramakrishnan S, Fries A, Gowell M, Yasmin F, et al.",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2021,
+  "doi": "10.1002/14651858.CD013518.pub2",
+  "pmid": "33945639",
+  "design": "meta-analysis",
+  "participants": 9657,
+  "population": "Six randomised trials, five contributing data, of as-required budesonide 200 µg/formoterol 6 µg dry powder in people aged 12 and over with mild asthma; mean age 36 to 43 years",
+  "funder": "Internal sources: National Institute for Health Research, UK (NIHR Oxford Biomedical Research Centre support for three authors; NIHR Cochrane Incentive Award NIHR130687). External sources: Wellcome Trust Career Development Fellowship 211050/Z/18/Z to one author.",
+  "funderRole": "unknown",
+  "authorConflicts": "One author's PhD was supported by an unrestricted research grant from AstraZeneca; another received speaker fees from AstraZeneca and Boehringer Ingelheim and research funding from Sanofi; one received travel money from Novartis; the others declared clinical specialty or none.",
+  "dataAccess": "summary",
+  "result": "Against an as-required fast-acting beta2-agonist alone, as-required budesonide-formoterol reduced exacerbations requiring systemic steroids (OR 0.45, 95% CI 0.34 to 0.60; 2 RCTs, 2997 participants, high-certainty evidence): 109 per 1000 with the beta2-agonist alone against 52 (40 to 68) per 1000. Asthma-related hospital admission or emergency or urgent care visits: OR 0.35 (0.20 to 0.60; low certainty). Differences in asthma control and spirometry were below the minimal clinically important differences, and no difference in quality of life or mortality was found. Against regular inhaled corticosteroid plus reliever: exacerbations requiring systemic steroids OR 0.79 (0.59 to 1.07; 4 RCTs, 8065 participants), 81 against 65 (49 to 86) per 1000. The two trials of the comparison with the reliever alone were SYGMA 1 (funded by AstraZeneca; terbutaline comparator) and Novel START (AstraZeneca and Health Research Council of New Zealand; salbutamol comparator); the review states that four of the trials contributing data were funded by AstraZeneca and that most were produced by a single group of investigators.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8096360/"
+}

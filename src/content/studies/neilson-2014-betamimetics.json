@@ -1,0 +1,18 @@
+{
+  "title": "Betamimetics for inhibiting preterm labour",
+  "authors": "Neilson JP, West HM, Dowswell T",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2014,
+  "doi": "10.1002/14651858.CD004352.pub3",
+  "pmid": "24500892",
+  "design": "meta-analysis",
+  "participants": 1367,
+  "population": "Women in preterm labour in 20 randomised trials contributing data; 12 trials with 1367 women compared betamimetics with placebo",
+  "funder": "Internal sources: University of Liverpool, UK. External sources: UNDP-UNFPA-UNICEF-WHO-World Bank Special Programme of Research, Development and Research Training in Human Reproduction (HRP), Department of Reproductive Health and Research, World Health Organization.",
+  "funderRole": "unknown",
+  "authorConflicts": "None known.",
+  "dataAccess": "summary",
+  "result": "Against placebo, betamimetics reduced births within 48 hours (RR 0.68, 95% CI 0.53 to 0.88; 10 trials, 1209 women) and within 7 days (RR 0.80, 0.65 to 0.98), without reducing preterm birth before 37 weeks (RR 0.95, 0.88 to 1.03), perinatal death (RR 0.84, 0.46 to 1.55) or neonatal death (RR 0.90, 0.27 to 3.00). Maternal harms: cessation of treatment for adverse effects RR 11.38 (5.21 to 24.86; 5 trials, 1081 women), chest pain 11.29 (3.81 to 33.46; 2 trials, 814 women), dyspnoea 3.86 (2.21 to 6.77), palpitation 9.91 (6.46 to 15.20; 5 trials, 1089 women), tremor 10.74 (6.20 to 18.59; 1 trial, 708 women), headache 4.07 (2.60 to 6.35), hypokalaemia 6.07 (4.00 to 9.20; 1 trial, 708 women), hyperglycaemia 2.90 (2.05 to 4.09) and nausea or vomiting 1.76 (1.29 to 2.42); fetal tachycardia was also more frequent. Maternal pulmonary oedema occurred once across three trials (RR 3.03, 0.12 to 74.23) and myocardial ischaemia RR 12.53 (0.72 to 216.91; 1 trial, 106 women); two trials reported maternal death (none), and cardiac arrest, respiratory arrest and intensive care admission were reported in no trial. In one trial of 200 women, terbutaline produced fewer side effects than salbutamol (RR 0.54, 0.42 to 0.70) and less tachycardia (RR 0.48, 0.30 to 0.75).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10603219/"
+}

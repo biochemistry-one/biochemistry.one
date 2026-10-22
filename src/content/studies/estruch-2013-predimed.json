@@ -1,0 +1,21 @@
+{
+  "title": "Primary Prevention of Cardiovascular Disease with a Mediterranean Diet",
+  "authors": "Estruch R, Ros E, Salas-Salvadó J, Covas MI, Corella D, Arós F, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2013,
+  "doi": "10.1056/NEJMoa1200303",
+  "pmid": "23432189",
+  "registry": "ISRCTN35739639",
+  "design": "rct",
+  "participants": 7447,
+  "followUp": "median 4.8 years",
+  "population": "Men aged 55 to 80 years and women aged 60 to 80 years in Spain without cardiovascular disease, with type 2 diabetes or at least three major cardiovascular risk factors",
+  "funder": "Instituto de Salud Carlos III, the official funding agency for biomedical research of the Spanish government (RTIC G03/140, RTIC RD 06/0045, CIBERobn); Centro Nacional de Investigaciones Cardiovasculares; Fondo de Investigación Sanitaria–Fondo Europeo de Desarrollo Regional; Ministerio de Ciencia e Innovación; Fundación Mapfre 2010; Consejería de Salud de la Junta de Andalucía; Public Health Division of the Department of Health of the Autonomous Government of Catalonia; Generalitat Valenciana; Regional Government of Navarra. None of the sponsors had any role in the trial design, data analysis, or reporting of the results.",
+  "funderRole": "none",
+  "inKindSupport": "Extra virgin olive oil donated by Hojiblanca and Patrimonio Comunal Olivarero; walnuts by the California Walnut Commission; almonds by Borges; hazelnuts by La Morella Nuts.",
+  "authorConflicts": "E Ros reports board membership, travel support and institutional grant support from the California Walnut Commission, and board membership, fees or grants from Unilever and other food, beverage and pharmaceutical companies; J Salas-Salvadó reports board membership and institutional grant support from the International Nut and Dried Fruit Council and fees or grants from Danone, Eroski and Nestlé; R Estruch and RM Lamuela-Raventós report board membership or fees from wine and beer organisations and fees or grants from pharmaceutical or food companies; L Serra-Majem serves on the boards of the Mediterranean Diet Foundation and the Beer and Health Foundation; X Pintó reports fees or grants from pharmaceutical and food companies; F Arós reports payments from pharmaceutical companies.",
+  "dataAccess": "individual",
+  "result": "Retracted in 2018 because of irregularities in the randomisation procedures and replaced by a new report with reanalyses. The 2013 report stated that randomisation was performed centrally by a computer-generated random-number sequence. Primary end point: 96 events with the olive oil diet, 83 with the nut diet and 109 with the control diet; multivariable-adjusted hazard ratios 0.70 (95% CI 0.54 to 0.92) and 0.72 (0.54 to 0.96). The discussion states that extra virgin olive oil and nuts were probably responsible for most of the observed benefits of the Mediterranean diets.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20251113005245/https://www.nejm.org/doi/full/10.1056/NEJMoa1200303"
+}

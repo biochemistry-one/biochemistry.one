@@ -1,0 +1,21 @@
+{
+  "title": "Vitamin D Supplementation in Pregnancy and Lactation and Infant Growth",
+  "authors": "Roth DE, Morris SK, Zlotkin S, Gernand AD, Ahmed T, Shanta SS, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2018,
+  "doi": "10.1056/NEJMoa1800927",
+  "pmid": "30089075",
+  "registry": "NCT01924013",
+  "design": "rct",
+  "participants": 1300,
+  "followUp": "from 17 to 24 weeks of gestation to 1 year of infant age",
+  "population": "Generally healthy pregnant women in Dhaka, Bangladesh; 64% were vitamin D deficient (25-hydroxyvitamin D below 30 nmol/L) at enrolment",
+  "funder": "Funded by the Bill and Melinda Gates Foundation (OPP1066764). The trial funder had no role in trial design, data collection, analysis or interpretation of the results.",
+  "funderRole": "none",
+  "inKindSupport": "Vitamin D3 and placebo tablets were manufactured by the Toronto Institute for Pharmaceutical Technology.",
+  "authorConflicts": "Disclosure forms available with the full text at NEJM.org; not read.",
+  "dataAccess": "individual",
+  "result": "Five groups: placebo; 4200, 16,800 or 28,000 IU/week prenatally with placebo postpartum; or 28,000 IU/week prenatally and for 26 weeks postpartum. Among 1164 infants assessed at one year (90% of 1300 pregnancies), length-for-age z-scores did not differ (-0.93, -1.11, -0.97, -1.06 and -0.94; P=0.23), nor did other anthropometric measures, birth outcomes or morbidity. Confirmed hypercalcaemia, all asymptomatic, occurred in no women prenatally, 8 women (0.7%) postpartum (5 in the prenatal-and-postpartum group) and 6 infants (0.7%), without significant differences between groups; the risk of possible maternal hypercalciuria at delivery rose with dose; no women had urinary tract stones. A correction notice was published in 2021 (N Engl J Med 385:1728).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6004541/fullTextXML"
+}

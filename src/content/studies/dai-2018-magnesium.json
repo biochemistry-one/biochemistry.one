@@ -1,0 +1,20 @@
+{
+  "title": "Magnesium status and supplementation influence vitamin D status and metabolism: results from a randomized trial",
+  "authors": "Dai Q, Zhu X, Manson JE, Song Y, Li X, Franke AA, et al.",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 2018,
+  "doi": "10.1093/ajcn/nqy274",
+  "pmid": "30541089",
+  "registry": "NCT03265483",
+  "design": "rct",
+  "participants": 180,
+  "followUp": "12 weeks",
+  "population": "Adults aged 40 to 85 years at high risk of colorectal cancer or with a history of adenomas or hyperplastic polyps and a calcium:magnesium intake ratio above 2.6, in an ancillary study of the Personalized Prevention of Colorectal Cancer Trial (250 started treatment)",
+  "funder": "This study was supported by R01 CA149633, R03 CA189455 and R01 CA202936 from the National Cancer Institute; the abstract describes it as a National Cancer Institute independently funded ancillary study. No statement on the role of the funder was found.",
+  "funderRole": "unknown",
+  "authorConflicts": "None of the authors had a conflict of interest.",
+  "dataAccess": "individual",
+  "result": "Magnesium doses (mean 205.5 mg/day, range 77 to 390) were personalised to lower the calcium:magnesium intake ratio to about 2.3. Effects on plasma 25-hydroxyvitamin D3 depended on baseline 25-hydroxyvitamin D: at a baseline of 30 ng/mL magnesium raised 25(OH)D3 by 2.79 ng/mL (95% CI 0.25 to 5.34) against placebo; at 50 ng/mL it lowered it by 6.87 ng/mL (-11.30 to -2.45) and lowered 24,25-dihydroxyvitamin D3 by 1.85 ng/mL (-2.70 to -0.99). The authors state that in vitro and in vivo studies show 1α-hydroxylase and 24-hydroxylase to be magnesium dependent; the references cited for this are in vitro and cell-line work, and the authors state that the precise molecular mechanism is not clear.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6693398/"
+}

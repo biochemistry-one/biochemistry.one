@@ -1,0 +1,20 @@
+{
+  "title": "Impact of Phosphorus-Based Food Additives on Bone and Mineral Metabolism",
+  "authors": "Gutiérrez OM, Luzuriaga-McPherson A, Lin Y, Gilbert LC, Ha SW, Beck GR Jr",
+  "journal": "The Journal of Clinical Endocrinology and Metabolism",
+  "year": 2015,
+  "doi": "10.1210/jc.2015-2279",
+  "pmid": "26323022",
+  "registry": "NCT01394146",
+  "design": "other",
+  "participants": 10,
+  "followUp": "2 weeks of study diets after a 2-week run-in",
+  "population": "Healthy volunteers aged 19 to 45 years in Birmingham, Alabama; 12 enrolled, 10 completed; mean age 31.9 years, 3 men, 7 African American; parallel studies in C57BL/6 mice",
+  "funder": "Grants UL1TR00165, P30DK079626 and P30DK056336 from the National Institutes of Health; O.M.G.: grants R03DK095005 and R01NS080850; G.R.B.: Biomedical Laboratory Research & Development Service Award I01BX002363 from the VA Office of Research and Development and R01CA136716.",
+  "funderRole": "unknown",
+  "authorConflicts": "O.M.G. reports receiving consulting fees from Keryx Pharmaceuticals; the other authors have nothing to disclose.",
+  "dataAccess": "individual",
+  "result": "Non-randomised fixed-sequence feeding study: 1 week of a low-additive diet followed by 1 week of an additive-enhanced diet with identical food items containing phosphorus additives. Measured phosphorus was 1070 ± 58 and 1677 ± 167 mg/day (difference 606 ± 125 mg/day, P < .001) and sodium 89 ± 28 and 148 ± 28 mmol/day (difference 58 ± 27 mmol/day, P = .02); calcium, potassium and energy did not differ significantly. After the additive-enhanced week, plasma FGF23 was 23% higher than at the end of the low-additive week (P = .03), and osteopontin and osteocalcin were 10% and 11% higher (P = .01 and .04); mean sclerostin fell over time (P = .02 for the main effect of time) but not significantly against the preceding diet period (P = .10). Over the 2 weeks, changes in serum phosphorus, calcium, PTH, P1NP, CTX and FGF23 (main effect of time P = .19) were not statistically significant. In mice, a 1.8% against a 0.2% phosphorus diet raised serum FGF23, osteopontin and osteocalcin at 5 and 15 weeks, lowered sclerostin at 15 weeks and reduced bone mineral density.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4702463/"
+}

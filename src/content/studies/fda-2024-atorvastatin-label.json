@@ -1,0 +1,14 @@
+{
+  "title": "LIPITOR (atorvastatin calcium) tablets, for oral use: full prescribing information",
+  "authors": "US Food and Drug Administration (labelling submitted by Viatris Specialty LLC)",
+  "journal": "US Food and Drug Administration approved prescribing information, via DailyMed; version 8, effective 15 April 2024",
+  "year": 2024,
+  "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65",
+  "design": "regulatory",
+  "funder": "not stated; FDA-approved labelling carries no funding statement",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Mechanism of action: atorvastatin is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of sterols including cholesterol; in animal models it lowers plasma cholesterol by inhibiting hepatic HMG-CoA reductase and cholesterol synthesis and by increasing hepatic cell-surface LDL receptors. Absorption: absolute bioavailability of the parent drug about 14% and systemic availability of HMG-CoA reductase inhibitory activity about 30%, the low systemic availability being attributed to presystemic clearance in gastrointestinal mucosa and/or hepatic first-pass metabolism. Atorvastatin is extensively metabolised to ortho- and parahydroxylated derivatives that inhibit HMG-CoA reductase equivalently, and about 70% of circulating inhibitory activity is attributed to active metabolites; in vitro studies suggest the importance of metabolism by CYP3A4. Elimination is primarily biliary; plasma half-life about 14 hours, half-life of inhibitory activity 20 to 30 hours; less than 2% of a dose appears in urine. Atorvastatin is a substrate of the hepatic transporters OATP1B1 and OATP1B3 and of the efflux transporter BCRP. Ciclosporin raised atorvastatin AUC 8.69-fold and Cmax 10.66-fold.",
+  "class": "regulatory",
+  "fundingChecked": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/a60cc18b-0631-4cf0-b021-9f52224ece65.xml"
+}

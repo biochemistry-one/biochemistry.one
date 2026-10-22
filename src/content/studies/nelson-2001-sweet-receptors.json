@@ -1,0 +1,16 @@
+{
+  "title": "Mammalian sweet taste receptors",
+  "authors": "Nelson G, Hoon MA, Chandrashekar J, Zhang Y, Ryba NJ, Zuker CS",
+  "journal": "Cell",
+  "year": 2001,
+  "doi": "10.1016/s0092-8674(01)00451-2",
+  "pmid": "11509186",
+  "design": "in-vitro",
+  "population": "HEK-293 cells expressing rat T1R2 and T1R3 with promiscuous G proteins; transgenic mice",
+  "funder": "This work was supported in part by a grant from the National Institute on Deafness and Other Communication Disorders to C.Z. C.Z. is an investigator of the Howard Hughes Medical Institute.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "T1Rs are G protein-coupled receptors of taste receptor cells, and the Sac locus encodes T1R3. Cells co-expressing rat T1R2 and T1R3 raised intracellular calcium in response to sucrose, fructose, saccharin, acesulfame K, dulcin and two guanidinoacetic acid sweeteners, but not to glucose, galactose, maltose or aspartame; neither subunit alone responded, so the two function as a heteromeric receptor. Rodents do not taste aspartame, and human and rodent T1Rs are only about 70% identical.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250706160752/https://www.cell.com/cell/fulltext/S0092-8674(01)00451-2"
+}

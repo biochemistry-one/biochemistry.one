@@ -1,0 +1,20 @@
+{
+  "title": "Weight regain after cessation of medication for weight management: systematic review and meta-analysis",
+  "authors": "West S, Scragg J, Aveyard P, Oke JL, Willis L, Haffner SJP, et al.",
+  "journal": "BMJ",
+  "year": 2026,
+  "doi": "10.1136/bmj-2025-085304",
+  "pmid": "41500720",
+  "registry": "PROSPERO CRD42024532069",
+  "design": "meta-analysis",
+  "participants": 9341,
+  "followUp": "mean treatment 39 weeks (range 11 to 176) and mean follow-up after cessation 32 weeks (4 to 104); search to February 2025",
+  "population": "37 randomised, non-randomised and observational studies (63 intervention arms) of weight management medications given for at least 8 weeks with at least 4 weeks of follow-up after stopping, in adults with overweight or obesity",
+  "funder": "Funded in part by the NIHR Oxford Biomedical Research Centre (IS-BRC-1215-20008); individual authors by NIHR fellowships, the Wellcome Trust and the China Scholarship Council. The funder had no role in design, conduct, collection, analysis, interpretation, preparation, review or approval of the manuscript, or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "One author receives, and two are partially funded by, a research grant from the Novo Nordisk Foundation; several are investigators in publicly funded trials with donated products from Nestle Health Science, Oviva or Second Nature.",
+  "dataAccess": "summary",
+  "result": "After stopping any weight management medication weight was regained at 0.4 kg per month (95% CI 0.3 to 0.5); for semaglutide and tirzepatide, after a mean loss of 14.7 kg (11.1 to 18.4), regain was 0.8 kg per month (0.7 to 0.9), 9.9 kg (8.4 to 10.8) in the first year, with projected return to baseline weight by 1.5 years (1.0 to 1.9). Cardiometabolic markers were projected to return to baseline within 1.4 years. Regain after medication was faster than after behavioural weight management programmes by 0.3 kg per month (0.22 to 0.34), independent of initial weight loss; body weight after behavioural programmes was projected to return to baseline at 3.9 years against 1.7 years after medication. Only one study followed participants beyond one year. Certainty for the rate of regain was moderate.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12776922/"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The artificial sweetener erythritol and cardiovascular event risk",
+  "authors": "Witkowski M, Nemet I, Alamri H, Wilcox J, Gupta N, Nimer N, et al.",
+  "journal": "Nature Medicine",
+  "year": 2023,
+  "doi": "10.1038/s41591-023-02223-9",
+  "pmid": "36849732",
+  "registry": "NCT00590200; DRKS00020915; NCT04731363",
+  "design": "cohort",
+  "participants": 4139,
+  "followUp": "3 years",
+  "population": "Stable patients undergoing elective cardiac evaluation: discovery cohort of 1157 and US validation cohort of 2149 (GeneBank, Cleveland Clinic), European validation cohort of 833 (LipidCardio, Charité Berlin); 8 healthy volunteers in a pharmacokinetic study; platelets from 55 healthy donors; mice",
+  "funder": "This work is supported by grants from the NIH and Office of Dietary Supplements P01 HL147823, R01 HL103866 (S.L.H.), the Leducq Foundation #17CVD01 (S.L.H., U.L.) and the Deutsche Forschungsgemeinschaft WI 5229/1-1 (M.W.). A.H. is participant in the BIH-Charité Advanced Clinician Scientist Program funded by the Charité - Universitätsmedizin Berlin and the Berlin Institute of Health. The LipidCardio Study was partially funded by the Sanofi-Aventis Deutschland GmbH (I.D., U.L.). P.P.S. was supported in part by an AHA postdoctoral grant 20POST35210937. The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript.",
+  "funderRole": "none",
+  "authorConflicts": "S.L.H. reported patents held by the Cleveland Clinic on cardiovascular diagnostics and therapeutics, past consultancy for Procter & Gamble and current consultancy for Zehna Therapeutics, research funds from Procter & Gamble, Zehna Therapeutics and Roche Diagnostics, and eligibility for royalties from Cleveland HeartLab (Quest Diagnostics), Procter & Gamble and Zehna Therapeutics.",
+  "dataAccess": "summary",
+  "result": "Fourth against first quartile of fasting plasma erythritol, adjusted hazard ratio for 3-year death, non-fatal myocardial infarction or stroke: 2.95 (95% CI 1.70 to 5.12) in the discovery cohort, 1.80 (1.18 to 2.77) in the US and 2.21 (1.20 to 4.07) in the European validation cohort; event counts by quartile not given in the text. In vitro, erythritol enhanced agonist-stimulated activation of human platelets from 4.5 umol/L (GP IIb/IIIa activation) and aggregation from 18 umol/L; in mice it shortened the time to cessation of carotid blood flow after FeCl3 injury. After 30 g erythritol, plasma erythritol in 8 volunteers rose from a median 3.84 umol/L to 5.85 mmol/L at 30 min and remained elevated for more than 2 days. The authors note that the observational studies cannot establish causation and that unmodelled confounding, for example by diet, is possible.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=10334259"
+}

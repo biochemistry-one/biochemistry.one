@@ -1,0 +1,18 @@
+{
+  "title": "Effects of gastroprotectant drugs for the prevention and treatment of peptic ulcer disease and its complications: a meta-analysis of randomised trials",
+  "authors": "Scally B, Emberson JR, Spata E, Reith C, Davies K, Halls H, et al.",
+  "journal": "The Lancet Gastroenterology & Hepatology",
+  "year": 2018,
+  "doi": "10.1016/S2468-1253(18)30037-2",
+  "pmid": "29475806",
+  "design": "meta-analysis",
+  "participants": 142485,
+  "population": "849 unconfounded randomised trials of a PPI, prostaglandin analogue or H2-receptor antagonist against control, searched to December 2015: 580 prevention trials (median 180 days), 233 healing trials and 36 trials in acute upper gastrointestinal bleeding",
+  "funder": "UK Medical Research Council and the British Heart Foundation, through core funding of the MRC Population Health Research Unit, University of Oxford. The funders had no role in study design, data collection, data analysis, data interpretation, or writing of the report.",
+  "funderRole": "none",
+  "authorConflicts": "The Clinical Trial Service Unit does not let staff accept fees or consultancies; three authors are or have been involved in trials funded by Merck, Novartis, Pfizer, the Medicines Company and Boehringer Ingelheim; other authors reported grants, honoraria or consultancies from companies including AstraZeneca, Bayer, Pfizer and Takeda.",
+  "dataAccess": "summary",
+  "result": "Prevention trials, gastroprotectants against control: endoscopic ulcer OR 0.27 (95% CI 0.25 to 0.29), 160 fewer per 1000 treated; symptomatic ulcer OR 0.25 (0.22 to 0.29), 67 fewer per 1000; upper gastrointestinal bleeding OR 0.40 (0.32 to 0.50), 12 fewer per 1000, PPIs OR 0.21 (99% CI 0.12 to 0.36); all-cause mortality OR 0.85 (0.69 to 1.04). Healing trials: endoscopic healing OR 5.22 (99% CI 4.00 to 6.80) for PPIs and 3.80 (3.44 to 4.20) for H2-receptor antagonists. Reductions in symptomatic ulcers and bleeds were smaller in trials with secure allocation concealment; the authors consider overestimation from small-study bias possible. H. pylori and NSAIDs are the most frequent causes of peptic ulcer; NSAID risk probably follows inhibited mucosal prostaglandin production.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5842491/"
+}

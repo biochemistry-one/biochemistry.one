@@ -1,0 +1,20 @@
+{
+  "title": "Food additive emulsifiers and cancer risk: Results from the French prospective NutriNet-Santé cohort",
+  "authors": "Sellem L, Srour B, Javaux G, Chazelas E, Chassaing B, Viennois E, et al.",
+  "journal": "PLoS Medicine",
+  "year": 2024,
+  "doi": "10.1371/journal.pmed.1004338",
+  "pmid": "38349899",
+  "registry": "NCT03335644",
+  "design": "cohort",
+  "participants": 92000,
+  "followUp": "mean 6.7 years",
+  "population": "French adults without prevalent cancer; 78.8% women; mean age 44.5 years",
+  "funder": "NutriNet-Santé public institutions (Ministère de la Santé, Santé Publique France, INSERM, INRAE, CNAM, Université de Paris, University Sorbonne Paris Nord); European Research Council (grant agreement 864219); French National Cancer Institute (INCa_14059); French Ministry of Health; IdEx Université de Paris (ANR-18-IDEX-0001); Bettencourt-Schueller Foundation Research Prize 2021. Researchers were independent from funders. Funders had no role in the study design, the collection, analysis, and interpretation of data, the writing of the report, and the decision to submit the article for publication.",
+  "funderRole": "none",
+  "authorConflicts": "The authors have declared that no competing interests exist.",
+  "dataAccess": "individual",
+  "result": "2604 incident cancers (750 breast, 322 prostate, 207 colorectal) over 615,749 person-years. Highest versus lowest intake of E471: overall cancer HR 1.15 (95% CI 1.04 to 1.27), breast 1.24 (1.03 to 1.51), prostate 1.46 (1.09 to 1.97); total carrageenans and breast cancer 1.32 (1.09 to 1.60). No emulsifier was associated with colorectal cancer. Modelled absolute risks at age 60 by intake category (eTable C): overall cancer 11.2%, 11.8% and 12.4% for E471; breast cancer 4.2%, 4.7% and 5.1% for E471 and 4.1%, 4.6% and 5.2% for total carrageenans; prostate cancer 3.6%, 4.2% and 4.9% for E471. E471 was coded in sex-specific thirds (cut-offs 34 and 187.3 mg/day in men, 40.4 and 177.8 mg/day in women; category means 7.16, 104.17 and 376.1 mg/day). eTable D, cases/participants by third of E471 intake: overall cancer 790/30,667, 1018/30,729 and 796/30,604, HR 1.00, 1.16 (1.05 to 1.27) and 1.15 (1.04 to 1.27), p-trend 0.01; breast cancer 211/24,090, 292/24,153 and 245/24,027; prostate cancer 86/6,577, 133/6,576 and 103/6,577. Total mono- and diglycerides of fatty acids (E471, E472, E472a, E472b, E472c, E472e) and overall cancer: HR 1.12 (1.02 to 1.23) and 1.03 (0.93 to 1.14), p-trend 0.4. Diphosphates (E450) were consumed by 72.6%, mean 246.7 (SD 341.0) mg/day, and coded in sex-specific thirds (cut-offs 47.3 and 259.5 mg/day in women, 28 and 264.3 mg/day in men; category means in women 4.85, 145.42 and 580.06 mg/day). eTable D, E450 by third: premenopausal breast cancer 61/16,560, 120/17,021 and 113/19,382, HR 1.00, 1.56 (1.13 to 2.15) and 1.45 (1.04 to 2.02), p-trend 0.03 (false-discovery-rate-adjusted p-trend 0.1); overall cancer 838/30,683, 1036/30,658 and 730/30,659, HR 1.00, 1.03 (0.94 to 1.13) and 0.98 (0.88 to 1.09), p-trend 0.97; breast cancer HR 1.14 (0.94 to 1.40) for the highest third, p-trend 0.08. eTable C modelled absolute risk of premenopausal breast cancer at age 40 by E450 third: 1.7%, 2.1% and 2.5%. Additive doses were estimated from laboratory assays, EFSA doses by food category or Codex GSFA doses; the study period was 2009 to 2021. The authors state that further human, epidemiological and preclinical studies are required to elucidate the potential underlying mechanisms.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10863884/"
+}

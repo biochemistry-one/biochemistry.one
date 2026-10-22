@@ -1,0 +1,16 @@
+{
+  "title": "PharmGKB summary: caffeine pathway",
+  "authors": "Thorn CF, Aklillu E, McDonagh EM, Klein TE, Altman RB",
+  "journal": "Pharmacogenetics and Genomics",
+  "year": 2012,
+  "doi": "10.1097/FPC.0b013e3283505d5e",
+  "pmid": "22293536",
+  "design": "database",
+  "funder": "This work was supported by the NIH/NIGMS (R24 GM61374).",
+  "funderRole": "none",
+  "authorConflicts": "There are no conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "Caffeine is almost completely metabolised, 3% or less being excreted unchanged in urine. The main route, 70% to 80% of the dose, is N3-demethylation to paraxanthine by hepatic CYP1A2; 1-N-demethylation to theobromine and 7-N-demethylation to theophylline each account for about 7% to 8%, and C-8 hydroxylation to 1,3,7-trimethyluric acid for the remaining 15%. CYP1A2 is responsible for more than 95% of the primary metabolism of caffeine, which is therefore used as a probe drug for CYP1A2 activity. The secondary metabolism of paraxanthine to 1-methylxanthine, 1-methyluric acid, 5-acetylamino-6-formylamino-3-methyluracil and 1,7-dimethyluric acid is carried out by CYP1A2, CYP2A6, N-acetyltransferase 2 and xanthine dehydrogenase. CYP2C8, CYP2C9 and CYP3A4 also take part in primary metabolism, with lower intrinsic clearance than CYP1A2.",
+  "class": "reference",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381939/"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Dutch Pharmacogenetics Working Group (DPWG) guideline for the gene-drug interaction between CYP2D6 and opioids (codeine, tramadol and oxycodone)",
+  "authors": "Matic M, Nijenhuis M, Soree B, de Boer-Veger NJ, Buunk AM, Houwink EJF, et al.",
+  "journal": "European Journal of Human Genetics",
+  "year": 2022,
+  "doi": "10.1038/s41431-021-00920-y",
+  "pmid": "34267337",
+  "design": "guideline",
+  "funder": "The U-PGx consortium received funding from the European Community's Horizon 2020 Programme under grant agreement No. 668353 (U-PGx). The DPWG received funding from the Royal Dutch Pharmacists Association.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Codeine is contraindicated in CYP2D6 ultrarapid metabolisers for doses above 20 mg every 6 hours in adults, above 10 mg every 6 hours in children of 12 years or older, or where additional risk factors are present. Poor metabolisers should receive an alternative analgesic that is not, or is to a lesser extent, metabolised by CYP2D6, excluding tramadol; intermediate metabolisers with insufficient analgesia should receive a higher dose or an alternative analgesic. For tramadol, the advice for intermediate and poor metabolisers matches that for codeine in intermediate metabolisers, and ultrarapid metabolisers should receive an alternative drug or 40% of the commonly prescribed dose. For oxycodone no action is required, because effects on clinical outcomes are absent in poor, intermediate and ultrarapid metabolisers. CYP2D6 genotyping is classified as beneficial for codeine, with testing recommended before or shortly after the start of treatment where higher doses or additional risk factors apply, and as potentially beneficial for tramadol. A correction (European Journal of Human Genetics 2022;30:1196) revised only the data availability statement.",
+  "class": "consensus",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9553935/"
+}

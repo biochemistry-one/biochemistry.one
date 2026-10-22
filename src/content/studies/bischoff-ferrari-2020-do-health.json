@@ -1,0 +1,21 @@
+{
+  "title": "Effect of Vitamin D Supplementation, Omega-3 Fatty Acid Supplementation, or a Strength-Training Exercise Program on Clinical Outcomes in Older Adults: The DO-HEALTH Randomized Clinical Trial",
+  "authors": "Bischoff-Ferrari HA, Vellas B, Rizzoli R, Kressig RW, da Silva JAP, Blauth M, et al.",
+  "journal": "JAMA",
+  "year": 2020,
+  "doi": "10.1001/jama.2020.16909",
+  "pmid": "33170239",
+  "registry": "NCT01745263",
+  "design": "rct",
+  "participants": 2157,
+  "followUp": "median 2.99 years; 3 years of intervention",
+  "population": "Adults aged 70 years or older without major health events in the 5 years before enrolment, with sufficient mobility and good cognitive status",
+  "funder": "The study was funded by the Seventh Framework Program of the European Commission (grant agreement 278588), the University of Zurich (Chair for Geriatric Medicine and Aging Research), DSM Nutritional Products, Roche, NESTEC, Pfizer, and Streuli. The funding/supporting organizations had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; or decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "inKindSupport": "DSM Nutritional Products AG provided the ingredients for the capsules, which were produced by Swisscaps. DSM Nutritional Products R&D Analytics measured 25-hydroxyvitamin D.",
+  "authorConflicts": "Bischoff-Ferrari reported nonfinancial support from Roche Diagnostics, grants from Pfizer and Vifor, and personal fees from Wild, Sandoz, Pfizer, Vifor, Mylan, Roche Diagnostics and Meda Pharma. Other authors reported grants or personal fees from Nestlé, DSL, Abiogen, Danone, Echolight, EMF, ObsEva, Pfizer, Theramex, Forum D, AgNovos, Consilient Healthcare, Lilly, Amgen, Internis and UCB; Manson reported nonfinancial support from Pharmavite and Pronova BioPharma/BASF.",
+  "dataAccess": "individual",
+  "result": "Vitamin D3 2000 IU per day versus no vitamin D in a 2 × 2 × 2 factorial trial: 129 nonvertebral fractures among 1076 participants versus 127 among 1081; incidence 0.04 per person-year in both groups; absolute difference 0.00 (99% CI −0.01 to 0.01); adjusted incidence rate ratio 1.03 (99% CI 0.75 to 1.43); median follow-up 2.99 years. At baseline 40.7% of participants had serum 25-hydroxyvitamin D below 20 ng/ml.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7656284/"
+}

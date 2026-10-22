@@ -1,0 +1,94 @@
+{
+  "title": "Voie du mévalonate",
+  "layout": "chain",
+  "compartment": "Cytosol et réticulum endoplasmique",
+  "steps": [
+    {
+      "from": "Acétyl-CoA",
+      "to": "Acétoacétyl-CoA",
+      "enzyme": "Acétyl-CoA acétyltransférase 2 (ACAT2)",
+      "reversible": true,
+      "note": "Condensation de deux acétyl-CoA avec libération de CoA"
+    },
+    {
+      "from": "Acétoacétyl-CoA",
+      "to": "HMG-CoA",
+      "enzyme": "HMG-CoA synthase 1 (HMGCS1)",
+      "cofactors": ["Acétyl-CoA", "H2O"],
+      "note": "Ajout d'une troisième unité acétyle avec libération de CoA"
+    },
+    {
+      "from": "HMG-CoA",
+      "to": "Mévalonate",
+      "enzyme": "HMG-CoA réductase (HMGCR)",
+      "cofactors": ["2 NADPH"],
+      "inhibitors": [{"name": "Statines", "page": "medicines/statins"}],
+      "note": "Étape limitante ; enzyme de la membrane du RE ; libération de CoA"
+    },
+    {
+      "from": "Mévalonate",
+      "to": "Mévalonate-5-phosphate",
+      "enzyme": "Mévalonate kinase (MVK)",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "Mévalonate-5-phosphate",
+      "to": "Mévalonate-5-diphosphate",
+      "enzyme": "Phosphomévalonate kinase (PMVK)",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "Mévalonate-5-diphosphate",
+      "to": "Isopentényl diphosphate",
+      "enzyme": "Diphosphomévalonate décarboxylase (MVD)",
+      "cofactors": ["ATP"],
+      "note": "Libération de CO2 et de phosphate ; le produit est l'unité isoprénoïde en C5"
+    },
+    {
+      "from": "Isopentényl diphosphate",
+      "to": "Diméthylallyl diphosphate",
+      "enzyme": "Isopentényl-diphosphate isomérase 1 (IDI1)",
+      "reversible": true
+    },
+    {
+      "from": "Diméthylallyl diphosphate",
+      "to": "Géranyl diphosphate",
+      "enzyme": "Farnésyl diphosphate synthase (FDPS)",
+      "cofactors": ["Isopentényl diphosphate"],
+      "note": "Ajout d'une unité en C5 avec libération de diphosphate"
+    },
+    {
+      "from": "Géranyl diphosphate",
+      "to": "Farnésyl diphosphate",
+      "enzyme": "Farnésyl diphosphate synthase (FDPS)",
+      "cofactors": ["Isopentényl diphosphate"],
+      "note": "Embranchement vers ubiquinone, dolichol, hème A et protéines prénylées"
+    },
+    {
+      "from": "Farnésyl diphosphate",
+      "to": "Squalène",
+      "enzyme": "Squalène synthase (FDFT1)",
+      "cofactors": ["NADPH"],
+      "note": "Couplage de deux farnésyl diphosphates via le présqualène diphosphate"
+    },
+    {
+      "from": "Squalène",
+      "to": "(S)-2,3-Époxysqualène",
+      "enzyme": "Squalène monooxygénase (SQLE)",
+      "cofactors": ["O2", "NADPH via la cytochrome P450 oxydoréductase (POR)", "FAD"],
+      "note": "Étape également considérée comme limitante pour la synthèse des stérols"
+    },
+    {
+      "from": "(S)-2,3-Époxysqualène",
+      "to": "Lanostérol",
+      "enzyme": "Lanostérol synthase (LSS)",
+      "note": "Cyclisation aboutissant au premier stérol"
+    },
+    {
+      "from": "Lanostérol",
+      "to": "Cholestérol",
+      "enzyme": "plusieurs étapes",
+      "note": "Voie de Bloch ou de Kandutsch-Russell modifiée ; de CYP51A1 à DHCR24 ou DHCR7"
+    }
+  ]
+}

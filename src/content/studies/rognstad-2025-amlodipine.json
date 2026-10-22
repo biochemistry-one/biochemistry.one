@@ -1,0 +1,18 @@
+{
+  "title": "Pharmacokinetic variability of amlodipine serum concentration and effect on blood pressure in patients treated for hypertension",
+  "authors": "Rognstad S, Soraas CL, Brunborg C, Halvorsen LV, Brobak KM, Olsen E, et al.",
+  "journal": "Pharmacology Research & Perspectives",
+  "year": 2025,
+  "doi": "10.1002/prp2.70140",
+  "pmid": "40616336",
+  "registry": "NCT03209154",
+  "design": "cross-sectional",
+  "participants": 471,
+  "population": "Adults with treated hypertension taking amlodipine together with at least one further antihypertensive drug, recruited at four Norwegian university hospitals between 2017 and 2022; mean age 62 years, 319 men and 152 women, 94% of Caucasian origin",
+  "funder": "This work was supported by the Research Council of Norway (grant 273563). The authors declare no conflicts of interest.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Mean serum amlodipine concentration was 46 (SD 26) nmol/l on a mean daily dose of 8.0 (SD 2.6) mg; the ratio of mean concentration at peak to the 24-hour value was 1.4. Median dose-adjusted concentration was 6.7 nmol/l per mg in women against 4.9 in men (p < 0.001), rose with age (p < 0.001) and was higher below an absolute eGFR of 60 ml/min (7.3 against 5.1 nmol/l per mg, p < 0.001). Of 258 patients genotyped, 16 (6.2%) carried CYP3A4*1/*22 or *22/*22: dose-adjusted concentration in that group exceeded the CYP3A4*1/*1 group by about 30% (unadjusted coefficient 1.89 nmol/l per mg, 95% CI 0.40 to 3.39, p = 0.013; adjusted for nine covariates 1.94, 0.56 to 3.32, p = 0.006), with medians of 6.0 against 5.1 nmol/l per mg (p = 0.062). CYP3A5 genotype showed no association with dose-adjusted concentration (adjusted coefficient 0.66, 95% CI -0.22 to 1.54, p = 0.138); 215 of 258 carried CYP3A5*3/*3. Nine covariates with the dose explained 41% of the variance in serum concentration, of which genotype accounted for 3%. The report states that hepatic metabolism, mainly by CYP3A4 and CYP3A5, accounts for elimination, with 5% to 10% of the parent drug and 60% of the metabolites excreted in urine, and the half-life is 35 to 50 hours.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12227894/"
+}

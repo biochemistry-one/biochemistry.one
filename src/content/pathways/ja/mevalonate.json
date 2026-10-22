@@ -1,0 +1,94 @@
+{
+  "title": "メバロン酸経路",
+  "layout": "chain",
+  "compartment": "細胞質ゾルと小胞体",
+  "steps": [
+    {
+      "from": "アセチルCoA",
+      "to": "アセトアセチルCoA",
+      "enzyme": "アセチルCoAアセチルトランスフェラーゼ2（ACAT2）",
+      "reversible": true,
+      "note": "2分子のアセチルCoAを縮合し、CoAを放出する"
+    },
+    {
+      "from": "アセトアセチルCoA",
+      "to": "HMG-CoA",
+      "enzyme": "HMG-CoA合成酵素1（HMGCS1）",
+      "cofactors": ["アセチルCoA", "H2O"],
+      "note": "3つ目のアセチル単位を付加し、CoAを放出する"
+    },
+    {
+      "from": "HMG-CoA",
+      "to": "メバロン酸",
+      "enzyme": "HMG-CoA還元酵素（HMGCR）",
+      "cofactors": ["2 NADPH"],
+      "inhibitors": [{"name": "スタチン", "page": "medicines/statins"}],
+      "note": "律速段階。小胞体膜の酵素で、CoAを放出する"
+    },
+    {
+      "from": "メバロン酸",
+      "to": "メバロン酸5-リン酸",
+      "enzyme": "メバロン酸キナーゼ（MVK）",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "メバロン酸5-リン酸",
+      "to": "メバロン酸5-二リン酸",
+      "enzyme": "ホスホメバロン酸キナーゼ（PMVK）",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "メバロン酸5-二リン酸",
+      "to": "イソペンテニル二リン酸",
+      "enzyme": "ジホスホメバロン酸脱炭酸酵素（MVD）",
+      "cofactors": ["ATP"],
+      "note": "CO2とリン酸を放出する。生成物はC5のイソプレノイド単位"
+    },
+    {
+      "from": "イソペンテニル二リン酸",
+      "to": "ジメチルアリル二リン酸",
+      "enzyme": "イソペンテニル二リン酸イソメラーゼ1（IDI1）",
+      "reversible": true
+    },
+    {
+      "from": "ジメチルアリル二リン酸",
+      "to": "ゲラニル二リン酸",
+      "enzyme": "ファルネシル二リン酸合成酵素（FDPS）",
+      "cofactors": ["イソペンテニル二リン酸"],
+      "note": "C5単位を1つ付加し、二リン酸を放出する"
+    },
+    {
+      "from": "ゲラニル二リン酸",
+      "to": "ファルネシル二リン酸",
+      "enzyme": "ファルネシル二リン酸合成酵素（FDPS）",
+      "cofactors": ["イソペンテニル二リン酸"],
+      "note": "ユビキノン、ドリコール、ヘムA、プレニル化蛋白質への分岐点"
+    },
+    {
+      "from": "ファルネシル二リン酸",
+      "to": "スクアレン",
+      "enzyme": "スクアレン合成酵素（FDFT1）",
+      "cofactors": ["NADPH"],
+      "note": "プレスクアレン二リン酸を経て、ファルネシル二リン酸2分子を結合する"
+    },
+    {
+      "from": "スクアレン",
+      "to": "(S)-2,3-エポキシスクアレン",
+      "enzyme": "スクアレンモノオキシゲナーゼ（SQLE）",
+      "cofactors": ["O2", "シトクロムP450酸化還元酵素（POR）を介したNADPH", "FAD"],
+      "note": "ステロール合成の律速酵素ともみなされる"
+    },
+    {
+      "from": "(S)-2,3-エポキシスクアレン",
+      "to": "ラノステロール",
+      "enzyme": "ラノステロール合成酵素（LSS）",
+      "note": "環化により最初のステロールが生じる"
+    },
+    {
+      "from": "ラノステロール",
+      "to": "コレステロール",
+      "enzyme": "複数の反応段階",
+      "note": "Bloch経路または修正Kandutsch-Russell経路。最初はCYP51A1、最後はDHCR24またはDHCR7"
+    }
+  ]
+}

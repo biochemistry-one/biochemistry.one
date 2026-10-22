@@ -1,0 +1,19 @@
+{
+  "title": "Association of proton pump inhibitors with risk of dementia: a pharmacoepidemiological claims data analysis",
+  "authors": "Gomm W, von Holt K, Thomé F, Broich K, Maier W, Fink A, et al.",
+  "journal": "JAMA Neurology",
+  "year": 2016,
+  "doi": "10.1001/jamaneurol.2015.4791",
+  "pmid": "26882076",
+  "design": "cohort",
+  "participants": 73679,
+  "followUp": "2004 to 2011, quarterly claims",
+  "population": "Members of the German statutory health insurer AOK aged 75 years or older and free of dementia at baseline",
+  "funder": "No funding statement in the article information; Additional Contributions state: 'No compensation was received by the Scientific Research Institute from a funding sponsor for the study.' Authors are affiliated with the German Center for Neurodegenerative Diseases and the Federal Institute for Drugs and Medical Devices, Bonn.",
+  "funderRole": "unknown",
+  "authorConflicts": "None reported.",
+  "dataAccess": "individual",
+  "result": "Regular PPI users (at least one PPI prescription in each quarter of an 18-month interval; n = 2950) had a higher risk of incident dementia diagnosis than non-users (n = 70,729): HR 1.44 (95% CI 1.36 to 1.52), adjusted for age, sex, comorbidities and polypharmacy. Diagnoses were claims codes; 29,510 participants developed dementia. The authors cite mouse studies in which PPIs raised brain beta-amyloid and call for randomised trials.",
+  "class": "undetermined",
+  "fundingChecked": "https://jamanetwork.com/journals/jamaneurology/fullarticle/2487379"
+}

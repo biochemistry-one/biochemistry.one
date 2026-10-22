@@ -1,0 +1,18 @@
+{
+  "title": "A mutation in the thyroid hormone receptor alpha gene",
+  "authors": "Bochukova E, Schoenmakers N, Agostini M, Schoenmakers E, Rajanayagam O, Keogh JM, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2012,
+  "doi": "10.1056/NEJMoa1110296",
+  "pmid": "22168587",
+  "design": "genetic",
+  "participants": 1,
+  "population": "A 6-year-old girl with growth retardation, studied by whole-exome sequencing",
+  "funder": "Supported by grants from the Wellcome Trust, the National Institutes of Health Research Cambridge Biomedical Research Centre, the Medical Research Council Centre for Obesity and Related Metabolic Disease, and the Great Ormond Street Children's Charity.",
+  "funderRole": "unknown",
+  "authorConflicts": "Disclosure forms are available with the full text at NEJM.org; not read.",
+  "dataAccess": "summary",
+  "result": "A de novo heterozygous nonsense mutation in THRA produced a dominant negative TRα1 that inhibited wild-type receptor action. The child had growth retardation affecting the lower body segment, delayed tooth eruption, skeletal dysplasia with wormian bones and epiphyseal dysgenesis, severe constipation, bradycardia and low blood pressure, with near-normal thyroid hormone levels, disproportionately low free T4, high-normal or slightly raised free T3 and a low T4 to T3 ratio. The authors attribute resistance to tissues in which TRα predominates, such as skeleton, gastrointestinal tract and myocardium, while organs containing mainly TRβ, such as pituitary and liver, remained sensitive. After thyroxine 50 µg daily for 9 months, free T4, free T3 and IGF-1 rose to normal or supraphysiological levels, TSH was fully suppressed and basal metabolic rate normalised, but pulse and blood pressure stayed low and growth and gastrointestinal function improved little.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20220324000201/https://www.nejm.org/doi/full/10.1056/nejmoa1110296"
+}

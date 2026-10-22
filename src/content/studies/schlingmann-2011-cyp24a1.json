@@ -1,0 +1,16 @@
+{
+  "title": "Mutations in CYP24A1 and idiopathic infantile hypercalcemia",
+  "authors": "Schlingmann KP, Kaufmann M, Weber S, Irwin A, Goos C, John U, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2011,
+  "doi": "10.1056/NEJMoa1103864",
+  "pmid": "21675912",
+  "design": "genetic",
+  "population": "Familial cases of idiopathic infantile hypercalcaemia with suspected autosomal recessive inheritance, and a second cohort of infants with severe hypercalcaemia after bolus vitamin D prophylaxis",
+  "funder": "not stated in the abstract; the full text was not accessible (HTTP 403 at nejm.org), so the funding statement was not read.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Abstract: idiopathic infantile hypercalcaemia is characterised by severe hypercalcaemia, failure to thrive, vomiting, dehydration and nephrocalcinosis; its incidence rose in Britain in the 1950s during a period of high vitamin D supplementation in fortified milk. Recessive mutations in CYP24A1, encoding the 24-hydroxylase that degrades 1,25-dihydroxyvitamin D3, were found in six affected children and in a second cohort of infants in whom severe hypercalcaemia developed after bolus prophylaxis with vitamin D; all mutations caused complete loss of function. CYP24A1 mutations are a genetic risk factor for symptomatic hypercalcaemia that may be triggered by vitamin D prophylaxis in otherwise apparently healthy infants.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.nejm.org/doi/10.1056/NEJMoa1103864"
+}

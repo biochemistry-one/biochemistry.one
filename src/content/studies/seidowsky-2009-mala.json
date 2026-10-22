@@ -1,0 +1,18 @@
+{
+  "title": "Metformin-associated lactic acidosis: a prognostic and therapeutic study",
+  "authors": "Seidowsky A, Nseir S, Houdret N, Fourrier F",
+  "journal": "Critical Care Medicine",
+  "year": 2009,
+  "doi": "10.1097/CCM.0b013e3181a02490",
+  "pmid": "19487945",
+  "design": "cohort",
+  "participants": 42,
+  "followUp": "intensive care admission to discharge or death; ten-year retrospective period",
+  "population": "Patients admitted to two intensive care units (50 beds) of a French university hospital with metformin-associated lactic acidosis: 13 voluntary intoxications and 29 incidental overdoses",
+  "funder": "Not stated in the published abstract. The full text is behind a subscription, the article is absent from PubMed Central and no repository copy is indexed, so the funding statement could not be read and the class is undetermined.",
+  "funderRole": "unknown",
+  "dataAccess": "unavailable",
+  "result": "Results read from the published abstract. Of 42 patients, 74% were in acute renal failure and needed haemodialysis. No death occurred among the 13 patients with intentional overdose, against 48.3% mortality among the 29 with incidental overdose. Factors significantly associated with mortality were the logistic organ dysfunction system score, pH, plasma lactate and prothrombin activity; by multivariate analysis a prothrombin activity below 50% was the only independent predictor of death (relative risk 59.8, confidence limits 6.3 to 568, p < 0.0001). Sequential metformin levels during haemodialysis followed a bicompartmental elimination pattern, and a cumulative dialysis duration of 15 hours returned metformin to the therapeutic range. The authors describe metformin-associated lactic acidosis as usually arising when a precipitating disease causes acute renal failure and an incidental overdose.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/19487945/"
+}

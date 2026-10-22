@@ -1,0 +1,19 @@
+{
+  "title": "Morbidity and mortality after lifestyle intervention for people with impaired glucose tolerance: 30-year results of the Da Qing Diabetes Prevention Outcome Study",
+  "authors": "Gong Q, Zhang P, Wang J, Ma J, An Y, Chen Y, et al.",
+  "journal": "Lancet Diabetes and Endocrinology",
+  "year": 2019,
+  "doi": "10.1016/S2213-8587(19)30093-2",
+  "pmid": "31036503",
+  "design": "rct",
+  "participants": 577,
+  "followUp": "up to 30 years; 540 of 576 participants (94%) assessed for outcomes",
+  "population": "Adults aged 25 to 74 years with impaired glucose tolerance identified in 1986 by oral glucose tolerance testing among 110,660 adults screened at 33 primary care clinics in Da Qing, China; clinics were randomly assigned as control or to provide diet, exercise, or diet plus exercise for 6 years; 438 participants were in the three intervention groups and 138 in the control group",
+  "funder": "The study was supported from 1986 to 1992 by the World Bank, the Ministry of Public Health of the People's Republic of China and Da Qing First Hospital; from 2004 to 2009 by a US Centers for Disease Control and Prevention and WHO cooperative agreement, China-Japan Friendship Hospital and Da Qing First Hospital; and from 2015 to 2018 by a US CDC and Chinese CDC cooperative agreement, the National Center for Cardiovascular Diseases and Fuwai Hospital, China-Japan Friendship Hospital and Da Qing First Hospital. Investigators from the funding organisations were involved in study design, data collection, analysis, interpretation and writing.",
+  "funderRole": "several",
+  "authorConflicts": "We declare no competing interests.",
+  "dataAccess": "individual",
+  "result": "Over 30 years the combined intervention group had a median delay in diabetes onset of 3.96 years (95% CI 1.25 to 6.67, p = 0.0042). Cardiovascular disease events occurred in 195 of 405 intervention participants (48%, cumulative incidence 52.9%, 47.5 to 57.9) and 80 of 135 control participants (59%, cumulative incidence 66.5%, 57.0 to 74.4), 26% fewer events (8 to 41, p = 0.0060), with nine people needing treatment over 30 years to prevent one cardiovascular event (5 to 36). Composite microvascular disease was 35% lower (5 to 55, p = 0.025), cumulative incidence 25.1% against 34.0%, with retinopathy 40% lower (5 to 62, p = 0.032) and nephropathy and neuropathy numerically but not significantly lower. Cardiovascular death fell 33% (6 to 52, p = 0.022), cumulative incidence 25.6% against 35.2%, and all-cause death 26% (11 to 39, p = 0.0015), with ten people needing treatment over 30 years to prevent one death (6 to 25); average life expectancy increased by 1.44 years (0.20 to 2.68, p = 0.023). Reductions in mortality and vascular complications were greater in women than men, and adjusting for the time of diabetes onset nullified the significance of the intervention effect for each primary outcome, which the authors read as showing that much of the benefit follows from the delay in diabetes onset.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=8172050"
+}

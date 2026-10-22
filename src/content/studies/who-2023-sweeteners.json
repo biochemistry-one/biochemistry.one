@@ -1,0 +1,16 @@
+{
+  "title": "Use of non-sugar sweeteners: WHO guideline",
+  "authors": "World Health Organization",
+  "journal": "World Health Organization, Geneva",
+  "year": 2023,
+  "pmid": "37256996",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK592258/",
+  "design": "guideline",
+  "funder": "WHO gratefully acknowledges the financial support provided by the Ministry of Health, Labour and Welfare of the Government of Japan for the guideline development work, including the systematic reviews, and by Qingdao University in China for hosting the 13th meeting of the WHO Nutrition Guidance Expert Advisory Group - Subgroup on Diet and Health in December 2019.",
+  "funderRole": "none",
+  "authorConflicts": "Annex 4: two members of the guideline development group declared interests, including engagements with food companies, which WHO judged not to represent conflicts of interest; members of the systematic review teams declared none.",
+  "dataAccess": "summary",
+  "result": "WHO suggests that non-sugar sweeteners not be used as a means of achieving weight control or reducing the risk of noncommunicable diseases (conditional recommendation, low certainty evidence overall). The recommendation does not apply to individuals with existing diabetes, or to sugar alcohols and low-calorie sugars. In the systematic review, randomised trials in adults, most lasting 3 months or less, gave body weight MD -0.71 kg (95% CI -1.13 to -0.28; 29 trials, 2433 participants; low certainty) and fasting glucose MD -0.01 mmol/L (-0.05 to 0.04; 16 trials, 1494 participants; moderate certainty). Prospective cohorts associated higher intake with type 2 diabetes (beverages, HR 1.23, 95% CI 1.14 to 1.32; 13 studies, 408,609 participants), cardiovascular diseases (HR 1.32, 1.17 to 1.50; 3 studies, 166,938 participants) and all-cause mortality (HR 1.12, 1.05 to 1.19). Reverse causation and residual confounding were considered possible contributors.",
+  "class": "consensus",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/b2/1d/who367660_NBK592258.tar.gz"
+}

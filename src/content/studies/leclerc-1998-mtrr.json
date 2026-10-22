@@ -1,0 +1,15 @@
+{
+  "title": "Cloning and mapping of a cDNA for methionine synthase reductase, a flavoprotein defective in patients with homocystinuria",
+  "authors": "Leclerc D, Wilson A, Dumas R, Gafuik C, Song D, Watkins D, et al.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 1998,
+  "doi": "10.1073/pnas.95.6.3059",
+  "pmid": "9501215",
+  "design": "genetic",
+  "funder": "These studies were supported by grants from the Medical Research Council of Canada Group in Medical Genetics (GR-13297), the National Heart, Blood and Lung Institute (HL58955-01), and the Canadian Genome Analysis and Technology Program.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Methionine synthase remethylates homocysteine with methylcobalamin as intermediate methyl carrier; oxidation of the cob(I)alamin cofactor to cob(II)alamin inactivates the enzyme, and reactivation requires reductive methylation with S-adenosylmethionine as methyl donor. The cDNA of methionine synthase reductase (MTRR) encodes a 698-residue member of the FNR family of electron transferases with binding motifs for FMN, FAD and NADPH. Patients of the cblE complementation group carry MTRR mutations and show megaloblastic anaemia, developmental delay, hyperhomocysteinaemia and hypomethioninaemia; severe deficiency of methionine synthase activity causes the same features.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC19694/"
+}

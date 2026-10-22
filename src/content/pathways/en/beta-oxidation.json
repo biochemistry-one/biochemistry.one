@@ -1,0 +1,69 @@
+{
+  "title": "Carnitine shuttle and β-oxidation of palmitate",
+  "layout": "chain",
+  "compartment": "Cytosol, outer and inner mitochondrial membranes, mitochondrial matrix",
+  "steps": [
+    {
+      "from": "Palmitate (16:0)",
+      "to": "Palmitoyl-CoA",
+      "enzyme": "Long-chain-fatty-acid–CoA ligase 1 (ACSL1)",
+      "cofactors": ["ATP", "CoA", "Mg2+"],
+      "note": "Outer mitochondrial membrane and ER; releases AMP and diphosphate"
+    },
+    {
+      "from": "Palmitoyl-CoA",
+      "to": "Palmitoylcarnitine",
+      "enzyme": "Carnitine palmitoyltransferase 1 (CPT1A, CPT1B)",
+      "cofactors": ["L-Carnitine"],
+      "inhibitors": [{"name": "Malonyl-CoA"}],
+      "note": "Outer mitochondrial membrane; CPT1A in liver, CPT1B in muscle; releases CoA"
+    },
+    {
+      "from": "Palmitoylcarnitine",
+      "to": "Palmitoylcarnitine (matrix)",
+      "enzyme": "Carnitine–acylcarnitine translocase (SLC25A20)",
+      "note": "Inner membrane; exchanges acylcarnitine for free carnitine"
+    },
+    {
+      "from": "Palmitoylcarnitine (matrix)",
+      "to": "Palmitoyl-CoA (matrix)",
+      "enzyme": "Carnitine palmitoyltransferase 2 (CPT2)",
+      "cofactors": ["CoA"],
+      "note": "Matrix side of the inner membrane; releases carnitine"
+    },
+    {
+      "from": "Palmitoyl-CoA (matrix)",
+      "to": "trans-Hexadec-2-enoyl-CoA",
+      "enzyme": "Very-long-chain acyl-CoA dehydrogenase (ACADVL)",
+      "cofactors": ["FAD"],
+      "note": "Reduces ETF; ETF–ubiquinone oxidoreductase passes electrons to ubiquinone"
+    },
+    {
+      "from": "trans-Hexadec-2-enoyl-CoA",
+      "to": "(S)-3-Hydroxyhexadecanoyl-CoA",
+      "enzyme": "Trifunctional protein α subunit (HADHA)",
+      "cofactors": ["H2O"],
+      "note": "Enoyl-CoA hydratase activity"
+    },
+    {
+      "from": "(S)-3-Hydroxyhexadecanoyl-CoA",
+      "to": "3-Oxohexadecanoyl-CoA",
+      "enzyme": "Trifunctional protein α subunit (HADHA)",
+      "cofactors": ["NAD+"],
+      "note": "Long-chain 3-hydroxyacyl-CoA dehydrogenase (LCHAD) activity"
+    },
+    {
+      "from": "3-Oxohexadecanoyl-CoA",
+      "to": "Myristoyl-CoA (14:0)",
+      "enzyme": "Trifunctional protein β subunit (HADHB)",
+      "cofactors": ["CoA"],
+      "note": "3-Ketoacyl-CoA thiolase activity; releases acetyl-CoA"
+    },
+    {
+      "from": "Myristoyl-CoA (14:0)",
+      "to": "Acetyl-CoA",
+      "enzyme": "several steps",
+      "note": "Six more turns; palmitoyl-CoA yields 8 acetyl-CoA, 7 FADH2 and 7 NADH"
+    }
+  ]
+}

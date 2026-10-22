@@ -1,0 +1,32 @@
+{
+  "title": "Activation et inactivation de la vitamine D3",
+  "layout": "chain",
+  "compartment": "Épiderme, réticulum endoplasmique du foie et mitochondries du tubule rénal proximal",
+  "steps": [
+    {
+      "from": "7-Déhydrocholestérol",
+      "to": "Colécalciférol (vitamine D3)",
+      "enzyme": "plusieurs étapes",
+      "note": "Les UVB ouvrent le cycle B ; la prévitamine D3 formée s'isomérise thermiquement"
+    },
+    {
+      "from": "Colécalciférol (vitamine D3)",
+      "to": "Calcifédiol (25-hydroxyvitamine D3)",
+      "enzyme": "25-Hydroxylase de la vitamine D (CYP2R1)",
+      "note": "Enzyme microsomale du foie ; produit lié à la protéine porteuse de la vitamine D"
+    },
+    {
+      "from": "Calcifédiol (25-hydroxyvitamine D3)",
+      "to": "Calcitriol (1,25-dihydroxyvitamine D3)",
+      "enzyme": "1α-Hydroxylase de la 25-hydroxyvitamine D (CYP27B1)",
+      "cofactors": ["Ferrédoxine", "Ferrédoxine réductase"],
+      "note": "Mitochondriale ; induite par la PTH, réprimée par le FGF23 et le calcitriol"
+    },
+    {
+      "from": "Calcitriol (1,25-dihydroxyvitamine D3)",
+      "to": "Acide calcitroïque",
+      "enzyme": "24-Hydroxylase de la vitamine D (CYP24A1)",
+      "note": "Oxydations en C-24 ; induite par le calcitriol et le FGF23, réprimée par la PTH"
+    }
+  ]
+}

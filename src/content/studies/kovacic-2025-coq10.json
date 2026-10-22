@@ -1,0 +1,19 @@
+{
+  "title": "Effects of coenzyme Q10 supplementation on myopathy in statin-treated patients: a systematic review and meta-analysis",
+  "authors": "Kovacic S, Habicht SD, Eckert GP",
+  "journal": "Journal of Nutritional Science",
+  "year": 2025,
+  "doi": "10.1017/jns.2025.10043",
+  "pmid": "41158831",
+  "design": "meta-analysis",
+  "participants": 389,
+  "followUp": "30 to 90 days",
+  "population": "Seven randomised trials of CoQ10 (100 to 600 mg/day) against control in adults taking statins with muscle pain as an outcome",
+  "funder": "Financial support was provided by the Society for Applied Vitamin Research (GVF, Jena, Germany).",
+  "funderRole": "unknown",
+  "authorConflicts": "The authors declare no conflict of interest.",
+  "dataAccess": "summary",
+  "result": "Four of seven trials showed a significant reduction of statin-associated muscle symptoms and three no significant change; pooled weighted mean difference in pain intensity -0.96 (95% CI -1.88 to -0.03). The authors state that more research is needed for evidence-based recommendations. The membership and funding of the Society for Applied Vitamin Research are not stated in the paper.",
+  "class": "undetermined",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=12554813"
+}

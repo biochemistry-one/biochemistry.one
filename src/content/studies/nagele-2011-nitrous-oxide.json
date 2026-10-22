@@ -1,0 +1,19 @@
+{
+  "title": "Nitrous oxide anesthesia and plasma homocysteine in adolescents",
+  "authors": "Nagele P, Tallchief D, Blood J, Sharma A, Kharasch ED",
+  "journal": "Anesthesia and Analgesia",
+  "year": 2011,
+  "doi": "10.1213/ANE.0b013e31822402f5",
+  "pmid": "21680854",
+  "design": "cohort",
+  "participants": 27,
+  "followUp": "96 hours",
+  "population": "Patients aged 10 to 18 years undergoing elective major spine surgery",
+  "funder": "This research was funded by National Institutes of Health grant number NIH K23GM087534; K24DA00417; UL1RR024992.",
+  "funderRole": "none",
+  "authorConflicts": "P. Nagele received research funding from Roche Diagnostics; the other authors reported no conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "Nitrous oxide inactivates vitamin B12 and inhibits methionine synthase. 26 of 27 patients received nitrous oxide. Plasma total homocysteine rose in all 26 by a geometric mean of 9.4 umol/L (95% CI 7.1 to 12.5), a mean 228%, from a median baseline of 5.1 umol/L; it peaked 6 to 8 hours after induction and largely returned to baseline by 24 hours; the rise correlated with the product of duration and average concentration of nitrous oxide (r = 0.80). The one patient without nitrous oxide had no increase.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3183370/"
+}

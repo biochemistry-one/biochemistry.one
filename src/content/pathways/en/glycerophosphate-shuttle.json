@@ -1,0 +1,22 @@
+{
+  "title": "Glycerophosphate shuttle",
+  "layout": "cycle",
+  "compartment": "Cytosol and inner mitochondrial membrane",
+  "steps": [
+    {
+      "from": "Dihydroxyacetone phosphate",
+      "to": "sn-Glycerol 3-phosphate",
+      "enzyme": "Glycerol-3-phosphate dehydrogenase 1 (GPD1), cytosolic",
+      "cofactors": ["NADH to NAD+"],
+      "reversible": true,
+      "note": "EC 1.1.1.8; oxidises cytosolic NADH"
+    },
+    {
+      "from": "sn-Glycerol 3-phosphate",
+      "to": "Dihydroxyacetone phosphate",
+      "enzyme": "Glycerol-3-phosphate dehydrogenase 2 (GPD2), mitochondrial",
+      "cofactors": ["Quinone to quinol"],
+      "note": "EC 1.1.5.3; metformin inhibition not reproduced in four assays"
+    }
+  ]
+}

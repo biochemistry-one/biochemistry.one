@@ -1,0 +1,19 @@
+{
+  "title": "Angiotensin converting enzyme (ACE) inhibitors versus angiotensin receptor blockers for primary hypertension",
+  "authors": "Li EC, Heran BS, Wright JM",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2014,
+  "doi": "10.1002/14651858.CD009096.pub2",
+  "pmid": "25148386",
+  "design": "meta-analysis",
+  "participants": 11007,
+  "followUp": "mean 4.3 years for total mortality, 4.5 years for total cardiovascular events and 4.1 years for withdrawals due to adverse effects",
+  "population": "Nine randomised trials of at least one year comparing an ACE inhibitor with an angiotensin receptor blocker head to head in adults with primary hypertension, most participants drawn from one large trial of ramipril against telmisartan in people with vascular disease or diabetes with end-organ damage; ACE inhibitors studied were enalapril, ramipril, lisinopril, fosinopril and quinapril, and the blockers telmisartan, losartan, candesartan, valsartan and irbesartan",
+  "funder": "Internal sources: University of British Columbia, Canada (office space and salary of JMW). External sources: no sources of support supplied.",
+  "funderRole": "none",
+  "authorConflicts": "None.",
+  "dataAccess": "summary",
+  "result": "No evidence of a difference between ACE inhibitors and angiotensin receptor blockers for total mortality (RR 0.98, 95% CI 0.88 to 1.10; 10,248 participants, 5 studies, 3 with events; assumed risk 116 per 1000 on ACE inhibitors), total cardiovascular events (RR 1.07, 0.96 to 1.19; 5499 participants, 3 studies, 1 with events; 179 per 1000) or cardiovascular mortality (RR 0.98, 0.85 to 1.13; 9747 participants, 4 studies, 2 with events). High-quality evidence showed a lower incidence of withdrawal due to adverse effects with the blockers (RR 0.83, 0.74 to 0.93; absolute risk reduction 1.8%, number needed to treat 55 over a mean 4.1 years; 10,963 participants, 8 studies; 113 per 1000 on ACE inhibitors against a corresponding 94 per 1000). Among withdrawals for which a reason was stated, cough accounted for 22 of 51 events (43%) in the ACE inhibitor arms and 2 of 49 (4%) in the blocker arms, and removing cough from the analysis made the difference in withdrawals non-significant. The evidence for mortality was graded moderate and for cardiovascular events low, because at least 9 initially eligible studies may hold unpublished mortality or morbidity data and at least 14 may hold unpublished subgroup data for people with hypertension. The authors state that placebo-controlled trials of angiotensin receptor blockers in hypertension do not exist to their knowledge and are unlikely to be conducted for ethical reasons, so the benefit ACE inhibitors have shown over placebo cannot be extrapolated directly to the blockers.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6486121/"
+}

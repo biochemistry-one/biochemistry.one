@@ -1,0 +1,15 @@
+{
+  "title": "Prescription Cost Analysis – England 2025/26: integrated care board and SNOMED-level data (PCA_ICB_SNOMED_2025_2026)",
+  "authors": "NHS Business Services Authority, Official Statistics Team",
+  "journal": "NHS Business Services Authority Open Data Portal, Accredited Official Statistics",
+  "year": 2026,
+  "url": "https://opendata.nhsbsa.net/dataset/prescription-cost-analysis-pca-annual-statistics",
+  "design": "database",
+  "population": "Prescription items dispensed in the community in England in the financial year 2025/26",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Items summed by BNF chemical substance over the national file of 5 June 2026, 1,297,516,707 items in all: folic acid (BNF code 0901020G0) 9,555,632 items and a net ingredient cost of £8,853,282, rank 29 of 2047 entries in the BNF chemical substance field, which also lists appliance groups such as emollients; atorvastatin ranked first with 78,042,871 items. Sums and ranks were calculated by this site from the published file.",
+  "class": "reference",
+  "fundingChecked": "https://opendata.nhsbsa.net/dataset/prescription-cost-analysis-pca-annual-statistics"
+}

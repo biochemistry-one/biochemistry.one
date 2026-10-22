@@ -1,0 +1,16 @@
+{
+  "title": "Revealing the bacterial butyrate synthesis pathways by analyzing (meta)genomic data",
+  "authors": "Vital M, Howe AC, Tiedje JM",
+  "journal": "mBio",
+  "year": 2014,
+  "doi": "10.1128/mBio.00889-14",
+  "pmid": "24757212",
+  "design": "other",
+  "population": "3,184 sequenced bacterial genomes and 15 stool metagenomes of healthy individuals from the Human Microbiome Project",
+  "funder": "Financial support was provided by the NIH Human Microbiome Project Demonstration Project (UH3 DK083993).",
+  "funderRole": "none",
+  "dataAccess": "individual",
+  "result": "225 genomes carried a butyrate synthesis pathway. Four pathways (acetyl-CoA, glutarate, 4-aminobutyrate, lysine) converge on the conversion of crotonyl-CoA to butyryl-CoA by the butyryl-CoA dehydrogenase–electron-transferring flavoprotein complex, a step postulated to conserve energy through ferredoxin reduction. In the acetyl-CoA pathway, thiolase, β-hydroxybutyryl-CoA dehydrogenase and crotonase precede this step, and butyryl-CoA:acetate CoA-transferase or phosphate butyryltransferase with butyrate kinase forms butyrate. In stool metagenomes the acetyl-CoA pathway made up a mean 79.7% of butyrate pathways; for that pathway the terminal genes but and buk had median abundances of 77.2% and 21.8%. Butyrate is described as the main energy source for colonocytes.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3994512/"
+}

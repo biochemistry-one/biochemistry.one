@@ -1,0 +1,19 @@
+{
+  "title": "l-5-Methyltetrahydrofolate supplementation increases blood folate concentrations to a greater extent than folic acid supplementation in Malaysian women",
+  "authors": "Henderson AM, Aleliunas RE, Loh SP, Khor GL, Harvey-Leeson S, Glier MB, et al.",
+  "journal": "Journal of Nutrition",
+  "year": 2018,
+  "doi": "10.1093/jn/nxy057",
+  "pmid": "29878267",
+  "registry": "NCT01584050",
+  "design": "rct",
+  "participants": 142,
+  "followUp": "12 weeks",
+  "population": "Healthy women aged 20 to 45 years in Malaysia, without mandatory fortification",
+  "funder": "Supported by funding from the Advanced Foods and Materials Network Centre of Excellence of Canada and the Natural Sciences and Engineering Research Council of Canada (NSERC); investigator grant from BC Children's Hospital Research Institute; NSERC and University of British Columbia student awards.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Results read from the published abstract. Folic acid 1 mg, an equimolar 1.13 mg L-5-methyl-THF, or placebo daily. At 12 weeks red cell folate was 1951 ± 496 nmol/L with L-5-methyl-THF, 1498 ± 580 with folic acid (P = 0.003 between them) and 958 ± 345 with placebo; plasma folate medians 52.0, 40.1 and 12.6 nmol/L. Homocysteine was 15% and 17% lower than placebo in the two active groups, without difference between them; vitamin B12, other methyl metabolites and monocyte LINE-1 methylation did not differ.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20240424142911/https://www.sciencedirect.com/science/article/pii/S0022316622163388"
+}

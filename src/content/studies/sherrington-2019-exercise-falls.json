@@ -1,0 +1,18 @@
+{
+  "title": "Exercise for preventing falls in older people living in the community",
+  "authors": "Sherrington C, Fairhall NJ, Wallbank GK, Tiedemann A, Michaleff ZA, Howard K, et al.",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2019,
+  "doi": "10.1002/14651858.CD012424.pub2",
+  "pmid": "30703272",
+  "design": "systematic-review",
+  "participants": 23407,
+  "population": "108 randomised trials of people living in the community in 25 countries; mean age 76 years, 77% women",
+  "funder": "Partly funded by the National Institute for Health Research (NIHR) via Cochrane Infrastructure funding, with additional funding via the NIHR Cochrane Reviews of NICE Priority scheme (NIHR127512). No statement on the role of the funder beyond the authors' responsibility for the views expressed was found.",
+  "funderRole": "unknown",
+  "authorConflicts": "Declarations of interest not read.",
+  "dataAccess": "summary",
+  "result": "Exercise against control (81 trials, 19,684 participants): rate of falls RaR 0.77 (95% CI 0.71 to 0.83; 59 trials, 12,981; high certainty), 195 fewer falls per 1000 people over one year from an illustrative 850; people with one or more falls RR 0.85 (0.81 to 0.89; 63 trials, 13,518; high certainty), 72 fewer fallers per 1000 from 480; fall-related fractures RR 0.73 (0.56 to 0.95; 10 trials, 4047; low certainty); falls requiring medical attention RR 0.61 (0.47 to 0.79; low certainty). Balance and functional exercises reduced the rate of falls by 24% and Tai Chi by 19%.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6360922/"
+}

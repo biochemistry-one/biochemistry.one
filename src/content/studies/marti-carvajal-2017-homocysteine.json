@@ -1,0 +1,19 @@
+{
+  "title": "Homocysteine-lowering interventions for preventing cardiovascular events",
+  "authors": "Martí-Carvajal AJ, Solà I, Lathyris D, Dayer M",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2017,
+  "doi": "10.1002/14651858.CD006612.pub5",
+  "pmid": "28816346",
+  "design": "systematic-review",
+  "participants": 71422,
+  "followUp": "1 to 7.3 years",
+  "population": "15 randomised trials of vitamin B6, B9 or B12 supplements in people with or without cardiovascular disease",
+  "funder": "Internal sources: no sources of support provided. External sources: Iberoamerican Cochrane Centre, Spain (academic); Cochrane Heart Group, UK (academic).",
+  "funderRole": "none",
+  "authorConflicts": "A.J. Martí-Carvajal was paid by Eli Lilly in 2004 and by Merck in 2007 to run workshops on appraising clinical trials, stated as unrelated to Cochrane work; no interests known for the other authors.",
+  "dataAccess": "summary",
+  "result": "15 RCTs, 71,422 participants, follow-up 1 to 7.3 years. Against placebo, homocysteine-lowering interventions showed no difference in myocardial infarction (7.1% against 6.0%; RR 1.02, 95% CI 0.95-1.10; 12 trials, 46,699 participants), death from any cause (11.7% against 12.3%; RR 1.01, 0.96-1.06; 11 trials, 44,817) or serious adverse events (8.3% against 8.5%; RR 1.07, 1.00-1.14), and were associated with reduced stroke (4.3% against 5.1%; RR 0.90, 0.82-0.99; 10 trials, 44,224). Background: normal total homocysteine is close to 10 umol/L; fasting 12-30 umol/L is termed mild or moderate, 31-100 intermediate and above 100 severe hyperhomocysteinaemia.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6483699/"
+}

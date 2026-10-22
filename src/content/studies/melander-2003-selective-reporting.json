@@ -1,0 +1,17 @@
+{
+  "title": "Evidence b(i)ased medicine—selective reporting from studies sponsored by pharmaceutical industry: review of studies in new drug applications",
+  "authors": "Melander H, Ahlqvist-Rastad J, Meijer G, Beermann B",
+  "journal": "BMJ",
+  "year": 2003,
+  "doi": "10.1136/bmj.326.7400.1171",
+  "pmid": "12775615",
+  "design": "systematic-review",
+  "population": "42 placebo-controlled trials of five SSRIs in major depression submitted to the Swedish Medical Products Agency for marketing approval, compared with publications from 1983 to 1999; analysis by agency staff",
+  "funder": "Funding: None. All authors were staff of the Swedish Medical Products Agency.",
+  "funderRole": "none",
+  "authorConflicts": "None declared.",
+  "dataAccess": "summary",
+  "result": "21 trials contributed to at least two publications each and three to five publications; trials with significant drug effects were published as stand-alone papers more often than trials with non-significant results; many publications reported only the more favourable per-protocol analyses and ignored the intention-to-treat results. The authors concluded that recommending a specific SSRI from publicly available data alone is likely to rest on biased evidence.",
+  "class": "regulatory",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=156459"
+}

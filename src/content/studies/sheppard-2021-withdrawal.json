@@ -1,0 +1,19 @@
+{
+  "title": "Blood pressure changes following antihypertensive medication reduction, by drug class and dose chosen for withdrawal: exploratory analysis of data from the OPTiMISE trial",
+  "authors": "Sheppard JP, Lown M, Burt J, Ford GA, Hobbs FDR, Little P, et al.",
+  "journal": "Frontiers in Pharmacology",
+  "year": 2021,
+  "doi": "10.3389/fphar.2021.619088",
+  "pmid": "33959004",
+  "design": "rct",
+  "participants": 569,
+  "followUp": "12 weeks",
+  "population": "Patients aged 80 years or older in English primary care, taking at least two antihypertensive medications, with systolic blood pressure below 150 mm Hg; mean age 85 years (SD 3), mean blood pressure 130/69 mm Hg",
+  "funder": "Joint funding from the National Institute for Health Research (NIHR) Oxford Collaboration for Leadership in Applied Health Research and Care at Oxford Health NHS Foundation Trust (P2-501) and the NIHR School for Primary Care Research (335); Sheppard and McManus were funded by an NIHR Professorship (NIHR-RP-R2-12-015); Sheppard now receives funding from the Wellcome Trust and Royal Society through a Sir Henry Dale Fellowship (211182/Z/18/Z) and an NIHR Oxford Biomedical Research Centre Senior Fellowship.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. Outside the submitted work, Ford reports personal fees from Amgen, Bayer, Daiichi Sankyo, Medtronic and Stryker; Hobbs personal fees from Novartis and grants from Boehringer Ingelheim and Pfizer; Mant personal fees from BMS/Pfizer; McManus grants from the Stroke Association and the British Heart Foundation and non-financial support from Omron.",
+  "dataAccess": "individual",
+  "result": "Exploratory analysis of a randomised non-inferiority trial in which physicians removed one antihypertensive drug or continued usual care. Among patients prescribed calcium channel blockers, the drug selected for withdrawal was a higher dose in 118 of 131 instances (90%). Withdrawal of a calcium channel blocker was followed by a rise in systolic blood pressure of 5 mm Hg (95% CI 0 to 10) and by reduced systolic blood pressure control at 12 weeks, adjusted relative risk 0.89 (95% CI 0.80 to 0.998), against usual care. Withdrawal of a beta blocker, usually at low dose (87%), was followed by no change in systolic pressure (-4 mm Hg, 95% CI -10 to 2) and no difference in control (1.15, 0.96 to 1.37). Withdrawal of specific drug classes showed no association with adverse events. Calcium channel blockers were the most commonly prescribed class at baseline, in 390 of 569 participants (68.5%).",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8093867/"
+}

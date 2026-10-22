@@ -1,0 +1,19 @@
+{
+  "title": "Association between low density lipoprotein and all cause and cause specific mortality in Denmark: prospective cohort study",
+  "authors": "Johannesen CDL, Langsted A, Mortensen MB, Nordestgaard BG",
+  "journal": "BMJ",
+  "year": 2020,
+  "doi": "10.1136/bmj.m4266",
+  "pmid": "33293274",
+  "design": "cohort",
+  "participants": 108243,
+  "followUp": "median 9.4 years",
+  "population": "Individuals aged 20 to 100 randomly selected from the Danish Civil Registration System, Copenhagen General Population Study, recruited 2003 to 2015",
+  "funder": "This study was supported by Herlev and Gentofte Hospital's Research Fund and the Department of Clinical Biochemistry, Herlev and Gentofte Hospital, Copenhagen University Hospital, Denmark. The funders had no role in the study design; in the collection, analysis, and interpretation of data; in the writing of the report; and in the decision to submit the article for publication.",
+  "funderRole": "none",
+  "authorConflicts": "B.G. Nordestgaard declares commercial ties with AstraZeneca, Sanofi, Regeneron, Akcea, Amgen, Kowa, Amarin, Novartis, Novo Nordisk, Silence Therapeutics and Esperion; the other authors have none.",
+  "dataAccess": "individual",
+  "result": "11,376 (10.5%) died, at a median age of 81. The association of LDL cholesterol with all-cause mortality was U-shaped: against 3.4 to 3.9 mmol/L, multivariable-adjusted HR 1.25 (95% CI 1.15 to 1.36) below 1.8 mmol/L and 1.15 (1.05 to 1.27) above 4.8 mmol/L. Lowest all-cause mortality at 3.6 mmol/L overall and in people not on lipid-lowering treatment, against 2.3 mmol/L in people on it. Similar results across sexes and age groups and for cancer and other mortality, but not for cardiovascular mortality; any increase in LDL cholesterol was associated with higher risk of myocardial infarction.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7722479"
+}

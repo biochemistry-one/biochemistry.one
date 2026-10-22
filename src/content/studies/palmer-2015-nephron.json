@@ -1,0 +1,16 @@
+{
+  "title": "Integrated control of Na transport along the nephron",
+  "authors": "Palmer LG, Schnermann J",
+  "journal": "Clinical Journal of the American Society of Nephrology",
+  "year": 2015,
+  "doi": "10.2215/CJN.12391213",
+  "pmid": "25098598",
+  "design": "other",
+  "funder": "L.G. Palmer: National Institutes of Health grant R01-DK27847. J. Schnermann: Intramural Research Program of the National Institute of Diabetes and Digestive and Kidney Diseases.",
+  "funderRole": "none",
+  "authorConflicts": "None.",
+  "dataAccess": "summary",
+  "result": "Review. More than 500 g of sodium is filtered daily; under most conditions the kidneys excrete more than 95% of ingested sodium. The proximal tubule reabsorbs 60-70% (apical NHE3 the main mechanism), the ascending loop of Henle, mostly the thick limb, 25-30% (NKCC2 and NHE3), and the distal convoluted tubule and collecting ducts no more than 5-10%, through thiazide-sensitive NCC (early DCT) and amiloride-sensitive ENaC (late DCT, connecting tubule, collecting duct); distal reabsorption is the regulated part. Two-thirds or more of renal oxygen uptake is spent on the Na,K-ATPase. With plausible tenfold changes in intake, fractional reabsorption varies between about 97% and 99.7%. Sodium depletion increases ENaC activity, an effect mimicked by aldosterone. Potassium loading lowers NCC phosphorylation and abundance and raises ENaC activity, shifting sodium reabsorption to segments where principal cells secrete K+ in exchange for Na+. Changes in body Na content and blood volume are the likely cause of the relation between Na intake and blood pressure.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4386267/"
+}

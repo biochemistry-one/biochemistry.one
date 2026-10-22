@@ -1,0 +1,18 @@
+{
+  "title": "Evidence for a primary association of celiac disease to a particular HLA-DQ alpha/beta heterodimer",
+  "authors": "Sollid LM, Markussen G, Ek J, Gjerde H, Vartdal F, Thorsby E",
+  "journal": "Journal of Experimental Medicine",
+  "year": 1989,
+  "doi": "10.1084/jem.169.1.345",
+  "pmid": "2909659",
+  "design": "genetic",
+  "participants": 150,
+  "population": "94 unrelated Norwegian children with coeliac disease diagnosed by ESPGAN criteria and 56 blood-bank controls",
+  "funder": "This work was supported by the Norwegian Research Council of Science and the Humanities, the Norwegian Cancer Society, and Helga Semb's Fund.",
+  "funderRole": "none",
+  "inKindSupport": "The DQA1-2 oligonucleotide probe was synthesised by E. Hornes (AL Lab, Oslo).",
+  "dataAccess": "summary",
+  "result": "DQA1-2 and DQB1-2 allele-specific probes, detecting the DQA1 gene of the DR3DQw2 and DR5DQw7 haplotypes and the DQB1 gene of the DR3DQw2 and DR7DQw2 haplotypes, both hybridised to DNA of 93 of 94 patients (98.9%) and 14 of 56 controls (25.0%). These genes, in cis on DR3DQw2 or in trans in DR5DQw7/DR7DQw2 heterozygotes, may encode the same DQ alpha/beta heterodimer. 90 of 94 patients (95.7%) were DR3-positive; the probe-negative patient was DR4/DRw6.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=2189170"
+}

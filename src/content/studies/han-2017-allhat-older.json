@@ -1,0 +1,21 @@
+{
+  "title": "Effect of Statin Treatment vs Usual Care on Primary Cardiovascular Prevention Among Older Adults: The ALLHAT-LLT Randomized Clinical Trial",
+  "authors": "Han BH, Sutin D, Williamson JD, Davis BR, Piller LB, Pervin H, et al.",
+  "journal": "JAMA Internal Medicine",
+  "year": 2017,
+  "doi": "10.1001/jamainternmed.2017.1442",
+  "pmid": "28531241",
+  "registry": "NCT00000542",
+  "design": "rct",
+  "participants": 2867,
+  "followUp": "trial conducted February 1994 to March 2002; in those aged 65 to 74, mean 4.63 years (pravastatin) and 4.77 years (usual care)",
+  "population": "Post hoc analysis of ALLHAT-LLT participants aged 65 or older with hypertension and without atherosclerotic cardiovascular disease: 1467 open-label pravastatin 40 mg, 1400 usual care",
+  "funder": "Supported by contracts NO1-HC-35130 and HHSN268201100036C with the National Heart, Lung, and Blood Institute. ALLHAT investigators acknowledge study medications contributed by Pfizer, AstraZeneca and Bristol-Myers Squibb (pravastatin) and financial support provided by Pfizer. Author support from NCATS and The Stroke Foundation. The funders had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "inKindSupport": "Pravastatin contributed by Bristol-Myers Squibb.",
+  "authorConflicts": "None reported.",
+  "dataAccess": "individual",
+  "result": "By year 6, mean LDL cholesterol was 109.1 mg/dL with pravastatin and 128.8 mg/dL with usual care; 16.6% of the pravastatin group were taking no statin and 71.0% of the usual care group were taking none. All-cause mortality HR, pravastatin against usual care: 1.18 (95% CI 0.97 to 1.42) for all aged 65 or older; 1.08 (0.85 to 1.37) for 65 to 74 (141 against 130 deaths); 1.34 (0.98 to 1.84) for 75 or older (92 against 65 deaths). Coronary heart disease event rates did not differ significantly, and there was no significant interaction between treatment and age.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20261001045418/https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2628971"
+}

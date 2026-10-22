@@ -1,0 +1,16 @@
+{
+  "title": "2013 ETA guideline: management of subclinical hypothyroidism",
+  "authors": "Pearce SH, Brabant G, Duntas LH, Monzani F, Peeters RP, Razvi S, et al.",
+  "journal": "European Thyroid Journal",
+  "year": 2013,
+  "doi": "10.1159/000356507",
+  "pmid": "24783053",
+  "design": "guideline",
+  "funder": "The Task Force had no commercial support.",
+  "funderRole": "unknown",
+  "authorConflicts": "The members declared no conflict of interest.",
+  "dataAccess": "summary",
+  "result": "Recommends levothyroxine for younger patients (below 65 to 70 years) with TSH above 10 mU/l even without symptoms, and a trial in younger patients with TSH below 10 and symptoms, stopped if symptoms do not improve. Age-specific TSH reference ranges should be considered in older people; the oldest old (above 80 to 85 years) with TSH of 10 mU/l or less should be followed with a wait-and-see strategy. Treatment target for most adults a TSH in the lower half of the reference range (0.4 to 2.5 mU/l), and 1.0 to 5.0 mU/l above 70 years. The guideline notes that no large controlled trials had evaluated levothyroxine for cardiovascular events or mortality and cites an observational UK database analysis in which younger treated patients had fewer coronary events; it states that 40% to 60% of treated patients in population studies are under- or over-replaced.",
+  "class": "consensus",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3923601/"
+}

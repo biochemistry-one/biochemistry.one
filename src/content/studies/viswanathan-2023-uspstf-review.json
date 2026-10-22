@@ -1,0 +1,18 @@
+{
+  "title": "Folic acid supplementation to prevent neural tube defects: updated evidence report and systematic review for the US Preventive Services Task Force",
+  "authors": "Viswanathan M, Urrutia RP, Hudson KN, Middleton JC, Kahwati LC",
+  "journal": "JAMA",
+  "year": 2023,
+  "doi": "10.1001/jama.2023.9864",
+  "pmid": "37526714",
+  "design": "systematic-review",
+  "participants": 1244072,
+  "population": "Limited update: English-language randomised and cohort studies from very highly developed countries published July 2015 to July 2021, surveillance to February 2023; 12 observational studies for benefit and 9 studies for harms",
+  "funder": "This research was funded under contract 75Q80120D00007, Task Order 01, from the Agency for Healthcare Research and Quality (AHRQ), US Department of Health and Human Services, under a contract to support the USPSTF. Investigators worked with USPSTF members and AHRQ staff to develop the scope, analytic framework, and key questions; AHRQ had no role in study selection, quality assessment, or synthesis.",
+  "funderRole": "design",
+  "authorConflicts": "None reported.",
+  "dataAccess": "summary",
+  "result": "Results read from the published abstract. Three new studies (990,372 participants) addressed neural tube defects; one cohort found aRR 0.54 (95% CI 0.31 to 0.91) for use before pregnancy, 0.62 (0.39 to 0.97) during and 0.49 (0.29 to 0.83) before and during, only in 2006-2013 and not 1999-2005. Harms were limited to multiple gestation (1 randomised trial, 431 participants), autism spectrum disorder (7 observational studies, 761,125) and maternal cancer (1 observational study, 429,004); none reported statistically significant harm.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20261004231716/https://jamanetwork.com/journals/jama/fullarticle/2807740"
+}

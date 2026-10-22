@@ -1,0 +1,20 @@
+{
+  "title": "Clinical trial: the effects of emulsifiers in the food supply on disease activity in Crohn's disease: an exploratory double-blinded randomised feeding trial",
+  "authors": "Fitzpatrick JA, Gibson PR, Taylor KM, Anderson EJ, Friedman AB, Ardalan ZS, et al.",
+  "journal": "Alimentary Pharmacology & Therapeutics",
+  "year": 2025,
+  "doi": "10.1111/apt.70041",
+  "pmid": "39967287",
+  "registry": "ACTRN12619001099112",
+  "design": "rct",
+  "participants": 24,
+  "followUp": "4 weeks",
+  "population": "Adults with symptomatic, sonographically active Crohn's disease with ileal involvement on at least 2 months of stable medical therapy",
+  "funder": "This work was supported by JAF receiving the Crohn's and Colitis Australia PhD Scholarship. EPH was supported through research grants from the National Health & Medical Research Council Investigator Grant and Crohn's and Colitis Foundation Litwin Pioneers Program. The study was supported by a grant from the Eva and Tom Breuer Foundation.",
+  "funderRole": "none",
+  "authorConflicts": "Several authors declared honoraria, consultancies, shareholdings or grants from companies including Mindset Health, PepsiCo, Atmo Biosciences, Dr Falk Pharma, AbbVie, Janssen and Takeda.",
+  "dataAccess": "individual",
+  "result": "High-emulsifier versus low-emulsifier diet, both following Australian healthy eating guidelines, with all food provided. Clinical remission (Harvey-Bradshaw Index below 5) in 9 of 12 versus 7 of 12 (P = 0.67); IBUS-SAS fell on both diets; faecal calprotectin did not change; no outcome differed between diets.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11950802/"
+}

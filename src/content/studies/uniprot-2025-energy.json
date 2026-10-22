@@ -1,0 +1,16 @@
+{
+  "title": "UniProt: the Universal Protein Knowledgebase in 2025",
+  "authors": "UniProt Consortium",
+  "journal": "Nucleic Acids Research",
+  "year": 2025,
+  "doi": "10.1093/nar/gkae1010",
+  "pmid": "39552041",
+  "design": "database",
+  "funder": "National Human Genome Research Institute (NHGRI) [HG002273]; Office of the Director, NIH OD [U24HG007822]; National Institute of Allergy and Infectious Diseases (NIAID); National Institute on Aging (NIA); National Institute of General Medical Sciences (NIGMS) [R35GM141873]; National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK); National Eye Institute (NEI); National Cancer Institute (NCI); National Heart, Lung, and Blood Institute (NHLBI); Biotechnology and Biological Sciences Research Council (BBSRC) [BB/T015608/1]; National Science Foundation's Directorate for Biological Sciences [BB/X002179/1]; Open Targets; Horizon 2020 - Research and Innovation Framework Programme [825575]; State Secretariat for Education, Research and Innovation (SERI); European Molecular Biology Laboratory (EMBL) Australia. Funding for open access charge: National Institutes of Health.",
+  "funderRole": "unknown",
+  "authorConflicts": "None declared.",
+  "dataAccess": "individual",
+  "result": "Reviewed human UniProtKB entries, release 2026_03, read through rest.uniprot.org on 2026-10-21. NAMPT (P43490) condenses nicotinamide with 5-phosphoribosyl-1-pyrophosphate to nicotinamide mononucleotide, the rate-limiting step of mammalian NAD biosynthesis, and NMNAT1 (Q9HAN9) forms NAD+ from nicotinamide mononucleotide and ATP. RFK (Q969G6) phosphorylates riboflavin (vitamin B2) to FMN, the rate-limiting step of FAD synthesis, and FLAD1 (Q8NFF5) adenylates FMN to FAD. SDHA (P31040), the flavoprotein of succinate dehydrogenase (complex II), binds FAD through tele-8alpha-FAD histidine 99 and transfers electrons from succinate to ubiquinone. NDUFV1 (P49821) of complex I accepts electrons from NADH on FMN and passes them along iron-sulfur clusters to ubiquinone; complex I reaction: ubiquinone + NADH + 5 H+(in) = ubiquinol + NAD+ + 4 H+(out). In the Q cycle of complex III, which contains the two haem b groups of MT-CYB (P00156), the [2Fe-2S] cluster of UQCRFS1 (P47985) and the covalent haem c of CYC1 (P08574), 2 protons are consumed from the matrix, 4 are released into the intermembrane space and 2 electrons pass to cytochrome c. CYCS (P99999), in the intermembrane space, carries electrons from cytochrome c1 to cytochrome oxidase. In complex IV, electrons pass through CuA of MT-CO2 (P00403) and haem a of MT-CO1 (P00395) to the haem a3-CuB centre; 4 Fe(II)-cytochrome c + O2 + 8 H+(in) = 4 Fe(III)-cytochrome c + 2 H2O + 4 H+(out). The respiratory chain creates an electrochemical gradient over the inner membrane that drives the ATP synthase, which couples ATP synthesis by rotation of its central stalk to proton translocation (ATP5F1B, P06576); its c-ring consists of eight c subunits (ATP5MC1, P05496).",
+  "class": "reference",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=11701636"
+}

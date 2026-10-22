@@ -1,0 +1,19 @@
+{
+  "title": "Impact of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers on cardiovascular and non-cardiovascular outcomes in patients at high/very-high cardiovascular risk without heart failure: a systematic review and meta-analysis of randomized, double-blind, placebo-controlled trials",
+  "authors": "Masi S, Savarese G, Orsini N, Strauss MH",
+  "journal": "European Heart Journal Open",
+  "year": 2026,
+  "doi": "10.1093/ehjopen/oeag119",
+  "pmid": "42524061",
+  "registry": "PROSPERO CRD42023452406",
+  "design": "meta-analysis",
+  "participants": 87908,
+  "population": "17 double-blind placebo-controlled trials (9 of ACE inhibitors, 8 of angiotensin receptor blockers) in people at high or very high cardiovascular risk without heart failure",
+  "funder": "This study received support through an unrestricted grant from Servier. Open access fees were funded by Servier. The grant source had no role in the design or analysis, nor in the interpretation of findings, manuscript preparation, or decision to submit the results.",
+  "funderRole": "none",
+  "authorConflicts": "Masi and Strauss have received fees from Servier; Savarese reports grants or fees from Vifor, Boehringer Ingelheim, AstraZeneca, Roche, Servier, Novartis, Cytokinetics, Medtronic, Merck, Bayer and others.",
+  "dataAccess": "summary",
+  "result": "Placebo-arm event rates did not differ between ACE inhibitor and angiotensin receptor blocker trials. Against placebo, ACE inhibitors reduced cardiovascular mortality (hazard ratio 0.88, 95% CI 0.78 to 0.99), all-cause mortality (0.92, 0.85 to 0.99) and myocardial infarction (0.83, 0.73 to 0.94), whereas angiotensin receptor blockers did not; both classes reduced heart failure, stroke and major cardiovascular events. The difference in cardiovascular mortality between classes gave Q=4.59 (P=0.03).",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13409322/"
+}

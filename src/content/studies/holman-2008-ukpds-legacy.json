@@ -1,0 +1,20 @@
+{
+  "title": "10-year follow-up of intensive glucose control in type 2 diabetes",
+  "authors": "Holman RR, Paul SK, Bethel MA, Matthews DR, Neil HA",
+  "journal": "New England Journal of Medicine",
+  "year": 2008,
+  "doi": "10.1056/NEJMoa0806470",
+  "pmid": "18784090",
+  "registry": "ISRCTN75451837",
+  "design": "rct",
+  "participants": 4209,
+  "followUp": "median 17.7 years in the metformin comparison, equivalent to 12,431 person-years, including 8.8 years of post-trial monitoring",
+  "population": "Post-trial monitoring of the UK Prospective Diabetes Study survivor cohort: 3277 of 4209 randomised patients (78%) entered monitoring; the metformin comparison contrasted 342 overweight patients allocated metformin with 411 overweight patients allocated conventional therapy",
+  "funder": "Post-trial monitoring was initiated by the investigators and supported for the first 5 years by the UK Medical Research Council, UK Department of Health, Diabetes UK, the British Heart Foundation and the UK National Institute for Health, and for the final 5 years by Bristol-Myers Squibb, GlaxoSmithKline, Merck Serono, Novartis, Novo Nordisk and Pfizer. The original interventional trial was supported by UK and US public bodies, the Wellcome Trust and charities together with Novo Nordisk, Bayer, Bristol-Myers Squibb, Hoechst, Lilly, Lipha and Farmitalia Carlo Erba, with consumables or logistical support from further companies. The paper states that the investigators designed and conducted the study, analysed the data and prepared the manuscript independently of any funding bodies.",
+  "funderRole": "unknown",
+  "authorConflicts": "All five authors report industry relationships; the first author reports grant support from ten companies, consulting fees from five, lecture fees from ten and shareholdings in three; others report grant support, consulting or lecture fees from manufacturers of glucose-lowering drugs.",
+  "dataAccess": "unavailable",
+  "result": "Between-group differences in glycated haemoglobin were lost within the first year, with similar improvements thereafter in all groups. In the metformin group against overweight patients on conventional therapy, risk reductions seen during the trial were maintained at 10 years of post-trial monitoring: any diabetes-related endpoint 21% (p = 0.01), diabetes-related death 30% (p = 0.01), myocardial infarction 33% (p = 0.005) and death from any cause 27% (p = 0.002). No significant risk reduction was observed during or after the trial for microvascular disease, stroke or peripheral vascular disease; microvascular risk reductions of 29% during the trial and 26% afterwards were not significant. During the original trial the metformin group showed reductions in myocardial infarction of 39% (p = 0.01) and in all-cause death of 36% (p = 0.01). Plasma creatinine in the metformin group was on average 15% higher than in the conventional-therapy group (p < 0.04). Overall mortality during follow-up was 44.0%; 3.5% of patients were lost to follow-up; questionnaires replaced clinic visits in years 6 to 10 and may not have captured all non-fatal outcomes. Counts of events underlying these percentages are given only in the article's Table 2, which could not be read.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20260325142932/https://www.nejm.org/doi/full/10.1056/NEJMoa0806470"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin",
+  "authors": "Knowler WC, Barrett-Connor E, Fowler SE, Hamman RF, Lachin JM, Walker EA, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2002,
+  "doi": "10.1056/NEJMoa012512",
+  "pmid": "11832527",
+  "design": "rct",
+  "participants": 3234,
+  "followUp": "average 2.8 years (range 1.8 to 4.6)",
+  "population": "Adults at 27 US centres, aged 25 years or more, body-mass index 24 or more (22 or more in Asians), fasting plasma glucose 95 to 125 mg/dl and 140 to 199 mg/dl two hours after 75 g oral glucose; mean age 51 years, mean body-mass index 34.0, 68% women, 45% from racial or ethnic minority groups",
+  "funder": "Supported by the National Institutes of Health through the National Institute of Diabetes and Digestive and Kidney Diseases, the Office of Research on Minority Health, the National Institute of Child Health and Human Development and the National Institute on Aging; the Indian Health Service; the Centers for Disease Control and Prevention; the General Clinical Research Center Program, National Center for Research Resources; the American Diabetes Association; Bristol-Myers Squibb; and Parke-Davis.",
+  "funderRole": "unknown",
+  "inKindSupport": "Metformin and placebo from Lipha Pharmaceuticals; materials, equipment and medicines for concomitant conditions from LifeScan, Health-O-Meter, Hoechst Marion Roussel, Merck-Medco Managed Care, Merck, Nike, Slim-Fast Foods and Quaker Oats.",
+  "authorConflicts": "Dr Hamman owns stock in Bristol-Myers Squibb, which sells metformin in the United States.",
+  "dataAccess": "individual",
+  "result": "Participants were assigned placebo (n = 1082), metformin 850 mg twice daily (n = 1073) or intensive lifestyle modification (n = 1079); a troglitazone arm was discontinued in 1998 and is not reported. Crude incidence of diabetes was 11.0, 7.8 and 4.8 cases per 100 person-years. Metformin reduced incidence by 31% against placebo (95% CI 17 to 43) and lifestyle by 58% (48 to 66). Estimated cumulative incidence at 3 years was 28.9% with placebo, 21.7% with metformin and 14.4% with lifestyle; the number needed to treat for 3 years to prevent one case was 13.9 (8.7 to 33.9) for metformin and 6.9 (5.4 to 9.5) for lifestyle. Average weight loss was 0.1 kg with placebo, 2.1 kg with metformin and 5.6 kg with lifestyle (P < 0.001). Gastrointestinal symptoms occurred at 77.8 events per 100 person-years with metformin, 30.7 with placebo and 12.9 with lifestyle; musculoskeletal symptoms at 20.0, 21.1 and 24.1. Hospitalisation and mortality rates did not differ. Metformin was less effective at lower body-mass index or lower fasting glucose.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1370926/"
+}

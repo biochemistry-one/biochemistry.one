@@ -1,0 +1,16 @@
+{
+  "title": "Fructose metabolism and metabolic disease",
+  "authors": "Hannou SA, Haslam DE, McKeown NM, Herman MA",
+  "journal": "Journal of Clinical Investigation",
+  "year": 2018,
+  "doi": "10.1172/JCI96702",
+  "pmid": "29388924",
+  "design": "other",
+  "funder": "This work is supported by American Heart Association 16CSA28590003 (to MAH and NMM), NIH R01DK100425 (to MAH), NIH 5T32HL069772-15 (to DEH), and US Department of Agriculture Agricultural Research Service agreement 58-1950-4-003 (to NMM).",
+  "funderRole": "none",
+  "authorConflicts": "M.A. Herman has received research support from Eli Lilly and Co.",
+  "dataAccess": "summary",
+  "result": "Narrative review. Sucrose is composed of equal portions of glucose and fructose. GLUT5 (SLC2A5) absorbs fructose with a Km of 6 mM; healthy adults absorb from less than 5 g to more than 50 g of free fructose. The liver extracts about 70% of an oral fructose load and 15% to 30% of an oral glucose load; the intestine metabolises up to 30% of an oral fructose load. KHK phosphorylates fructose to fructose 1-phosphate; the C isoform (liver, kidney, intestine) has a Km of 0.8 mM, the A isoform 8 mM. ALDOB cleaves fructose 1-phosphate to dihydroxyacetone phosphate and glyceraldehyde, which TKFC phosphorylates to glyceraldehyde 3-phosphate, so fructose carbon enters below phosphofructokinase. Fructose activates ChREBP and SREBP1c; malonyl-CoA inhibits CPT1A. Falling intracellular phosphate activates AMP deaminase and AMP is catabolised to uric acid; Mendelian randomisation studies do not strongly support a causal role for circulating uric acid in cardiometabolic disease. KHK loss of function causes essential fructosuria with no documented adverse effects. Large long-term randomised trials of added sugars on cardiometabolic risk are lacking.",
+  "class": "independent",
+  "fundingChecked": "https://www.jci.org/articles/view/96702"
+}

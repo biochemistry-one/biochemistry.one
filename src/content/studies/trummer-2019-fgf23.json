@@ -1,0 +1,20 @@
+{
+  "title": "Effects of vitamin D supplementation on FGF23: a randomized-controlled trial",
+  "authors": "Trummer C, Schwetz V, Pandis M, Grübler MR, Verheyen N, Gaksch M, et al.",
+  "journal": "European Journal of Nutrition",
+  "year": 2019,
+  "doi": "10.1007/s00394-018-1672-7",
+  "pmid": "29602956",
+  "design": "rct",
+  "participants": 181,
+  "followUp": "8 weeks",
+  "population": "Adults with arterial hypertension and serum 25-hydroxyvitamin D below 30 ng/mL in the Styrian Vitamin D Hypertension Trial, Graz, Austria; post hoc analysis",
+  "funder": "The Styrian Vitamin D Hypertension Trial was supported by funding from the Austrian National Bank (Jubilaeumsfond projects 13878 and 13905); open access funding by the Medical University of Graz. No statement on the role of the funder was found.",
+  "funderRole": "unknown",
+  "inKindSupport": "Fresenius Kabi provided the study medication (Oleovit D3); BIOMEDICA Medizinprodukte supplied FGF23 assay kits; BioPersMed (publicly funded COMET K-project) provided analysis equipment.",
+  "authorConflicts": "The authors declare that they have no conflict of interest.",
+  "dataAccess": "individual",
+  "result": "Vitamin D3 2800 IU/day against placebo for 8 weeks raised 25-hydroxyvitamin D by 11.1 ng/mL (95% CI 8.9 to 13.3). Effect on C-terminal FGF23 in the whole cohort: 0.374 pmol/L (-0.024 to 0.772), P=0.065. In subgroups with baseline 25-hydroxyvitamin D below 20 ng/mL (n=70) and below 16 ng/mL (n=40), FGF23 rose by 0.973 pmol/L (reported 95% CI -0.032 to 1.979, P=0.019) and 0.593 pmol/L (0.076 to 1.109, P=0.022).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6437118/fullTextXML"
+}

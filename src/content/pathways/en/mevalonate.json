@@ -1,0 +1,94 @@
+{
+  "title": "Mevalonate pathway",
+  "layout": "chain",
+  "compartment": "Cytosol and endoplasmic reticulum",
+  "steps": [
+    {
+      "from": "Acetyl-CoA",
+      "to": "Acetoacetyl-CoA",
+      "enzyme": "Acetyl-CoA acetyltransferase 2 (ACAT2)",
+      "reversible": true,
+      "note": "Condenses two acetyl-CoA and releases CoA"
+    },
+    {
+      "from": "Acetoacetyl-CoA",
+      "to": "HMG-CoA",
+      "enzyme": "HMG-CoA synthase 1 (HMGCS1)",
+      "cofactors": ["Acetyl-CoA", "H2O"],
+      "note": "Adds a third acetyl unit and releases CoA"
+    },
+    {
+      "from": "HMG-CoA",
+      "to": "Mevalonate",
+      "enzyme": "HMG-CoA reductase (HMGCR)",
+      "cofactors": ["2 NADPH"],
+      "inhibitors": [{"name": "Statins", "page": "medicines/statins"}],
+      "note": "Rate-limiting step; enzyme of the ER membrane; releases CoA"
+    },
+    {
+      "from": "Mevalonate",
+      "to": "Mevalonate 5-phosphate",
+      "enzyme": "Mevalonate kinase (MVK)",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "Mevalonate 5-phosphate",
+      "to": "Mevalonate 5-diphosphate",
+      "enzyme": "Phosphomevalonate kinase (PMVK)",
+      "cofactors": ["ATP"]
+    },
+    {
+      "from": "Mevalonate 5-diphosphate",
+      "to": "Isopentenyl diphosphate",
+      "enzyme": "Diphosphomevalonate decarboxylase (MVD)",
+      "cofactors": ["ATP"],
+      "note": "Releases CO2 and phosphate; product is the C5 isoprenoid unit"
+    },
+    {
+      "from": "Isopentenyl diphosphate",
+      "to": "Dimethylallyl diphosphate",
+      "enzyme": "Isopentenyl-diphosphate isomerase 1 (IDI1)",
+      "reversible": true
+    },
+    {
+      "from": "Dimethylallyl diphosphate",
+      "to": "Geranyl diphosphate",
+      "enzyme": "Farnesyl diphosphate synthase (FDPS)",
+      "cofactors": ["Isopentenyl diphosphate"],
+      "note": "Adds one C5 unit and releases diphosphate"
+    },
+    {
+      "from": "Geranyl diphosphate",
+      "to": "Farnesyl diphosphate",
+      "enzyme": "Farnesyl diphosphate synthase (FDPS)",
+      "cofactors": ["Isopentenyl diphosphate"],
+      "note": "Branch point to ubiquinone, dolichol, haem A and prenylated proteins"
+    },
+    {
+      "from": "Farnesyl diphosphate",
+      "to": "Squalene",
+      "enzyme": "Squalene synthase (FDFT1)",
+      "cofactors": ["NADPH"],
+      "note": "Joins two farnesyl diphosphates through presqualene diphosphate"
+    },
+    {
+      "from": "Squalene",
+      "to": "(S)-2,3-Epoxysqualene",
+      "enzyme": "Squalene monooxygenase (SQLE)",
+      "cofactors": ["O2", "NADPH through cytochrome P450 oxidoreductase (POR)", "FAD"],
+      "note": "Also regarded as rate-limiting for sterol synthesis"
+    },
+    {
+      "from": "(S)-2,3-Epoxysqualene",
+      "to": "Lanosterol",
+      "enzyme": "Lanosterol synthase (LSS)",
+      "note": "Cyclisation yields the first sterol"
+    },
+    {
+      "from": "Lanosterol",
+      "to": "Cholesterol",
+      "enzyme": "several steps",
+      "note": "Bloch or modified Kandutsch-Russell route; CYP51A1 first, DHCR24 or DHCR7 last"
+    }
+  ]
+}

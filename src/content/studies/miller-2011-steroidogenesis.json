@@ -1,0 +1,15 @@
+{
+  "title": "Early steps in steroidogenesis: intracellular cholesterol trafficking",
+  "authors": "Miller WL, Bose HS",
+  "journal": "Journal of Lipid Research",
+  "year": 2011,
+  "doi": "10.1194/jlr.R016675",
+  "pmid": "21976778",
+  "design": "other",
+  "funder": "National Institutes of Health Grants DK-37922 (to W.L.M.) and HD-57876 (to H.S.B.).",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Review. Cholesterol represents about 30-40% of total cellular lipid; the plasma membrane contains about 60-80% of cellular cholesterol and the ER about 0.5-1%. In endo-lysosomes, lysosomal acid lipase releases cholesterol from cholesteryl esters and NPC proteins export it. Steroidogenesis is largely confined to the adrenal cortex, testicular Leydig cells, ovarian granulosa and theca cells and placental syncytiotrophoblast. StAR triggers cholesterol delivery from the outer to the inner mitochondrial membrane, where CYP11A1 (P450scc) converts cholesterol to pregnenolone and so initiates steroidogenesis.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3283258/"
+}

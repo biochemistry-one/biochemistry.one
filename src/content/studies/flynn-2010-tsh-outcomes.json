@@ -1,0 +1,19 @@
+{
+  "title": "Serum thyroid-stimulating hormone concentration and morbidity from cardiovascular disease and fractures in patients on long-term thyroxine therapy",
+  "authors": "Flynn RW, Bonellie SR, Jung RT, MacDonald TM, Morris AD, Leese GP",
+  "journal": "Journal of Clinical Endocrinology and Metabolism",
+  "year": 2010,
+  "doi": "10.1210/jc.2009-1625",
+  "pmid": "19906785",
+  "design": "cohort",
+  "participants": 17684,
+  "followUp": "median 4.5 years; 78,518 person-years",
+  "population": "All adults in Tayside, Scotland, dispensed thyroxine between 1993 and 2001 (85.9% women, mean age about 60 years), excluding thyroid cancer and euthyroid goitre; TSH classified by time-weighted geometric mean",
+  "funder": "We thank Chest Heart Stroke Scotland and the Anonymous Trust, University of Dundee, for providing grants to support this work.",
+  "funderRole": "unknown",
+  "authorConflicts": "All of the authors have nothing to declare as a conflict of interest and have no financial interests in this work.",
+  "dataAccess": "individual",
+  "result": "There were 2144 cardiovascular events, 367 dysrhythmias and 562 osteoporotic fractures. Against TSH 0.4 to 4.0 mU/l, suppressed TSH (0.03 or lower) carried adjusted hazard ratios of 1.37 (95% CI 1.17 to 1.60) for cardiovascular disease, 1.6 (1.10 to 2.33) for dysrhythmia and 2.02 (1.55 to 2.62) for fracture; raised TSH (above 4.0) 1.95 (1.73 to 2.21), 1.80 (1.33 to 2.44) and 1.83 (1.41 to 2.37); low but unsuppressed TSH (0.04 to 0.4) 1.1 (0.99 to 1.123), 1.13 (0.88 to 1.47) and 1.13 (0.92 to 1.39). Free T4 was not available.",
+  "class": "independent",
+  "fundingChecked": "https://web.archive.org/web/20120104171650/http://jcem.endojournals.org/content/95/1/186.full"
+}

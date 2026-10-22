@@ -1,0 +1,19 @@
+{
+  "title": "Potassium disturbance associated with an inpatient childhood asthma pathway",
+  "authors": "Hung J, Kraft T, Seefried B, Johnson DW, Bailey M, Dersch-Mills D",
+  "journal": "Paediatrics & Child Health",
+  "year": 2020,
+  "doi": "10.1093/pch/pxz131",
+  "pmid": "33354265",
+  "design": "cohort",
+  "participants": 433,
+  "followUp": "hospital admission; mean time to lowest potassium 12.0 h after emergency presentation",
+  "population": "Inpatients under 18 years treated with salbutamol under the Alberta Acute Childhood Asthma Pathway at a tertiary children's hospital, March 2013 to January 2015, with at least one potassium measurement; retrospective",
+  "funder": "There are no funders to report for this submission.",
+  "funderRole": "none",
+  "authorConflicts": "No reported conflicts of interest.",
+  "dataAccess": "summary",
+  "result": "Hypokalaemia (potassium below 3.5 mEq/l) occurred in 168 of 433 children (38.8%): mild (3.0 to 3.4) in 120, moderate (2.5 to 2.9) in 43 and severe (below 2.5) in 5. Nebulised rather than inhaled salbutamol, location in the emergency department or intensive care unit and age above 5 years remained associated with hypokalaemia after adjustment; the authors note these factors may mark higher salbutamol doses.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7739532/"
+}

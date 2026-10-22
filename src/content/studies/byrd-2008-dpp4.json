@@ -1,0 +1,18 @@
+{
+  "title": "Dipeptidyl peptidase IV in angiotensin-converting enzyme inhibitor associated angioedema",
+  "authors": "Byrd JB, Touzin K, Sile S, Gainer JV, Yu C, Nadeau J, et al.",
+  "journal": "Hypertension",
+  "year": 2008,
+  "doi": "10.1161/HYPERTENSIONAHA.107.096552",
+  "pmid": "18025295",
+  "design": "case-control",
+  "participants": 226,
+  "population": "50 people with a history of ACE-inhibitor-associated angio-oedema and 176 ACE-inhibitor-exposed controls without angio-oedema",
+  "funder": "not read: the available full-text record contains only the abstract and disclosures; PubMed indexes the work as NIH extramural research support.",
+  "funderRole": "unknown",
+  "authorConflicts": "Brown is a consultant for Novartis, one of several companies developing a DPP-4 inhibitor, and holds a patent for identifying susceptibility to ACE-inhibitor angio-oedema.",
+  "dataAccess": "individual",
+  "result": "Serum DPP-4 activity (26.6 against 29.6 nmol/ml per minute, P=0.026) and antigen (465.8 against 563.1 ng/ml, P=0.017) were lower in cases than controls; during ACE inhibition the difference was larger (activity 21.5 against 29.8, P=0.001), but not in the absence of ACE inhibition. The ex vivo degradation half-life of substance P correlated inversely with DPP-4 antigen during ACE inhibition. Bradykinin and substance P, both ACE substrates, increase vascular permeability in animals.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2749928/"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Mutations in SLC6A19, encoding B0AT1, cause Hartnup disorder",
+  "authors": "Kleta R, Romeo E, Ristic Z, Ohura T, Stuart C, Arcos-Burgos M, et al.",
+  "journal": "Nature Genetics",
+  "year": 2004,
+  "doi": "10.1038/ng1405",
+  "pmid": "15286787",
+  "design": "genetic",
+  "population": "Members of the original family in which Hartnup disorder was described in 1956 and of three Japanese families",
+  "funder": "Grants-in-aid from the Japanese Government to A.K. and Swiss National Science Foundation grants to F.V.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing financial interests.",
+  "dataAccess": "summary",
+  "result": "Hartnup disorder, autosomal recessive, results from impaired neutral amino acid transport across epithelial cells of renal proximal tubules and intestinal mucosa; symptoms include transient pellagra-like rashes, cerebellar ataxia and psychosis. Mutations in SLC6A19 were identified in the original 1956 family and in three Japanese families; its product B0AT1 is expressed mainly in intestine and renal proximal tubule and functions as a neutral amino acid transporter.",
+  "class": "independent",
+  "fundingChecked": "https://www.nature.com/articles/ng1405"
+}

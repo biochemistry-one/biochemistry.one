@@ -1,0 +1,17 @@
+{
+  "title": "Structure of a B-DNA dodecamer: conformation and dynamics",
+  "authors": "Drew HR, Wing RM, Takano T, Broka C, Tanaka S, Itakura K, et al.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": 1981,
+  "doi": "10.1073/pnas.78.4.2179",
+  "pmid": "6941276",
+  "design": "in-vitro",
+  "population": "Single crystals of the synthetic DNA dodecamer d(CpGpCpGpApApTpTpCpGpCpG)",
+  "funder": "This work was carried out with the support of National Institutes of Health Grants GM-12121 and GM-24393 and National Science Foundation Grant PCM79-13959. H.R.D. was the recipient of a National Institutes of Health Predoctoral Traineeship.",
+  "funderRole": "none",
+  "authorConflicts": "None stated. S. Tanaka's present address is given as the Suntory Institute for Biomedical Research, Osaka.",
+  "dataAccess": "individual",
+  "result": "The crystal structure of the synthetic dodecamer, refined to a residual error of 17.8% at 1.9 A resolution, is a right-handed Watson-Crick B double helix with an average of 10.1 base pairs per turn over the entire helix; coordinates were deposited with the Brookhaven Protein Data Bank.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20220305054257/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC319307/pdf/pnas00655-0222.pdf"
+}

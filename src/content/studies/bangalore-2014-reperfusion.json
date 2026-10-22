@@ -1,0 +1,17 @@
+{
+  "title": "Clinical outcomes with beta-blockers for myocardial infarction: a meta-analysis of randomized trials",
+  "authors": "Bangalore S, Makani H, Radford M, Thakur K, Toklu B, Katz SD, et al.",
+  "journal": "American Journal of Medicine",
+  "year": 2014,
+  "doi": "10.1016/j.amjmed.2014.05.032",
+  "pmid": "24927909",
+  "design": "meta-analysis",
+  "participants": 102003,
+  "population": "60 randomised trials of beta-blockers in myocardial infarction with at least 100 patients each, stratified into a reperfusion era (more than 50% undergoing reperfusion or receiving aspirin or a statin) and a pre-reperfusion era",
+  "funder": "not read: the full text requires a subscription and no archived copy was found.",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "In acute myocardial infarction trials, beta-blockers reduced mortality in the pre-reperfusion era (incident rate ratio 0.86, 95% CI 0.79 to 0.94) but not in the reperfusion era (0.98, 0.92 to 1.05; P for interaction 0.02). In the reperfusion era they reduced myocardial infarction (0.72, 0.62 to 0.83; number needed to treat 209) and angina (0.80, 0.65 to 0.98; number needed to treat 26) and increased heart failure (1.10, 1.05 to 1.16; number needed to harm 79), cardiogenic shock (1.29, 1.18 to 1.41; number needed to harm 90) and drug discontinuation (1.64, 1.55 to 1.73). The benefits for recurrent infarction and angina in the reperfusion era appeared limited to 30 days. The authors ask guideline writers to reconsider the strength of recommendations for beta-blockers after myocardial infarction.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/24927909/"
+}

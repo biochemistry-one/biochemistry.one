@@ -1,0 +1,15 @@
+{
+  "title": "Re-evaluation of mono- and di-glycerides of fatty acids (E 471) as food additives",
+  "authors": "EFSA Panel on Food Additives and Nutrient Sources added to Food (ANS), Younes M, Aggett P, Aguilar F, Crebelli R, Dusemund B, et al.",
+  "journal": "EFSA Journal",
+  "year": 2017,
+  "doi": "10.2903/j.efsa.2017.5045",
+  "pmid": "32625340",
+  "design": "regulatory",
+  "funder": "European Food Safety Authority; requestor: European Commission.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Mono- and diglycerides are very likely hydrolysed by gastrointestinal lipases to glycerol and fatty acids. No need for a numerical ADI and no safety concern at reported uses. At mean exposure E 471 supplies 0.8 to 3.5% of the recommended daily fat intake of adults. Specific studies of E 471 and the gut microbiota were not available. Monoglycerides and diglycerides are esters of glycerol in which one or two hydroxyl groups are esterified with a long-chain fatty acid; the JECFA definition states that E 471 is usually manufactured by glycerolysis of edible fats and oils but may also be prepared by esterification of fatty acids with glycerol, and glycerolysis of natural or hydrogenated fats and oils runs at 200 to 250 °C under alkaline catalysis. In Mintel's GNPD, E 471 was labelled on 33,090 EU food and beverage products in 2012 to 2017, mainly chilled desserts, edible ices, bread and bread products, sandwiches, baking ingredients and mixes, pasta and margarines, and on up to about 75% of dairy ice cream and frozen yoghurt. E 471 is authorised in Group I and at quantum satis in 77 of 84 food categories. Rats absorbed 97.8 ± 0.4% of cottonseed-oil monoglycerides, and in a model digestive system 1,3-diolein was nearly completely hydrolysed to free fatty acids. Glycidyl esters form mainly from diglycerides when vegetable oils are heated above 200 °C and are hydrolysed in the gastrointestinal tract to free glycidol, classified as probably carcinogenic to humans (IARC 2A) and as genotoxic and carcinogenic by the EFSA CONTAM Panel. Chronic studies of diacylglycerol oil at up to 7,800 mg/kg bw per day in mice and 2,000 mg/kg bw per day in rats showed no carcinogenic potential. JECFA established an ADI 'not limited' in 1973. Mean adult exposure in the non-brand-loyal scenario was 10 to 26 mg/kg bw per day. The Panel recommended specification limits for toxic elements, glycerol impurities, residual solvents, trans fatty acids, glycidyl esters and erucic acid, and more data on 3-MCPD and glycidyl esters.",
+  "class": "regulatory",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010209/"
+}

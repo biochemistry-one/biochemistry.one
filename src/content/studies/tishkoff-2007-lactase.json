@@ -1,0 +1,18 @@
+{
+  "title": "Convergent adaptation of human lactase persistence in Africa and Europe",
+  "authors": "Tishkoff SA, Reed FA, Ranciaro A, Voight BF, Babbitt CC, Silverman JS, et al.",
+  "journal": "Nature Genetics",
+  "year": 2007,
+  "doi": "10.1038/ng1946",
+  "pmid": "17159977",
+  "design": "genetic",
+  "participants": 470,
+  "population": "Tanzanians, Kenyans and Sudanese from 43 ethnic groups, phenotyped with a 50 g lactose tolerance test",
+  "funder": "L.S.B. Leakey and Wenner Gren Foundation grants; US National Science Foundation grants BSC-0196183, BSC-0552486 and IGERT-9987590; US National Institutes of Health grants R01GM076637, F32HG03801 and HG002772-1; David and Lucile Packard and Burroughs Wellcome Foundation Career Awards; Duke University Institute for Genome Sciences and Policy; Wellcome Trust.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing financial interests.",
+  "dataAccess": "unknown",
+  "result": "In most humans lactase-phlorizin hydrolase, which hydrolyses lactose into glucose and galactose in the small intestine, declines after weaning. Lactase persistence is inherited as a dominant trait in Europeans and its frequency exceeds 90% in Swedes and Danes, is about 50% in Spanish and French populations and about 1% in Chinese. C/T-13910 lies about 14 kb upstream of LCT within MCM6. Three African variants, G/C-14010, T/G-13915 and C/G-13907, arose on different haplotypes, are associated with lactase persistence and raise LCT promoter activity in vitro by about 18-30%; selection coefficients 0.04-0.097.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2672153/"
+}

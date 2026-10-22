@@ -1,0 +1,19 @@
+{
+  "title": "Proton pump inhibitor use and dementia risk: prospective population-based study",
+  "authors": "Gray SL, Walker RL, Dublin S, Yu O, Aiello Bowles EJ, Anderson ML, et al.",
+  "journal": "Journal of the American Geriatrics Society",
+  "year": 2018,
+  "doi": "10.1111/jgs.15073",
+  "pmid": "29134629",
+  "design": "cohort",
+  "participants": 3484,
+  "followUp": "mean 7.5 years",
+  "population": "Kaiser Permanente Washington members aged 65 years or older without dementia, screened every 2 years with standardised diagnostic evaluation (Adult Changes in Thought study)",
+  "funder": "This work was supported by National Institute on Aging U01AG00678 (Dr. Larson). The sponsors did not play a role in design and conduct of the study; collection, management, analysis, and interpretation of the data; or in preparation, review, or approval of the manuscript; or the decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "EBL receives royalties from UpToDate; RLW received funding as a biostatistician from a Pfizer grant to Group Health Research Institute; OY from Bayer grants to the institute.",
+  "dataAccess": "individual",
+  "result": "827 participants (23.7%) developed dementia. PPI exposure was not associated with dementia (P = .66) or Alzheimer's disease (P = .77): HR 0.87 (95% CI 0.65 to 1.18) for 365, 0.99 (0.75 to 1.30) for 1095 and 1.13 (0.82 to 1.56) for 1825 total standardised daily doses, about 1, 3 and 5 years of daily use.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5809315/fullTextXML"
+}

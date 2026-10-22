@@ -1,0 +1,19 @@
+{
+  "title": "Semaglutide delays 4-hour gastric emptying in women with polycystic ovary syndrome and obesity",
+  "authors": "Jensterle M, Ferjan S, Ležaič L, Sočan A, Goričar K, Zaletel K, et al.",
+  "journal": "Diabetes, Obesity and Metabolism",
+  "year": 2023,
+  "doi": "10.1111/dom.14944",
+  "pmid": "36511825",
+  "design": "rct",
+  "participants": 20,
+  "followUp": "12 weeks",
+  "population": "Women with polycystic ovary syndrome and obesity (median BMI 37 kg/m2) randomised to semaglutide 1.0 mg weekly or placebo, single-blind, in Ljubljana",
+  "funder": "This research did not receive any specific grant from funding agencies; the study was supported by Slovenian Research Agency programme grants P3-0298 and P3-0343, and planning, conduct, interpretation and writing were completely independent of the funder.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no conflict of interest.",
+  "dataAccess": "summary",
+  "result": "By technetium scintigraphy of a solid meal, the reference method, semaglutide retained 37% of the meal in the stomach at 4 hours against no retention on placebo (P = 0.002); half-emptying time was 171 against 118 minutes. Retention rose from baseline by 3.5% at 1 hour, 25.5% at 2 hours, 38.0% at 3 hours and 30.0% at 4 hours. The authors note that earlier semaglutide studies using paracetamol absorption reported no delay or delay only in the first hour.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250707234054/https://dom-pubs.onlinelibrary.wiley.com/doi/full/10.1111/dom.14944"
+}

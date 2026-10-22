@@ -1,0 +1,17 @@
+{
+  "title": "The intestinal T cell response to α-gliadin in adult celiac disease is focused on a single deamidated glutamine targeted by tissue transglutaminase",
+  "authors": "Arentz-Hansen H, Körner R, Molberg Ø, Quarsten H, Vader W, Kooy YM, et al.",
+  "journal": "Journal of Experimental Medicine",
+  "year": 2000,
+  "doi": "10.1084/jem.191.4.603",
+  "pmid": "10684852",
+  "design": "in-vitro",
+  "population": "Gluten-specific T-cell clones and lines from small-intestinal biopsies of adult Norwegian coeliac patients, five Dutch children and one Dutch adult; recombinant α-gliadins of the commercial Nordic wheat strain Mjolner",
+  "funder": "This work is funded by research grants from the Research Council of Norway and the European Commission (BMH4-CT98-3087).",
+  "funderRole": "none",
+  "inKindSupport": "Reagents and advice for production of human tissue transglutaminase from Duke University; purified natural gliadins from H. Sjöström and O. Norén.",
+  "dataAccess": "summary",
+  "result": "The great majority of coeliac patients are HLA-DQ2-positive (DQA1*0501/DQB1*02) and the remaining few normally express HLA-DQ8 (DQA1*03/DQB1*0302); tissue transglutaminase (tTG) is also the major target of coeliac autoantibodies. Wheat gluten comprises glutenins and alcohol-soluble gliadins and has an exceptionally high glutamine content. Two overlapping DQ2-restricted α-gliadin epitopes, α-9(57-68) and α-2(62-75), stimulated intestinal T cells only after tTG converted glutamine 65 to glutamic acid or after acid/heat treatment; deamidation increased their affinity for DQ2. T cells of all 19 DQ2-positive Norwegian patients responded to one or both deamidated peptides; a T-cell line of a DQ8-positive, DQ2-negative patient responded to neither.",
+  "class": "independent",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=2195837"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Cancer risk in children of mothers with epilepsy and high-dose folic acid use during pregnancy",
+  "authors": "Vegrim HM, Dreier JW, Alvestad S, Gilhus NE, Gissler M, Igland J, et al.",
+  "journal": "JAMA Neurology",
+  "year": 2022,
+  "doi": "10.1001/jamaneurol.2022.2977",
+  "pmid": "36156660",
+  "design": "cohort",
+  "participants": 3379171,
+  "followUp": "median 7.3 years (IQR 3.5 to 10.9); cancer before age 20 years",
+  "population": "Children born 1997 to 2017 in Denmark, Norway and Sweden, linked to maternal prescription fills for folic acid tablets of 1 mg or more daily from 90 days before pregnancy to birth; 27,784 born to mothers with epilepsy",
+  "funder": "This work was supported by the NordForsk Nordic Program on Health and Welfare (project 83796). The NordForsk Nordic Program on Health and Welfare had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "authorConflicts": "Several authors reported honoraria, advisory roles or grants from manufacturers of antiseizure medicines and other companies outside the submitted work.",
+  "dataAccess": "unknown",
+  "result": "Children of mothers with epilepsy: 5934 (21.4%) exposed to high-dose folic acid (mean 4.3 mg); 18 cancers in exposed and 29 in unexposed children; adjusted HR 2.7 (95% CI 1.2 to 6.3); cumulative risk by age 20 years 1.4% (0.5% to 3.6%) exposed against 0.6% (0.3% to 1.1%) unexposed. Children of mothers without epilepsy: 46,646 (1.4%) exposed (mean 2.9 mg); 69 exposed and 4927 unexposed cases; adjusted HR 1.1 (0.9 to 1.4). Exposure to antiseizure medicines without high-dose folic acid was not associated with cancer (absolute risk 0.6%).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9513705/"
+}

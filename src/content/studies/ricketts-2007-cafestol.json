@@ -1,0 +1,18 @@
+{
+  "title": "The cholesterol-raising factor from coffee beans, cafestol, as an agonist ligand for the farnesoid and pregnane X receptors",
+  "authors": "Ricketts ML, Boekschoten MV, Kreeft AJ, Hooiveld GJ, Moen CJ, Müller M, et al.",
+  "journal": "Molecular Endocrinology",
+  "year": 2007,
+  "doi": "10.1210/me.2007-0133",
+  "pmid": "17456796",
+  "design": "animal",
+  "population": "APOE3Leiden transgenic mice (30-day diet with 0.04% cafestol); wild-type, FXR-null, PXR-null and FXR/PXR double-knockout mice; transfected HepG2 and CV-1 cells",
+  "funder": "This work was supported by the United States Department of Agriculture (Grant ARS, CRIS 6250-51000-034); National Institutes of Health (Grant RO1-DK53366); Wageningen Centre for Food Sciences (project A201C and A500); the Dutch Organization for Scientific Research (project NWO 98010001); travel grant R94-202; NWO 903-39-174; and Netherlands Heart Foundation (NHS grant 97.116). The Wageningen Centre for Food Sciences is described in Olthof et al., PLoS Medicine 2005 (PMC1140947), as an alliance of six industrial partners (AVEBE, Cosun, CSM, DSM, Unilever and NZO) and four research organisations, with 29% of its funding from the industrial partners; partial industry funding sets the class to industry. Roles of funders are not stated.",
+  "funderRole": "unknown",
+  "inKindSupport": "GW4064 was a gift from GlaxoSmithKline.",
+  "authorConflicts": "The authors have nothing to disclose.",
+  "dataAccess": "individual",
+  "result": "In APOE3Leiden mice, cafestol raised serum cholesterol by 40% and triglycerides by 62%. Cafestol activated the ligand-binding domains and full-length forms of FXR and PXR in cell assays and recruited the coactivator SRC-1. In wild-type but not FXR-null mice, cafestol feeding repressed hepatic CYP7A1, CYP8B1 and NTCP, without inducing hepatic SHP or other positive FXR targets; it induced intestinal IBABP and FGF15, the latter through both FXR and PXR, and PXR-dependent intestinal CYP3A11, ABCA1 and CYP27A1. Cafestol does not raise serum cholesterol in wild-type mice; the relevance of the FXR-SHP repression of CYP7A1 to humans remains to be established.",
+  "class": "industry",
+  "fundingChecked": "https://web.archive.org/web/20121128034112/http://mend.endojournals.org:80/content/21/7/1603.full"
+}

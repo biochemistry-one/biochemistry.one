@@ -1,0 +1,16 @@
+{
+  "title": "Adverse effects of proton pump inhibitors-evidence and plausibility",
+  "authors": "Fossmark R, Martinsen TC, Waldum HL",
+  "journal": "International Journal of Molecular Sciences",
+  "year": 2019,
+  "doi": "10.3390/ijms20205203",
+  "pmid": "31640115",
+  "design": "other",
+  "funder": "This research received no external funding.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no conflict of interest.",
+  "dataAccess": "summary",
+  "result": "Narrative review by researchers of gastrin biology arguing that experimental and mechanistic evidence supporting causal adverse effects may have been underestimated by epidemiologists and meta-analysts. Rats given omeprazole or the H2-receptor antagonists loxtidine or ranitidine at doses causing prolonged acid inhibition and hypergastrinaemia developed corpus ECL-cell tumours; hypergastrinaemia induced by partial corpectomy or ciprofibrate, without hypoacidity, also produced them, and the gastrin-receptor antagonist YF476 inhibited tumour formation in Mastomys natalensis and may prevent it in female cotton rats. ECL-cell carcinoids in PPI users are, the authors argue, probably under-reported and may regress after stopping; patients homozygous for an inactivating ATP4A mutation develop ECL-cell carcinoids and adenocarcinoma in the third to fourth decade, suggesting that the exposure needed for neoplasia may be several decades. CYP2C19 poor metabolisers have higher intragastric pH and, the authors suggest without direct evidence, may be more prone to adverse effects; mice can hardly be dosed to sustained hypoacidity, which limits negative mouse studies.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6829383/fullTextXML"
+}

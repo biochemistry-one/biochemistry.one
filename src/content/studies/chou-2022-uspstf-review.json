@@ -1,0 +1,19 @@
+{
+  "title": "Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force",
+  "authors": "Chou R, Cantor A, Dana T, Wagner J, Ahmed AY, Fu R, et al.",
+  "journal": "JAMA",
+  "year": 2022,
+  "doi": "10.1001/jama.2022.12138",
+  "pmid": "35997724",
+  "design": "systematic-review",
+  "participants": 90624,
+  "followUp": "6 months to 6 years",
+  "population": "22 trials of statin against placebo or no statin in adults without prior cardiovascular events, 1 trial of statin intensities and 3 large observational studies of harms",
+  "funder": "This research was funded under contract HHSA290201500007i; Group A, Task Order 75Q80119F32009, from the Agency for Healthcare Research and Quality (AHRQ), US Department of Health and Human Services, under a contract to support the US Preventive Services Task Force (USPSTF). Investigators worked with USPSTF members and AHRQ staff to develop the scope, analytic framework, and key questions; AHRQ had no role in study selection, quality assessment, or synthesis.",
+  "funderRole": "design",
+  "authorConflicts": "One author reported grants from the American Heart Association and consultancy for Biograph Inc; no other disclosures.",
+  "dataAccess": "summary",
+  "result": "Statins were associated with lower all-cause mortality (RR 0.92, 95% CI 0.87 to 0.98; absolute risk difference -0.35%, -0.57% to -0.14%), stroke (RR 0.78; ARD -0.39%), myocardial infarction (RR 0.67; ARD -0.85%) and composite cardiovascular outcomes (RR 0.72; ARD -1.28%); cardiovascular mortality RR 0.91 (0.81 to 1.02; ARD -0.13%). Data for people older than 75 were sparse; mean age was 52 to 66 in all trials except PROSPER (70 to 82), and ten trials restricted enrolment to age 75 or younger. Pooled harms: serious adverse events RR 0.97 (0.93 to 1.01), myalgia 0.98 (0.86 to 1.11), raised ALT 0.94 (0.78 to 1.13), diabetes 1.04 (0.92 to 1.19), with one trial of high-intensity therapy showing 1.25 (1.05 to 1.49). Three trials reported no industry funding; the rest were fully or partially industry funded. Reviewers did not have access to individual patient data. Mortality benefit was smaller than in the 2016 review after adding primary prevention data from ALLHAT-LLT and PROSPER, which found no reduction in all-cause or cardiovascular mortality.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20261015125625/https://jamanetwork.com/journals/jama/fullarticle/2795522"
+}

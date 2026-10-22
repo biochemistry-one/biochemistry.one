@@ -1,0 +1,34 @@
+{
+  "title": "Monoacylglycerol pathway of dietary fat absorption",
+  "layout": "chain",
+  "compartment": "Intestinal lumen, then endoplasmic reticulum of enterocytes",
+  "steps": [
+    {
+      "from": "Triacylglycerol (lumen)",
+      "to": "sn-2-Monoacylglycerol",
+      "enzyme": "Pancreatic lipase (PNLIP)",
+      "cofactors": ["Colipase (CLPS)", "2 H2O"],
+      "note": "Cleaves sn-1 and sn-3 esters; releases two fatty acids"
+    },
+    {
+      "from": "sn-2-Monoacylglycerol",
+      "to": "Diacylglycerol",
+      "enzyme": "Monoacylglycerol O-acyltransferase 2 (MOGAT2)",
+      "cofactors": ["Fatty acyl-CoA"],
+      "note": "Enterocyte ER; over 75% of postprandial intestinal TAG synthesis"
+    },
+    {
+      "from": "Diacylglycerol",
+      "to": "Triacylglycerol (enterocyte)",
+      "enzyme": "Diacylglycerol O-acyltransferase 1 (DGAT1)",
+      "cofactors": ["Fatty acyl-CoA"],
+      "note": "Only DGAT detected in human intestine"
+    },
+    {
+      "from": "Triacylglycerol (enterocyte)",
+      "to": "Chylomicron",
+      "enzyme": "several steps",
+      "note": "Assembly requires APOB and microsomal triglyceride transfer protein (MTTP)"
+    }
+  ]
+}

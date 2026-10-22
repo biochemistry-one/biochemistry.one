@@ -1,0 +1,18 @@
+{
+  "title": "Rare independent mutations in renal salt handling genes contribute to blood pressure variation",
+  "authors": "Ji W, Foo JN, O'Roak BJ, Zhao H, Larson MG, Simon DB, et al.",
+  "journal": "Nature Genetics",
+  "year": 2008,
+  "doi": "10.1038/ng.118",
+  "pmid": "18391953",
+  "design": "genetic",
+  "participants": 3125,
+  "followUp": "up to 35 years of periodic examination",
+  "population": "Framingham Heart Study offspring cohort members with DNA; 292 people with Gitelman or Bartter syndrome for validation",
+  "funder": "Supported in part by a National Institutes of Health Specialized Center of Research in Hypertension (to R.P. Lifton) and the National Heart, Lung, and Blood Institute's Framingham Heart Study contract NO1-HC-25195; J.N. Foo by the Agency for Science, Technology and Research, Singapore.",
+  "funderRole": "none",
+  "dataAccess": "unknown",
+  "result": "Recessive loss-of-function mutations in SLC12A3 (NCC) cause Gitelman syndrome and in SLC12A1 (NKCC2) or KCNJ1 (ROMK) Bartter syndrome. 30 rare functional heterozygous mutations in these genes were found in 49 subjects. Long-term systolic blood pressure was 6.3 mm Hg lower than the cohort mean (P = 0.0009) and diastolic 3.4 mm Hg lower; systolic 9.0 mm Hg lower at age 60. Risk of hypertension by age 60 was 59% lower (95% CI 23% to 71%).",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3766631/"
+}

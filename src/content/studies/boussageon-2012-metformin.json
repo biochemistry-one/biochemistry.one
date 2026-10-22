@@ -1,0 +1,19 @@
+{
+  "title": "Reappraisal of metformin efficacy in the treatment of type 2 diabetes: a meta-analysis of randomised controlled trials",
+  "authors": "Boussageon R, Supper I, Bejan-Angoulvant T, Kellou N, Cucherat M, Boissel JP, et al.",
+  "journal": "PLoS Medicine",
+  "year": 2012,
+  "doi": "10.1371/journal.pmed.1001204",
+  "pmid": "22509138",
+  "design": "meta-analysis",
+  "participants": 13110,
+  "followUp": "4 months to 10.7 years",
+  "population": "13 randomised controlled trials in type 2 diabetes comparing metformin with diet alone, placebo or no treatment, as add-on therapy or as withdrawal; 9560 participants allocated metformin and 3550 conventional treatment or placebo; mean age 57.7 years, mean body-mass index 30 kg/m2, mean diabetes duration 4.8 years",
+  "funder": "No direct funding was received for this study. The authors were personally salaried by their institutions during the period of writing, though no specific salary was set aside or given for the writing of this paper.",
+  "funderRole": "none",
+  "authorConflicts": "One of the ten authors received consulting fees from Bristol-Myers Squibb and Servier and speaking fees from AstraZeneca; all other authors declared that no competing interests exist.",
+  "dataAccess": "summary",
+  "result": "Metformin did not significantly affect the primary endpoints all-cause mortality (risk ratio 0.99, 95% CI 0.75 to 1.31) or cardiovascular death (1.05, 0.67 to 1.64), with significant heterogeneity when the UK Prospective Diabetes Study subgroups were included (I2 41% and 59%); excluding UKPDS 34 left the estimates unchanged (0.98, 0.77 to 1.24 and 0.95, 0.72 to 1.26) and removed the heterogeneity. Secondary endpoints: all myocardial infarctions 0.90 (0.74 to 1.09), all strokes 0.76 (0.51 to 1.14), heart failure 1.03 (0.67 to 1.59), peripheral vascular disease 0.90 (0.46 to 1.78), leg amputations 1.04 (0.44 to 2.44) and microvascular complications 0.83 (0.59 to 1.17). In the comparison of metformin plus sulphonylurea against sulphonylurea alone, all-cause mortality rose (risk ratio 1.53, 1.02 to 2.31) and cardiovascular death rose (2.20, 1.20 to 4.03); the discussion gives 1.55 (1.03 to 2.33) for deaths across the five add-on trials, with UKPDS 34 carrying 35.1% of the weight. The authors state that a 25% reduction or a 31% increase in all-cause mortality, and a 33% reduction or a 64% increase in cardiovascular mortality, cannot be excluded; that only four of 25 eligible trials had a clinical event as the primary outcome; that 12 trials could not be included for lack of outcome data; that UKPDS 34 changed its primary endpoint and study length during the study and lacked a placebo group and blinding; that the favourable UKPDS 34 overweight-group result is cited while the unfavourable sulphonylurea add-on result is not, although both arms were randomised; and that HbA1c cannot be considered a valid surrogate endpoint for the clinical efficacy of glucose-lowering drugs.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3323508/fullTextXML"
+}

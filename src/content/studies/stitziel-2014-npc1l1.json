@@ -1,0 +1,18 @@
+{
+  "title": "Inactivating mutations in NPC1L1 and protection from coronary heart disease",
+  "authors": "Myocardial Infarction Genetics Consortium Investigators, Stitziel NO, Won HH, Morrison AC, Peloso GM, Do R, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2014,
+  "doi": "10.1056/NEJMoa1405386",
+  "pmid": "25390462",
+  "design": "genetic",
+  "participants": 113094,
+  "population": "Participants of European, African or South Asian ancestry in 16 case-control and cohort studies: 22,092 sequenced and 91,002 genotyped for p.Arg406X",
+  "funder": "NHLBI grants K08HL114642, T32HL007208, R01HL107816, RC2HL102926 and RC2HL102925; NHGRI grant 5U54HG003067-11; the Foundation for Barnes-Jewish Hospital; a Banting Fellowship from the Canadian Institutes of Health Research; a grant from the Donovan Family Foundation, an investigator-initiated research grant from Merck and a grant from Fondation Leducq (all to S. Kathiresan). Funders of the contributing studies are listed in the Supplementary Appendix.",
+  "funderRole": "unknown",
+  "authorConflicts": "Disclosure forms are available with the full text at NEJM.org; not read.",
+  "dataAccess": "individual",
+  "result": "Sequencing of NPC1L1 in 7364 patients with coronary heart disease and 14,728 controls identified 15 inactivating mutations; about 1 in 650 persons was a heterozygous carrier. Carriers had LDL cholesterol 12 mg/dl (0.31 mmol/l) lower than non-carriers (P = 0.04) and a 53% lower risk of coronary heart disease (odds ratio 0.47, 95% CI 0.25 to 0.87). Overall, 11 of 29,954 patients (0.04%) and 71 of 83,140 controls (0.09%) carried an inactivating mutation. The study states that ezetimibe lowers LDL cholesterol by inhibiting NPC1L1.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4335708/"
+}

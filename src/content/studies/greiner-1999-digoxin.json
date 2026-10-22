@@ -1,0 +1,18 @@
+{
+  "title": "The role of intestinal P-glycoprotein in the interaction of digoxin and rifampin",
+  "authors": "Greiner B, Eichelbaum M, Fritz P, Kreichgauer HP, von Richter O, Zundler J, et al.",
+  "journal": "Journal of Clinical Investigation",
+  "year": 1999,
+  "doi": "10.1172/JCI6663",
+  "pmid": "10411543",
+  "design": "mechanistic",
+  "participants": 8,
+  "population": "Healthy volunteers, each studied before and during rifampicin",
+  "funder": "This work was supported by grants from the Robert Bosch Foundation and the Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie (BMBF grant 01EC9405).",
+  "funderRole": "none",
+  "authorConflicts": "Not stated. A footnote gives Merck KGaA as the present address of the first author.",
+  "dataAccess": "summary",
+  "result": "Rifampicin 600 mg daily for 10 days reduced the peak plasma concentration of 1 mg oral digoxin by 58% and oral bioavailability by 30.1%, and raised duodenal P-glycoprotein content 3.5 ± 2.1-fold. Systemic clearance after 1 mg intravenous digoxin rose 21%; renal clearance and half-life were unchanged. A 2002 correction (J Clin Invest 110:571) revises the correlation between AUC 0 to 144 h and P-glycoprotein content to Spearman rs 0.71 (P < 0.005), gives oral bioavailability as 44% or 49.5% depending on the intravenous AUC used, and states that the principal findings stand.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC408477/"
+}

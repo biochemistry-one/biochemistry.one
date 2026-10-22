@@ -1,0 +1,20 @@
+{
+  "title": "GDF15 mediates the effects of metformin on body weight and energy balance",
+  "authors": "Coll AP, Chen M, Taskar P, Rimmington D, Patel S, Tadross J, et al.",
+  "journal": "Nature",
+  "year": 2020,
+  "doi": "10.1038/s41586-019-1911-y",
+  "pmid": "31875646",
+  "registry": "NCT00723307 and NCT01956929",
+  "design": "mechanistic",
+  "participants": 173,
+  "followUp": "18 months in the CAMERA trial; 2 weeks in the short-term human study",
+  "population": "CAMERA: 173 adults aged 35 to 75 years without diabetes, with established coronary heart disease and a large waist circumference, randomised to metformin 850 mg twice daily or placebo at a single Scottish centre; a separate short-term study at the Mayo Clinic; mouse and cell experiments in Cambridge and at NGM Biopharmaceuticals",
+  "funder": "CAMERA was funded by a project grant from the Chief Scientist Office, Scotland (CZB/4/613). The reported work was supported by the Medical Research Council, the Wellcome Trust, the British Heart Foundation, the NIHR Cambridge Biomedical Research Centre, the European Research Council, the BBSRC and NIH grants R21 AG60139, UL1 TR000135 and T32DK007352. Three authors are or were employees of NGM Biopharmaceuticals and may hold its stock; the mouse studies were carried out at NGM Biopharmaceuticals and in Cambridge, and NGM authors designed, performed and analysed mouse experiments and co-wrote the paper.",
+  "funderRole": "several",
+  "authorConflicts": "M.C., P.T. and B.B.A. are or were employees of NGM Biopharmaceuticals and may hold NGM stock or stock options; other authors declare consultancy or grant support from AstraZeneca, Boehringer Ingelheim, Eli Lilly, Novo Nordisk, Pfizer, Roche Diagnostics, Sanofi, Napp, Kallyope and ERX Pharmaceuticals; the remaining authors declare no competing financial interests.",
+  "dataAccess": "individual",
+  "result": "After 2 weeks of metformin in a short-term human study, mean circulating GDF15 rose about 2.5-fold. In CAMERA, metformin raised circulating GDF15 at 6, 12 and 18 months (P < 0.0001), and the change in serum GDF15 from baseline correlated with weight loss in metformin recipients (r = −0.26, P = 0.024), with no such correlation in the placebo group (r = −0.0374, P = 0.740, n = 81); metformin-treated participants had lost about 3.5% of body weight in the published trial. The authors describe the correlation as modest and state that the GDF15 rise is not necessary for weight loss in every individual. In mice, metformin raised GDF15 and lowered body weight; mice lacking Gdf15, or given an antibody against the GDF15 receptor GFRAL, did not lose weight on metformin. GDF15 acts through a receptor complex expressed only in the hindbrain and suppresses food intake.",
+  "class": "industry",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=7234839"
+}

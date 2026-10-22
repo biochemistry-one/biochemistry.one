@@ -1,0 +1,19 @@
+{
+  "title": "Errors in estimating usual sodium intake by the Kawasaki formula alter its relationship with mortality: implications for public health",
+  "authors": "He FJ, Campbell NRC, Ma Y, MacGregor GA, Cogswell ME, Cook NR",
+  "journal": "International Journal of Epidemiology",
+  "year": 2018,
+  "doi": "10.1093/ije/dyy114",
+  "pmid": "30517688",
+  "design": "cohort",
+  "participants": 2974,
+  "followUp": "median 24 years",
+  "population": "TOHP I and II participants aged 30 to 54 years with prehypertension not assigned to sodium intervention",
+  "funder": "TOHP I and II were supported by NHLBI cooperative agreements HL37849, HL37852, HL37853, HL37854, HL37872, HL37884, HL37899, HL37904, HL37906, HL37907 and HL37924; the TOHP follow-up study by NHLBI grant HL57915 and American Heart Association award 14GRNT18440013. The funder had no role in design, conduct, analysis, interpretation, manuscript preparation or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "F.J. He is a member, and G.A. MacGregor chairman, of the non-profit Consensus Action on Salt & Health and World Action on Salt & Health, without financial support from them. N.R.C. Campbell was a paid consultant to the Novartis Foundation (2016-17) for a hypertension-control programme in low- and middle-income countries and gave paid advice on blood-pressure assessment to Midway Corporation (2017).",
+  "dataAccess": "unknown",
+  "result": "Measured sodium (mean of three to seven 24-hour urines) averaged 3769 ± 1282 mg/day. The Kawasaki estimate from the same urines overestimated intake by 1297 mg/day (95% CI 1267 to 1326), over-estimating low and under-estimating high intakes. 272 deaths: measured sodium showed a linear relation with mortality, whereas the averaged Kawasaki estimate appeared to show a J-shaped relation; single measurements flattened the relation.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6280933/"
+}

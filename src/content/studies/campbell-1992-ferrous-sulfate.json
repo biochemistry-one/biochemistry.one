@@ -1,0 +1,18 @@
+{
+  "title": "Ferrous sulfate reduces thyroxine efficacy in patients with hypothyroidism",
+  "authors": "Campbell NR, Hasinoff BB, Stalts H, Rao B, Wong NC",
+  "journal": "Annals of Internal Medicine",
+  "year": 1992,
+  "doi": "10.7326/0003-4819-117-12-1010",
+  "pmid": "1443969",
+  "design": "other",
+  "participants": 14,
+  "followUp": "12 weeks",
+  "population": "Patients with established primary hypothyroidism on stable thyroxine at a tertiary outpatient research clinic in Calgary; uncontrolled clinical trial",
+  "funder": "Funding statement not read: the publisher's full text returned HTTP 403 to automated access.",
+  "funderRole": "unknown",
+  "dataAccess": "unknown",
+  "result": "After 12 weeks of a 300-mg ferrous sulfate tablet taken together with thyroxine, mean TSH rose from 1.6 to 5.4 mU/l (P < 0.01) while the free thyroxine index did not change significantly; 9 of 14 patients had more symptoms and signs of hypothyroidism. Mixed in vitro, iron and thyroxine formed a poorly soluble complex. Results read from the PubMed abstract.",
+  "class": "undetermined",
+  "fundingChecked": "https://www.acpjournals.org/doi/10.7326/0003-4819-117-12-1010"
+}

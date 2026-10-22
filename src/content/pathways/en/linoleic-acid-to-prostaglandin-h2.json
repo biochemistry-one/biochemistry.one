@@ -1,0 +1,56 @@
+{
+  "title": "Linoleic acid to prostaglandin H2",
+  "layout": "chain",
+  "compartment": "Endoplasmic reticulum membrane, nuclear envelope and cytosol",
+  "steps": [
+    {
+      "from": "Linoleic acid (18:2 n-6)",
+      "to": "Linoleoyl-CoA",
+      "enzyme": "Long-chain-fatty-acid–CoA ligase 1 (ACSL1)",
+      "cofactors": ["ATP", "CoA", "Mg2+"],
+      "note": "Releases AMP and diphosphate"
+    },
+    {
+      "from": "Linoleoyl-CoA",
+      "to": "γ-Linolenoyl-CoA (18:3 n-6)",
+      "enzyme": "Acyl-CoA 6-desaturase (FADS2)",
+      "cofactors": ["O2", "2 reduced cytochrome b5"],
+      "note": "First, rate-limiting desaturation; also acts on α-linolenoyl-CoA (n-3)"
+    },
+    {
+      "from": "γ-Linolenoyl-CoA (18:3 n-6)",
+      "to": "Dihomo-γ-linolenoyl-CoA (20:3 n-6)",
+      "enzyme": "several steps",
+      "cofactors": ["Malonyl-CoA", "2 NADPH"],
+      "note": "Elongation cycle: ELOVL5, HSD17B12, HACD1–4, TECR; releases CO2"
+    },
+    {
+      "from": "Dihomo-γ-linolenoyl-CoA (20:3 n-6)",
+      "to": "Arachidonoyl-CoA (20:4 n-6)",
+      "enzyme": "Acyl-CoA (8-3)-desaturase, Δ5-desaturase (FADS1)",
+      "cofactors": ["O2", "2 reduced cytochrome b5"]
+    },
+    {
+      "from": "Arachidonoyl-CoA (20:4 n-6)",
+      "to": "sn-2-Arachidonoyl phospholipid",
+      "enzyme": "Lysophospholipid acyltransferase 5 (LPCAT3)",
+      "cofactors": ["1-Acyl lysophospholipid"],
+      "note": "Reacylation in the Lands cycle; releases CoA"
+    },
+    {
+      "from": "sn-2-Arachidonoyl phospholipid",
+      "to": "Arachidonic acid",
+      "enzyme": "Cytosolic phospholipase A2 (PLA2G4A)",
+      "cofactors": ["H2O"],
+      "note": "Calcium-dependent; selective for the sn-2 arachidonoyl chain"
+    },
+    {
+      "from": "Arachidonic acid",
+      "to": "Prostaglandin H2",
+      "enzyme": "Prostaglandin G/H synthase 1 and 2 (PTGS1, PTGS2)",
+      "cofactors": ["2 O2", "Haem b", "Reducing substrate (AH2)"],
+      "inhibitors": [{"name": "Acetylsalicylic acid and other NSAIDs"}],
+      "note": "Cyclooxygenase forms PGG2; peroxidase reduces PGG2 to PGH2"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Efficacy of sapropterin dihydrochloride (tetrahydrobiopterin, 6R-BH4) for reduction of phenylalanine concentration in patients with phenylketonuria: a phase III randomised placebo-controlled study",
+  "authors": "Levy HL, Milanowski A, Chakrapani A, Cleary M, Lee P, Trefz FK, et al.",
+  "journal": "Lancet",
+  "year": 2007,
+  "doi": "10.1016/S0140-6736(07)61234-3",
+  "pmid": "17693179",
+  "registry": "NCT00104247",
+  "design": "rct",
+  "participants": 89,
+  "followUp": "6 weeks",
+  "population": "Patients with phenylketonuria, mean age 20 years, mean baseline blood phenylalanine 843 and 888 umol/L in the two groups",
+  "funder": "Lead sponsor BioMarin Pharmaceutical (ClinicalTrials.gov NCT00104247). The funding statement of the article was not readable; the archived article page showed only the summary and affiliations.",
+  "funderRole": "unknown",
+  "authorConflicts": "One author (A. Dorenbaum) was affiliated with BioMarin Pharmaceutical and two (J. D. Bebchuk, H. Christ-Schmidt) with Statistics Collaborative.",
+  "dataAccess": "summary",
+  "result": "42 patients were assigned sapropterin 10 mg/kg once daily and 47 placebo. After 6 weeks mean blood phenylalanine fell by 236 (SD 257) umol/L with sapropterin and rose by 3 (SD 240) umol/L with placebo (p<0.0001). A reduction of 30% or more occurred in 18 of 41 (44%) versus 4 of 47 (9%): absolute difference 35 percentage points, number needed to treat about 3 over 6 weeks.",
+  "class": "industry",
+  "fundingChecked": "https://clinicaltrials.gov/api/v2/studies/NCT00104247"
+}

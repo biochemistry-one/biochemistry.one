@@ -1,0 +1,17 @@
+{
+  "title": "Risk of medication-induced lactic acidosis and hyperlactatemia: a pharmacovigilance study of the United States Food and Drug Administration's Adverse Event Reporting System database",
+  "authors": "Yang H, Dai H, Chen X, Huang J, Miao F, Lv J, et al.",
+  "journal": "Frontiers in Pharmacology",
+  "year": 2025,
+  "doi": "10.3389/fphar.2025.1555955",
+  "pmid": "40264671",
+  "design": "other",
+  "population": "Spontaneous reports of lactic acidosis and hyperlactataemia in the FDA Adverse Event Reporting System, first quarter 2004 to second quarter 2024; disproportionality analysis",
+  "funder": "The author(s) declare that no financial support was received for the research and/or publication of this article.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no commercial or financial relationships that could create a conflict of interest.",
+  "dataAccess": "individual",
+  "result": "Of 1055 primary suspect medicines, salbutamol had the fourth largest number of lactic acidosis or hyperlactataemia reports, 531 cases, with a positive signal (reporting odds ratio 3.85, 95% CI 3.53 to 4.19); terbutaline had 11 cases (ROR 22.43, 12.37 to 40.67), ipratropium/salbutamol 27 cases (ROR 1.53, 1.05 to 2.24), while budesonide/formoterol (11 cases, ROR 0.15) and fluticasone/salmeterol (10 cases, ROR 0.12) gave no signal. About 98% of inhaled beta2-agonist cases involved short-acting agents. Spontaneous reports lack denominators and do not establish incidence or causation.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12011842/"
+}

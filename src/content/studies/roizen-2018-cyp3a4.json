@@ -1,0 +1,18 @@
+{
+  "title": "CYP3A4 mutation causes vitamin D-dependent rickets type 3",
+  "authors": "Roizen JD, Li D, O'Lear L, Javaid MK, Shaw NJ, Ebeling PR, et al.",
+  "journal": "Journal of Clinical Investigation",
+  "year": 2018,
+  "doi": "10.1172/JCI98680",
+  "pmid": "29461981",
+  "design": "genetic",
+  "participants": 2,
+  "population": "Two unrelated patients with early-onset rickets and deficient responsiveness to parent and activated forms of vitamin D",
+  "funder": "This study was supported in part by grants from the NIH (R01 DK079970 and R01 DK112955 to MAL; K08 HD087964 to JDR), the Children's Hospital of Philadelphia Research Institute (to MAL), and the Institutional Development Fund to the Center for Applied Genomics from the Children's Hospital of Philadelphia (to HH). MKJ was supported by the National Institute of Health Research (NIHR) Oxford Biomedical Research Centre (BRC).",
+  "funderRole": "none",
+  "authorConflicts": "The authors have declared that no conflict of interest exists.",
+  "dataAccess": "summary",
+  "result": "Both patients carried a recurrent de novo CYP3A4 missense mutation, c.902T>C (p.I301T); in vitro the mutant enzyme oxidised 1,25-dihydroxyvitamin D with 10-fold greater activity than wild-type CYP3A4 and 2-fold greater activity than CYP24A1. CYP3A4 can oxidise and inactivate 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D; its induction by anticonvulsants is associated with vitamin D deficiency, and induction by rifampin can normalise elevated vitamin D metabolites in CYP24A1 deficiency.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5919884/"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Cell Biology by the Numbers",
+  "authors": "Milo R, Phillips R",
+  "journal": "Garland Science",
+  "year": 2015,
+  "doi": "10.1201/9780429258770",
+  "url": "https://book.bionumbers.org/",
+  "design": "textbook",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Textbook, online edition read 2026-10-21 at book.bionumbers.org. ATP is often called the energy currency of the cell; hundreds of cellular reactions are coupled to its hydrolysis, with the membrane potential and reducing power the two other dominant energy sources. Each electron transfer of respiration must be thermodynamically favourable on its own for respiration to proceed. Figure 1 derives the free energy under physiological concentrations from the standard value as ΔG′ = ΔG′° + RT ln Q′. The absolute free-energy change of ATP hydrolysis is greater the farther concentrations lie from equilibrium, where it is zero; the standard value varies from -28 to -34 kJ/mol depending on the Mg2+ concentration; with millimolar ATP, ADP and phosphate it is about 50 kJ/mol under physiological conditions; the highest value, about -70 kJ/mol, was calculated for human muscle of athletes recovering after exertion; in cells ATP is worth about twice as much as under standard conditions. Glycolysis couples the oxidation of glucose to the reduction of NAD+ to NADH; NAD+/NADH transfers two electrons and one proton; NAD+/NADH serves catabolic and NADP+/NADPH anabolic reactions; NAD is relatively oxidised and NADP relatively reduced. Individual transfers of the electron transport chain are not energetic enough to make ATP but are enough to pump a proton. The mitochondrial membrane potential is roughly 160 mV, and each pH unit of difference adds 60 mV to the proton-motive force.",
+  "class": "reference",
+  "fundingChecked": "https://book.bionumbers.org/preface/"
+}

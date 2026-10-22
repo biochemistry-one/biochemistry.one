@@ -1,0 +1,19 @@
+{
+  "title": "Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease",
+  "authors": "Abdelhamid AS, Brown TJ, Brainard JS, Biswas P, Thorpe GC, Moore HJ, et al.",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "year": 2020,
+  "doi": "10.1002/14651858.CD003177.pub5",
+  "pmid": "32114706",
+  "design": "systematic-review",
+  "participants": 162796,
+  "followUp": "trials of 12 to 88 months",
+  "population": "86 randomised trials of increased long-chain omega-3 or alpha-linolenic acid intake against usual or lower intake in adults at varying cardiovascular risk, mainly in high-income countries; alpha-linolenic acid analyses in up to 5 trials and 19,327 participants",
+  "funder": "Internal sources: University of East Anglia. External sources: the WHO Nutrition Guidance Expert Advisory Group (NUGAG) Subgroup on Diet and Health requested and funded the update and extension of this review; the National Institute for Health Research supported the project via Cochrane Infrastructure funding to Cochrane Heart.",
+  "funderRole": "none",
+  "authorConflicts": "None known for any author.",
+  "dataAccess": "summary",
+  "result": "Increasing alpha-linolenic acid: all-cause mortality RR 1.01 (95% CI 0.84 to 1.20; 459 deaths, 19,327 participants, 5 trials, moderate certainty); cardiovascular mortality RR 0.96 (0.74 to 1.25; 4 trials); coronary heart disease events RR 1.00 (0.82 to 1.22; 4 trials, low certainty); cardiovascular events RR 0.95 (0.83 to 1.07; 884 events, 5 trials, low certainty), number needed to treat 500; arrhythmia RR 0.73 (0.55 to 0.97; 173 events, 4912 participants, 2 trials, moderate certainty), number needed to treat 91.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7049091/"
+}

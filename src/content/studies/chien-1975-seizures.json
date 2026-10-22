@@ -1,0 +1,17 @@
+{
+  "title": "Harmful effect of megadoses of vitamins: electroencephalogram abnormalities and seizures induced by intravenous folate in drug-treated epileptics",
+  "authors": "Ch'ien LT, Krumdieck CL, Scott CW Jr, Butterworth CE Jr",
+  "journal": "American Journal of Clinical Nutrition",
+  "year": 1975,
+  "doi": "10.1093/ajcn/28.1.51",
+  "pmid": "1115018",
+  "design": "other",
+  "participants": 8,
+  "population": "Patients with epilepsy treated with phenytoin for more than 1 year, six with low folate, given intravenous folic acid under continuous EEG monitoring; uncontrolled",
+  "funder": "not stated in the abstract; full text not accessible",
+  "funderRole": "unknown",
+  "dataAccess": "summary",
+  "result": "Results read from the published abstract. Six patients received 75 mg folic acid intravenously over 30 minutes without clinical or EEG change; one showed more EEG spike discharges without seizure at 150 mg; one showed a 2-second spike-and-wave burst after 7.2 mg and a tonic-clonic seizure after 14.4 mg and again after 19.2 mg. The authors conclude that tolerance varies widely and that megadoses should be used with great caution, particularly in epilepsy.",
+  "class": "undetermined",
+  "fundingChecked": "https://pubmed.ncbi.nlm.nih.gov/1115018/"
+}

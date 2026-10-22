@@ -1,0 +1,17 @@
+{
+  "title": "An outbreak of hypervitaminosis D associated with the overfortification of milk from a home-delivery dairy",
+  "authors": "Blank S, Scanlon KS, Sinks TH, Lett S, Falk H",
+  "journal": "American Journal of Public Health",
+  "year": 1995,
+  "doi": "10.2105/ajph.85.5.656",
+  "pmid": "7733425",
+  "design": "case-control",
+  "participants": 126,
+  "population": "Cases of hypervitaminosis D diagnosed 1 January 1985 to 30 June 1991, identified from hospital discharge, laboratory and state health department data; case-control study of 33 cases and 93 controls",
+  "funder": "not stated in the readable text; the article body is available only as page images, so the funding statement was not read. Authors are affiliated with the Epidemic Intelligence Service, Centers for Disease Control and Prevention.",
+  "funderRole": "unknown",
+  "dataAccess": "individual",
+  "result": "Of 56 case patients identified, at least 41 were hospitalised and 2 died. Nineteen of 33 case patients had been customers of the implicated dairy; risk rose with consumption of its milk and was also associated with vitamin D supplement use. The authors conclude that overfortification of milk with vitamin D can lead to hypervitaminosis D with severe illness and death.",
+  "class": "undetermined",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1615443/"
+}

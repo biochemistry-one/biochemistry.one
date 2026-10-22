@@ -1,0 +1,16 @@
+{
+  "title": "Survey of human oxidoreductases and cytochrome P450 enzymes involved in the metabolism of xenobiotic and natural chemicals",
+  "authors": "Rendic S, Guengerich FP",
+  "journal": "Chemical Research in Toxicology",
+  "year": 2015,
+  "doi": "10.1021/tx500444e",
+  "pmid": "25485457",
+  "design": "other",
+  "funder": "This work was supported in part by National Institutes of Health Grants R37 CA090426, R01 ES010546, and R01 GM103937 (to F.P.G.). The authors declare no competing financial interest.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing financial interest.",
+  "dataAccess": "individual",
+  "result": "Counts of reported metabolic reactions from literature covering 1976 to 2008. Of 4192 oxidation and reduction reactions of 860 drugs, about 96% are catalysed by cytochrome P450 enzymes; flavin-containing monooxygenase, monoamine oxidase and aldo-keto reductase together account for about 5% across all chemicals. Shares of P450 reactions for drugs: CYP3A4 27%, CYP2D6 13%, CYP2C9 10%, CYP2C19 9%, CYP1A2 9%, CYP3A5 6%, CYP2C8 5%, CYP2B6 4%, CYP2E1 3%, other P450s 6%. CYP1A2, 2C9, 2C19, 2D6 and 3A4 with 3A5 account for 74%. Percentages count reported reactions, not prescriptions or clearance, and the authors call them estimates.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4303333/"
+}

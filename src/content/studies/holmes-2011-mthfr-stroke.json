@@ -1,0 +1,17 @@
+{
+  "title": "Effect modification by population dietary folate on the association between MTHFR genotype, homocysteine, and stroke risk: a meta-analysis of genetic studies and randomised trials",
+  "authors": "Holmes MV, Newcombe P, Hubacek JA, Sofat R, Ricketts SL, Cooper J, et al.",
+  "journal": "Lancet",
+  "year": 2011,
+  "doi": "10.1016/S0140-6736(11)60872-6",
+  "pmid": "21803414",
+  "design": "meta-analysis",
+  "population": "237 genetic datasets with 59,995 individuals with homocysteine data and 20,885 stroke events; 13 randomised trials with 45,549 individuals and 2314 strokes",
+  "funder": "Public and charitable funders listed in the Acknowledgments, among them the UK Medical Research Council, British Heart Foundation, Wellcome Trust, UK Department of Health, US National Institute of Neurological Disorders and Stroke, US National Institute on Aging, National Health and Medical Research Council of Australia, National Center for Geriatrics and Gerontology of Japan, Erasmus MC and Dutch ministries, the Netherlands Heart Foundation, the Danish Medical Research Council and Danish Heart Foundation. The funding sources had no role in study design, data collection, analysis, interpretation, writing or the decision to submit.",
+  "funderRole": "none",
+  "authorConflicts": "P. Newcombe was a full-time employee of GlaxoSmithKline and J.C. Whittaker was 90% employed by GlaxoSmithKline and owned its shares; both contributed to data collation, analyses and interpretation. Several other authors declared consultancy, honoraria or grants from pharmaceutical companies.",
+  "dataAccess": "summary",
+  "result": "The TT against CC difference in homocysteine was 3.12 umol/L (95% CI 2.23 to 4.01) in Asia and 0.13 umol/L (-0.85 to 1.11) in high-folate America, Australia and New Zealand; the stroke odds ratios were 1.68 (1.44 to 1.97) and 1.03 (0.84 to 1.25). In trials of homocysteine-lowering interventions the summary stroke RR was 0.94 (0.85 to 1.04); no trial had evaluated homocysteine lowering exclusively in a low-folate region. Classed industry because employees of GlaxoSmithKline took part in the analyses.",
+  "class": "industry",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3156981/fullTextXML"
+}

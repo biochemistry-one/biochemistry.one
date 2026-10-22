@@ -1,0 +1,21 @@
+{
+  "title": "Concordance between blood pressure in the Systolic Blood Pressure Intervention Trial and in routine clinical practice",
+  "authors": "Drawz PE, Agarwal A, Dwyer JP, Horwitz E, Lash J, Lenoir K, et al.",
+  "journal": "JAMA Internal Medicine",
+  "year": 2020,
+  "doi": "10.1001/jamainternmed.2020.5028",
+  "pmid": "33044494",
+  "registry": "NCT01206062",
+  "design": "cohort",
+  "participants": 3074,
+  "followUp": "November 2010 to August 2015",
+  "population": "SPRINT participants at 49 of 102 sites (adults 50 or older with hypertension without diabetes or previous stroke) with at least three outpatient blood pressures in the electronic health record; mean age 68.5 years, 80.7% men",
+  "funder": "The work presented here was supported by grants R01HL136679 and R01AG055606 from the National Institutes of Health and funding from the Alzheimer's Association. SPRINT was funded by the National Institutes of Health and the Department of Veterans Affairs. The funding sources had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.",
+  "funderRole": "none",
+  "inKindSupport": "Azilsartan and chlorthalidone combined with azilsartan were provided to SPRINT by Takeda Pharmaceuticals International Inc.",
+  "authorConflicts": "Several authors report NIH grants during the study and personal fees or grants from companies outside the submitted work.",
+  "dataAccess": "individual",
+  "result": "From 6 months to the end of the intervention, mean systolic pressure recorded in routine outpatient care was 7.3 mm Hg (95% CI 7.0 to 7.6) higher than trial-protocol measurements in the intensive group and 4.6 mm Hg (4.4 to 4.9) higher in the standard group, with limits of agreement from about -30 to 45 mm Hg and wide variation between sites. The authors conclude that a single correction factor of about 10 mm Hg cannot convert routine readings to research-quality estimates.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7551238/"
+}

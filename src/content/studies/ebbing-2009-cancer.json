@@ -1,0 +1,21 @@
+{
+  "title": "Cancer incidence and mortality after treatment with folic acid and vitamin B12",
+  "authors": "Ebbing M, Bønaa KH, Nygård O, Arnesen E, Ueland PM, Nordrehaug JE, et al.",
+  "journal": "JAMA",
+  "year": 2009,
+  "doi": "10.1001/jama.2009.1622",
+  "pmid": "19920236",
+  "registry": "NCT00671346",
+  "design": "rct",
+  "participants": 6837,
+  "followUp": "Median 39 months of treatment and 78 months in all, including post-trial follow-up through 31 December 2007",
+  "population": "Patients with ischaemic heart disease in the Norwegian Vitamin Trial (NORVIT) and the Western Norway B Vitamin Intervention Trial (WENBIT), Norway, a country without folic acid fortification; mean age 62.3 years, 23.5% women",
+  "funder": "The NORVIT and WENBIT trials were funded by the Advanced Research Program and Research Council of Norway; the Norwegian Foundation for Health and Rehabilitation; The Norwegian Council on Cardiovascular Disease; the Norwegian Heart and Lung Patient Organization; the Norwegian Red Cross; the Northern Norway Regional Health Authority; the Western Norway Regional Health Authority; the Norwegian Ministry of Health and Care Services; the University of Tromsø; the University of Bergen; Department of Heart Disease at Haukeland University Hospital; the Foundation to Promote Research Into Functional Vitamin B12 Deficiency; by an unrestricted private donation; and by Alpharma Inc, Copenhagen, Denmark, who provided study medication. Alpharma Inc provided the study capsules, generated the randomization sequence and concealed the randomization code, free of charge, and rendered a limited grant to finance the initial phase of the trials; the company had no role in the design and conduct of the trials or the current study, in data collection, management, analysis and interpretation, or in preparation, review or approval of the manuscript.",
+  "funderRole": "none",
+  "inKindSupport": "Study capsules, generation of the randomisation sequence and concealment of the randomisation code by Alpharma Inc",
+  "authorConflicts": "Dr Meyer is employed at the laboratory of Bevital AS, Bergen; no other conflicts reported.",
+  "dataAccess": "summary",
+  "result": "Folic acid 0.8 mg plus vitamin B12 0.4 mg daily, with or without vitamin B6 40 mg (n = 3411), against vitamin B6 alone or placebo (n = 3426). Median serum folate rose from 3.9 to 27.5 ng/mL on folic acid. Cancer diagnosed in 341 (10.0%) against 288 (8.4%): HR 1.21 (95% CI 1.03 to 1.41); cancer death 136 (4.0%) against 100 (2.9%): HR 1.38 (1.07 to 1.79); death from any cause 548 (16.1%) against 473 (13.8%): HR 1.18 (1.04 to 1.33). Lung cancer 56 against 36 cases (HR 1.59, 99% CI 0.92 to 2.75); colorectal cancer HR 1.00 (0.59 to 1.69). Among MTHFR 677TT carriers (n = 535), HR for cancer death 4.57 (1.55 to 13.5), interaction P = 0.03. The excess in cancer incidence emerged after about 1 year. Classed industry because Alpharma gave a limited grant for the initial phase.",
+  "class": "industry",
+  "fundingChecked": "http://web.archive.org/web/20261011060926/https://jamanetwork.com/journals/jama/fullarticle/184898"
+}

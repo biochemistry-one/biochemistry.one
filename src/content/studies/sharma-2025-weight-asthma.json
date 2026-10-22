@@ -1,0 +1,19 @@
+{
+  "title": "A 1-Year Weight Management Program for Difficult-to-Treat Asthma With Obesity: A Randomized Controlled Study",
+  "authors": "Sharma V, Ricketts HC, McCombie L, Brosnahan N, Crawford L, Slaughter L, et al.",
+  "journal": "Chest",
+  "year": 2025,
+  "doi": "10.1016/j.chest.2024.09.042",
+  "pmid": "39427706",
+  "design": "rct",
+  "participants": 36,
+  "followUp": "52 weeks",
+  "population": "Adults with difficult-to-treat asthma and BMI 30 kg/m² or more in Glasgow; Counterweight-Plus programme (12-week 850 kcal/day total diet replacement, then food reintroduction and maintenance) against usual care, 1:1",
+  "funder": "The trial was sponsored and funded by an NHS Greater Glasgow and Clyde Endowment Fund; contributors to the funding had no input into design, conduct, analysis, interpretation or writing.",
+  "funderRole": "none",
+  "authorConflicts": "One author is an employee and shareholder of Counterweight Ltd, which provides the programme, delivered the intervention with others and contributed to data interpretation; another author is a medical advisor for Counterweight Ltd and has received fees from Novo Nordisk and Nestlé; others report fees from AstraZeneca, GSK and other companies.",
+  "dataAccess": "summary",
+  "result": "29 of 36 participants attended at 52 weeks (13 programme, 16 usual care). Median weight change was -14 kg (IQR -15 to -9) against 2 kg (-7 to 8). More participants reached the minimal clinically important improvement in AQLQ with the programme (71% against 6%), whereas ACQ-6 change did not differ between groups (mean difference 0.4, 95% CI -0.5 to 1.2). Median annual courses of high-dose oral corticosteroid fell from 4 to 0 within the programme group, without a between-group difference. Seventy percent of the programme group lost 10% of weight or more.",
+  "class": "industry",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11752128/"
+}

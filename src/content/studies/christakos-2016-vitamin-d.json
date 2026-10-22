@@ -1,0 +1,16 @@
+{
+  "title": "Vitamin D: Metabolism, Molecular Mechanism of Action, and Pleiotropic Effects",
+  "authors": "Christakos S, Dhawan P, Verstuyf A, Verlinden L, Carmeliet G",
+  "journal": "Physiological Reviews",
+  "year": 2016,
+  "doi": "10.1152/physrev.00014.2015",
+  "pmid": "26681795",
+  "design": "other",
+  "funder": "S. Christakos receives funding from National Institutes of Health Grants AG044552, AI100379, and DK38961-22. A. Verstuyf is funded by Fund for Scientific Research-Flanders (FWO) Grant G.OA17.14N and by KU Leuven Grant GOA/14/010. G. Carmeliet is funded by Grant FWO G.0573.13. No statement on the role of the funders was found.",
+  "funderRole": "unknown",
+  "authorConflicts": "No conflicts of interest, financial or otherwise, are declared by the authors.",
+  "dataAccess": "summary",
+  "result": "Review. In children with severe vitamin D deficiency, serum 25-hydroxyvitamin D is usually below 10 ng/ml, the threshold for control of intestinal calcium absorption; below it, serum 1,25-dihydroxyvitamin D and intestinal calcium absorption fall. Daily intake of 400 IU vitamin D3 is sufficient to prevent this type of rickets in children. Rickets and osteomalacia in humans and mice lacking VDR or CYP27B1 are rescued when calcium absorption is ensured. VDR functions as an obligate heterodimer with RXR. 1,25-Dihydroxyvitamin D3 increases the apical calcium channel TRPV6 and calbindin-D9k in the intestine and suppresses transcription of the PTH gene. The renal proximal tubule is the major site of 1,25-dihydroxyvitamin D3 synthesis by CYP27B1, which PTH upregulates and FGF23 and 1,25-dihydroxyvitamin D3 downregulate.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4839493/"
+}

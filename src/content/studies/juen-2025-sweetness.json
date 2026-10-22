@@ -1,0 +1,17 @@
+{
+  "title": "The structure of human sweetness",
+  "authors": "Juen Z, Lu Z, Yu R, Chang AN, Wang B, Fitzpatrick AWP, et al.",
+  "journal": "Cell",
+  "year": 2025,
+  "doi": "10.1016/j.cell.2025.04.021",
+  "pmid": "40339580",
+  "design": "in-vitro",
+  "population": "Human TAS1R2-TAS1R3 heterodimer expressed in Expi293F GnTI- cells and purified with a miniGs/gustducin G protein for cryo-electron microscopy; HEK293T cells for calcium-imaging assays of wild-type and mutant receptors",
+  "funder": "C.S.Z. is an investigator of the Howard Hughes Medical Institute. The early phase of this project was funded in part by a grant from the Berrie Foundation to Rudy Leibel and C.S.Z.",
+  "funderRole": "none",
+  "authorConflicts": "The authors declare no competing interests.",
+  "dataAccess": "summary",
+  "result": "Cryo-EM structures of the human sweet receptor, a TAS1R2-TAS1R3 heterodimer, bound to sucralose and to aspartame. Both sweeteners bind the same pocket in the Venus flytrap domain of TAS1R2; alanine substitutions of pocket residues (Y103, D142, S165) markedly reduced responses to sucralose in cell-based assays. TAS1R2 binds the ligand and couples to the G protein, and TAS1R3 is an obligatory partner of TAS1R2 for receptor function. The authors state that this single receptor mediates sweet taste in humans and other mammals.",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250704022040/https://www.cell.com/cell/fulltext/S0092-8674(25)00456-8"
+}

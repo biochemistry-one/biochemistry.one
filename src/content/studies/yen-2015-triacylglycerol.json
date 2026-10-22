@@ -1,0 +1,15 @@
+{
+  "title": "Intestinal triacylglycerol synthesis in fat absorption and systemic energy metabolism",
+  "authors": "Yen CE, Nelson DW, Yen MI",
+  "journal": "Journal of Lipid Research",
+  "year": 2015,
+  "doi": "10.1194/jlr.R052902",
+  "pmid": "25231105",
+  "design": "other",
+  "funder": "This work was funded by the National Institutes of Health Grant DK088210 and US Department of Agriculture Grant WIS01442.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Narrative review. Triacylglycerol forms the bulk of animal fats and plant oils and accounts for approximately 95% of dietary fat. Pancreatic lipase prefers sn-1 and sn-3 ester bonds and yields fatty acids and sn-2 monoacylglycerol. In enterocytes the monoacylglycerol pathway, with MGAT2 and DGAT1 in the endoplasmic reticulum, accounts for more than 75% of postprandial intestinal triacylglycerol synthesis; DGAT1 is the only DGAT detected in human intestine. Triacylglycerol forms the core of ApoB-containing chylomicrons, whose assembly requires MTP.",
+  "class": "independent",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4340298/"
+}

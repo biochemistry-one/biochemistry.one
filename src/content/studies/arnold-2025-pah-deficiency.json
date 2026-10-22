@@ -1,0 +1,16 @@
+{
+  "title": "Phenylalanine Hydroxylase Deficiency",
+  "authors": "Arnold G, Vockley J",
+  "journal": "GeneReviews, University of Washington, Seattle",
+  "year": 2025,
+  "pmid": "20301677",
+  "url": "https://www.ncbi.nlm.nih.gov/books/NBK1504/",
+  "design": "database",
+  "funder": "not stated in the chapter",
+  "funderRole": "unknown",
+  "authorConflicts": "not stated in the chapter",
+  "dataAccess": "summary",
+  "result": "Expert-authored, peer-reviewed chapter, first posted 2000, comprehensive update 13 March 2025, revised 20 November 2025. Autosomal recessive; biallelic PAH variants; PAH at 12q23.2. Phenylketonuria denotes untreated plasma phenylalanine above 1,000 umol/L; untreated or late-diagnosed disease causes irreversible intellectual disability, seizures and microcephaly. Defects of tetrahydrobiopterin synthesis or recycling (GCH1, PTS, QDPR, PCBD1) account for about 2% of raised blood phenylalanine. Newborn screening uses dried blood spots collected 24 to 72 hours after birth, with phenylalanine and tyrosine measured by tandem mass spectrometry; biochemical diagnosis requires blood phenylalanine above 120 umol/L and a phenylalanine-to-tyrosine ratio of 3 or more. Treatment: phenylalanine-restricted diet with phenylalanine-free protein supplements based on amino acids or glycomacropeptide; 25% to 50% respond to sapropterin, a synthetic form of tetrahydrobiopterin; pegvaliase, a PEGylated phenylalanine ammonia lyase given subcutaneously, is approved in the US for adults with phenylalanine above 600 umol/L. Aspartame is metabolised in the gut to phenylalanine and aspartate. Maternal phenylalanine consistently above 360 umol/L in pregnancy causes intellectual disability in more than 90% of offspring. The chapter attributes brain toxicity to phenylacetic, phenylpyruvic and phenyllactic acids and to tyrosine and neurotransmitter deficiency.",
+  "class": "reference",
+  "fundingChecked": "https://ftp.ncbi.nlm.nih.gov/pub/litarch/ca/84/gene_NBK1116.tar.gz"
+}

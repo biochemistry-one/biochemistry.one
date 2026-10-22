@@ -1,0 +1,20 @@
+{
+  "title": "Proton pump inhibitors alter specific taxa in the human gastrointestinal microbiome: a crossover trial",
+  "authors": "Freedberg DE, Toussaint NC, Chen SP, Ratner AJ, Whittier S, Wang TC, et al.",
+  "journal": "Gastroenterology",
+  "year": 2015,
+  "doi": "10.1053/j.gastro.2015.06.043",
+  "pmid": "26164495",
+  "registry": "NCT01901276",
+  "design": "other",
+  "participants": 12,
+  "followUp": "4 weeks baseline, 4 or 8 weeks of omeprazole",
+  "population": "Healthy volunteers in an open-label crossover trial, each serving as own control: 2 baseline faecal samples 4 weeks apart, then omeprazole 40 mg twice daily for 4 weeks (6 volunteers for 8 weeks)",
+  "funder": "DEF was funded by the National Center for Advancing Translational Sciences (NIH KL2 TR000081). HHW was funded by the NIH Director's Early Independence Award (1DP5OD009172-02) and the National Science Foundation CAREER Award (MCB-1453219). SPC was funded by the Columbia University's Medical Scientist Training Program. The funding agencies had no role in the study design; the collection, analysis, or interpretation of the data; the writing of the article; or the decision to submit it for publication.",
+  "funderRole": "none",
+  "authorConflicts": "No relevant conflicts to disclose.",
+  "dataAccess": "individual",
+  "result": "No significant within-individual change in microbiome diversity, but increases during PPI use in taxa associated with C. difficile infection (Enterococcaceae, Streptococcaceae) and with bacterial overgrowth (Micrococcaceae, Staphylococcaceae), a decrease in Clostridiales, unchanged faecal bile acids and an increase in bacterial invasion genes.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4584196/fullTextXML"
+}

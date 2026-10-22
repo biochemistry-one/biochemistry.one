@@ -1,0 +1,20 @@
+{
+  "title": "The effect of dietary emulsifiers and thickeners on intestinal barrier function and its response to acute stress in healthy adult humans: A randomised controlled feeding study",
+  "authors": "Fitzpatrick JA, Gibson PR, Taylor KM, Halmos EP",
+  "journal": "Alimentary Pharmacology & Therapeutics",
+  "year": 2024,
+  "doi": "10.1111/apt.18172",
+  "pmid": "39072856",
+  "registry": "ACTRN12619000980134",
+  "design": "rct",
+  "participants": 22,
+  "followUp": "28 days on each diet with at least 3 weeks of washout",
+  "population": "Healthy adults aged 18 to 60 years",
+  "funder": "JAF is a recipient of the Crohn's and Colitis Australia PhD Scholarship. EPH was supported through research grants from the National Health & Medical Research Council Investigator Grant and Crohn's & Colitis Foundation Litwin Pioneers Program. The study was supported by a grant from the Eva and Tom Breuer Foundation.",
+  "funderRole": "none",
+  "authorConflicts": "PRG and EPH declared consultancies, shareholdings, honoraria or research grants from companies including Atmo Biosciences, Mindset Health, Dr Falk Pharma, Ferring, Janssen, AbbVie and Takeda; the other authors declared none.",
+  "dataAccess": "individual",
+  "result": "Single-blinded cross-over feeding trial of high- against low-emulsifier diets, both with all food provided. Unstressed median 2 h urinary lactulose:rhamnose ratio 0.030 (IQR 0.018 to 0.042) on the high-emulsifier diet against 0.042 (0.029 to 0.078) on the low-emulsifier diet (P = 0.04), with lower lipopolysaccharide-binding protein (P = 0.026) and no difference in epithelial injury or inflammation markers. After intravenous corticotrophin-releasing hormone the ratio rose by 89% on the high-emulsifier diet (P = 0.004) and fell by 39% on the low-emulsifier diet (P = 0.009), the two differing (P = 0.001).",
+  "class": "independent",
+  "fundingChecked": "http://web.archive.org/web/20250614175555/https://onlinelibrary.wiley.com/doi/full/10.1111/apt.18172"
+}

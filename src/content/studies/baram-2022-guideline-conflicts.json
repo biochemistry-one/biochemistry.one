@@ -1,0 +1,16 @@
+{
+  "title": "Disclosure of funding sources and conflicts of interest in evidence underpinning vitamin D and calcium recommendations in bone health guidelines",
+  "authors": "Baram L, Dai Z, McDonald S, Bero LA",
+  "journal": "Public Health Nutrition",
+  "year": 2022,
+  "doi": "10.1017/S1368980022000246",
+  "pmid": "35067274",
+  "design": "cross-sectional",
+  "population": "156 articles cited to support vitamin D and calcium recommendations in 47 global bone health guidelines for adults aged 40 years or older, published 2009 to February 2019",
+  "funder": "This work was funded by Australian National Health and Medical Research Council project grant APP1139997 (Bero). The funding source played no role in the conceptualisation, design, analytical methods, data interpretation, reporting of the manuscript or publication decisions.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Of 156 cited articles, 120 (77%) disclosed a funding source and 43 (28%) declared at least one author conflict of interest; 49 (31%) had no conflict-of-interest declaration of any sort. Commercially funded articles tended to reach conclusions favourable to vitamin D or calcium more often than articles with non-commercial or no funding (RR 1.32, 95% CI 0.94 to 1.87; P=0.16). Articles with missing or unclear conflict-of-interest disclosure were more likely to have favourable conclusions than those with a disclosure statement (RR 1.56, 1.05 to 2.31; P=0.017).",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9991793/fullTextXML"
+}

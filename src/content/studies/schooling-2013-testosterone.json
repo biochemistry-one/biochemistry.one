@@ -1,0 +1,19 @@
+{
+  "title": "The effect of statins on testosterone in men and women, a systematic review and meta-analysis of randomized controlled trials",
+  "authors": "Schooling CM, Au Yeung SL, Freeman G, Cowling BJ",
+  "journal": "BMC Medicine",
+  "year": 2013,
+  "doi": "10.1186/1741-7015-11-57",
+  "pmid": "23448151",
+  "design": "meta-analysis",
+  "participants": 869,
+  "followUp": "trials of 2 weeks or more",
+  "population": "11 placebo-controlled randomised trials: 5 in 501 mainly middle-aged men with hypercholesterolaemia and 6 in 368 young women with polycystic ovary syndrome",
+  "funder": "not stated",
+  "funderRole": "unknown",
+  "authorConflicts": "One author has received research funding from MedImmune Inc. and consults for Crucell MV.",
+  "dataAccess": "summary",
+  "result": "Statins lowered testosterone by 0.66 nmol/L (95% CI 0.14 to 1.18) in men and by 0.40 nmol/L (0.05 to 0.75) in women with polycystic ovary syndrome; overall by 0.44 nmol/L (0.13 to 0.75). Most included trials were carried out by teams affiliated with or funded by pharmaceutical companies. The authors state that whether this is a detrimental side effect or a mode of action warrants investigation.",
+  "class": "undetermined",
+  "fundingChecked": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=3621815"
+}

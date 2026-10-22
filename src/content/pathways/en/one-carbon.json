@@ -1,0 +1,45 @@
+{
+  "title": "Folic acid reduction and the folate one-carbon cycle",
+  "layout": "chain",
+  "compartment": "Cytosol of hepatocytes and dividing cells",
+  "steps": [
+    {
+      "from": "Folic acid",
+      "to": "7,8-Dihydrofolate",
+      "enzyme": "Dihydrofolate reductase (DHFR)",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "Methotrexate"}],
+      "note": "Slow and variable in human liver; reduced food folates bypass this step"
+    },
+    {
+      "from": "7,8-Dihydrofolate",
+      "to": "Tetrahydrofolate",
+      "enzyme": "Dihydrofolate reductase (DHFR)",
+      "cofactors": ["NADPH"],
+      "inhibitors": [{"name": "Methotrexate"}],
+      "note": "Also reduces the dihydrofolate released by thymidylate synthase (TYMS)"
+    },
+    {
+      "from": "Tetrahydrofolate",
+      "to": "5,10-Methylenetetrahydrofolate",
+      "enzyme": "Serine hydroxymethyltransferase (SHMT1 cytosolic, SHMT2 mitochondrial)",
+      "cofactors": ["Serine to glycine", "Pyridoxal 5′-phosphate"],
+      "reversible": true,
+      "note": "Branch: TYMS transfers this carbon to dUMP, forming dTMP for DNA"
+    },
+    {
+      "from": "5,10-Methylenetetrahydrofolate",
+      "to": "5-Methyltetrahydrofolate",
+      "enzyme": "Methylenetetrahydrofolate reductase (MTHFR)",
+      "cofactors": ["NADPH", "FAD"],
+      "note": "Irreversible in vivo; inhibited by SAM; the 677C>T variant lowers activity"
+    },
+    {
+      "from": "5-Methyltetrahydrofolate",
+      "to": "Tetrahydrofolate",
+      "enzyme": "Methionine synthase (MTR)",
+      "cofactors": ["Methylcobalamin", "Homocysteine to methionine"],
+      "note": "Vitamin B12 deficiency slows this step and traps folate as 5-methyl-THF"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Cholesterol-lowering effects of dietary fiber: a meta-analysis",
+  "authors": "Brown L, Rosner B, Willett WW, Sacks FM",
+  "journal": "The American Journal of Clinical Nutrition",
+  "year": 1999,
+  "doi": "10.1093/ajcn/69.1.30",
+  "pmid": "9925120",
+  "design": "meta-analysis",
+  "participants": 2990,
+  "followUp": "mean treatment 49 days (14 to 168); pectin trials mean 34 days (28 to 42)",
+  "population": "67 controlled trials in adults of oat products (25), psyllium (17), pectin (7) and guar gum (18), published 1966 to June 1996",
+  "funder": "not stated. The article gives affiliations (Harvard School of Public Health; Channing Laboratory, Brigham and Women's Hospital and Harvard Medical School) and thanks four individuals; it carries no funding statement. PubMed lists no grant support.",
+  "funderRole": "unknown",
+  "inKindSupport": "One unpublished trial (Beling et al, 1991) was provided by Quaker Oats, Chicago.",
+  "dataAccess": "summary",
+  "result": "Soluble fibre at 2-10 g/day was associated with total cholesterol -0.045 mmol/L per g (95% CI -0.054 to -0.035) and LDL cholesterol -0.057 mmol/L per g (-0.070 to -0.044); the effects of soluble fibre from oat, psyllium or pectin were not significantly different; triacylglycerols and HDL cholesterol were not significantly influenced. Pectin: 7 trials, 277 subjects, mean dose 4.7 g/day (2.2 to 9.0), mean 34 days; total cholesterol -0.070 mmol/L per g (-0.117 to -0.022); LDL cholesterol, 4 trials and 117 subjects, -0.055 mmol/L per g (-0.087 to -0.022).",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20170625021959/http://ajcn.nutrition.org/content/69/1/30.full.pdf"
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Hepatic fructose metabolism and de novo lipogenesis",
+  "layout": "chain",
+  "compartment": "Hepatocyte cytosol; pyruvate dehydrogenase in mitochondria",
+  "steps": [
+    {
+      "from": "Fructose",
+      "to": "Fructose 1-phosphate",
+      "enzyme": "Ketohexokinase C (KHK)",
+      "cofactors": ["ATP to ADP"],
+      "note": "Km 0.8 mM; not restrained by cellular energy status"
+    },
+    {
+      "from": "Fructose 1-phosphate",
+      "to": "Dihydroxyacetone phosphate + glyceraldehyde",
+      "enzyme": "Aldolase B (ALDOB)",
+      "reversible": true,
+      "note": "Deficient in hereditary fructose intolerance"
+    },
+    {
+      "from": "Dihydroxyacetone phosphate + glyceraldehyde",
+      "to": "Dihydroxyacetone phosphate + glyceraldehyde 3-phosphate",
+      "enzyme": "Triokinase and FMN cyclase (TKFC)",
+      "cofactors": ["ATP to ADP"],
+      "note": "Triose phosphates enter glycolysis below phosphofructokinase-1"
+    },
+    {
+      "from": "Dihydroxyacetone phosphate + glyceraldehyde 3-phosphate",
+      "to": "Pyruvate",
+      "enzyme": "several steps",
+      "cofactors": ["NAD+ to NADH", "ADP to ATP"],
+      "note": "Triose phosphates also yield glucose, glycogen, lactate and glycerol"
+    },
+    {
+      "from": "Pyruvate",
+      "to": "Acetyl-CoA",
+      "enzyme": "Pyruvate dehydrogenase complex, mitochondrial",
+      "cofactors": ["CoA", "NAD+ to NADH"],
+      "note": "Releases CO2"
+    },
+    {
+      "from": "Acetyl-CoA",
+      "to": "Malonyl-CoA",
+      "enzyme": "Acetyl-CoA carboxylase 1 (ACACA)",
+      "cofactors": ["ATP", "HCO3−", "Biotin"],
+      "note": "Acetyl-CoA reaches the cytosol as citrate (ACLY); malonyl-CoA inhibits CPT1A"
+    },
+    {
+      "from": "Malonyl-CoA",
+      "to": "Palmitate",
+      "enzyme": "Fatty acid synthase (FASN)",
+      "cofactors": ["Acetyl-CoA", "14 NADPH"],
+      "note": "Seven malonyl-CoA per palmitate; ChREBP and SREBP-1c induce the enzymes"
+    }
+  ]
+}

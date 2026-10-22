@@ -1,0 +1,19 @@
+{
+  "title": "Pectin delays gastric emptying and increases satiety in obese subjects",
+  "authors": "Di Lorenzo C, Williams CM, Hajnal F, Valenzuela JE",
+  "journal": "Gastroenterology",
+  "year": 1988,
+  "doi": "10.1016/0016-5085(88)90352-6",
+  "pmid": "3169489",
+  "design": "rct",
+  "participants": 9,
+  "followUp": "two test days at least 48 h apart",
+  "population": "Obese adults, 8 women and 1 man, mean body mass index 45.1, mean age 42.3 years, Los Angeles County-University of Southern California Medical Center",
+  "funder": "not stated. The article gives affiliations and thanks two individuals for manuscript preparation; it carries no funding statement. PubMed lists no grant support.",
+  "funderRole": "unknown",
+  "inKindSupport": "Highly purified human pancreatic polypeptide standard was a gift of Dr R. Chance.",
+  "dataAccess": "summary",
+  "result": "Randomised double-blind crossover: 15 g pectin or 15 g methylcellulose added to a 250 kcal egg sandwich. Gastric half-emptying time 116.1 ± 23.1 min with pectin against 70.7 ± 17.3 min with methylcellulose (mean ± SEM, p < 0.001); residue at 120 min 49.6 ± 8.1% against 25.7 ± 9.5%. Satiety score 97.8 ± 6.8 against 74.4 ± 16.7 (p < 0.001); time to next meal 10.6 ± 5.1 h against 6 ± 2.5 h (p < 0.05). Postprandial cholecystokinin and pancreatic polypeptide did not differ.",
+  "class": "undetermined",
+  "fundingChecked": "http://web.archive.org/web/20160414015156/http://www.gastrojournal.org/article/0016-5085(88)90352-6/pdf"
+}

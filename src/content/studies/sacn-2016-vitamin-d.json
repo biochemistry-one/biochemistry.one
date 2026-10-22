@@ -1,0 +1,15 @@
+{
+  "title": "Vitamin D and Health",
+  "authors": "Scientific Advisory Committee on Nutrition",
+  "journal": "Public Health England, London; published 21 July 2016",
+  "year": 2016,
+  "url": "https://assets.publishing.service.gov.uk/media/5a804e36ed915d74e622dafa/SACN_Vitamin_D_and_Health_report.pdf",
+  "design": "guideline",
+  "funder": "UK Government advisory committee; report published by Public Health England.",
+  "funderRole": "unknown",
+  "authorConflicts": "Declarations of interest of committee members are not reproduced in the report; not read.",
+  "dataAccess": "summary",
+  "result": "Risk of poor musculoskeletal health (rickets, osteomalacia, falls, muscle strength and function) appeared increased below serum 25-hydroxyvitamin D of about 20 to 30 nmol/L; a specific threshold could not be identified because assay methods differ, so the existing threshold of 25 nmol/L was retained as a 'population protective level', which is not a clinical threshold diagnostic of disease. The sunlight exposure needed in summer to keep winter 25-hydroxyvitamin D at or above 25 nmol/L could not be quantified. A reference nutrient intake of 10 µg (400 IU) per day throughout the year was set for everyone aged 4 years and older, estimated from winter trials to keep 97.5% of the population at or above 25 nmol/L; a safe intake of 8.5 to 10 µg/day for infants. UK data: 22 to 24% of adults aged 19 to 64 years below 25 nmol/L; nearly 40% of institutionalised adults; 30 to 40% of the population in winter against 2 to 13% in summer.",
+  "class": "consensus",
+  "fundingChecked": "https://assets.publishing.service.gov.uk/media/5a804e36ed915d74e622dafa/SACN_Vitamin_D_and_Health_report.pdf"
+}

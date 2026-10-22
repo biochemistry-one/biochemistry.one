@@ -1,0 +1,21 @@
+{
+  "title": "Supplemental Vitamin D and Incident Fractures in Midlife and Older Adults",
+  "authors": "LeBoff MS, Chou SH, Ratliff KA, Cook NR, Khurana B, Kim E, et al.",
+  "journal": "New England Journal of Medicine",
+  "year": 2022,
+  "doi": "10.1056/NEJMoa2202106",
+  "pmid": "35939577",
+  "registry": "NCT01704859",
+  "design": "rct",
+  "participants": 25871,
+  "followUp": "median 5.3 years",
+  "population": "US men aged 50 years or older and women aged 55 years or older in VITAL, not selected for vitamin D deficiency, low bone mass or osteoporosis; 5106 Black participants",
+  "funder": "Grants R01 AR060574, R01 AR070854 and R01 AR059775 from the National Institute of Arthritis and Musculoskeletal and Skin Diseases. The VITAL parent trial is supported by grants U01 CA138962, R01 CA138962 and R01 AT011729 from the National Cancer Institute, the National Heart, Lung, and Blood Institute, the Office of Dietary Supplements, the National Institute of Neurological Disorders and Stroke and the National Center for Complementary and Integrative Health. The study was designed by the first and last authors, and the manuscript was written by the first author.",
+  "funderRole": "none",
+  "inKindSupport": "Quest Diagnostics measured serum 25-hydroxyvitamin D; the paper names Omacor (Pronova BioPharma and BASF) as the n-3 fatty acid agent. The VITAL parent publication records the study agents as donated by Pharmavite, Pronova BioPharma and BASF.",
+  "authorConflicts": "Disclosure forms available with the full text at NEJM.org; not read.",
+  "dataAccess": "individual",
+  "result": "Vitamin D3 2000 IU per day versus placebo: first fracture in 769 of 12,927 versus 782 of 12,944 participants (HR 0.98, 95% CI 0.89 to 1.08); nonvertebral HR 0.97 (0.87 to 1.07); hip HR 1.01 (0.70 to 1.47); median 5.3 years. In a post hoc analysis, 401 participants with baseline 25-hydroxyvitamin D below 12 ng/ml showed no benefit. The introduction states that other societies or foundations recommend at least 800 to 2000 IU per day for adults aged 50 years or older to attain 25-hydroxyvitamin D of at least 30 ng/ml.",
+  "class": "independent",
+  "fundingChecked": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9716639/"
+}

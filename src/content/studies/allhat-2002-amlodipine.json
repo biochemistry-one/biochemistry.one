@@ -1,0 +1,20 @@
+{
+  "title": "Major outcomes in high-risk hypertensive patients randomized to angiotensin-converting enzyme inhibitor or calcium channel blocker vs diuretic: The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT)",
+  "authors": "ALLHAT Officers and Coordinators for the ALLHAT Collaborative Research Group",
+  "journal": "JAMA",
+  "year": 2002,
+  "doi": "10.1001/jama.288.23.2981",
+  "pmid": "12479763",
+  "registry": "NCT00000542",
+  "design": "rct",
+  "participants": 33357,
+  "followUp": "mean 4.9 years; outcome rates reported at 6 years",
+  "population": "Adults aged 55 years or older with hypertension and at least one further coronary risk factor, at 623 centres in North America",
+  "funder": "The article-information section of the JAMA report is not accessible: the publisher page returns HTTP 403 and the archived copy omits that section. An ALLHAT publication in the Journal of the American Heart Association states the trial funding: the ALLHAT study was supported by the National Heart, Lung, and Blood Institute (NO1-HC-35130); ALLHAT investigators received contributions of study medications supplied by Pfizer (amlodipine and doxazosin), AstraZeneca (atenolol and lisinopril) and Bristol-Myers Squibb (pravastatin) and financial support provided by Pfizer. Partial industry funding sets the class to industry; whether Pfizer had any role in design, analysis or publication is not stated in a readable source.",
+  "funderRole": "unknown",
+  "inKindSupport": "Study medications supplied by Pfizer (amlodipine and doxazosin), AstraZeneca (atenolol and lisinopril) and Bristol-Myers Squibb (pravastatin).",
+  "dataAccess": "individual",
+  "result": "Chlorthalidone 12.5 to 25 mg/day (n=15,255), amlodipine 2.5 to 10 mg/day (n=9048) or lisinopril 10 to 40 mg/day (n=9054), double-blind. Six-year rates, amlodipine against chlorthalidone: fatal coronary heart disease or non-fatal myocardial infarction, the primary outcome, 11.3% against 11.5% (relative risk 0.98, 95% CI 0.90 to 1.07); heart failure 10.2% against 7.7% (1.38, 1.25 to 1.52). All-cause mortality did not differ between the groups. Secondary outcomes other than heart failure were similar. Five-year systolic blood pressure was 0.8 mm Hg higher with amlodipine (p=0.03) and five-year diastolic blood pressure 0.8 mm Hg lower (p<0.001). The primary outcome occurred in 2956 of all 33,357 participants, with no difference between treatments.",
+  "class": "industry",
+  "fundingChecked": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6507192/"
+}

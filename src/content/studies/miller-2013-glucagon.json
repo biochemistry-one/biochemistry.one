@@ -1,0 +1,16 @@
+{
+  "title": "Biguanides suppress hepatic glucagon signalling by decreasing production of cyclic AMP",
+  "authors": "Miller RA, Chu Q, Xie J, Foretz M, Viollet B, Birnbaum MJ",
+  "journal": "Nature",
+  "year": 2013,
+  "doi": "10.1038/nature11808",
+  "pmid": "23292513",
+  "design": "animal",
+  "population": "Primary mouse hepatocytes, including hepatocytes with both AMPK catalytic subunits deleted, and fasted wild-type and high-fat-diet mice given oral metformin",
+  "funder": "This work was supported by NIH grants RO1 DK56886, PO1 DK49210 and F32 DK079572, the Association pour l'Etude des Diabetes et des Maladies Metaboliques, the Programme National de Recherche sur le Diabete and the Institut Benjamin Delessert, with core facilities supported by NIH grant P30 DK19525.",
+  "funderRole": "none",
+  "dataAccess": "summary",
+  "result": "Phenformin inhibited glucagon-stimulated cyclic AMP accumulation in primary hepatocytes with a half-maximal inhibitory concentration of about 150 micromolar acutely, and at 10 micromolar or more after 24 hours of exposure; metformin inhibited it at 125 micromolar or more, which the authors describe as slightly above serum levels in patients but probably similar to concentrations accumulated in liver. Biguanides raised AMP, which inhibited glucagon-stimulated adenylyl cyclase activity directly at the enzyme's P site, lowered protein kinase A activity and blocked phosphorylation of its substrates PFKFB1, CREB and the inositol trisphosphate receptor, so blocking glucagon-dependent but not cAMP-analogue-dependent glucose output. The effect on cyclic AMP was unchanged in hepatocytes lacking any detectable AMPK activity and persisted when phosphodiesterases were inhibited, so it is independent of AMPK and of cAMP degradation. In hepatocytes AMP rose from 215 micromolar to over 1 mmolar with phenformin; in mouse liver AMP was 2.3 mmolar and rose to 2.9 mmolar with metformin, values the authors call seemingly unphysiologically high. Oral metformin at 250 mg/kg lowered blood glucose in fasted mice, raised hepatic AMP and abrogated the glucagon-dependent rise in hepatic cyclic AMP, protein kinase A activity and substrate phosphorylation.",
+  "class": "independent",
+  "fundingChecked": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3573218/fullTextXML"
+}
