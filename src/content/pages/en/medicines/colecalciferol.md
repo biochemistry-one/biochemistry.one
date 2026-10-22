@@ -19,7 +19,7 @@ Colecalciferol is vitamin D3, prescribed to prevent and treat vitamin D deficien
 | Irreversible kidney damage; soft-tissue calcification | Not quantified | Chronic overdose; impaired kidney function | [@mhra-2026-fultium-d3; @mhra-2016-invita-d3] |
 | Urinary tract stones | 449 of 18,176 against 381 of 18,106 over 7 years (HR 1.17, 1.02 to 1.34) | Postmenopausal women taking calcium | [@wallace-2011-urinary-stones] |
 | Falls and fractures | 500,000 IU yearly: falls 83.4 against 72.7, fractures 4.9 against 3.9 per 100 person-years (2256 women); 100,000 IU monthly against a standard dose: falls 1.47 against 0.63 per person-year (107 residents) | Women 70 or older; care residents | [@sanders-2010-annual-vitamin-d; @ginde-2017-long-term-care] |
-| Serious falls; falls with hospitalisation | 7.6 against 4.1 and 5.4 against 2.0 per 100 person-years on 1000 against 200 IU daily (647 people); at 2000 IU, hospitalisation or death 33.6 against 12.1, arm stopped | 70 or older, raised fall risk | [@appel-2021-sturdy] |
+| Serious falls; falls with hospitalisation | 7.5 against 4.1 and 4.8 against 2.0 per 100 person-years, pooled 1000 to 4000 against 200 IU daily (688 people); at 2000 IU, hospitalisation or death 33.6 against 12.1, arm stopped | 70 or older, raised fall risk | [@appel-2021-sturdy] |
 | Infantile hypercalcaemia with nephrocalcinosis | Estimated 1 in 32,465 births in Poland (*CYP24A1* form) | Biallelic *CYP24A1* or *SLC34A1* loss | [@pronicka-2017-cyp24a1] |
 | Infant overdose with coma, arrhythmia, permanent kidney impairment | Not quantified | Oversized droppers | [@fda-2010-liquid-vitamin-d] |
 | Anaphylaxis; angio-oedema | Not quantified | Peanut or soya allergy (imported capsules); otherwise not stated | [@mhra-2012-imported-vitamin-d-allergens; @mhra-2026-fultium-d3] |
@@ -77,7 +77,7 @@ Of those tested in VITAL, 12.7% had 25(OH)D below 20 ng/mL; in ViDA, 24.9% [@man
 |---|---|---|
 | Older adults, with calcium | Hip fracture 1 fewer per 1000 a year in the community (from 8), 9 fewer in institutions (from 54) [@avenell-2014-fractures] | Stones or kidney insufficiency 9 against 8 per 10,000 a year [@avenell-2014-fractures] |
 | Adults 50 or older, 2000 IU daily, 5.3 years (25,871) | Cancer 793 against 824; fracture 769 against 782 [@manson-2019-vital; @leboff-2022-vital-fractures] | Hypercalcaemia and stones not significantly increased [@manson-2019-vital] |
-| 25 trials, ages 0 to 95 (10,933) | Respiratory infection NNT 33; NNT 4 below 25 nmol/L with daily or weekly doses [@martineau-2017-respiratory] | Hypercalcaemia 21 of 3850, evenly distributed [@martineau-2017-respiratory] |
+| 25 trials, ages 0 to 95 (11,321) | Respiratory infection NNT 33; NNT 4 below 25 nmol/L with daily or weekly doses [@martineau-2017-respiratory] | Hypercalcaemia 21 of 3850, evenly distributed [@martineau-2017-respiratory] |
 
 :::consensus
 USPSTF (2018) judged the stone harm small and recommends against 400 IU or less with 1000 mg calcium or less for primary fracture prevention after menopause [@uspstf-2018-fractures].
