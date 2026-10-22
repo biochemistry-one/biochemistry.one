@@ -77,7 +77,7 @@ Of those tested in VITAL, 12.7% had 25(OH)D below 20 ng/mL; in ViDA, 24.9% [@man
 |---|---|---|
 | Older adults, with calcium | Hip fracture 1 fewer per 1000 a year in the community (from 8), 9 fewer in institutions (from 54) [@avenell-2014-fractures] | Stones or kidney insufficiency 9 against 8 per 10,000 a year [@avenell-2014-fractures] |
 | Adults 50 or older, 2000 IU daily, 5.3 years (25,871) | Cancer 793 against 824; fracture 769 against 782 [@manson-2019-vital; @leboff-2022-vital-fractures] | Hypercalcaemia and stones not significantly increased [@manson-2019-vital] |
-| 25 trials, ages 0 to 95 (11,321) | Respiratory infection NNT 33; NNT 4 below 25 nmol/L with daily or weekly doses [@martineau-2017-respiratory] | Hypercalcaemia 21 of 3850, evenly distributed [@martineau-2017-respiratory] |
+| 25 trials, ages 0 to 95; data for 10,933 of 11,321 | Respiratory infection NNT 33; NNT 4 below 25 nmol/L with daily or weekly doses [@martineau-2017-respiratory] | Hypercalcaemia 21 of 3850, evenly distributed [@martineau-2017-respiratory] |
 
 :::consensus
 USPSTF (2018) judged the stone harm small and recommends against 400 IU or less with 1000 mg calcium or less for primary fracture prevention after menopause [@uspstf-2018-fractures].

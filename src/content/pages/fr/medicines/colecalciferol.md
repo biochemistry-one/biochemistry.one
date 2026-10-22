@@ -77,7 +77,7 @@ Parmi les participants dont la 25(OH)D a été dosée, 12,7&nbsp;% avaient une c
 |---|---|---|
 | Adultes âgés, avec du calcium | Fractures de la hanche : 1 de moins pour 1000 personnes par an à domicile (sur 8), 9 de moins en établissement (sur 54) [@avenell-2014-fractures] | Calculs ou insuffisance rénale 9 contre 8 pour 10&nbsp;000 personnes par an [@avenell-2014-fractures] |
 | Adultes de 50 ans ou plus, 2000 UI par jour, 5,3 ans (25&nbsp;871) | Cancers 793 contre 824 ; fractures 769 contre 782 [@manson-2019-vital; @leboff-2022-vital-fractures] | Hypercalcémie et calculs sans augmentation significative [@manson-2019-vital] |
-| 25 essais, de 0 à 95 ans (11&nbsp;321) | Infections respiratoires, nombre de sujets à traiter 33 ; 4 en dessous de 25 nmol/L avec des doses quotidiennes ou hebdomadaires [@martineau-2017-respiratory] | Hypercalcémie chez 21 participants sur 3850, répartition équilibrée entre les groupes [@martineau-2017-respiratory] |
+| 25 essais, de 0 à 95 ans ; données de 10&nbsp;933 sur 11&nbsp;321 | Infections respiratoires, nombre de sujets à traiter 33 ; 4 en dessous de 25 nmol/L avec des doses quotidiennes ou hebdomadaires [@martineau-2017-respiratory] | Hypercalcémie chez 21 participants sur 3850, répartition équilibrée entre les groupes [@martineau-2017-respiratory] |
 
 :::consensus
 En 2018, le groupe de travail américain sur les services préventifs (USPSTF) a jugé faible le risque de calculs et recommande de ne pas administrer 400 UI de vitamine D ou moins avec 1000 mg de calcium ou moins en prévention primaire des fractures après la ménopause [@uspstf-2018-fractures].

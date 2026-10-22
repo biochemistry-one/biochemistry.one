@@ -77,7 +77,7 @@ Entre los participantes a los que se midió la 25(OH)D en VITAL, el 12,7&nbsp;% 
 |---|---|---|
 | Personas mayores, junto con calcio | Fractura de cadera: 1 menos por cada 1000 personas al año en el domicilio (de 8 estimadas) y 9 menos en residencias (de 54) [@avenell-2014-fractures] | Cálculos o insuficiencia renal: 9 frente a 8 por cada 10&nbsp;000 personas al año [@avenell-2014-fractures] |
 | Adultos de 50 años o más, 2000 UI diarias, 5,3 años (25&nbsp;871) | Cáncer 793 frente a 824 casos; fracturas 769 frente a 782 [@manson-2019-vital; @leboff-2022-vital-fractures] | La hipercalcemia y los cálculos no aumentaron de forma significativa [@manson-2019-vital] |
-| 25 ensayos, de 0 a 95 años (11&nbsp;321) | Infección respiratoria: número necesario a tratar 33; con dosis diarias o semanales y una concentración inferior a 25 nmol/L, 4 [@martineau-2017-respiratory] | Hipercalcemia en 21 de 3850, repartida por igual entre los grupos [@martineau-2017-respiratory] |
+| 25 ensayos, de 0 a 95 años; datos de 10&nbsp;933 de 11&nbsp;321 | Infección respiratoria: número necesario a tratar 33; con dosis diarias o semanales y una concentración inferior a 25 nmol/L, 4 [@martineau-2017-respiratory] | Hipercalcemia en 21 de 3850, repartida por igual entre los grupos [@martineau-2017-respiratory] |
 
 :::consensus
 El Grupo de Trabajo de Servicios Preventivos de Estados Unidos (USPSTF) consideró en 2018 que el daño por cálculos es pequeño y recomienda no tomar 400 UI o menos de vitamina D con 1000 mg o menos de calcio para la prevención primaria de fracturas después de la menopausia [@uspstf-2018-fractures].

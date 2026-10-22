@@ -77,7 +77,7 @@ Von den in VITAL untersuchten Teilnehmenden hatten 12,7 % ein 25(OH)D unter 20 n
 |---|---|---|
 | Ältere Erwachsene, zusammen mit Calcium | Hüftfrakturen zu Hause 1 weniger je 1000 Personen und Jahr (von 8), in Pflegeeinrichtungen 9 weniger (von 54) [@avenell-2014-fractures] | Steine oder Niereninsuffizienz 9 gegenüber 8 je 10.000 Personen und Jahr [@avenell-2014-fractures] |
 | Erwachsene ab 50 Jahren, täglich 2000 IU, 5,3 Jahre (25.871) | Krebs 793 gegenüber 824; Frakturen 769 gegenüber 782 [@manson-2019-vital; @leboff-2022-vital-fractures] | Hyperkalzämie und Steine nicht signifikant häufiger [@manson-2019-vital] |
-| 25 Studien, Alter 0 bis 95 Jahre (11.321) | Atemwegsinfektionen Number needed to treat 33; unter 25 nmol/L bei täglicher oder wöchentlicher Gabe 4 [@martineau-2017-respiratory] | Hyperkalzämie bei 21 von 3850, gleichmäßig auf die Gruppen verteilt [@martineau-2017-respiratory] |
+| 25 Studien, Alter 0 bis 95 Jahre; Daten von 10.933 der 11.321 | Atemwegsinfektionen Number needed to treat 33; unter 25 nmol/L bei täglicher oder wöchentlicher Gabe 4 [@martineau-2017-respiratory] | Hyperkalzämie bei 21 von 3850, gleichmäßig auf die Gruppen verteilt [@martineau-2017-respiratory] |
 
 :::consensus
 Die US Preventive Services Task Force (USPSTF) beurteilte 2018 den Schaden durch Steine als gering und empfiehlt, zur primären Frakturprävention nach der Menopause nicht täglich 400 IU Vitamin D oder weniger zusammen mit 1000 mg Calcium oder weniger einzunehmen [@uspstf-2018-fractures].
